@@ -297,6 +297,13 @@ Pruebas piloto, soporte técnico personalizado y mejoras constantes basadas en e
 Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operativas y aumentar la eficiencia."
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+**Creemos que** permitir a las empresas textiles monitorear de manera constante el rendimiento de sus máquinas mediante dispositivos IoT y una plataforma web aumentará la eficiencia y reducirá los tiempos de inactividad.  
+**Sabremos que** esto es cierto  
+**Cuando veamos** que las empresas reduzcan en al menos un 10% el tiempo promedio de inactividad de sus máquinas, y nos proporcionan comentarios positivos sobre la mejora en la planificación de mantenimiento.
+
+**Creemos que** ofrecer una plataforma como DyeTex para monitoreo y control de maquinaria atraerá a pequeñas y medianas empresas textiles interesadas en digitalizar sus procesos productivos.  
+**Sabremos que** estamos en el camino correcto  
+**Cuando veamos** interés en forma de registros para demos, solicitudes de información o preórdenes por parte de al menos 5 empresas textiles dentro del primer mes de lanzamiento.
 
 #### 1.2.2.4. Lean UX Canvas
 
