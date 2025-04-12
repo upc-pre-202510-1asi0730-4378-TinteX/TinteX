@@ -162,20 +162,139 @@
 ## Capítulo I: Introducción 
 
 ### 1.1. Startup Profile
+Somos un equipo de estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) comprometidos en desarrollar una solución diferente cuyo objetivo principal sea ayudar a las empresas textiles a mejorar la eficacidad y productividad de sus máquinas, así como también a proveedores de soluciones tecnológicas para la industria textil. 
 
 #### 1.1.1. Descripción de la Startup
+Nuestra aplicación web, DyeTex, está diseñada para optimizar la productividad y eficiencia de las máquinas textiles mediante el control inteligente con dispositivos IoT. DyeTex ofrece una solución innovadora que permite a las empresas textiles monitorear y gestionar el rendimiento de sus máquinas en tiempo real, obteniendo los datos necesarios que permitirán tomar mejores decisiones, mejorar los procesos de producción y llevar un mejor control del mantenimiento. La plataforma, basada en un modelo de suscripción, proporciona una interfaz intuitiva y herramientas precisas para facilitar el manejo de la maquinaria, asegurando un aumento en la eficiencia operativa y una reducción en los tiempos de inactividad.
+Misión: Proporcionar a las empresas textiles una solución eficiente que permita optimizar el rendimiento de sus máquinas mediante un monitoreo en tiempo real, incrementando así su productividad y reduciendo tiempos de inactividad mediante un aviso de mantenimiento oportuno.
+Visión: Convertirnos en la plataforma líder para la industria textil, ofreciendo una solución adecuada que transforme la gestión de la maquinaria y el proceso de producción, contribuyendo al crecimiento industrial y la competitividad de las empresas textiles.
+
 
 #### 1.1.2. Perfiles de Integrantes del Equipo
 
 #### 1.2. Solution Profile
+DyeTex es una plataforma web que permite a las empresas textiles optimizar el rendimiento de sus máquinas mediante un monitoreo en tiempo real a través de dispositivos IoT. La aplicación ofrece una solución inteligente que permite a los usuarios gestionar el desempeño de sus máquinas, identificar posibles fallos y recibir notificaciones de mantenimiento oportuno, lo que contribuye a una mayor productividad y menor tiempo de inactividad. DyeTex adapta sus funcionalidades a las necesidades específicas de cada empresa, proporcionando herramientas de análisis que permiten tomar decisiones informadas para mejorar la eficiencia operativa y el control de los procesos de producción.
+Con un modelo de suscripción, DyeTex ofrece distintas opciones que se ajustan a las necesidades de las empresas textiles, brindando una versión básica con funcionalidades clave de monitoreo y una versión premium que incluye análisis avanzados, reportes detallados. DyeTex se posiciona como la solución ideal para aquellas empresas que buscan integrar tecnología de vanguardia en la gestión de su maquinaria y mejorar la competitividad en la industria textil.
 
 #### 1.2.1. Antecedentes y problemática
+En un escenario en el que la eficiencia y el control sobre los procesos manufactureros se convierten en un factor crucial para mantener la competitividad, en especial en la industria textil, la maquinaria necesita sistemas más sofisticados. La mayoría de las fábricas textiles todavía trabajan con maquinarias no conectadas o procesos manuales poco no muy rentables, lo que deriva en grandes pérdidas económicas por tiempo no utilizado, mantenimiento no considerado y escasa capacidad de producción. La transformación digital en este sector aún es limitada, lo que abre una gran oportunidad para soluciones como DyeTex.
 
+**Who:**
+DyeTex se encuentra dirigido a empresas textiles con la necesidad de incrementar el rendimiento de su maquinaria mediante una tecnología IoT, a proveedores de solución tecnológica con interés de proveer herramientas de monitoreo y gestión de datos para el sector textil. Asimismo, el usuario objetivo incluye operarios y personal técnico con la necesidad de tener una visión sobre el estado y funcionamiento de las máquinas. 
+
+**What:**
+El problema radica primordialmente en la ausencia de una solución especializada y accesible para supervisar el funcionamiento de maquinaria textil en tiempo real debido a que no permite optimizar los procesos, predecir fallas y tomar decisiones en base a datos. En esas circunstancias, muchas fábricas tienen muy poca visibilidad sobre cuán eficiente es su máquina y no tienen una alerta para evitar el tiempo de inactividad.
+
+**Where:**
+Este problema se presenta tanto en pequeñas como grandes empresas textiles, sobre todo en las área en las cuales la automatización es aún baja, siendo los procesos manuales o no tan conectados. DyeTex busca ser una solución que puede ser adaptado en varios tipos de proceso, que van desde los talleres pequeños hasta las empresas más grande.
+
+**When:**
+La necesidad de soluciones como DyeTex es especialmente crítica en el contexto actual de competitividad global, inflación de costos y exigencia de entregas más rápidas y eficientes. Además, con el avance del Internet de las Cosas (IoT), el momento es ideal para introducir soluciones de monitoreo industrial inteligente.
+
+**Why:**
+La razón más importante por la que DyeTex es necesario para la industria textil es que el sector necesita optimizar sus operaciones ahora mismo a través de datos en tiempo real, mantenimiento predictivo y dispositivos de control remoto. No solo hace que sus operaciones sean más eficientes sino que también reduce los costos y mejora la calidad de su producto final. 
+
+**How:** 
+La solución propuesta es abordada por DyeTex, una aplicación web que se integra con los sensores IoT, instalados directamente a la maquinaria. Estos dispositivos recopilarán datos sobre el estado, rendimiento, alertas y mantenimiento requerido, mostrados al operador en una interfaz concisa y fácil de entender, de modo que las decisiones técnicas y operacionales puedan ser tomadas rápidamente.
+
+**How much:** 
+En esta solución, el costo inicial es fácilmente implementable, ya que la instalación y la adquisición tiene un costo inicial bajo. Los periodos de inactividad son disminuidos, los plazos de entrega se acortan y aumenta la productividad. Su modelo de suscripción permite escalar la solución según las necesidades del cliente, haciendo viable su adopción tanto por empresas pequeñas como grandes.
 #### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
+Actualmente, muchas empresas textiles no logran mantener un control constante ni efectivo del rendimiento de sus máquinas, lo cual afecta directamente su productividad y eficiencia. Esto genera tiempos de inactividad, procesos poco optimizados, mantenimiento reactivo y una baja visibilidad del funcionamiento real de su maquinaria, ocasionando pérdidas económicas y falta de competitividad.
+
+¿Cómo podemos ayudar a que las empresas textiles mantengan un monitoreo constante y efectivo del rendimiento de sus máquinas, alineado a sus procesos de producción, mediante el uso de DyeTex?
+
+**Domain:**
+El dominio de TinteX se centra en la optimización del rendimiento de la maquinaria textil a través de la integración de tecnologías IoT y análisis de datos mediante una aplicación web. DyeTex será una herramienta tecnológica integral que permitirá a este tipo de empresas mantener una visualización, analizar y gestionar el desempeño de sus equipos.
+
+**Customer Segments:**
+El producto está dirigido a empresas textiles de distintos tamaños que desean mejorar la productividad de su maquinaria, prevenir fallos mediante mantenimientos predictivos y optimizar su proceso de producción. También incluye a proveedores de soluciones industriales tecnológicas que buscan integrar herramientas IoT en el sector textil, así como a personal técnico y operarios que necesitan visibilidad sobre el estado de los equipos para una mejor toma de decisiones.
+
+**Pain Points:**
+- Falta de monitoreo cosntante del estado de las máquinas.
+- Pérdidas económicas por mantenimiento no planificado o tiempos muertos.
+- Problemas para optimizar procesos de producción sin datos confiables.
+- Falta de herramientas intuitivas y accesibles para interpretar el rendimiento de la maquinaria.
+
+**Gap:**
+Existe una brecha en el mercado de soluciones tecnológicas para la industria textil: la mayoría de sistemas disponibles no están adaptados específicamente a este sector o pueden llegar a ser costosos o no tan fáciles de implementar.
+
+**Visión/Strategy:**
+La visión de TinteX es convertirse en una solución de monitoreo de maquinaria textil imediante el uso de tecnología IoT, ayudando a las empresas a aumentar su eficiencia operativa y reducir pérdidas. Nuestra estrategia se basa en construir una plataforma intuitiva, accesible y adaptable a distintos niveles de operación.
+
+**Initial Segment:**
+El segmento inicial de clientes estará compuesto por pequeñas empresas textiles que tienen dificultades para monitorear sus procesos en tiempo, así como aquellas que buscan soluciones de mantenimiento predictivo y eficiencia operativa sin recurrir a sistemas costosos o complejos. También se considera a proveedores tecnológicos que buscan integrar soluciones IoT en la industria.
 
 #### 1.2.2.2. Lean UX Assumptions
+**¿Quién es el usuario?**
+- Los usuarios de DyeTex son los gerentes de planta, operadores técnicos y personal responsable del mantenimiento de maquinaria el sector textil industrial que buscan mejorar el rendimiento de máquinas mediante el uso de tecnología que les ayude a llevar un control. Asimismo, se incluye a proveedores de soluciones tecnológicas que desean integrar herramientas para un monitoreo y control de maquinaria.
+
+**¿Qué problemas tiene nuestro producto? ¿Resolver?**
+- DyeTex enfrenta desafíos en la integración con maquinaria antigua, posibles resistencias al uso de tecnología por parte de algunos usuarios y dependencia de una buena conexión a internet. Estos problemas pueden resolverse con soporte técnico, capacitación, pruebas piloto y mejoras en la estabilidad y precisión del sistema.
+
+**¿Qué características son importantes?**
+- Entre las características clave de DyeTex están el monitoreo en tiempo real del estado de las máquinas, las alertas automáticas de fallas o necesidad de mantenimiento, los reportes de productividad, el historial de rendimiento y la interfaz con información detallada y relevante. También es esencial la compatibilidad con múltiples tipos de maquinaria y la posibilidad de acceder a los datos desde cualquier dispositivo conectado a internet.
+
+**¿Dónde encaja nuestro producto en su trabajo o vida?**
+- DyeTex se integra de forma natural en la rutina laboral de los técnicos y gestores de maquinarias textiles. Es usado durante la jornada de trabajo para supervisar el estado de las máquinas, programar mantenimientos y tomar decisiones basadas en datos. Permite a los usuarios optimizar la producción sin interrumpir el flujo de trabajo.
+
+**¿Cuándo y cómo es usado nuestro producto?**
+- DyeTex es utilizado diariamente, principalmente durante los turnos de producción. Se accede mediante navegadores web desde computadoras de oficina, laptops o dispositivos móviles. También puede utilizarse al finalizar el día o la semana para generar reportes de rendimiento y programar acciones correctivas en caso fuese necesario.
+
+**¿Cómo debe verse nuestro producto y cómo comportarse?**
+- DyeTex debe tener una interfaz moderna, profesional e industrial, con un diseño claro y práctico, que facilite la lectura de datos y gráficos. La interfaz debe ser responsiva, con navegación rápida y una experiencia de usuario simplificada pero de buen rendimiento, permitiendo monitorear múltiples máquinas sin complicaciones.
+
+---
+
+**¿Qué creen que necesitan nuestros clientes?**
+- "Mis clientes necesitan...
+Una forma práctica y tecnológica de monitorear y optimizar el rendimiento de sus máquinas textiles en tiempo real."
+
+**¿Cómo podemos resolver estas necesidades?**
+- "Estas necesidades se pueden resolver con...
+Una plataforma IoT que recoja datos en tiempo real y brinde recomendaciones para mejorar la eficiencia y reducir tiempos muertos."
+
+**¿Quiénes son nuestros clientes iniciales?**
+- "Mis clientes iniciales son (o serán)...
+Empresas textiles que buscan digitalizar sus procesos de producción y proveedores de soluciones tecnológicas para la industria textil."
+
+**¿Qué valor buscan los clientes?**
+- "El valor #1 que un cliente quiere de mi servicio es...
+El aumento de productividad y reducción de ineficiencias a través del monitoreo constante de sus máquinas."
+
+**¿Qué beneficios adicionales pueden obtener los clientes?**
+- "El cliente también puede obtener estos beneficios adicionales...
+Alertas de mantenimiento, reportes automatizados, y una mejor toma de decisiones basada en datos."
+
+**¿Cómo vamos a adquirir clientes?**
+- "Voy a adquirir la mayoría de mis clientes a través de...
+Redes sociales, demostraciones en ferias industriales, alianzas con distribuidores de maquinaria textil y campañas de marketing B2B."
+
+**¿Cómo generamos ingresos?**
+- "Haré dinero a través de...
+Modelos de suscripción mensual y paquetes premium con funcionalidades avanzadas de análisis y soporte."
+
+**¿Quiénes son nuestros competidores?**
+- "Mi competencia principal en el mercado será...
+Empresas que ofrecen soluciones de monitoreo industrial o softwares de mantenimiento predictivo en la industria textil."
+
+**¿Por qué vamos a vencer a la competencia?**
+- "Los venceremos debido a...
+Nuestro enfoque especializado en la industria textil, facilidad de integración con maquinaria existente y nuestra interfaz intuitiva."
+
+**¿Cuál es el mayor riesgo de producto?**
+- "Mi mayor riesgo de producto es...
+Que las empresas no confíen en el valor del sistema o enfrenten dificultades técnicas en la integración."
+
+**¿Cómo resolveremos el riesgo?**
+- "Resolveremos esto a través de...
+Pruebas piloto, soporte técnico personalizado y mejoras constantes basadas en el feedback del usuario."
+
+**¿Qué otras suposiciones tenemos?**
+- "¿Suponemos que los usuarios están dispuestos a pagar por una solución IoT de productividad?
+Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operativas y aumentar la eficiencia."
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
