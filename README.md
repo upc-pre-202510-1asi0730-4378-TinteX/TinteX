@@ -317,6 +317,120 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 
 #### 2.1.1. Análisis competitivo
 
+
+<table>
+    <tr>
+        <th colspan="6">
+            Competitive Analysis Landscape
+        </th>
+    </tr>
+    <tr>
+        <td>¿Por qué llevar a cabo este análisis?</td>
+        <td colspan="5">
+             Un análisis a nuestros competiores nos ayuda a tener una vista más amplía acerca de lo que debemos fortalecer en nuestra aplicación para un mayor alcance a los usuario, de forma que esta se fortalece
+            <colgroup >
+                <col span = "1">
+            </colgroup>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">Nombre de la StartUp</td>
+        <td><span>DyeText</span></td>
+        <td>Doeet</td>
+        <td>Textil Caiman</td>
+        <td>Delta Máquinas Textiles</td>
+    </tr>
+    <div class="Profile">
+        <tr>
+            <td rowspan="2" STYLE="transform: rotate(-90deg)" align="center">Perfil</td>
+            <td>Overview</td>
+            <td>Sistema diseñado a optimizar la productividad de las máquinas textiles, mejorando los procesos de producción y llevar un mejor control en el mantenimiento.  </td>
+            <td>Plataforma de Industria 4.0 centrada en el control de producción, mejora de la productiviad y reducción de costes.</td>
+            <td>Empresa con tecnología 4.0. automazada, logrando optimizar sus resultados en procesos de producción.</td>
+            <td>Empresa centrada en el desarrollo de maquinaria y automatización para textiles,  cuyo procedimiento genera datos precisos e información sobre la capacidad de producción.</td>
+        </tr>
+        <tr>
+            <td>Ventaja Competitiva<br>¿Qué valor ofrece a los clientes?</td>
+            <td>Proporcionar herramientas para identificar fallos en las maquinas y recibir notificaciones de sobre el estado de estás, de forma que mejoren los textiles.</td>
+            <td>Es amigable para todos los dispositivos, escalable al tamaño de la empresa y personalizable según las necesidades de esta.</td>
+            <td>Implementación de un proceso de fabricación con toma de decisiones basadas en datos automáticos.</td>
+            <td>Presenta soluciones para el aumento de productividad, mejorando los procesos y generando resultados en la producción textil.</td>
+        </tr>
+    </div>
+    <div class="MarketingProfile">
+        <tr>
+            <td rowspan="2" STYLE="transform: rotate(-90deg)" align="center">Perfil de Marketing</td>
+            <td>Mercado objetivo</td>
+            <td>Empresas textiles y Proovedores de soluciones tecnológicas para la industria textil</td>
+            <td>Empresas de manufacturas, y Responsables de planta y producción</td>
+            <td>Empresas industriales y Exportadores de soluciones textiles</td>
+            <td>Empresas textiles orientadas a la automatización y eficiencia, y Fábricas que integran procesos de preparación, confección y acabado</td>
+        </tr>
+        <tr>
+            <td>Estrategias de marketing</td>
+            <td>Participación en ferias sobre textileria y publicidad por distintas redes sociales</td>
+            <td>Marketing de contenidos técnicos, Participación en ferias industriales y Alianzas estratégicas</td>
+            <td>Alianzas sectoriales, Presencia en ferias y Marketing digital</td>
+            <td>Marketing de soluciones y Participación en ferias</td>
+        </tr>
+    </div>
+    <div class="ProductProfile">
+        <tr>
+            <td rowspan="3" STYLE="transform: rotate(-90deg)" align="center">Perfil del Producto</td>
+            <td>Productos & Servicios</td>
+            <td>Sistema MES, OEE, Control de calidad, Integración de sensores IoT</td>
+            <td>Sistema MES, OEE, Gestióon de paradas y tiempos improductivos, Control de calidad, Integración con ERP y sensores IoT</td>
+            <td>Tejidos técnicos, Tejidos para EPI, Soluciones personalizadas</td>
+            <td>Revisadoras de tejidos, Relajadora de tejido, Sistemas iConcept</td>
+        </tr>
+        <tr>
+            <td>Precios & Costos</td>
+            <td>Servicio de paga</td>
+            <td>Servicio de paga</td>
+            <td>Servicio de paga</td>
+            <td>Servicio de paga</td>
+        </tr>
+        <tr>
+            <td>Canales de distribución (Web y/o Móvil)</td>
+            <td>Venta directa, Sitio Web, Ferias</td>
+            <td>Venta directa, Sitio Web, Ferias</td>
+            <td>E-commerce, Venta directa</td>
+            <td>Venta directa, Sitio Web, Ferias</td>
+        </tr>
+    </div>
+    <div class="SwotAnalysis">
+        <tr>
+            <td rowspan="4" STYLE="transform: rotate(-90deg)" align="center">Análisis SWOT</td>
+            <td>Fortalezas</td>
+            <td>Enfoque especializado en productividad textil con una plataforma fácil de escalar. Además, posee uso de IoT para el mantenimiento predictivo</td>
+            <td>Especialización en control OEE y digitalización industrial, Integración con IoT y ERP, además de poseer una plataforma modular y escalable </td>
+            <td>Amplia gama de textiles técnicos certificados con un fuerte enfoque en sostenibilidad</td>
+            <td>Equipos de alta tecnología e innovación, personalización y soporte técnico, y Presencia en más de 20 países</td>
+        </tr>
+        <tr>
+            <td>Debilidades</td>
+            <td>Startup emergente con poca presencia en el mercado, Dependencia tecnológica, Poco conocimiento en la industria textil</td>
+            <td>Alto costo inicial para las pequeñas y medianas empresas</td>
+            <td>Alta dependencia del mercao textil brasileño, Poca visibilidad internacional</td>
+            <td>Alto costo unitario de las máquinas, Ciclos de venta prolongados</td>
+        </tr>
+        <tr>
+            <td>Oportunidades</td>
+            <td>Gran oportunidad en textiles que no están digitalizadas y la posibilidad ante la creación de alianzas con fabricantes textiles</td>
+            <td>Mayor demanda de autmatización en la industria 4.0, Expansión hacia nuevos sectores industriales y incentivos para transformación digital</td>
+            <td>Tendencia global hacia productos ecoamigables</td>
+            <td>Crecimiento de la industria textil automatizada</td>
+        </tr>
+        <tr>
+            <td>Amenazas</td>
+            <td>Dificultad para competir con plataformas consolidadas, Desconfianza al cambio en empresas tradicionales</td>
+            <td>Competencia creciente en el sector MES, Riesgos de ciberseguridad en entornos conectados</td>
+            <td>Competencia de importaciones asiáticas más económicas</td>
+            <td>Alta inversión inicial y nuevos competidores entrando al mercado</td>
+        </tr>
+    </div>
+</table>
+
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
 ### 2.2. Entrevistas
