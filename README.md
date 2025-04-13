@@ -315,6 +315,13 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 
 ### 2.1. Competidores
 
+A partir de un estudio de mercado al cuál nos enfocamos, hemos podido identificar a ciertos competidores.
+Estos tratan a la problemática desde diferentes puntos de vista, los 3 competidores que se seleccionaron son:
+
+- Doeet : Empresa tecnológica que ofrece un software MES (Manufacturing Execution System) enfocado en la industria manufacturera. Permite monitorear en tiempo real el rendimiento de las máquinas y procesos productivos, ayudando a mejorar la eficiencia, reducir tiempos de inactividad y optimizar la toma de decisiones mediante IoT y análisis de datos.
+- Textil Caiman : Empresa textil especializada en la fabricación de tejidos técnicos y sostenibles. Produce telas de alta calidad para diferentes industrias, incluyendo moda, seguridad industrial y ropa deportiva, con un fuerte enfoque en innovación, sostenibilidad y economía circular.
+- Delta Máquinas Textiles : Empresa encargada de desarrollar soluciones automatizadas como relajadoras, revisadoras y sistemas de inspección, con tecnología avanzada para mejorar la eficiencia en la preparación, acabado y control de calidad de tejidos.
+
 #### 2.1.1. Análisis competitivo
 
 
