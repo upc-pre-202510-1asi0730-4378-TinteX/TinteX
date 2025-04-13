@@ -440,6 +440,17 @@ Estos tratan a la problemática desde diferentes puntos de vista, los 3 competid
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
+- Estrategias de crecimiento y expansión:
+    - Expansión Geográfica: Identificar mercao emergentes y regiones donde la tecnología IoT puee tener gran impacto.
+    - Alianzas: Formar alianzas estratégicas con empresas complementarias.
+    - Ferias industriales: Asistencia a distintas ferias las cuales permitan dar a conocer el producto. 
+- Estrategias de innovación y diferenciación:
+    - Desarrollo Continuo de Tecnología: Mantener una ventaja tecnológica a través de innovación y mejora del sistema.
+    - Adaptación: Ofrecer soluciones que se adapten a las necesidades especíicas de diferentes tipos de clientes.
+    - Inverción en desarrollo para mejorar continuamente la precisión y funcionalidad de la plataforam, de manera que se pueda implementar nuevas funciones.
+- Tácticas:
+    - Marketing Digital: Utilizar estrategias de Marketing como campañas en diversas reder sociales de manera que la visibilidad del sistema que ofrecemos incremente en el mercado
+    
 ### 2.2. Entrevistas
 
 #### 2.2.1. Diseño de entrevistas
