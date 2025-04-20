@@ -307,7 +307,7 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 
 #### 1.2.2.4. Lean UX Canvas
 <p align="center">
-    <img src="./assets/Lean-Ux-Canvas.png" alt="Lean UX" width="850px">
+    <img src="./assets/Lean-UX-Canvas.png" alt="Lean UX" width="850px">
 </p>
 
 [Visualizar Lean UX Canvas](https://www.canva.com/design/DAGlJa5hM50/r6zjjmIBlYsMarSUoKuRaQ/edit?utm_content=DAGlJa5hM50&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
