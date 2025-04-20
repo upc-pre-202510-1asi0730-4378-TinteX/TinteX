@@ -559,7 +559,12 @@ Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, 
 ### 3.2. User Stories
 
 ### 3.3. Impact Mapping
-
+<p align="center">
+  <img src="./assets/Impact Map about User Persons.png" alt="Impact Mapping" width="1500">
+</p>
+<p>
+    <url src = ""/>
+</p>
 ### 3.4. Product Backlog
 
 <hr>
