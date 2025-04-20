@@ -322,7 +322,7 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 ### 2.2. Entrevistas
 
 #### 2.2.1. Diseño de entrevistas
-# Entrevista a Empresas Textiles
+**Entrevista a Empresas Textiles**
 
 1. **¿Cuál es su cargo y principal responsabilidad dentro de la empresa textil?**
 
@@ -349,7 +349,7 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 11. **¿Cuáles son los principales indicadores que utilizan para medir la eficiencia de su producción?**
 
 
-# Entrevista a Proveedores de Soluciones Tecnológicas para la Industria Textil
+**Entrevista a Proveedores de Soluciones Tecnológicas para la Industria Textil**
 
 1. **¿Cuál es su rol en la empresa y qué soluciones tecnológicas ofrecen actualmente?**
 
