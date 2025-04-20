@@ -322,6 +322,54 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 ### 2.2. Entrevistas
 
 #### 2.2.1. Diseño de entrevistas
+# Entrevista a Empresas Textiles
+
+1. **¿Cuál es su cargo y principal responsabilidad dentro de la empresa textil?**
+
+2. **¿Actualmente cómo monitorean el rendimiento de sus máquinas?**  
+   (Manual, software, etc.)
+
+3. **¿Con qué frecuencia enfrentan fallas o paradas inesperadas en la maquinaria?**
+
+4. **¿Cómo gestionan el mantenimiento de sus máquinas?**  
+   ¿Es preventivo y/o predictivo?
+
+5. **¿Qué impacto tienen los tiempos de inactividad en su producción y entregas?**
+
+6. **¿Han considerado implementar soluciones tecnológicas como IoT para optimizar su producción?**
+
+7. **¿Qué tipo de información les sería más útil ver en tiempo real sobre sus máquinas?**
+
+8. **¿Qué funcionalidades esperaría de una plataforma como DyeTex para que realmente le sea útil?**
+
+9. **¿Qué nivel de facilidad de uso considera importante para una herramienta de monitoreo?**
+
+10. **¿Estaría dispuesto a invertir en una solución si demuestra reducir pérdidas y aumentar la eficiencia?**
+
+11. **¿Cuáles son los principales indicadores que utilizan para medir la eficiencia de su producción?**
+
+
+# Entrevista a Proveedores de Soluciones Tecnológicas para la Industria Textil
+
+1. **¿Cuál es su rol en la empresa y qué soluciones tecnológicas ofrecen actualmente?**
+
+2. **¿Tienen experiencia previa integrando tecnologías IoT o sistemas de monitoreo en tiempo real?**
+
+3. **¿Qué desafíos suelen enfrentar al implementar sus soluciones en la industria textil?**
+
+4. **¿Creen que sus clientes textiles necesitan mejorar el control y rendimiento de sus máquinas?**
+
+5. **¿Cómo ven el potencial de una plataforma como DyeTex en su portafolio de soluciones?**
+
+6. **¿Qué funcionalidades considerarían imprescindibles para una integración exitosa con sus productos?**
+
+7. **¿Qué tipo de alianzas prefieren: integración, white-label, co-branding, etc.?**
+
+8. **¿Qué barreras técnicas o comerciales podrían dificultar una colaboración con una plataforma nueva?**
+
+9. **¿Qué tan relevante consideran el monitoreo predictivo y en tiempo real para sus clientes actuales?**
+
+10. **¿Estarían interesados en probar o co-desarrollar una solución como DyeTex con casos piloto?**
 
 #### 2.2.2. Registro de entrevistas
 
