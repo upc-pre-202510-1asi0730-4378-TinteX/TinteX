@@ -309,6 +309,69 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 
 ### 1.3. Segmentos Objetivos
 
+# Segmentos Objetivo - DyeTex
+
+### Segmento Objetivo 1: Empresas Textiles
+
+#### Aspectos Demográficos
+- **Tamaño de Empresa:** Micro, pequeñas y medianas empresas (MIPYMES) y grandes empresas
+- **Tipo de Empresa:** Fabricantes de productos textiles como ropa, accesorios, telas, uniformes, decoración, etc.
+- **Nivel Socioeconómico Empresarial:** Empresas con ingresos medianos a altos
+- **Capacidad de Inversión:** Limitada a moderada (en busca de soluciones costo-efectivas)
+
+#### Aspectos Geográficos
+- **Nacionalidad:** Nacional e internacional (con enfoque inicial en Perú y expansión a países con industria textil activa)
+- **Ubicación Actual:** 
+  - Parques industriales
+  - Polos textiles
+  - Zonas urbanas con actividad manufacturera (ej.: Lima, Gamarra, Arequipa, Trujillo, Piura, Huancayo)
+- **Acceso a Tecnología:** Medio a alto (acceso a internet, PCs, y disposición a modernizar procesos)
+
+#### Aspectos Psicográficos
+- **Motivaciones:**
+  - Incrementar productividad
+  - Reducir tiempo de inactividad
+  - Mejorar la eficiencia operativa sin grandes inversiones en nueva maquinaria
+- **Estilo de operación:** Enfocados en la producción, con interés creciente en adoptar tecnologías de control de procesos
+- **Preocupaciones:**
+  - Falta de visibilidad sobre el estado de las máquinas
+  - Pérdidas por mantenimiento reactivo
+  - Presión por entregar productos a tiempo y con calidad
+- **Adaptación a la tecnología:** Moderada, con interés creciente en herramientas digitales de fácil integración
+- **Interés por la personalización:** Valoran soluciones adaptables a sus máquinas y procesos específicos
+
+---
+
+### Segmento Objetivo 2: Proveedores Tecnológicos para la Industria Textil
+
+#### Aspectos Demográficos
+- **Tipo de Empresa:** 
+  - Empresas tecnológicas
+  - Desarrolladores de software industrial
+  - Fabricantes de maquinaria con componentes electrónicos o automatizados
+- **Tamaño:** Startups, medianas y grandes empresas del sector tecnológico
+- **Nivel Socioeconómico Empresarial:** Medio a alto
+- **Capacidad de Inversión:** Alta (en desarrollo e integración de nuevas tecnologías)
+
+#### Aspectos Geográficos
+- **Nacionalidad:** Nacional e internacional
+- **Ubicación Actual:**
+  - Zonas urbanas tecnológicas o industriales con ecosistemas de innovación (ej.: Lima, Arequipa, Monterrey, Medellín, São Paulo)
+- **Acceso a Tecnología:** Muy alto (infraestructura sólida para el desarrollo de software y hardware)
+
+#### Aspectos Psicográficos
+- **Motivaciones:**
+  - Diferenciarse en el mercado integrando IoT en sus productos
+  - Expandir su portafolio hacia el sector textil
+  - Crear alianzas estratégicas
+- **Estilo de operación:** Innovadores, buscando constantemente nuevas oportunidades y tecnologías
+- **Preocupaciones:**
+  - Soluciones escalables
+  - Interoperabilidad
+  - Facilidad de integración con otras plataformas
+- **Adaptación a la tecnología:** Alta, con infraestructura y equipos técnicos capacitados
+- **Interés por la personalización:** Interesados en SDKs, APIs y plataformas adaptables y escalables
+
 <hr>
 
 ## Capítulo II: Requirements Elicitation & Analysis
@@ -462,6 +525,20 @@ Estos tratan a la problemática desde diferentes puntos de vista, los 3 competid
 ### 2.3. Needfinding
 
 #### 2.3.1. User Personas
+
+Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, dividiéndose en los 2 segmentos definidos anteriormente por el equipo de trabajo.
+
+*Segmento 1: Empresas textiles*
+
+<p align="center">
+    <img src="./assets/Luis Ramos.png" alt="User-Persona-1" width="600">/>
+</p>
+
+*Segmento 2: Proovedores Tecnológicos para la Industria textil*
+
+<p align="center">
+    <img src="./assets/Carla Meza.png" alt="User-Persona-2" width="600">/>
+</p>
 
 #### 2.3.2. User Task Matrix
 
