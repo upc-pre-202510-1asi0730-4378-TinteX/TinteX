@@ -561,6 +561,14 @@ Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, 
 ## Capítulo III: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
+<p align="center">
+  <img src="./assets/Scenario Mapping.jpg" alt="Scenario Mapping Proyect" width="1500">
+</p>
+
+
+<p align="center">
+  <img src="./assets/Scenario Mapping US.jpg" alt="Scenario Mapping User Persona" width="1500">
+</p>
 
 ### 3.2. User Stories
 
@@ -571,6 +579,7 @@ Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, 
 <p>
     <url src = ""/>
 </p>
+
 ### 3.4. Product Backlog
 
 <hr>
