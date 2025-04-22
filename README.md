@@ -500,6 +500,9 @@ Agustín, especialista en automatización industrial, menciona que han implement
 #### 4.1.1. General Style Guidelines
 
 #### 4.1.2. Web Style Guidelines
+**Colors:**
+**Paleta de colores primaria:**
+<img src="/assets/primaryPaletteColors.png" alt="Palette 1" width="500">
 
 ### 4.2. Information Architecture
 
