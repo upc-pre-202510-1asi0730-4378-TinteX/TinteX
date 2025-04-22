@@ -526,6 +526,31 @@ Estos tratan a la problemática desde diferentes puntos de vista, los 3 competid
 
 #### 2.2.2. Registro de entrevistas
 
+Segmento 1: Entrevista #4 - Datos del Entrevistado
+
+| Dato               | Información     |
+|--------------------|-----------------|
+| Nombre             | Enrique Rios    |
+| Edad               | 68 años         |
+| Distrito           | Comas           |
+| Tiempo de duración | 18:55 minutos   |
+| Momento de inicio  | 00:00           |
+
+
+<p align="center">
+    <img src="./assets/interviews/s1_interview4.png" alt="User-Task-Matrix" width="400">
+</p>
+
+**Resumen de la entrevista:** 
+
+Enrique es gerente de la planta de teñido textil **El Artesano** ubicada en **Huachipa**, indicó que actualmente la mayoría de monitoreos de producción así como el control de variables involucradas se hacen mediante un panel controlado por un software, sin embargo, en el aspecto de insumos y preparación se hace de manera manual.
+
+En pocos casos enfrentan paradas debido a este tipo de sistemas, pero cuando suceden es por error humano en los sectores de trabajo como **inventario** o **agregación de insumos**. Además, señala que en algunos casos pueden surgir paradas por un error en **mantenimiento**, pues los sistemas, si bien pueden llegar a avisar, si la alerta no tiene quien la recepcione, puede omitirse.
+
+Además, considera que la implementación de dispositivos **IoT avanzados** por lo general se reservan a plantas mucho más automatizadas, pero que en segmentos relacionados al ambiente se podrían comenzar a implementar, como lo que es un **sensor de pH del agua**.
+
+Para finalizar, menciona que el principal aporte sería en **mejorar los procesos productivos** aún relacionados con la intervención humana señalada.
+
 #### 2.2.3. Análisis de entrevistas
 
 ### 2.3. Needfinding
