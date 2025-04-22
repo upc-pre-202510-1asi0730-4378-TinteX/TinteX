@@ -537,24 +537,32 @@ Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, 
 *Segmento 1: Empresas textiles*
 
 <p align="center">
-    <img src="./assets/Luis Ramos.png" alt="User-Persona-1" width="600">/>
+    <img src="./assets/Luis Ramos.png" alt="User-Persona-1" width="600">
 </p>
 
 *Segmento 2: Proovedores Tecnológicos para la Industria textil*
 
 <p align="center">
-    <img src="./assets/Carla Meza.png" alt="User-Persona-2" width="600">/>
+    <img src="./assets/Carla Meza.png" alt="User-Persona-2" width="600">
 </p>
 
 #### 2.3.2. User Task Matrix
 
 <p align="center">
-    <img src="./assets/User-Task-Matrix.png" alt="User-Task-Matrix" width="700">/>
+    <img src="./assets/User-Task-Matrix.png" alt="User-Task-Matrix" width="700">
 </p>
 
 [Visualizar User Task Matrix](https://www.canva.com/design/DAGlIhgYMpY/Fpbxe2rTfEiNVMXE1MlrIA/edit?utm_content=DAGlIhgYMpY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### 2.3.3. User Journey Mapping
+
+<p align="center">
+    <img src="./assets/Journey map Usuario 1.png" alt="Journey Map 1" width="600">
+</p>
+
+<p align="center">
+    <img src="./assets/Journey map Usuario 2.png" alt="Journey Map 2" width="600">
+</p>
 
 #### 2.3.4. Empathy Mapping
 
