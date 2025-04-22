@@ -445,7 +445,6 @@ Gonzalo, director técnico, indica que su empresa ofrece soluciones como tablero
 Afonso, CTO (Director de Tecnología) de una startup que digitaliza procesos en pymes industriales, comenta que su plataforma se basa en IoT y monitoreo en tiempo real, con experiencia en sectores como textil, alimentos y manufactura. Señala que en el rubro textil aún se depende de medios manuales como papel o WhatsApp para tareas clave como el pedido de insumos, lo que genera ineficiencias. Considera que muchos clientes no detectan fallas en sus máquinas hasta que ya es muy tarde. Cree que DyeTex tendría gran potencial si abarca desde el pedido de materiales hasta el monitoreo de eficiencia por máquina. Ve esenciales funcionalidades como trazabilidad, reportes visuales y conexión con ERP. Prefiere alianzas tipo co-branding o integraciones ágiles, y advierte barreras como la falta de personal capacitado y la desconfianza inicial. Está interesado en co-desarrollar la solución y ofrecer fábricas aliadas para pruebas piloto.
 
 **Entrevista #6 - Datos del Entrevistado** 
-<img src="/assets/imagenEntrevistaAlfonso.png" alt="Entrevista 6" width="500"> 
 
 | **Dato**            | **Información**   |
 |---------------------|-------------------|
