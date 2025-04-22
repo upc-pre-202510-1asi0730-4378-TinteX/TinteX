@@ -375,6 +375,7 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 
 **Segmento 1:**
 **Entrevista 1 – Mery Ojeda**
+<img src="/assets/imagenEntrevistaMery.png" alt="Entrevista 1" width="500"> <br>
 
 | **Dato**            | **Información**   |
 |---------------------|-------------------|
@@ -385,6 +386,7 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 | Momento de inicio   | 00:57             |
 
 **Entrevista 2 – Jorge Linares**
+<img src="/assets/imagenEntrevistaJorge.png" alt="Entrevista 2" width="500"> <br>
 
 | **Dato**            | **Información**   |
 |---------------------|-------------------|
@@ -397,6 +399,7 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 **Segmento 2:**
 
 **Entrevista 4 – Gonzalo Carhuaconte**
+<img src="/assets/imagenEntrevistaGonzalo.png" alt="Entrevista 4" width="500"> <br>
 
 | **Dato**            | **Información**   |
 |---------------------|-------------------|
@@ -409,6 +412,7 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 
 
 **Entrevista 5 – Agustín Ventura**
+<img src="/assets/imagenEntrevistaAgustin.png" alt="Entrevista 5" width="500"> <br>
 
 | **Dato**            | **Información**   |
 |---------------------|-------------------|
@@ -421,6 +425,7 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 
 
 **### Entrevista 6 – Alfonso Rodríguez**
+<img src="/assets/imagenEntrevistaAlfonso.png" alt="Entrevista 6" width="500"> <br>
 
 | **Dato**            | **Información**   |
 |---------------------|-------------------|
