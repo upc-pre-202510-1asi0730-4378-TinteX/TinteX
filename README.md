@@ -373,7 +373,62 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 
 #### 2.2.2. Registro de entrevistas
 
-**Entrevista 1:**
+**Segmento 1:**
+**Entrevista 1 – Mery Ojeda**
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              | Mery Ojeda        |
+| Edad                | 37 años           |
+| Distrito            | San Miguel        |
+| Tiempo de duración  | 04:04 minutos     |
+| Momento de inicio   | 00:57             |
+
+**Entrevista 2 – Jorge Linares**
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              | Jorge Linares     |
+| Edad                | 30 años           |
+| Distrito            | San Miguel        |
+| Tiempo de duración  | 05:09 minutos     |
+| Momento de inicio   | 00:55             |
+
+**Segmento 2:**
+
+**Entrevista 4 – Gonzalo Carhuaconte**
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              | Gonzalo Carhuaconte |
+| Edad                | 30 años           |
+| Distrito            | Los Olivos        |
+| Tiempo de duración  | 04:00 minutos     |
+| Momento de inicio   | 00:50             |
+
+
+
+**Entrevista 5 – Agustín Ventura**
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              | Agustín Ventura   |
+| Edad                | 27 años           |
+| Distrito            | Lince             |
+| Tiempo de duración  | 03:34 minutos     |
+| Momento de inicio   | 00:55             |
+
+
+
+**### Entrevista 6 – Alfonso Rodríguez**
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              | Alfonso Rodríguez |
+| Edad                | 28 años           |
+| Distrito            | No especificado   |
+| Tiempo de duración  | 03:44 minutos     |
+| Momento de inicio   | 00:50             |
 
 #### 2.2.3. Análisis de entrevistas
 
