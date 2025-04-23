@@ -373,6 +373,61 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 
 #### 2.2.2. Registro de entrevistas
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Segmento 1:**
 **Entrevista #1 - Datos del Entrevistado** 
 
