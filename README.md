@@ -685,7 +685,7 @@ Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, 
 
 ### 3.4. Product Backlog
 
-## Product Backlog
+### Product Backlog
 
 | Orden | User Story ID | Título | Descripción | Prioridad | Story Points |
 |-------|----------------|--------|-------------|-----------|---------------|
@@ -771,7 +771,20 @@ Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, 
 
 ### 4.6. Domain-Driven Software Architecture
 
+Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra en alinear el diseño del software con las complejidades del dominio empresarial. Implica una estrecha colaboración entre los expertos del dominio y los desarrolladores para crear una comprensión compartida del dominio, que luego se refleja en el diseño del software.
+
 #### 4.6.1. Software Architecture Context Diagrams
+
+> [!NOTE]  
+> En este diagrama encontrarás:
+> - Supplier (Proveedores): Acceden a la plataforma 
+> - Administrator (Administradores): Acceden y gestionan la plataforma
+> - Employees (Empleados):  Acceden a la plataforma
+> - DyeTeX: Software que los usuarios utilizarán
+
+<p align="center">
+  <img src="./assets/System Context.png" alt="Context Diagram" width="950">
+</p>
 
 #### 4.6.2. Software Architecture Container Diagrams
 
