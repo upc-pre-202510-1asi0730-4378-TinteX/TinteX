@@ -558,16 +558,6 @@ Al revisar las entrevistas, logramos identificar tanto las expectativas como las
 
 #### 4.1.1. General Style Guidelines
 Las pautas generales de estilo de DyeTex están diseñadas para proyectar una identidad sólida, moderna y altamente tecnológica, en línea con su propósito de optimizar el rendimiento de maquinaria textil mediante soluciones inteligentes basadas en IoT. <br>
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 30%; vertical-align: top; padding-right: 20px;">
-      <strong>Branding:</strong> La paleta de colores seleccionada comunica confiabilidad, precisión y eficiencia operativa. El color principal, <code>#003366</code>, un azul profundo y elegante, representa estabilidad, profesionalismo y tecnología. Este color funciona como base sólida para la interfaz, asegurando un contraste claro y favoreciendo la legibilidad. Los colores neutros <code>#b3b3b3</code>, <code>#e6e6e6</code> y <code>#ffffff</code> se emplean para estructuras, fondos y secciones informativas, facilitando una navegación intuitiva y limpia. Este equilibrio cromático permite que la atención del usuario se dirija a lo más relevante: el monitoreo de sus máquinas y la toma de decisiones basadas en datos.
-    </td>
-    <td style="width: 70%;">
-      <img src="9f3bf191-7ad1-411d-8b92-df14e8149170.png" alt="Paleta de colores primaria" style="width: 100%;">
-    </td>
-  </tr>
-</table>
 
 **Branding:** La paleta de colores seleccionada comunica confiabilidad, precisión y eficiencia operativa. El color principal, #003366, un azul profundo y elegante, representa estabilidad, profesionalismo y tecnología. Este color funciona como base sólida para la interfaz, asegurando un contraste claro y favoreciendo la legibilidad. Los colores neutros #b3b3b3, #e6e6e6 y #ffffff se emplean para estructuras, fondos y secciones informativas, facilitando una navegación intuitiva y limpia. Este equilibrio cromático permite que la atención del usuario se dirija a lo más relevante: el monitoreo de sus máquinas y la toma de decisiones basadas en datos.
 <br>
