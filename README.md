@@ -502,7 +502,9 @@ Afonso, CTO (Director de Tecnología) de una startup que digitaliza procesos en 
 Agustín, especialista en automatización industrial, menciona que han implementado soluciones IoT en plantas textiles, aunque enfrentan barreras como la resistencia al cambio y la falta de infraestructura. Señala que procesos clave como el pedido de insumos siguen siendo manuales, generando cuellos de botella. Considera que una plataforma como DyeTex tiene alto potencial si es escalable y se adapta a fábricas en etapas tempranas de automatización. Resalta la importancia de funcionalidades como alertas, trazabilidad, visualización simple y compatibilidad con hardware básico. Prefieren alianzas flexibles como el co-desarrollo y están interesados en participar en pilotos con clientes que buscan iniciarse en la digitalización industria.
 
 #### 2.2.3. Análisis de entrevistas
-**Segmento 1: Empresas Textiles ** <br>
+Al revisar las entrevistas, logramos identificar tanto las expectativas como las necesidades que los usuarios expresan, además de obtener retroalimentación valiosa sobre cómo imaginan su solución ideal. Esta información nos servirá como base para tomar decisiones clave en el desarrollo del producto.
+
+**Segmento 1: Empresas Textiles** <br>
 <img src="/assets/s1_g1.png" alt="Grafico 1" width="500"> 
 </a>
 <img src="/assets/s1_g2.png" alt="Grafico 2" width="500"> 
@@ -557,9 +559,6 @@ Agustín, especialista en automatización industrial, menciona que han implement
 #### 4.1.1. General Style Guidelines
 
 #### 4.1.2. Web Style Guidelines
-**Colors:**
-**Paleta de colores primaria:**
-<img src="/assets/primaryPaletteColors.png" alt="Palette 1" width="500">
 
 ### 4.2. Information Architecture
 
