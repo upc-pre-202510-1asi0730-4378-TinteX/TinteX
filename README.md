@@ -558,7 +558,7 @@ Al revisar las entrevistas, logramos identificar tanto las expectativas como las
 
 #### 4.1.1. General Style Guidelines
 Las pautas generales de estilo de DyeTex están diseñadas para proyectar una identidad sólida, moderna y altamente tecnológica, en línea con su propósito de optimizar el rendimiento de maquinaria textil mediante soluciones inteligentes basadas en IoT.
-**Branding:** La paleta de colores seleccionada comunica confiabilidad, precisión y eficiencia operativa. El color principal, #003366, un azul profundo y elegante, representa estabilidad, profesionalismo y tecnología. Este color funciona como base sólida para la interfaz, asegurando un contraste claro y favoreciendo la legibilidad. Los colores neutros #b3b3b3, #e6e6e6 y #ffffff se emplean para estructuras, fondos y secciones informativas, facilitando una navegación intuitiva y limpia. Este equilibrio cromático permite que la atención del usuario se dirija a lo más relevante: el monitoreo de sus máquinas y la toma de decisiones basadas en datos.
+-**Branding:** La paleta de colores seleccionada comunica confiabilidad, precisión y eficiencia operativa. El color principal, #003366, un azul profundo y elegante, representa estabilidad, profesionalismo y tecnología. Este color funciona como base sólida para la interfaz, asegurando un contraste claro y favoreciendo la legibilidad. Los colores neutros #b3b3b3, #e6e6e6 y #ffffff se emplean para estructuras, fondos y secciones informativas, facilitando una navegación intuitiva y limpia. Este equilibrio cromático permite que la atención del usuario se dirija a lo más relevante: el monitoreo de sus máquinas y la toma de decisiones basadas en datos.
 **Paleta de colores primaria:** <br>
 <img src="/assets/primaryPaletteColors.png" alt="Palette 1" width="500">
 </a> <br>
@@ -566,19 +566,19 @@ Las pautas generales de estilo de DyeTex están diseñadas para proyectar una id
 <img src="/assets/secondaryPaletteColors1.png" alt="Palette 2" width="500">
 </a> <br>
 
-**Typography:** Se ha elegido la tipografía Prompt debido a su claridad, modernidad y legibilidad en todos los tamaños de pantalla. Las diferentes variaciones de peso (ExtraBold, SemiBold, Medium, Regular) permiten crear una jerarquía clara y aseguran que los usuarios puedan navegar fácilmente por la interfaz. <br>
+-**Typography:** Se ha elegido la tipografía Prompt debido a su claridad, modernidad y legibilidad en todos los tamaños de pantalla. Las diferentes variaciones de peso (ExtraBold, SemiBold, Medium, Regular) permiten crear una jerarquía clara y aseguran que los usuarios puedan navegar fácilmente por la interfaz. <br>
 <img src="/assets/typographyDyeTex.png" alt="Typography" width="500">
 </a> <br>
 
-**Icons:** Se emplean íconos con un estilo lineal y simple para facilitar una comunicación clara y rápida. Su diseño distintivo permite que sean identificados fácilmente por los usuarios, manteniendo una apariencia coherente con el estilo moderno de la plataforma. <br>
+-**Icons:** Se emplean íconos con un estilo lineal y simple para facilitar una comunicación clara y rápida. Su diseño distintivo permite que sean identificados fácilmente por los usuarios, manteniendo una apariencia coherente con el estilo moderno de la plataforma. <br>
 <img src="/assets/icons.png" alt="Icons" width="500">
 </a> <br>
 
-**Buttons:** Los botones están diseñados para ser altamente visibles y accesibles. Se utilizan colores de la paleta de colores primaria y secundaria como el azul, para las acciones principales, mientras que los bordes redondeados mejoran la usabilidad en dispositivos táctiles. <br>
+-**Buttons:** Los botones están diseñados para ser altamente visibles y accesibles. Se utilizan colores de la paleta de colores primaria y secundaria como el azul, para las acciones principales, mientras que los bordes redondeados mejoran la usabilidad en dispositivos táctiles. <br>
 <img src="/assets/WhiteButtons.png" alt="Buttons" width="500">
 </a> <br>
 
-**Spacing and Layout:** Se emplea una estructura de espaciado coherente y equilibrada que asegura una presentación limpia del contenido y una experiencia de usuario fluida. Mantener distancias adecuadas entre los distintos elementos permite una lectura más cómoda, facilita la interacción, especialmente en dispositivos con pantallas táctiles, y guía la atención del usuario hacia las acciones más importantes.
+-**Spacing and Layout:** Se emplea una estructura de espaciado coherente y equilibrada que asegura una presentación limpia del contenido y una experiencia de usuario fluida. Mantener distancias adecuadas entre los distintos elementos permite una lectura más cómoda, facilita la interacción, especialmente en dispositivos con pantallas táctiles, y guía la atención del usuario hacia las acciones más importantes.
 
 
 #### 4.1.2. Web Style Guidelines
