@@ -384,8 +384,9 @@ Segmento 1: Entrevista #1 - Datos del Entrevistado
 | Momento de inicio  | 00:00           |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/interviews/s1_interview4.png" alt="Entrevista 1" width="500"> 
+<img src="/assets/s1_interview1.png" alt="Entrevista 1" width="500"> 
 </a>
+<br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EVFpcS23HvlDsP1GoyQ9-BEBUQBy8sOGp8gD0ohzLI_utA?e=RfkRuZ)
 
 **Resumen de la entrevista:** 
@@ -411,6 +412,8 @@ Para finalizar, menciona que el principal aporte sería en **mejorar los proceso
 **Detalles de la entrevista:** <br>
 <img src="/assets/imagenEntrevistaMery.png" alt="Entrevista 2" width="500"> 
 </a>
+<br>
+
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EeWbZk1-SRNAj2BxpYH44DMBi9Z4AygGmlm78jzZOQNrqg?e=4pvfDP)
 
 **Resumen de la entrevista:** <br>
@@ -429,6 +432,8 @@ Mery, una trabajadora la cual es responsable de producción de la empresa textil
 **Detalles de la entrevista:** <br>
 <img src="/assets/imagenEntrevistaJorge.png" alt="Entrevista 3" width="500"> 
 </a>
+<br>
+
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EabKpNkSUmdDslvBx2ceqGABHoNko2f4oRQc_H1S7fLOFw?e=Z8BGup)
 
 **Resumen de la entrevista:** <br>
@@ -449,6 +454,8 @@ Jorge, jefe de planta, indica que actualmente el monitoreo del rendimiento de la
 **Detalles de la entrevista:** <br>
 <img src="/assets/imagenEntrevistaGonzalo.png" alt="Entrevista 4" width="500"> 
 </a>
+<br>
+
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EWjXOKXdyHdFg4-WYOHokY4BS_a-dFbtfjp9RBeNOCwx1Q?e=jaHKdk)
 
 **Resumen de la entrevista:** <br>
@@ -467,6 +474,8 @@ Gonzalo, director técnico, indica que su empresa ofrece soluciones como tablero
 **Detalles de la entrevista:** <br>
 <img src="/assets/imagenEntrevistaAgustin.png" alt="Entrevista 5" width="500"> 
 </a>
+<br>
+
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EQS1hpXokxRIidntEDa515AB9jqflMhLgI0XDz6yfdzraw?e=ZBE84H)
 
 **Resumen de la entrevista:** <br>
@@ -485,6 +494,8 @@ Afonso, CTO (Director de Tecnología) de una startup que digitaliza procesos en 
 **Detalles de la entrevista:** <br>
 <img src="/assets/imagenEntrevistaAlfonso.png" alt="Entrevista 6" width="500"> 
 </a>
+<br>
+
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/ESJQX2mAoK9Fl5tkSSed_mcBjKYaL7Bk28Yjh8fJRtyZCA)
 
 **Resumen de la entrevista:** <br>
