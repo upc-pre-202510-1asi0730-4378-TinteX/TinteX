@@ -850,6 +850,9 @@ Automatiza la creación de reportes operativos o técnicos. Luis los usa como so
   <img src="./assets/Scenario Mapping US.jpg" alt="Scenario Mapping User Persona" width="1500">
 </p>
 
+
+[Clic aquí para visualizar el miro](https://miro.com/app/board/uXjVIDIzvnI=/?share_link_id=444107656511)
+
 ### 3.2. User Stories
 
 ## Epics
@@ -1041,6 +1044,31 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 </p>
 
 #### 4.6.3. Software Architecture Components Diagrams
+
+#### Bounded Context Management 
+
+> [!NOTE]
+> En este diagrama encontrarás:
+> - Controller: Controla un conjunto de funcionalidades.
+> - Service: Secciones de la aplicación que realizan una o varias tareas especifícas.
+> - External Services: Servicios de terceros para complementar la funcionalidad de la applicacion.
+
+<p align="center">
+  <img src="./assets/Component Diagram.png" alt="Component Diagram" width="1000">
+</p>
+
+#### Bounded Context Machine Deployment
+
+> [!NOTE]
+> En este diagrama encontrarás:
+> - Controller: Controla un conjunto de funcionalidades.
+> - Service: Secciones de la aplicación que realizan una o varias tareas especifícas.
+> - Repository: Permite el acceso a una base de datos.
+
+<p align="center">
+  <img src="./assets/Component Diagram2.png" alt="Component Diagram" width="1000">
+</p>
+
 
 ### 4.7. Software Object-Oriented Design
 
