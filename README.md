@@ -566,15 +566,15 @@ Las pautas generales de estilo de DyeTex están diseñadas para proyectar una id
 <img src="/assets/secondaryPaletteColors1.png" alt="Palette 2" width="500">
 </a> <br>
 
-**Typography:**Se ha elegido la tipografía Prompt debido a su claridad, modernidad y legibilidad en todos los tamaños de pantalla. Las diferentes variaciones de peso (ExtraBold, SemiBold, Medium, Regular) permiten crear una jerarquía clara y aseguran que los usuarios puedan navegar fácilmente por la interfaz.
+**Typography:** Se ha elegido la tipografía Prompt debido a su claridad, modernidad y legibilidad en todos los tamaños de pantalla. Las diferentes variaciones de peso (ExtraBold, SemiBold, Medium, Regular) permiten crear una jerarquía clara y aseguran que los usuarios puedan navegar fácilmente por la interfaz. <br>
 <img src="/assets/typographyDyeTex.png" alt="Typography" width="500">
 </a> <br>
 
-**Icons: Se emplean íconos con un estilo lineal y simple para facilitar una comunicación clara y rápida. Su diseño distintivo permite que sean identificados fácilmente por los usuarios, manteniendo una apariencia coherente con el estilo moderno de la plataforma.**
+**Icons:** Se emplean íconos con un estilo lineal y simple para facilitar una comunicación clara y rápida. Su diseño distintivo permite que sean identificados fácilmente por los usuarios, manteniendo una apariencia coherente con el estilo moderno de la plataforma. <br>
 <img src="/assets/icons.png" alt="Icons" width="500">
 </a> <br>
 
-**Buttons:** Los botones están diseñados para ser altamente visibles y accesibles. Se utilizan colores de la paleta de colores primaria y secundaria como el azul, para las acciones principales, mientras que los bordes redondeados mejoran la usabilidad en dispositivos táctiles.
+**Buttons:** Los botones están diseñados para ser altamente visibles y accesibles. Se utilizan colores de la paleta de colores primaria y secundaria como el azul, para las acciones principales, mientras que los bordes redondeados mejoran la usabilidad en dispositivos táctiles. <br>
 <img src="/assets/WhiteButtons.png" alt="Buttons" width="500">
 </a> <br>
 
