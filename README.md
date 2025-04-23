@@ -373,7 +373,7 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 
 #### 2.2.2. Registro de entrevistas
 
-Segmento 1: Entrevista #4 - Datos del Entrevistado
+Segmento 1: Entrevista #1 - Datos del Entrevistado
 
 | Dato               | Información     |
 |--------------------|-----------------|
@@ -383,10 +383,10 @@ Segmento 1: Entrevista #4 - Datos del Entrevistado
 | Tiempo de duración | 18:55 minutos   |
 | Momento de inicio  | 00:00           |
 
+**Detalles de la entrevista:** <br>
+<img src="/assets/s1_interview4.png" alt="Entrevista 1" width="500"> 
+</a>
 
-<p align="center">
-    <img src="./assets/interviews/s1_interview4.png" alt="User-Task-Matrix" width="400">
-</p>
 
 **Resumen de la entrevista:** 
 
@@ -397,6 +397,93 @@ En pocos casos enfrentan paradas debido a este tipo de sistemas, pero cuando suc
 Además, considera que la implementación de dispositivos **IoT avanzados** por lo general se reservan a plantas mucho más automatizadas, pero que en segmentos relacionados al ambiente se podrían comenzar a implementar, como lo que es un **sensor de pH del agua**.
 
 Para finalizar, menciona que el principal aporte sería en **mejorar los procesos productivos** aún relacionados con la intervención humana señalada.
+
+**Entrevista #2 - Datos del Entrevistado** 
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              | Mery Ojeda        |
+| Edad                | 37 años           |
+| Distrito            | San Miguel        |
+| Tiempo de duración  | 04:04 minutos     |
+| Momento de inicio   | 00:57             |
+
+**Detalles de la entrevista:** <br>
+<img src="/assets/imagenEntrevistaMery.png" alt="Entrevista 2" width="500"> 
+</a>
+
+**Resumen de la entrevista:** <br>
+Mery, una trabajadora la cual es responsable de producción de la empresa textil Fibras del Sur, indicó que actualmente el monitoreo del rendimiento de sus máquinas se realiza de forma manual, mediante hojas de Excel y supervisión directa. Enfrentan paradas frecuentes debido a errores humanos y la falta de alertas tempranas. Consideran que implementar una solución IoT sería clave para comenzar con la automatización, sobre todo si permite llevar el control desde el momento en que se realiza el pedido de insumos, ya que esa etapa aún es manual y propensa a errores. Esperan que la herramienta ayude a reducir los tiempos muertos y mejorar la eficiencia operativa.
+
+**Entrevista #3 - Datos del Entrevistado** 
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              | Jorge Linares     |
+| Edad                | 30 años           |
+| Distrito            | San Miguel        |
+| Tiempo de duración  | 05:09 minutos     |
+| Momento de inicio   | 00:55             |
+
+**Detalles de la entrevista:** <br>
+<img src="/assets/imagenEntrevistaJorge.png" alt="Entrevista 3" width="500"> 
+</a>
+
+**Resumen de la entrevista:** <br>
+Jorge, jefe de planta, indica que actualmente el monitoreo del rendimiento de las máquinas es manual, mediante reportes en hojas de cálculo llenados por operarios. Las fallas ocurren una o dos veces por semana y afectan directamente la producción, sobre todo en pedidos grandes. El mantenimiento es preventivo, pero depende de que los operarios detecten señales anómalas, lo cual no siempre es confiable. Considera que una solución como DyeTex sería muy útil, especialmente si puede implementarse en fábricas que están comenzando a automatizar. Valora especialmente que la plataforma permita registrar el pedido de insumos de forma digital, ya que esa etapa sigue siendo manual y propensa a errores. También espera que sea fácil de usar y esté orientada a reducir pérdidas y mejorar la eficiencia operativa.
+
+**Segmento 2:**
+
+**Entrevista #4 - Datos del Entrevistado** 
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              | Gonzalo Carhuaconte |
+| Edad                | 30 años           |
+| Distrito            | Los Olivos        |
+| Tiempo de duración  | 04:00 minutos     |
+| Momento de inicio   | 00:50             |
+
+**Detalles de la entrevista:** <br>
+<img src="/assets/imagenEntrevistaGonzalo.png" alt="Entrevista 4" width="500"> 
+</a>
+
+**Resumen de la entrevista:** <br>
+Gonzalo, director técnico, indica que su empresa ofrece soluciones como tableros SCADA y sensores IoT, y que ya han trabajado con monitoreo en tiempo real y mantenimiento predictivo. Señala que muchas fábricas textiles aún están en etapas tempranas de automatización, por lo que es clave ofrecer soluciones escalables. Destaca que procesos como el pedido de insumos siguen siendo manuales y generan errores. Ve a DyeTex como una oportunidad valiosa, siempre que sea integrable y fácil de usar desde etapas tempranas del flujo productivo. Están abiertos a co-desarrollar o integrar bajo modelo white-label y muestran interés en participar en pilotos con fábricas que inician su transformación digital.
+
+**Entrevista #5 - Datos del Entrevistado** 
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              | Agustín Ventura   |
+| Edad                | 27 años           |
+| Distrito            | Lince             |
+| Tiempo de duración  | 03:34 minutos     |
+| Momento de inicio   | 00:55             |
+
+**Detalles de la entrevista:** <br>
+<img src="/assets/imagenEntrevistaAgustin.png" alt="Entrevista 5" width="500"> 
+</a>
+
+**Resumen de la entrevista:** <br>
+Afonso, CTO (Director de Tecnología) de una startup que digitaliza procesos en pymes industriales, comenta que su plataforma se basa en IoT y monitoreo en tiempo real, con experiencia en sectores como textil, alimentos y manufactura. Señala que en el rubro textil aún se depende de medios manuales como papel o WhatsApp para tareas clave como el pedido de insumos, lo que genera ineficiencias. Considera que muchos clientes no detectan fallas en sus máquinas hasta que ya es muy tarde. Cree que DyeTex tendría gran potencial si abarca desde el pedido de materiales hasta el monitoreo de eficiencia por máquina. Ve esenciales funcionalidades como trazabilidad, reportes visuales y conexión con ERP. Prefiere alianzas tipo co-branding o integraciones ágiles, y advierte barreras como la falta de personal capacitado y la desconfianza inicial. Está interesado en co-desarrollar la solución y ofrecer fábricas aliadas para pruebas piloto.
+
+**Entrevista #6 - Datos del Entrevistado** 
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              | Alfonso Rodríguez |
+| Edad                | 28 años           |
+| Distrito            | No especificado   |
+| Tiempo de duración  | 03:44 minutos     |
+| Momento de inicio   | 00:50             |
+
+**Detalles de la entrevista:** <br>
+<img src="/assets/imagenEntrevistaAlfonso.png" alt="Entrevista 6" width="500"> 
+</a>
+
+**Resumen de la entrevista:** <br>
+Agustín, especialista en automatización industrial, menciona que han implementado soluciones IoT en plantas textiles, aunque enfrentan barreras como la resistencia al cambio y la falta de infraestructura. Señala que procesos clave como el pedido de insumos siguen siendo manuales, generando cuellos de botella. Considera que una plataforma como DyeTex tiene alto potencial si es escalable y se adapta a fábricas en etapas tempranas de automatización. Resalta la importancia de funcionalidades como alertas, trazabilidad, visualización simple y compatibilidad con hardware básico. Prefieren alianzas flexibles como el co-desarrollo y están interesados en participar en pilotos con clientes que buscan iniciarse en la digitalización industria.
 
 #### 2.2.3. Análisis de entrevistas
 
