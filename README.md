@@ -685,6 +685,50 @@ Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, 
 
 ### 3.4. Product Backlog
 
+## Product Backlog
+
+| Orden | User Story ID | Título | Descripción | Prioridad | Story Points |
+|-------|----------------|--------|-------------|-----------|---------------|
+| 1 | US01 | Visualización en tiempo real de métricas operativas por máquina | Como técnico de mantenimiento, quiero visualizar en tiempo real las métricas de operación de cada máquina para detectar anomalías sin necesidad de inspección física. | Alta | 8 |
+| 2 | US02 | Panel de control general para monitoreo de máquinas | Como jefa de planta, quiero tener una vista general del estado de todas las máquinas desde un panel principal para tener el control total de la planta. | Alta | 8 |
+| 3 | US03 | Alertas automáticas ante incidentes en maquinaria | Como operador, quiero recibir notificaciones automáticas cuando se detecten incidentes en las máquinas para tomar acción rápidamente. | Alta | 8 |
+| 4 | US04 | Consulta del historial de fallas y mantenimientos | Como técnico de mantenimiento, quiero consultar el historial de fallas y mantenimientos de cada máquina para entender su comportamiento y prevenir futuras averías. | Alta | 8 |
+| 5 | US05 | Reportes periódicos para evaluación del rendimiento | Como jefa de planta, quiero acceder a reportes diarios y semanales del rendimiento de las máquinas para tomar decisiones basadas en datos reales. | Alta | 5 |
+| 6 | US06 | Recomendaciones para mantenimiento preventivo | Como técnico de mantenimiento, quiero recibir recomendaciones sobre cuándo realizar mantenimientos preventivos para asegurar el buen funcionamiento de las máquinas. | Media | 5 |
+| 7 | US07 | Detección de paradas de máquinas y sus causas | Como jefa de planta, quiero saber cuándo una máquina está detenida y por qué para actuar rápidamente y evitar retrasos en la producción. | Alta | 5 |
+| 8 | US08 | Dashboard en tiempo real de eficiencia por máquina | Como Gerente de Planta quiero visualizar un dashboard con la eficiencia de cada máquina en tiempo real para tomar decisiones estratégicas de mejora en la producción. | Alta | 8 |
+| 9 | US09 | Alertas sobre cuellos de botella en producción | Como Gerente de Planta, quiero recibir alertas sobre cuellos de botella en producción para tomar decisiones correctivas con rapidez. | Alta | 8 |
+| 10 | US10 | Visualización del estado funcional de máquinas a cargo | Como Operador Técnico, quiero ver el estado de funcionamiento de las máquinas a mi cargo para poder monitorearlas y actuar ante fallas o anomalías. | Alta | 8 |
+| 11 | US11 | Reporte de anomalías observadas en máquinas | Como Operador Técnico, quiero reportar anomalías observadas en la máquina, para que el equipo técnico pueda dar seguimiento y solucionarlas. | Alta | 8 |
+| 12 | US12 | Acceso a API documentada para integración tecnológica | Como proveedor tecnológico, quiero acceder a una API documentada de DyeTex, para poder integrar nuestras soluciones de análisis y monitoreo. | Alta | 8 |
+| 13 | US13 | Configuración de Webhooks para eventos críticos | Como proveedor tecnológico, quiero configurar Webhooks para recibir eventos importantes, para sincronizar acciones con nuestros sistemas externos. | Alta | 8 |
+| 14 | US14 | Gestión de accesos basada en roles | Como administrador del sistema, quiero que los usuarios tengan acceso según su rol para gestionar los permisos de manera eficiente. | Media | 5 |
+| 15 | US15 | Almacenamiento histórico de controles de calidad | Como inspector de calidad, quiero almacenar los resultados de los controles realizados en cada lote de producción para mantener un registro histórico. | Media | 5 |
+| 16 | US16 | Recordatorios automatizados para mantenimiento | Como jefe de mantenimiento, quiero automatizar los recordatorios para el mantenimiento preventivo de las máquinas, para garantizar que no se pasen por alto. | Media | 5 |
+| 17 | US17 | Ajuste de turnos según demanda de producción | Como supervisor, quiero poder ajustar los turnos de trabajo según la demanda de producción, para optimizar los recursos humanos. | Alta | 8 |
+| 18 | US18 | Integración de la plataforma con el ERP | Como responsable de IT, quiero integrar la plataforma con nuestro sistema ERP, para centralizar la información y evitar duplicación de datos. | Alta | 8 |
+| 19 | US19 | Análisis predictivo para anticipar fallas | Como ingeniero de mantenimiento, quiero que el sistema utilice análisis predictivo para predecir fallas de maquinaria, para programar intervenciones antes de que ocurran. | Alta | 8 |
+| 20 | US20 | Accesibilidad multiplataforma de la plataforma | Como supervisor de planta, quiero que la plataforma sea accesible desde diferentes dispositivos, para monitorear la producción desde cualquier lugar. | Alta | 8 |
+| 21 | US21 | Dashboard unificado con KPIs clave | Como director de operaciones, quiero ver los KPIs clave de la planta en un solo dashboard, para tener una visión clara del desempeño general. | Alta | 8 |
+| 22 | US22 | Gestión eficiente de repuestos críticos | Como responsable de almacén, quiero gestionar los repuestos críticos de manera eficiente, para garantizar que siempre estén disponibles cuando se necesiten. | Media | 8 |
+| 23 | US23 | Auditoría de accesos a la plataforma | Como administrador de seguridad, quiero auditar los accesos a la plataforma, para garantizar que solo los usuarios autorizados puedan acceder a la información sensible. | Media | 8 |
+| 24 | US24 | Tutoriales interactivos para nuevos usuarios | Como encargado de formación, quiero que la plataforma ofrezca tutoriales interactivos para los nuevos usuarios, para que puedan aprender rápidamente a utilizarla. | Alta | 8 |
+| 25 | US25 | Comparación de eficiencia en producción por periodos | Como gerente de producción, quiero acceder al historial completo de producción, para poder comparar la eficiencia en diferentes periodos. | Alta | 8 |
+| 26 | US26 | Automatización del mantenimiento ante detección de retrasos | Como técnico de mantenimiento, quiero que el sistema reprograma automáticamente las tareas de mantenimiento cuando se detectan retrasos, para asegurar que no se pasen por alto. | Alta | 8 |
+| 27 | US27 | Análisis histórico comparativo de datos de planta | Como analista de producción, quiero acceder a los datos históricos de cada planta para hacer un análisis comparativo entre ellas. | Alta | 8 |
+| 28 | US28 | Gestión de fallas en tiempo real para minimizar inactividad | Como técnico de soporte, quiero gestionar las fallas de los equipos en tiempo real para minimizar el tiempo de inactividad de la planta. | Alta | 8 |
+| 29 | US29 | Comparación de rendimiento entre turnos | Como supervisor de planta, quiero comparar el rendimiento entre turnos, para identificar cuál es más productivo y analizar posibles mejoras. | Alta | 8 |
+| 30 | TS30 | Recuperar Datos de Máquina vía API | Como desarrollador, quiero recuperar los datos de una máquina específica mediante una solicitud GET, para poder mostrar su estado en la interfaz de usuario. | Alta | 5 |
+| 31 | TS31 | Enviar Alerta de Fallo de Máquina | Como desarrollador, quiero implementar la lógica para enviar una alerta cuando se detecte un fallo en una máquina, para notificar al personal de mantenimiento. | Media | 5
+| 32 | US32 | Registro y evaluación de paradas programadas | Como jefe de mantenimiento, quiero registrar las paradas programadas, para diferenciarlas de las no planificadas y evaluar la eficacia del cronograma. | Alta | 8
+| 33 | TS33 | Almacenar Historial de Rendimiento | Como desarrollador, quiero implementar la funcionalidad para almacenar el historial de rendimiento de las máquinas en la base de datos, para su posterior análisis. | Media | 5
+| 34 | TS34 | Calcular Recomendaciones de Mantenimiento | Como desarrollador, quiero implementar el algoritmo para calcular las recomendaciones de mantenimiento preventivo, basándome en el historial de la máquina y otros factores. | Alta | 8
+| 35 | TS35 | Generar Reporte de Producción | Como desarrollador, quiero crear la funcionalidad para generar reportes de producción que muestren métricas clave, para que los gerentes puedan analizar el desempeño. | Media | 3
+| 36 | TS36 | Mostrar Estado de la Máquina en Tiempo Real | Como desarrollador, quiero implementar la interfaz para mostrar el estado actual de las máquinas a los operadores. | Alta | 8
+| 37 | TS37 | Integrar Sensor de Temperatura vía API | Como desarrollador, quiero implementar la integración con un sensor de temperatura externo mediante una API, para recibir datos de temperatura en tiempo real. | Alta | 8
+| 38 | TS38 | Implementar Autenticación de Usuario | Como desarrollador, quiero implementar la autenticación de usuarios en la plataforma, para asegurar que solo los usuarios autorizados puedan acceder al sistema. | Alta | 8
+| 39 | TS39 | Crear Tutorial Interactivo | Como desarrollador, quiero crear un tutorial interactivo para guiar a los nuevos usuarios en el uso de la plataforma. | Media | 5
+| 40 | TS40 | Almacenar Resultados de Control de Calidad | Como desarrollador, quiero implementar la funcionalidad para almacenar los resultados de las inspecciones de control de calidad. | Media | 3
 <hr>
 
 ## Capítulo IV: Product Design
