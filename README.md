@@ -562,29 +562,29 @@ Las pautas generales de estilo de DyeTex están diseñadas para proyectar una id
 **Branding:** La paleta de colores seleccionada comunica confiabilidad, precisión y eficiencia operativa. El color principal, #003366, un azul profundo y elegante, representa estabilidad, profesionalismo y tecnología. Este color funciona como base sólida para la interfaz, asegurando un contraste claro y favoreciendo la legibilidad. Los colores neutros #b3b3b3, #e6e6e6 y #ffffff se emplean para estructuras, fondos y secciones informativas, facilitando una navegación intuitiva y limpia. Este equilibrio cromático permite que la atención del usuario se dirija a lo más relevante: el monitoreo de sus máquinas y la toma de decisiones basadas en datos.
 <br>
 **Paleta de colores primaria:** <br>
-<img src="/assets/primaryPaletteColors.png" alt="Palette 1" width="500">
+<img src="/assets/primaryPaletteColors.png" alt="Palette 1" width="500" style="border-radius: 12px">
 </a> 
 <br>
 **Paleta de colores secundaria:** <br>
-<img src="/assets/secondaryPaletteColors1.png" alt="Palette 2" width="400">
+<img src="/assets/secondaryPaletteColors1.png" alt="Palette 2" width="400" style="border-radius: 12px">
 </a> <br>
 
 **Typography:** Se ha elegido la tipografía Prompt debido a su claridad, modernidad y legibilidad en todos los tamaños de pantalla. Las diferentes variaciones de peso (ExtraBold, SemiBold, Medium, Regular) permiten crear una jerarquía clara y aseguran que los usuarios puedan navegar fácilmente por la interfaz. <br>
 <br>
 <br>
-<img src="/assets/typographyDyeTex.png" alt="Typography" width="400">
+<img src="/assets/typographyDyeTex.png" alt="Typography" width="400" style="border-radius: 12px">
 </a> <br>
 
 **Icons:** Se emplean íconos con un estilo lineal y simple para facilitar una comunicación clara y rápida. Su diseño distintivo permite que sean identificados fácilmente por los usuarios, manteniendo una apariencia coherente con el estilo moderno de la plataforma. <br>
 <br>
 <br>
-<img src="/assets/icons.png" alt="Icons" width="400">
+<img src="/assets/icons.png" alt="Icons" width="400" style="border-radius: 12px">
 </a> <br>
 
 **Buttons:** Los botones están diseñados para ser altamente visibles y accesibles. Se utilizan colores de la paleta de colores primaria y secundaria como el azul, para las acciones principales, mientras que los bordes redondeados mejoran la usabilidad en dispositivos táctiles. <br>
 <br>
 <br>
-<img src="/assets/WhiteButtons.png" alt="Buttons" width="400">
+<img src="/assets/WhiteButtons.png" alt="Buttons" width="400" style="border-radius: 12px">
 </a> <br>
 
 **Spacing and Layout:** Se emplea una estructura de espaciado coherente y equilibrada que asegura una presentación limpia del contenido y una experiencia de usuario fluida. Mantener distancias adecuadas entre los distintos elementos permite una lectura más cómoda, facilita la interacción, especialmente en dispositivos con pantallas táctiles, y guía la atención del usuario hacia las acciones más importantes.
@@ -592,8 +592,23 @@ Las pautas generales de estilo de DyeTex están diseñadas para proyectar una id
 
 #### 4.1.2. Web Style Guidelines
 Las pautas de estilo web de DyeTex están diseñadas con un enfoque en la usabilidad y accesibilidad, considerando especialmente los entornos industriales donde el acceso rápido y eficiente a la información es clave. <br>
-**Color Accessibility:** La selección de colores en DyeTex cumple con criterios de contraste visual adecuados, alineándose con las pautas de accesibilidad como las WCAG. Esto asegura que todos los textos sean legibles frente a sus fondos, e incluye versiones de alto contraste para operadores o usuarios con dificultades visuales. <br>
+
 **Responsive Design:** Toda la plataforma de DyeTex está optimizada para ser completamente responsive, lo que permite que los usuarios puedan interactuar fácilmente desde cualquier dispositivo, ya sea una computadora en planta, una tablet o un smartphone, sin comprometer la experiencia de uso.
+
+**Color Accessibility:** La selección de colores en DyeTex cumple con criterios de contraste visual adecuados, alineándose con las pautas de accesibilidad como las WCAG. Esto asegura que todos los textos sean legibles frente a sus fondos, e incluye versiones de alto contraste para operadores o usuarios con dificultades visuales. <br>
+
+<img src="/assets/webStyleGuidelines.png" alt="WebStyleColors" width="500" style="border-radius: 12px">
+</a> <br>
+
+**Hover and Active States:** Los botones, enlaces e iconos cuentan con estados visuales bien definidos al pasar el cursor (hover) y al hacer clic (active), lo que brinda una retroalimentación clara al usuario. Esta característica es clave para mejorar la usabilidad y minimizar posibles errores de interacción.
+
+<img src="/assets/buttonsWebStyleGuidelines.png" alt="WebStyleButtons" width="500" style="border-radius: 12px">
+</a> <br>
+**Optimización del Rendimiento:** Se prioriza el uso de diseños ligeros que aseguren tiempos de carga rápidos, empleando imágenes y recursos optimizados. Esta eficiencia es fundamental para mantener una experiencia fluida en el ritmo acelerado de un entorno gastronómico.
+
+**Navegación e Interactividad:** La estructura de navegación es intuitiva, con accesos directos a funciones clave y un uso mínimo de submenús. Los elementos interactivos ofrecen retroalimentación visual y táctil, lo que mejora la interacción y la claridad para el usuario.
+
+**Consistencia en los Componentes:** La interfaz utiliza componentes reutilizables y uniformes, como botones, tarjetas y formularios, para garantizar una experiencia coherente en toda la plataforma. Esto no solo mejora la usabilidad, sino que también facilita el mantenimiento y la escalabilidad del sistema.
 
 ### 4.2. Information Architecture
 
