@@ -724,11 +724,72 @@ Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, 
 
 #### 2.3.2. User Task Matrix
 
-<p align="center">
-    <img src="./assets/User-Task-Matrix.png" alt="User-Task-Matrix" width="700">
-</p>
+Nuestro User Task Matrix describe las principales tareas realizadas por nuestros dos perfiles claves que son Luis (Gerente de Operaciones) y Carla (Representante Técnica). Este refleja la frecuencia e importancia de cada actividad en la gestión y soporte de maquinaria textil inteligente, ayudando a identificar prioridades funcionales según las necesidades reales de cada usuario.
 
-[Visualizar User Task Matrix](https://www.canva.com/design/DAGlIhgYMpY/Fpbxe2rTfEiNVMXE1MlrIA/edit?utm_content=DAGlIhgYMpY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+| **Tareas** | **Luis (Gerente de Operaciones)** | **Carla (Representante Técnica)** |
+|-------------------------------|------------------------------|-----------------------------|
+| Monitoreo del estado de las máquinas | Frecuente / Crítica | Ocasional / Importante |
+| Análisis de reportes de eficiencia | Frecuente / Crítica | Ocasional / Importante |
+| Planificación de mantenimiento preventivo | Frecuente / Crítica | A veces / Importante |
+| Supervisión de productividad diaria | Frecuente / Crítica | Nunca / Menor |
+| Coordinación con el área técnica o proveedores | Ocasional / Importante | Frecuente / Crítica |
+| Presentación de resultados a gerencia | Ocasional / Importante | Nunca / Menor |
+| Evaluación de nuevas tecnologías para optimización | A veces / Importante | Frecuente / Crítica |
+| Instalación y configuración de sensores IoT | Nunca / Menor | Frecuente / Crítica |
+| Capacitación del personal en nuevas tecnologías | A veces / Importante | Ocasional / Importante |
+| Recolección de feedback del cliente | Nunca / Menor | Frecuente / Crítica |
+| Soporte técnico post-venta | Nunca / Menor | Frecuente / Crítica |
+| Comparación de costos operativos antes y después de la implementación | Ocasional / Importante | A veces / Importante |
+| Acceso remoto al monitoreo de planta | Frecuente / Importante | Ocasional / Importante |
+| Coordinación de pilotos y demos | A veces / Moderada | Frecuente / Crítica |
+| Generación de informes automáticos | Ocasional / Importante | A veces / Importante |
+
+Explicando las tareas:
+
+#### Monitoreo del estado de las máquinas
+Permite visualizar el funcionamiento en tiempo real de cada máquina, detectar anomalías y tomar decisiones inmediatas. Es crítico para Luis y útil para Carla cuando requiere intervención técnica puntual.
+
+#### Análisis de reportes de eficiencia
+Proporciona datos sobre producción, consumo energético y desempeño. Es una tarea frecuente para Luis que le permite evaluar objetivos, mientras Carla lo consulta para ajustes técnicos.
+
+#### Planificación de mantenimiento preventivo
+Ayuda a evitar fallos imprevistos mediante tareas programadas. Luis la realiza constantemente para optimizar recursos; Carla participa ocasionalmente para alinear acciones técnicas.
+
+#### Supervisión de productividad diaria
+Involucra el seguimiento del rendimiento por turnos, líneas o máquinas. Es responsabilidad principal de Luis, pero no se encuentra en el foco de Carla.
+
+#### Coordinación con el área técnica o proveedores
+Requiere interacción fluida entre los roles operativos y técnicos para resolver problemas o implementar mejoras. Carla tiene una participación crítica y Luis la realiza cuando se requieren decisiones de alto nivel.
+
+#### Presentación de resultados a gerencia
+Luis prepara informes ejecutivos para justificar inversiones o mostrar avances. Carla no realiza esta tarea directamente.
+
+#### Evaluación de nuevas tecnologías para optimización
+Implica la exploración de soluciones innovadoras como sensores IoT o software analítico. Carla está directamente involucrada en pruebas y demos, mientras Luis da el visto bueno estratégico.
+
+#### Instalación y configuración de sensores IoT
+Tarea exclusivamente técnica, esencial para Carla durante la puesta en marcha o ampliación del sistema. No es parte de las funciones de Luis.
+
+#### Capacitación del personal en nuevas tecnologías
+Se refiere a entrenar operadores o equipos en el uso correcto del sistema DyeTex. Luis la promueve, y Carla puede dictar sesiones o resolver dudas.
+
+#### Recolección de feedback del cliente
+Incluye recibir opiniones del personal que usa las máquinas o la plataforma. Carla lo hace frecuentemente para identificar mejoras; Luis rara vez participa directamente.
+
+#### Soporte técnico post-venta
+Implica brindar asistencia tras la implementación del sistema. Es parte fundamental del rol de Carla, mientras que Luis se enfoca más en la gestión general.
+
+#### Comparación de costos operativos antes y después de la implementación
+Permite medir el impacto económico del sistema. Es relevante para Luis en reportes estratégicos y ocasional para Carla en evaluaciones técnicas.
+
+#### Acceso remoto al monitoreo de planta
+Función que ofrece supervisión desde cualquier lugar. Luis la usa para tomar decisiones en tiempo real y Carla para seguimiento técnico puntual.
+
+#### Coordinación de pilotos y demos
+Actividad donde Carla lidera pruebas en planta y Luis colabora validando resultados con stakeholders.
+
+#### Generación de informes automáticos
+Automatiza la creación de reportes operativos o técnicos. Luis los usa como soporte en reuniones y Carla como base para análisis de campo.
 
 #### 2.3.3. User Journey Mapping
 
@@ -737,10 +798,18 @@ Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, 
 </p>
 
 <p align="center">
-    <img src="./assets/Journey map Usuario 2.png" alt="Journey Map 2" width="600">
+    <img src="./assets/Journey Map Usuario 2.png" alt="Journey Map 2" width="600">
 </p>
 
 #### 2.3.4. Empathy Mapping
+
+<p align="center">
+    <img src="./assets/Empathy Map 1.png" alt="Empathy Map 1" width="600">
+</p>
+
+<p align="center">
+    <img src="./assets/Empathy Map 2.png" alt="Empathy Map 2" width="600">
+</p>
 
 #### 2.3.5. As-is Scenario Mapping
 
