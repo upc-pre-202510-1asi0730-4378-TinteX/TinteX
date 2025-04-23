@@ -788,6 +788,17 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 
 #### 4.6.2. Software Architecture Container Diagrams
 
+> [!NOTE]  
+> En este diagrama encontrarás:
+> - Fronted Application: Página que presenta el producto.  
+> - SinglePage Application: Frontend donde los usuarios interactúan con la aplicación.  
+> - API: Conexión entre el frontend y backend.  
+> - Bounded Contexts: Las funcionalidades que el sistema proporciona a los usuarios.
+
+<p align="center">
+  <img src="./assets/Container Diagram.png" alt="Container Diagram" width="1000">
+</p>
+
 #### 4.6.3. Software Architecture Components Diagrams
 
 ### 4.7. Software Object-Oriented Design
