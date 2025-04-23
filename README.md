@@ -585,9 +585,10 @@ Segmento 1: Entrevista #1 - Datos del Entrevistado
 | Momento de inicio  | 00:00           |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/s1_interview4.png" alt="Entrevista 1" width="500"> 
+<img src="/assets/s1_interview1.png" alt="Entrevista 1" width="500"> 
 </a>
-
+<br>
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EVFpcS23HvlDsP1GoyQ9-BEBUQBy8sOGp8gD0ohzLI_utA?e=RfkRuZ)
 
 **Resumen de la entrevista:** 
 
@@ -612,6 +613,9 @@ Para finalizar, menciona que el principal aporte sería en **mejorar los proceso
 **Detalles de la entrevista:** <br>
 <img src="/assets/imagenEntrevistaMery.png" alt="Entrevista 2" width="500"> 
 </a>
+<br>
+
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EeWbZk1-SRNAj2BxpYH44DMBi9Z4AygGmlm78jzZOQNrqg?e=4pvfDP)
 
 **Resumen de la entrevista:** <br>
 Mery, una trabajadora la cual es responsable de producción de la empresa textil Fibras del Sur, indicó que actualmente el monitoreo del rendimiento de sus máquinas se realiza de forma manual, mediante hojas de Excel y supervisión directa. Enfrentan paradas frecuentes debido a errores humanos y la falta de alertas tempranas. Consideran que implementar una solución IoT sería clave para comenzar con la automatización, sobre todo si permite llevar el control desde el momento en que se realiza el pedido de insumos, ya que esa etapa aún es manual y propensa a errores. Esperan que la herramienta ayude a reducir los tiempos muertos y mejorar la eficiencia operativa.
@@ -629,6 +633,9 @@ Mery, una trabajadora la cual es responsable de producción de la empresa textil
 **Detalles de la entrevista:** <br>
 <img src="/assets/imagenEntrevistaJorge.png" alt="Entrevista 3" width="500"> 
 </a>
+<br>
+
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EabKpNkSUmdDslvBx2ceqGABHoNko2f4oRQc_H1S7fLOFw?e=Z8BGup)
 
 **Resumen de la entrevista:** <br>
 Jorge, jefe de planta, indica que actualmente el monitoreo del rendimiento de las máquinas es manual, mediante reportes en hojas de cálculo llenados por operarios. Las fallas ocurren una o dos veces por semana y afectan directamente la producción, sobre todo en pedidos grandes. El mantenimiento es preventivo, pero depende de que los operarios detecten señales anómalas, lo cual no siempre es confiable. Considera que una solución como DyeTex sería muy útil, especialmente si puede implementarse en fábricas que están comenzando a automatizar. Valora especialmente que la plataforma permita registrar el pedido de insumos de forma digital, ya que esa etapa sigue siendo manual y propensa a errores. También espera que sea fácil de usar y esté orientada a reducir pérdidas y mejorar la eficiencia operativa.
@@ -648,6 +655,9 @@ Jorge, jefe de planta, indica que actualmente el monitoreo del rendimiento de la
 **Detalles de la entrevista:** <br>
 <img src="/assets/imagenEntrevistaGonzalo.png" alt="Entrevista 4" width="500"> 
 </a>
+<br>
+
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EWjXOKXdyHdFg4-WYOHokY4BS_a-dFbtfjp9RBeNOCwx1Q?e=jaHKdk)
 
 **Resumen de la entrevista:** <br>
 Gonzalo, director técnico, indica que su empresa ofrece soluciones como tableros SCADA y sensores IoT, y que ya han trabajado con monitoreo en tiempo real y mantenimiento predictivo. Señala que muchas fábricas textiles aún están en etapas tempranas de automatización, por lo que es clave ofrecer soluciones escalables. Destaca que procesos como el pedido de insumos siguen siendo manuales y generan errores. Ve a DyeTex como una oportunidad valiosa, siempre que sea integrable y fácil de usar desde etapas tempranas del flujo productivo. Están abiertos a co-desarrollar o integrar bajo modelo white-label y muestran interés en participar en pilotos con fábricas que inician su transformación digital.
@@ -665,6 +675,9 @@ Gonzalo, director técnico, indica que su empresa ofrece soluciones como tablero
 **Detalles de la entrevista:** <br>
 <img src="/assets/imagenEntrevistaAgustin.png" alt="Entrevista 5" width="500"> 
 </a>
+<br>
+
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EQS1hpXokxRIidntEDa515AB9jqflMhLgI0XDz6yfdzraw?e=ZBE84H)
 
 **Resumen de la entrevista:** <br>
 Afonso, CTO (Director de Tecnología) de una startup que digitaliza procesos en pymes industriales, comenta que su plataforma se basa en IoT y monitoreo en tiempo real, con experiencia en sectores como textil, alimentos y manufactura. Señala que en el rubro textil aún se depende de medios manuales como papel o WhatsApp para tareas clave como el pedido de insumos, lo que genera ineficiencias. Considera que muchos clientes no detectan fallas en sus máquinas hasta que ya es muy tarde. Cree que DyeTex tendría gran potencial si abarca desde el pedido de materiales hasta el monitoreo de eficiencia por máquina. Ve esenciales funcionalidades como trazabilidad, reportes visuales y conexión con ERP. Prefiere alianzas tipo co-branding o integraciones ágiles, y advierte barreras como la falta de personal capacitado y la desconfianza inicial. Está interesado en co-desarrollar la solución y ofrecer fábricas aliadas para pruebas piloto.
@@ -682,6 +695,9 @@ Afonso, CTO (Director de Tecnología) de una startup que digitaliza procesos en 
 **Detalles de la entrevista:** <br>
 <img src="/assets/imagenEntrevistaAlfonso.png" alt="Entrevista 6" width="500"> 
 </a>
+<br>
+
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/ESJQX2mAoK9Fl5tkSSed_mcBjKYaL7Bk28Yjh8fJRtyZCA)
 
 **Resumen de la entrevista:** <br>
 Agustín, especialista en automatización industrial, menciona que han implementado soluciones IoT en plantas textiles, aunque enfrentan barreras como la resistencia al cambio y la falta de infraestructura. Señala que procesos clave como el pedido de insumos siguen siendo manuales, generando cuellos de botella. Considera que una plataforma como DyeTex tiene alto potencial si es escalable y se adapta a fábricas en etapas tempranas de automatización. Resalta la importancia de funcionalidades como alertas, trazabilidad, visualización simple y compatibilidad con hardware básico. Prefieren alianzas flexibles como el co-desarrollo y están interesados en participar en pilotos con clientes que buscan iniciarse en la digitalización industria.
