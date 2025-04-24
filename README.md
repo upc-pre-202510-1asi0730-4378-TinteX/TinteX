@@ -1127,6 +1127,18 @@ Contiene un canal interno para que los trabajadores envíen notas o sugerencias,
 
 #### 4.2.4. Searching Systems
 
+| **Nombre del Filtro**               | **Descripción** |
+|-------------------------------------|-----------------|
+| **Buscar máquina o sensor**         | Herramienta para encontrar rápidamente una máquina o sensor específico por su nombre o ubicación dentro de la planta. |
+| **Buscar por parámetros**           | Permite filtrar activos según variables como temperatura, vibración, velocidad u otros parámetros operativos clave. |
+| **Buscar historial de alertas**     | Opción para buscar incidencias anteriores por tipo de alerta, severidad o fecha específica, facilitando el análisis de patrones. |
+| **Buscar mantenimientos anteriores**| Permite localizar registros de mantenimiento por tipo de intervención, activo involucrado o técnico responsable. |
+| **Filtros por turnos**              | Visualiza datos operativos, alertas o reportes asociados a turnos específicos para identificar rendimientos por jornada. |
+| **Buscar por inventario**           | Herramienta para encontrar repuestos o piezas críticas según nombre, código o nivel de stock disponible. |
+| **Buscar tareas pendientes**        | Permite filtrar checklist o sugerencias de mantenimiento pendientes de ejecución por activo o prioridad. |
+| **Filtros de estado de producción** | Filtra activos en producción, inactivos o con fallos detectados, ayudando a visualizar el estado global de la planta. |
+| **Buscar integraciones configuradas**| Permite a usuarios IT ubicar módulos o servicios externos ya vinculados mediante webhooks o conexión ERP. |
+
 #### 4.2.5. Navigation Systems
 
 ### 4.3. Landing Page UI Design
