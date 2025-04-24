@@ -834,6 +834,16 @@ Automatiza la creación de reportes operativos o técnicos. Luis los usa como so
 
 #### 2.3.5. As-is Scenario Mapping
 
+<p align="center">
+    <img src="./assets/As-Is Scenario Mapping.png" alt="As-is Scenario Mapping" width="1500">
+</p>
+
+<p align="center">
+    <img src="./assets/As-Is Scenario Mapping 2.png" alt="As-is Scenario Mapping 2" width="1500">
+</p>
+
+[Visualizar As-Is Scenario Mapping](https://miro.com/app/board/uXjVIA_tHso=/?share_link_id=181490354561)
+
 ### 2.4. Ubiquitous Language
 
 <hr>
