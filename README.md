@@ -594,7 +594,6 @@ Las pautas generales de estilo de DyeTex están diseñadas para proyectar una id
 Las pautas de estilo web de DyeTex están diseñadas con un enfoque en la usabilidad y accesibilidad, considerando especialmente los entornos industriales donde el acceso rápido y eficiente a la información es clave. <br>
 
 **Responsive Design:** Toda la plataforma de DyeTex está optimizada para ser completamente responsive, lo que permite que los usuarios puedan interactuar fácilmente desde cualquier dispositivo, ya sea una computadora en planta, una tablet o un smartphone, sin comprometer la experiencia de uso.
-
 **Color Accessibility:** La selección de colores en DyeTex cumple con criterios de contraste visual adecuados, alineándose con las pautas de accesibilidad como las WCAG. Esto asegura que todos los textos sean legibles frente a sus fondos, e incluye versiones de alto contraste para operadores o usuarios con dificultades visuales. <br>
 
 <img src="/assets/styleGuidelines/webStyleGuidelines.png" alt="WebStyleColors" width="500">
@@ -602,7 +601,7 @@ Las pautas de estilo web de DyeTex están diseñadas con un enfoque en la usabil
 
 **Hover and Active States:** Los botones, enlaces e iconos cuentan con estados visuales bien definidos al pasar el cursor (hover) y al hacer clic (active), lo que brinda una retroalimentación clara al usuario. Esta característica es clave para mejorar la usabilidad y minimizar posibles errores de interacción.
 
-<img src="/assets/styleGuidelines/buttonsWebStyleGuidelines.png" alt="WebStyleButtons" width="500">
+<img src="/assets/styleGuidelines/buttonsWebStyleGuidelines.png" alt="WebStyleButtons" width="350">
 </a> <br>
 **Optimización del Rendimiento:** Se prioriza el uso de diseños ligeros que aseguren tiempos de carga rápidos, empleando imágenes y recursos optimizados. Esta eficiencia es fundamental para mantener una experiencia fluida en el ritmo acelerado de un entorno gastronómico.
 
