@@ -581,7 +581,7 @@ Las pautas generales de estilo de DyeTex están diseñadas para proyectar una id
 </a> 
 <br>
 **Paleta de colores secundaria:** <br>
-<img src="/assets/styleGuidelines/secondaryPaletteColors.png" alt="Palette 2" width="400">
+<img src="/assets/styleGuidelines/secondaryPaletteColors1.png" alt="Palette 2" width="400">
 </a> <br>
 
 **Typography:** Se ha elegido la tipografía Prompt debido a su claridad, modernidad y legibilidad en todos los tamaños de pantalla. Las diferentes variaciones de peso (ExtraBold, SemiBold, Medium, Regular) permiten crear una jerarquía clara y aseguran que los usuarios puedan navegar fácilmente por la interfaz. <br>
