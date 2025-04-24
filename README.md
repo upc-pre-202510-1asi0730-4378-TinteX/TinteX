@@ -1122,7 +1122,51 @@ Contiene un canal interno para que los trabajadores envíen notas o sugerencias,
 
 #### 4.4.1. Web Applications Wireframes.
 
+Se muestra el procedimiento de inicio de sesión y registro
+<p align="center">
+  <img src="./assets/wireframes/w1.png" alt="w1" width="800">
+</p>
+Se muestran la pantalla principal (home screen) desde donde se pueden acceder a todas las funciones. También configuraciones de la app, alertas y notificaciones, el perfil y los datos que pueden ser editables y un boton para descargar un reporte general.
+<p align="center">
+  <img src="./assets/wireframes/w2.png" alt="w2" width="800">
+</p>
+A continuación se ve las pantallas correspondientes a los usuarios registrados y el procesos para registrar uno nuevo.
+<p align="center">
+  <img src="./assets/wireframes/w3.png" alt="w3" width="350">
+</p>
+Las siguientes pantallas corresponden al proceso de mantenimiento predictivo y lista de tareas.
+<p align="center">
+  <img src="./assets/wireframes/w4.png" alt="w4" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/wireframes/w5.png" alt="w5" width="350">
+</p>
+Estas pantallas muestran el partado donde se controlan las máquinas, donde se ven sus parámetros  y otros detalles como su historial u opciones para reportar algún comportamiento anómalo. Asimismo, se muestra el proceso para registrar una nueva máquina.
+<p align="center">
+  <img src="./assets/wireframes/w6.png" alt="w6" width="800">
+</p>
+<p align="center">
+  <img src="./assets/wireframes/w7.png" alt="w7" width="800">
+</p>
+
+[Link a wireframes](https://www.figma.com/design/FN4vK29L4adBmiKf0mwEsa/Untitled?node-id=0-1&t=Qawsjaqi3YzIv35B-1)
 #### 4.4.2. Web Applications Wireflow Diagrams
+<p align="center">
+  <img src="./assets/wireframes/flows1.png" alt="flows1" width="800">
+</p>
+<p align="center">
+  <img src="./assets/wireframes/flows2.png" alt="flows2" width="800">
+</p>
+<p align="center">
+  <img src="./assets/wireframes/flows3.png" alt="flows3" width="350">
+</p>
+<p align="center">
+  <img src="./assets/wireframes/flows4.png" alt="flows4" width="800">
+</p>
+<p align="center">
+  <img src="./assets/wireframes/flows5.png" alt="flows5" width="800">
+</p>
 
 #### 4.4.3. Web Applications Mock-ups
 
