@@ -603,6 +603,7 @@ Las pautas de estilo web de DyeTex están diseñadas con un enfoque en la usabil
 
 <img src="/assets/styleGuidelines/buttonsWebStyleGuidelines.png" alt="WebStyleButtons" width="350">
 </a> <br>
+
 **Optimización del Rendimiento:** Se prioriza el uso de diseños ligeros que aseguren tiempos de carga rápidos, empleando imágenes y recursos optimizados. Esta eficiencia es fundamental para mantener una experiencia fluida en el ritmo acelerado de un entorno gastronómico.
 
 **Navegación e Interactividad:** La estructura de navegación es intuitiva, con accesos directos a funciones clave y un uso mínimo de submenús. Los elementos interactivos ofrecen retroalimentación visual y táctil, lo que mejora la interacción y la claridad para el usuario.
