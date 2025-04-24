@@ -1106,6 +1106,23 @@ Contiene un canal interno para que los trabajadores envíen notas o sugerencias,
 
 #### 4.2.2. Labeling Systems
 
+| **Etiqueta**                        | **Descripción** |
+|------------------------------------|-----------------|
+| **Iniciar sesión / Registrarse**   | Opción para que el usuario acceda a la app con una cuenta existente o cree una nueva. |
+| **Panel Principal**                | Pantalla inicial tras iniciar sesión; muestra el estado resumido de todas las máquinas y sensores vinculados, incluyendo tiempo de operación y KPIs principales. |
+| **Modo oscuro**                    | Alternativa visual para operar en ambientes con baja iluminación, ideal para turnos nocturnos, que reduce la fatiga visual. |
+| **Monitoreo en Tiempo Real**       | Sección que permite observar parámetros como temperatura, vibraciones y velocidad de cada máquina, con posibilidad de aplicar filtros. |
+| **Estado de Producción**           | Visualización del flujo de trabajo en tiempo real, ayudando a mantener el control del avance productivo. |
+| **Alertas y Notificaciones**       | Área donde se agrupan todos los avisos emitidos por el sistema, desde fallos críticos hasta sugerencias de mantenimiento, con historial incluido. |
+| **Historial y Reportes**           | Registro cronológico de fallas, mantenimientos, anomalías y notificaciones, con opción de generar reportes diarios y semanales. |
+| **Mantenimiento Predictivo**       | Funcionalidad que permite anticipar fallas en base a modelos predictivos aplicados a tiempo de uso y patrones de operación. |
+| **Mantenimiento Preventivo**       | Módulo para organizar tareas programadas y checklist diario de inspección para reducir riesgos y prevenir averías. |
+| **Gestión de Inventario**          | Sección para controlar el stock de repuestos críticos y recibir alertas cuando el nivel sea bajo. |
+| **Gestión de Turnos**              | Herramienta que permite ajustar los turnos de trabajo según la demanda productiva, optimizando recursos humanos. |
+| **Integraciones y Extensibilidad** | Área para configurar integraciones con otros sistemas como el ERP corporativo y consultar la documentación para webhooks. |
+| **Seguridad y Administración de Usuarios** | Sección dedicada al control de accesos por roles y la auditoría de actividades dentro de la aplicación. |
+| **Colaboración y Feedback**        | Canal interno para que los trabajadores puedan dejar notas o comentarios registrados dentro del sistema. |
+
 #### 4.2.3. SEO Tags and Meta Tags
 
 #### 4.2.4. Searching Systems
