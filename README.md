@@ -584,7 +584,7 @@ Las pautas generales de estilo de DyeTex están diseñadas para proyectar una id
 **Buttons:** Los botones están diseñados para ser altamente visibles y accesibles. Se utilizan colores de la paleta de colores primaria y secundaria como el azul, para las acciones principales, mientras que los bordes redondeados mejoran la usabilidad en dispositivos táctiles. <br>
 <br>
 <br>
-<img src="/assets/styleGuidelines/buttons.png" alt="Buttons" width="400">
+<img src="/assets/styleGuidelines/WhiteButtons.png" alt="Buttons" width="400">
 </a> <br>
 
 **Spacing and Layout:** Se emplea una estructura de espaciado coherente y equilibrada que asegura una presentación limpia del contenido y una experiencia de usuario fluida. Mantener distancias adecuadas entre los distintos elementos permite una lectura más cómoda, facilita la interacción, especialmente en dispositivos con pantallas táctiles, y guía la atención del usuario hacia las acciones más importantes.
@@ -602,7 +602,7 @@ Las pautas de estilo web de DyeTex están diseñadas con un enfoque en la usabil
 
 **Hover and Active States:** Los botones, enlaces e iconos cuentan con estados visuales bien definidos al pasar el cursor (hover) y al hacer clic (active), lo que brinda una retroalimentación clara al usuario. Esta característica es clave para mejorar la usabilidad y minimizar posibles errores de interacción.
 
-<img src="/assets/styleGuidelines/webButtons.png" alt="WebStyleButtons" width="500">
+<img src="/assets/styleGuidelines/buttonsWebStyleGuidelines.png" alt="WebStyleButtons" width="500">
 </a> <br>
 **Optimización del Rendimiento:** Se prioriza el uso de diseños ligeros que aseguren tiempos de carga rápidos, empleando imágenes y recursos optimizados. Esta eficiencia es fundamental para mantener una experiencia fluida en el ritmo acelerado de un entorno gastronómico.
 
