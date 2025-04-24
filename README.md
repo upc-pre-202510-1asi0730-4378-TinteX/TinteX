@@ -1076,6 +1076,12 @@ Contiene un canal interno para que los trabajadores envíen notas o sugerencias,
 
 
 #### 4.2.1. Organization Systems
+| Tipo de organización        | Aplicación / Uso concreto                               | Justificación                                                                                      |
+|----------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Jerárquica (Visual Hierarchy) | Panel Principal, Dashboard de máquinas                  | Permite destacar el estado general de producción y los KPIs más relevantes, ayudando a los operadores a identificar rápidamente qué área necesita atención. |
+| Secuencial (Paso a paso)   | Mantenimiento preventivo, checklist diario de inspección | Asegura que los técnicos sigan pasos claros para prevenir fallas, reduciendo errores y tiempos de inactividad. |
+| Matricial                  | Monitoreo de parámetros en tiempo real, Inventario de repuestos | Facilita comparar múltiples variables (temperatura, vibración, stock, etc.) en una misma vista para mejorar la toma de decisiones. |
+
 
 #### 4.2.2. Labeling Systems
 
