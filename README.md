@@ -1076,12 +1076,33 @@ Contiene un canal interno para que los trabajadores envíen notas o sugerencias,
 
 
 #### 4.2.1. Organization Systems
+
+### Organización Visual del Contenido
+
 | Tipo de organización        | Aplicación / Uso concreto                               | Justificación                                                                                      |
 |----------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | Jerárquica (Visual Hierarchy) | Panel Principal, Dashboard de máquinas                  | Permite destacar el estado general de producción y los KPIs más relevantes, ayudando a los operadores a identificar rápidamente qué área necesita atención. |
 | Secuencial (Paso a paso)   | Mantenimiento preventivo, checklist diario de inspección | Asegura que los técnicos sigan pasos claros para prevenir fallas, reduciendo errores y tiempos de inactividad. |
 | Matricial                  | Monitoreo de parámetros en tiempo real, Inventario de repuestos | Facilita comparar múltiples variables (temperatura, vibración, stock, etc.) en una misma vista para mejorar la toma de decisiones. |
 
+### Esquemas de Categorización de Contenido
+| Tipo de esquema            | Aplicación / Uso concreto                                                           | Justificación                                                                                          |
+|----------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Por tópicos                | Secciones de "Monitoreo", "Mantenimiento", "Inventario", "Reportes", "Configuración" | Agrupa funcionalidades principales de manera intuitiva, facilitando el acceso rápido a cada módulo.   |
+| Cronológico                | Historial de alertas, reportes de mantenimiento                                     | Permite un seguimiento temporal preciso de incidencias y operaciones, mejorando la trazabilidad.      |
+| Según audiencia (roles)    | Diferentes accesos para operadores, supervisores, encargados de almacén, IT         | Adapta la visibilidad y funciones de la app a las necesidades específicas de cada tipo de usuario.    |
+
+ | Sección                          | Definición                                                                                                                                   | Simular                                                                 | Alternativas                                                           | Sugerencias                                                        |
+|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Panel Principal                  | Punto de partida tras iniciar sesión. Muestra el estado resumido de todas las máquinas y sensores, tiempo de trabajo diario, KPIs y consumo energético. | Al presionar cada módulo, se muestran más detalles como KPIs y consumo. | Modo oscuro para turnos nocturnos                                     | Mejorar la visibilidad y reducir la fatiga visual.                |
+| Monitoreo en Tiempo Real         | Profundiza en parámetros operativos como temperatura, vibraciones y velocidad, además del estado actual de producción.                      | Visualización de datos específicos por máquina.                        | Aplicar filtros por activo o tipo de parámetro                        | Facilitar el control del flujo de trabajo.                        |
+| Alertas y Notificaciones         | Agrupa señales automáticas del sistema: incidentes, cuellos de botella, paradas inesperadas y sugerencias de mantenimiento.                 | Visualización cronológica de alertas y recordatorios.                 | Clasificación por tipo de alerta y estado de revisión                | Historial de notificaciones para consulta posterior.              |
+| Historial y Reportes             | Registro cronológico de fallas, mantenimientos, anomalías y generación de reportes diarios/semanales.                                       | Vista por fecha, tipo de incidente o máquina.                          | Reportes simplificados por turno o entre máquinas similares           | Extraer conclusiones estratégicas y evitar pérdida de alertas físicas. |
+| Mantenimiento Predictivo y Preventivo | Modelos predictivos basados en tiempo de uso. Incluye checklist diario y reprogramación por cuellos de botella.                          | Tareas sugeridas automáticamente según el activo.                      | Sistema para reprogramar mantenimientos atrasados                    | Minimizar riesgos e ineficiencias con recomendaciones precisas.   |
+| Gestión de Inventario y Turnos   | Control del stock de repuestos y asignación dinámica de turnos según demanda productiva.                                                    | Almacén visualiza niveles críticos y supervisores modifican turnos.   | Alertas por bajo inventario y ajustes de turnos en tiempo real        | Optimizar recursos humanos y materiales.                          |
+| Integraciones y Extensibilidad   | Documentación técnica, configuración de webhooks e integración con el ERP para compartir datos en tiempo real.                              | Acceso al módulo técnico con opciones de configuración.                | Acceso para proveedores tecnológicos y equipos de IT                 | Evitar duplicación de información entre plataformas.              |
+| Seguridad y Administración de Usuarios | Gestión de accesos basada en roles y registro de actividades dentro de la app.                                                        | Panel con permisos y registro de acciones por usuario.                | Asignación diferenciada de permisos según rol                         | Garantizar cumplimiento normativo y trazabilidad.                 |
+| Colaboración y Feedback          | Canal interno para que los trabajadores envíen notas y mensajes registrados.                                                                | Formulario de envío de notas o comentarios dentro de la app.           | Mensajes agrupados por tema o área                                    | Fomentar comunicación registrada entre los equipos.              |
 
 #### 4.2.2. Labeling Systems
 
