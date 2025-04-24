@@ -1045,6 +1045,36 @@ Las pautas de estilo web de DyeTex están diseñadas con un enfoque en la usabil
 
 ### 4.2. Information Architecture
 
+La arquitectura de información de **DyeTex** está diseñada para ofrecer una navegación intuitiva y agrupar lógicamente todas las funcionalidades clave derivadas de las historias de usuario. De esta manera, se garantiza una visualización clara de cada sección y se facilita el acceso a herramientas relevantes que optimizan el control y la productividad.
+
+**Panel Principal:**  
+Es el punto de inicio tras el inicio de sesión. Presenta un resumen del estado de todas las máquinas y sensores conectados, así como el tiempo trabajado en el día. Al interactuar, se muestran detalles como consumo energético e indicadores clave (KPIs). Incluye opción de modo oscuro para operadores nocturnos, mejorando la visibilidad y reduciendo la fatiga visual.
+
+**Monitoreo en Tiempo Real:**  
+Permite a los técnicos y operadores visualizar parámetros operativos específicos de cada máquina (temperatura, vibraciones, velocidad). Incluye filtros para destacar información relevante y seguimiento en vivo de la producción, facilitando el control total del flujo de trabajo.
+
+**Alertas y Notificaciones:**  
+Agrupa todas las señales automáticas del sistema, como incidentes críticos, detección de cuellos de botella, y paradas inesperadas con diagnóstico probable. También incluye recordatorios programados, sugerencias de mantenimiento preventivo, y un historial completo de notificaciones.
+
+**Historial y Reportes:**  
+Proporciona un registro cronológico de fallas, mantenimientos y anomalías. Permite generar reportes diarios y semanales descargables, facilitando el análisis por turno o por tipo de maquinaria, y evitando la pérdida de alertas físicas temporales.
+
+**Mantenimiento Predictivo y Preventivo:**  
+Incorpora modelos de análisis predictivo basados en tiempo de uso o tipo de activo. Ofrece recomendaciones precisas, un checklist diario de inspección y reprogramación automática de tareas en caso de cuellos de botella, reduciendo riesgos e ineficiencias.
+
+**Gestión de Inventario y Turnos:**  
+Permite al encargado de almacén controlar el stock de repuestos críticos y recibir alertas por niveles bajos. Los supervisores pueden ajustar turnos dinámicamente según la demanda, optimizando recursos humanos y distribución de cargas.
+
+**Integraciones y Extensibilidad:**  
+Proporciona a proveedores tecnológicos y equipos de IT acceso a documentación técnica, configuración de webhooks, e integración con el ERP corporativo, garantizando sincronización en tiempo real y evitando duplicidad de datos.
+
+**Seguridad y Administración de Usuarios:**  
+Incluye gestión de accesos basada en roles y auditoría detallada de actividades. Todas las acciones quedan registradas para asegurar cumplimiento normativo y ofrecer trazabilidad ante incidencias de seguridad.
+
+**Colaboración y Feedback:**  
+Contiene un canal interno para que los trabajadores envíen notas o sugerencias, registrando la comunicación y facilitando la colaboración dentro del equipo.
+
+
 #### 4.2.1. Organization Systems
 
 #### 4.2.2. Labeling Systems
