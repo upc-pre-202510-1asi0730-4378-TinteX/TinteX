@@ -1141,6 +1141,18 @@ Contiene un canal interno para que los trabajadores envíen notas o sugerencias,
 
 #### 4.2.5. Navigation Systems
 
+| **Nombre**              | **Descripción** |
+|--------------------------|-----------------|
+| **Inicio**               | Página principal donde el usuario ve el estado general de la planta, alertas recientes y accesos rápidos a secciones clave. |
+| **Menú principal**       | Barra de navegación con enlaces directos a monitoreo en tiempo real, historial de sensores, reportes y configuración. |
+| **Registro rápido**      | Botón destacado para añadir eventos de mantenimiento, incidencias o registros de inspección desde cualquier parte de la app. |
+| **Diario de sensores**   | Sección donde se visualizan y gestionan los registros cronológicos de lectura de sensores por máquina. |
+| **Historial de alertas** | Acceso al registro completo de alertas detectadas, ordenado por fecha, severidad o activo afectado. |
+| **Reportes técnicos**    | Área donde se generan o consultan reportes de funcionamiento, intervenciones y métricas por turno o semana. |
+| **Buscador general**     | Barra de búsqueda para encontrar activos, sensores, alertas o tareas por nombre, código o fecha. |
+| **Ajustes**              | Configuraciones generales como notificaciones, idioma, parámetros de visualización y sincronización con otros sistemas. |
+| **Accesos rápidos**      | Botones flotantes o atajos hacia funciones frecuentes como registrar una alerta, consultar mantenimiento o tomar lectura manual de un sensor. |
+
 ### 4.3. Landing Page UI Design
 
 #### 4.3.1. Landing Page Wireframe
