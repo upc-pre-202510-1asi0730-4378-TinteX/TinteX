@@ -157,7 +157,17 @@
 
 ## Student Outcome
 
-<hr>
+El curso contribuye al cumplimiento del Student Outcome ABET:
+
+**ABET – EAC - Student Outcome 5**
+
+Criterio: : La capacidad de funcionar efectivamente en un
+equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de
+colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+
+| <div style="width:150px">Criterio específico</div> | <div style="width:250px">Acciones Realizadas</div> | <div style="width:250px">Conclusiones</div> |
+|-------------------|-------------------|------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia | **Héctor Ríos TB1:** Realicé la sección del startup profile, solution profile dentro del capítulo I. Asimismo, realicé en una de las entrevistas correspondientes al primer segmento. Además, colaboré en la elaboración del information architecture, los wireframes y mockups anterior al prototipo. | **TB1:** Como conclusión para esta presentación, cada integrante cumplió con sus actividades en el tiempo y participó activamente en las reuniones, manteniendo una correcta comunicación, dando como resultado en este avance una base sólida para continuar el proyecto. |
 
 ## Capítulo I: Introducción 
 
