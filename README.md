@@ -1214,6 +1214,45 @@ Estas pantallas muestran el partado donde se controlan las máquinas, donde se v
 
 #### 4.4.3. Web Applications Mock-ups
 
+La primera sección muestra el procedimiento de inicio de sesión y registro. Se puede observar cómo el usuario es guiado desde la pantalla de bienvenida hasta la autenticación con sus credenciales. En caso de haber olvidado la contraseña, se incorpora un flujo de recuperación que permite el envío de un enlace para restablecerla, seguido de una sección para confirmar el nuevo acceso.
+
+<p align="center">
+  <img src="./assets/mock-ups/inicio de sesion.png" alt="inicio de sesion" width="800">
+</p>
+
+Posteriormente, se exhibe la pantalla principal, o “home screen”, la cual centraliza el acceso a todas las funciones clave del sistema. Desde esta vista se puede configurar la aplicación, acceder a las alertas y notificaciones, consultar el estado general de las máquinas, así como visualizar información relevante en tiempo real.
+
+<p align="center">
+  <img src="./assets/mock-ups/pantalla principal.png" alt="pantalla principal" width="800">
+</p>
+
+Más adelante, se ilustran las interfaces relacionadas con la gestión de usuarios. Aquí se presentan tanto las pantallas para registrar nuevos integrantes del equipo como las herramientas para administrar sus perfiles y roles. Se permite asignar turnos, definir permisos específicos y roles dentro de la organización, todo desde una interfaz intuitiva y organizada.
+
+<p align="center">
+  <img src="./assets/mock-ups/control usuarios.png" alt="control usuarios" width="400">
+</p>
+
+En la siguiente sección se representa el proceso de mantenimiento predictivo y la gestión de tareas programadas. Estas pantallas muestran cómo se pueden filtrar actividades por tipo de mantenimiento o activo, visualizar tareas atrasadas y programar futuras intervenciones.
+
+<p align="center">
+  <img src="./assets/mock-ups/proceso de planteamiento 1.png" alt="proceso planteamiento 1" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mock-ups/proceso de planteamiento 2.png" alt="proceso planteamiento 2" width="400">
+</p>
+
+Por último, se encuentran las vistas dedicadas al monitoreo en tiempo real y la administración de dispositivos. Desde este apartado se pueden visualizar los parámetros operativos de cada máquina, controlar su estado, consultar métricas como temperatura, vibración y velocidad, así como enviar reportes de anomalías.
+
+<p align="center">
+  <img src="./assets/mock-ups/control de maquinas 1.png" alt="control maquinas 1" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mock-ups/control de maquinas 2.png" alt="control maquinas 2" width="800">
+</p>
+
+
 #### 4.4.4. Web Applications User Flow Diagrams
 
 ### 4.5. Web Applications Prototyping
