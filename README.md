@@ -1259,6 +1259,41 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
   <img src="./assets/Component Diagram2.png" alt="Component Diagram" width="1000">
 </p>
 
+#### Bounded Context Notifications and Alerts Management
+
+> [!NOTE]
+> En este diagrama encontrarás:
+> - Controller: Controla un conjunto de funcionalidades.
+> - Service: Secciones de la aplicación que realizan una o varias tareas especifícas.
+> - Repository: Permite el acceso a una base de datos.
+
+<p align="center">
+  <img src="./assets/Component Diagram3.png" alt="Component Diagram" width="1000">
+</p>
+
+#### Bounded Context History and Performance Analysis
+
+> [!NOTE]
+> En este diagrama encontrarás:
+> - Controller: Controla un conjunto de funcionalidades.
+> - Service: Secciones de la aplicación que realizan una o varias tareas especifícas.
+> - Repository: Permite el acceso a una base de datos.
+
+<p align="center">
+  <img src="./assets/Component Diagram4.png" alt="Component Diagram" width="1000">
+</p>
+
+#### Bounded Context Optimization and Integration Flow
+
+> [!NOTE]
+> En este diagrama encontrarás:
+> - Controller: Controla un conjunto de funcionalidades.
+> - Service: Secciones de la aplicación que realizan una o varias tareas especifícas.
+> - Repository: Permite el acceso a una base de datos.
+
+<p align="center">
+  <img src="./assets/Component Diagram5.png" alt="Component Diagram" width="1000">
+</p>
 
 ### 4.7. Software Object-Oriented Design
 
