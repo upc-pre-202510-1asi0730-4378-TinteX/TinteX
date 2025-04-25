@@ -567,7 +567,7 @@ Descripción: Tabla que representa a la información de la Planta donde se encue
 | amountFlors | int | cantidad de pisos la planta |
 | location | Location | Ubicación de la planta |
 
-**Location**  
+**Location**     
 Descripción: Tabla que representa la ubicación
 
 |**Campo**| **Tipo de dato** | **Descipción** |
@@ -576,7 +576,61 @@ Descripción: Tabla que representa la ubicación
 | Region | String | Region donde se ubica la planta |
 | Address | String | Dirección donde se ubica la planta |
 
- 
+**Maintace**  
+Descripción: tabla que representa el mantenimiento que se dan de los maquinas textiles
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| id | UUID | Identificador unico de mantenimiento |
+| nextMainenaceDevice | DateTime | fecha del siguiente mantenimiento que recibe la maquina |
+| delayedTask | DateTime | Retraso del mantenimiento |
+
+**Date Time**    
+Descripción: tabla que representa la fecha 
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| date | Date | Fecha |
+| value | Date | Valor del tiempo |
+
+**TextileMachine**  
+Descripción: tabla que representa la maquina registrada en la app 
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| id | UUID | Identificador unico de la máquina de textil |
+| name | String | Nombre de la máquina |
+| status | String | Estado de la máquina |
+| numberMachine | int | Número por el cual se reconoce a la máquina |
+| floor | int | Número de piso en el que se encuentra la máquina |
+| zone | int | La zona en la que se encuentra la máquina |
+| dateInstalation | DateTime | fecha de instalación de la máquina |
+
+**Eventos**  
+Descripción: tabla que representa los eventos que sucede con la máquina
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| id | UUID | Identificdor único del evento |
+| dateTime | DateTime | Feha en la que sucede el evento |
+| nameEvent | String | Título del suceso |
+| description | String | Descripción del evento |
+
+**MachineInformation**  
+Descripción: tabla que representa la información de la maquina al momento de revisarla.
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| id | UUID | Identificador unico de la información de la maquina |
+| op | OperatioParameters | Patrones de operación que se generan con la maquita como vibración, electricidad, etc... |
+| textilMachine | TextilMachine | Identificador para cuál máquina posee la información |
+| user | User | Usuario encargado de dicha maquina |
+| timeSpent | time | Tiempo de inversión de la maquina |
+| dayProgress | Decimal | Porcentaje de progreso diario de la máquina |
+| failureRate | Decimal | Porcentaje de fallas diario de la máquina |
+| amountFailures | int | Cantidad de fallas de la máquina |
+
+****
 ### 4.8. Database Design
 
 #### 4.8.1. Database Diagram
