@@ -191,28 +191,45 @@ DyeTex es una plataforma web que permite a las empresas textiles optimizar el re
 Con un modelo de suscripción, DyeTex ofrece distintas opciones que se ajustan a las necesidades de las empresas textiles, brindando una versión básica con funcionalidades clave de monitoreo y una versión premium que incluye análisis avanzados, reportes detallados. DyeTex se posiciona como la solución ideal para aquellas empresas que buscan integrar tecnología de vanguardia en la gestión de su maquinaria y mejorar la competitividad en la industria textil.
 
 #### 1.2.1. Antecedentes y problemática
-En un escenario en el que la eficiencia y el control sobre los procesos manufactureros se convierten en un factor crucial para mantener la competitividad, en especial en la industria textil, la maquinaria necesita sistemas más sofisticados. La mayoría de las fábricas textiles todavía trabajan con maquinarias no conectadas o procesos manuales poco no muy rentables, lo que deriva en grandes pérdidas económicas por tiempo no utilizado, mantenimiento no considerado y escasa capacidad de producción. La transformación digital en este sector aún es limitada, lo que abre una gran oportunidad para soluciones como DyeTex.
+**What**
 
-**Who:**
-DyeTex se encuentra dirigido a empresas textiles con la necesidad de incrementar el rendimiento de su maquinaria mediante una tecnología IoT, a proveedores de solución tecnológica con interés de proveer herramientas de monitoreo y gestión de datos para el sector textil. Asimismo, el usuario objetivo incluye operarios y personal técnico con la necesidad de tener una visión sobre el estado y funcionamiento de las máquinas. 
+¿Cuál es el problema?
+- La mayoría de las empresas textiles enfrentan falta de visibilidad y control sobre el estado y rendimiento de su maquinaria en tiempo real. Trabajan con procesos manuales o equipos desconectados, lo que provoca paradas inesperadas, bajo aprovechamiento de capacidad y costos elevados de mantenimiento. DyeTex resuelve este problema al ofrecer una plataforma web IoT que monitorea continuamente el desempeño de las máquinas, detecta posibles fallos y envía alertas de mantenimiento oportuno, mejorando la productividad y reduciendo el tiempo de inactividad.
 
-**What:**
-El problema radica primordialmente en la ausencia de una solución especializada y accesible para supervisar el funcionamiento de maquinaria textil en tiempo real debido a que no permite optimizar los procesos, predecir fallas y tomar decisiones en base a datos. En esas circunstancias, muchas fábricas tienen muy poca visibilidad sobre cuán eficiente es su máquina y no tienen una alerta para evitar el tiempo de inactividad.
+**Who**
 
-**Where:**
-Este problema se presenta tanto en pequeñas como grandes empresas textiles, sobre todo en las área en las cuales la automatización es aún baja, siendo los procesos manuales o no tan conectados. DyeTex busca ser una solución que puede ser adaptado en varios tipos de proceso, que van desde los talleres pequeños hasta las empresas más grande.
+¿Quiénes se ven involucrados en el problema?
+- Empresas textiles (talleres, pymes y grandes fábricas) que requieren optimizar su rendimiento productivo junto con sus pperarios, ingenieros de mantenimiento y gerentes de planta que necesitan una visión clara y en tiempo real del estado de sus equipos
 
-**When:**
-La necesidad de soluciones como DyeTex es especialmente crítica en el contexto actual de competitividad global, inflación de costos y exigencia de entregas más rápidas y eficientes. Además, con el avance del Internet de las Cosas (IoT), el momento es ideal para introducir soluciones de monitoreo industrial inteligente.
+- Proveedores de soluciones tecnológicas interesados en ofrecer herramientas de monitoreo y análisis de datos al sector textil.
 
-**Why:**
-La razón más importante por la que DyeTex es necesario para la industria textil es que el sector necesita optimizar sus operaciones ahora mismo a través de datos en tiempo real, mantenimiento predictivo y dispositivos de control remoto. No solo hace que sus operaciones sean más eficientes sino que también reduce los costos y mejora la calidad de su producto final. 
 
-**How:** 
-La solución propuesta es abordada por DyeTex, una aplicación web que se integra con los sensores IoT, instalados directamente a la maquinaria. Estos dispositivos recopilarán datos sobre el estado, rendimiento, alertas y mantenimiento requerido, mostrados al operador en una interfaz concisa y fácil de entender, de modo que las decisiones técnicas y operacionales puedan ser tomadas rápidamente.
+**When**
+¿Cuándo sucede el problema?
+- El problema es constante en el ciclo de producción: en cada turno y en cada lote de producción, las máuinas pueden tener fallos imprevistos o funcionar por debajo de su redimiento óptimo. La necesidad de supervisión inteligente se agrava en contextos de alta demanda, picos de producción y renovación tecnológica lenta, justo cuando la competitividad global y los tiempos de entrega son más exigentes.
 
-**How much:** 
-En esta solución, el costo inicial es fácilmente implementable, ya que la instalación y la adquisición tiene un costo inicial bajo. Los periodos de inactividad son disminuidos, los plazos de entrega se acortan y aumenta la productividad. Su modelo de suscripción permite escalar la solución según las necesidades del cliente, haciendo viable su adopción tanto por empresas pequeñas como grandes.
+**Where**
+
+¿Dónde está el cliente cuando usa el producto y dónde surge el problema?
+- Los usuarios emplean DyeTex desde sus estaciones de control en planta, oficinas de mantenimiento o incluso de forma remota, mediante cualquier dispositivo con conexión a Internet (computadora, tablet o smartphone). El problema surge directamente en el piso de producción: talleres y líneas de tejeduría, tintorería y acabado, donde la escasez de datos en tiempo real impide una gestión proactiva de la maquinaria.
+
+**Why**
+¿Cuáles son las causas del problema?
+- Falta de digitalización: muchas fábricas aún dependen de registros manuales y controles aislados.
+- Ausencia de sistemas predictivos: no cuentan con herramientas que anticipen desgastes o averías.
+- Costos de mantenimiento reactivo: la reparación se hace tras la falla, incrementando tiempos de paro y gastos inesperados.
+
+**How**
+
+¿En qué condiciones los clientes usan nuestro producto?
+- DyeTex se integra con sensores IoT instalados en cada máquina, que recogen métricas de temperatura, vibración, velocidad y uso. La plataforma web centraliza toda la información, muestra dashboards personalizables, envía notificaciones de umbrales críticos y genera reportes de tendencia. Los usuarios pueden configurar alertas SMS o correo para programar mantenimientos preventivos y ajustar parámetros operativos al instante.
+
+**How much**
+
+Las plantas textiles sufren en promedio 800 horas de inactividad al año, debido a fallas imprevistas y mantenimiento reactivo.
+Esto equivale a una pérdida de alrededor del 9 % de disponibilidad de los equipos, limitando la capacidad productiva.
+El 40 % del tiempo de los técnicos se destina a reparaciones de emergencia, reduciendo el enfoque en mantenimiento preventivo.
+La falta de alertas tempranas incrementa los defectos y retrabajos en un 25 %, afectando la consistencia y calidad del producto final.
 #### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
