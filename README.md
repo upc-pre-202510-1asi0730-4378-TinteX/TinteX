@@ -537,7 +537,7 @@ Estos tratan a la problemática desde diferentes puntos de vista, los 3 competid
 
 #### 4.7.1. Class Diagrams
 
-![ClassDiagram-DyeTex](https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/main/assets/DyeText.png)
+![ClassDiagram-DyeTex](https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/DyeTex.v2.png)
 
 #### 4.7.2. Class Dictionary
 
