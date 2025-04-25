@@ -1372,7 +1372,13 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 
 ### 4.8. Database Design
 
+Un diseño robusto de la base de datos es esencial para el éxito de nuestro proyecto. Servirá como la base sobre la cual se almacenarán y gestionarán los datos de forma eficiente y segura. Gracias a esto, podremos estructurar la información de manera lógica y coherente, agilizando su consulta y manipulación en función de las necesidades de los usuarios.
+
 #### 4.8.1. Database Diagram
+
+<p aling = "center">
+  <img src = "./assets/DyeTex_Database_Diagram_Design.png" alt="Database Diagram" width = "1000">
+</p>
 
 <hr>
 
