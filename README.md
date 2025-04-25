@@ -541,6 +541,42 @@ Estos tratan a la problemática desde diferentes puntos de vista, los 3 competid
 
 #### 4.7.2. Class Dictionary
 
+**User**  
+Descripción: Tabla que representa al usuario que se logea en la aplicación
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| id | UUID | Identificador unico del usuario |
+| name | String | Nombre completo del usuario |
+| corporateEmail | String | Email con el que el usuario ingresa a la applicación |
+| password | String | contraseña del usuario |
+| companyRole | String | rol del usuario en la compania |
+| plant | Plant | planta en la que se ubica el usuario |
+| phone | String | Telefono de contacto del usuario |
+| startDate | DateTime | fecha donde el usuario inicio en la app |
+| certification | String | certificado del usuario |
+| assignedShift | String | cargo asignado para el usuario |
+| availableays | String | días de disponibilidad del usuario |
+
+**Plant**  
+Descripción: Tabla que representa a la información de la Planta donde se encuentran en funcionamiento las maquinas de la empresa
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| id |  UUID | Identificador unico de la planta |
+| amountFlors | int | cantidad de pisos la planta |
+| location | Location | Ubicación de la planta |
+
+**Location**  
+Descripción: Tabla que representa la ubicación
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| country | String | País donde se ubica la planta |
+| Region | String | Region donde se ubica la planta |
+| Address | String | Dirección donde se ubica la planta |
+
+ 
 ### 4.8. Database Design
 
 #### 4.8.1. Database Diagram
