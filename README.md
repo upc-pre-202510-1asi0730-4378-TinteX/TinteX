@@ -1693,6 +1693,8 @@ Algunos metodos usados en JavaScript
 ### 5.2. Landing Page, Services & Applications Implementation
 
 #### 5.2.1. Sprint 1
+
+##### 5.2.1.1. Sprint Planning 1
 En el Sprint 1, el equipo se enfocó en establecer las bases de nuestra presencia digital construyendo la Landing Page de TinteX. Durante este ciclo de dos semanas, definimos y entregamos las secciones clave (hero, características, formulario de contacto, navegación fija y diseño responsive). 
 
 
@@ -1709,8 +1711,6 @@ En el Sprint 1, el equipo se enfocó en establecer las bases de nuestra presenci
 | **Sprint 1 Goal**                     | Desarrollar e implementar la landing page de nuestra aplicación y de esta manera ofrecer una presentación clara y atractiva de la solución que promete el producto a los usuarios potenciales. Consideraremos este objetivo alcanzado cuando la página esté publicada y el número de visitas alcance al menos el umbral establecido. |
 | **Sprint 1 Velocity**                 | Nuestro equipo puede aceptar hasta 23 story points                                                                                                                                           |
 | **Sum of Story Points**               | La suma de Story Point es 20 
-
-##### 5.2.1.1. Sprint Planning 1
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
