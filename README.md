@@ -1360,6 +1360,12 @@ Por último, se encuentran las vistas dedicadas al monitoreo en tiempo real y la
 
 ### 4.5. Web Applications Prototyping
 
+<p align="center">
+  <img src="./assets/prototipo.png" alt="prototipo" width="800">
+</p>
+
+[Visualizar prototipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319949_upc_edu_pe/EVgqX08DC-REni-bKrf5sI0BE-aDIWlMmfMrvUBUSHGLrg?e=hO6T4unav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ### 4.6. Domain-Driven Software Architecture
 
 Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra en alinear el diseño del software con las complejidades del dominio empresarial. Implica una estrecha colaboración entre los expertos del dominio y los desarrolladores para crear una comprensión compartida del dominio, que luego se refleja en el diseño del software.
