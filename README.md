@@ -233,30 +233,10 @@ La falta de alertas tempranas incrementa los defectos y retrabajos en un 25 %, a
 #### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
-Actualmente, muchas empresas textiles no logran mantener un control constante ni efectivo del rendimiento de sus máquinas, lo cual afecta directamente su productividad y eficiencia. Esto genera tiempos de inactividad, procesos poco optimizados, mantenimiento reactivo y una baja visibilidad del funcionamiento real de su maquinaria, ocasionando pérdidas económicas y falta de competitividad.
 
-¿Cómo podemos ayudar a que las empresas textiles mantengan un monitoreo constante y efectivo del rendimiento de sus máquinas, alineado a sus procesos de producción, mediante el uso de DyeTex?
-
-**Domain:**
-El dominio de TinteX se centra en la optimización del rendimiento de la maquinaria textil a través de la integración de tecnologías IoT y análisis de datos mediante una aplicación web. DyeTex será una herramienta tecnológica integral que permitirá a este tipo de empresas mantener una visualización, analizar y gestionar el desempeño de sus equipos.
-
-**Customer Segments:**
-El producto está dirigido a empresas textiles de distintos tamaños que desean mejorar la productividad de su maquinaria, prevenir fallos mediante mantenimientos predictivos y optimizar su proceso de producción. También incluye a proveedores de soluciones industriales tecnológicas que buscan integrar herramientas IoT en el sector textil, así como a personal técnico y operarios que necesitan visibilidad sobre el estado de los equipos para una mejor toma de decisiones.
-
-**Pain Points:**
-- Falta de monitoreo cosntante del estado de las máquinas.
-- Pérdidas económicas por mantenimiento no planificado o tiempos muertos.
-- Problemas para optimizar procesos de producción sin datos confiables.
-- Falta de herramientas intuitivas y accesibles para interpretar el rendimiento de la maquinaria.
-
-**Gap:**
-Existe una brecha en el mercado de soluciones tecnológicas para la industria textil: la mayoría de sistemas disponibles no están adaptados específicamente a este sector o pueden llegar a ser costosos o no tan fáciles de implementar.
-
-**Visión/Strategy:**
-La visión de TinteX es convertirse en una solución de monitoreo de maquinaria textil imediante el uso de tecnología IoT, ayudando a las empresas a aumentar su eficiencia operativa y reducir pérdidas. Nuestra estrategia se basa en construir una plataforma intuitiva, accesible y adaptable a distintos niveles de operación.
-
-**Initial Segment:**
-El segmento inicial de clientes estará compuesto por pequeñas empresas textiles que tienen dificultades para monitorear sus procesos en tiempo, así como aquellas que buscan soluciones de mantenimiento predictivo y eficiencia operativa sin recurrir a sistemas costosos o complejos. También se considera a proveedores tecnológicos que buscan integrar soluciones IoT en la industria.
+Nuestro sistema DyeTex fue diseñado para ayudar a las empresas textiles a monitorizar y optimizar el rendimiento de sus máquinas en tiempo real mediante tecnología IoT.
+Hemos observado que las plantas siguen enfrentando altos niveles de paradas no planificadas, visibilidad limitada de sus procesos y mantenimiento principalmente reactivo, lo cual compromete la productividad y la calidad del producto.
+¿Cómo podríamos abordar estas deficiencias para que las empresas textiles puedan anticiparse a las fallas, reducir el tiempo de inactividad y mejorar el control y la eficiencia operativa de sus maquinarias?
 
 #### 1.2.2.2. Lean UX Assumptions
 **¿Quién es el usuario?**
