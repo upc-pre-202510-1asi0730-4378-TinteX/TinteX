@@ -1197,6 +1197,14 @@ Se han definido etiquetas SEO y Meta Tags estratégicamente para la Landing Page
 
 #### 4.3.2. Landing Page Mock-up
 
+<p align="center">
+  <img src="./assets/landing page mock ups/Landing Page Mock-Up 1.png" alt="lpmu1" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/landing page mock ups/Landing Page Mock-Up 2.png" alt="lpmu2" width="700">
+</p>
+
 ### 4.4. Web Applications UX/UI Design
 
 #### 4.4.1. Web Applications Wireframes.
