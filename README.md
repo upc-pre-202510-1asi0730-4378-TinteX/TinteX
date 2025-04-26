@@ -819,6 +819,16 @@ Algunos metodos usados en JavaScript
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
+En este Sprint, nuestro equipo ha conseguido completar y desplegar la Landing Page. A continuación, se mostrará los screens sacasdos desde la web: https://silent343.github.io/1asi0730-4378-TinteX-LandingPage/ 
+
+<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen1.png">
+<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen2.png">
+<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen3.png">
+<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen7.png">
+<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen4.png">
+<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen5.png">
+<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen6.png">
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
