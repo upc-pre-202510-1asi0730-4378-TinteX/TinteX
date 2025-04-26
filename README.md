@@ -755,72 +755,56 @@ Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, 
 
 #### 2.3.2. User Task Matrix
 
-Nuestro User Task Matrix describe las principales tareas realizadas por nuestros dos perfiles claves que son Luis (Gerente de Operaciones) y Carla (Representante Técnica). Este refleja la frecuencia e importancia de cada actividad en la gestión y soporte de maquinaria textil inteligente, ayudando a identificar prioridades funcionales según las necesidades reales de cada usuario.
+#### Introducción
 
-| **Tareas** | **Luis (Gerente de Operaciones)** | **Carla (Representante Técnica)** |
-|-------------------------------|------------------------------|-----------------------------|
-| Monitoreo del estado de las máquinas | Frecuente / Crítica | Ocasional / Importante |
-| Análisis de reportes de eficiencia | Frecuente / Crítica | Ocasional / Importante |
-| Planificación de mantenimiento preventivo | Frecuente / Crítica | A veces / Importante |
-| Supervisión de productividad diaria | Frecuente / Crítica | Nunca / Menor |
-| Coordinación con el área técnica o proveedores | Ocasional / Importante | Frecuente / Crítica |
-| Presentación de resultados a gerencia | Ocasional / Importante | Nunca / Menor |
-| Evaluación de nuevas tecnologías para optimización | A veces / Importante | Frecuente / Crítica |
-| Instalación y configuración de sensores IoT | Nunca / Menor | Frecuente / Crítica |
-| Capacitación del personal en nuevas tecnologías | A veces / Importante | Ocasional / Importante |
-| Recolección de feedback del cliente | Nunca / Menor | Frecuente / Crítica |
-| Soporte técnico post-venta | Nunca / Menor | Frecuente / Crítica |
-| Comparación de costos operativos antes y después de la implementación | Ocasional / Importante | A veces / Importante |
-| Acceso remoto al monitoreo de planta | Frecuente / Importante | Ocasional / Importante |
-| Coordinación de pilotos y demos | A veces / Moderada | Frecuente / Crítica |
-| Generación de informes automáticos | Ocasional / Importante | A veces / Importante |
+Esta matriz identifica tareas que los usuarios realizan antes de conocer la plataforma DyeTex. Se consideran dos segmentos: **Gerente de Operaciones** y **Representante Técnica**. Las tareas se evalúan en función de su **frecuencia** y **nivel de importancia**.
 
-Explicando las tareas:
+#### Tabla de tareas por usuario
 
-#### Monitoreo del estado de las máquinas
-Permite visualizar el funcionamiento en tiempo real de cada máquina, detectar anomalías y tomar decisiones inmediatas. Es crítico para Luis y útil para Carla cuando requiere intervención técnica puntual.
+| Tarea                                                   | Gerente de Operaciones (Frecuencia / Importancia) | Representante Técnica (Frecuencia / Importancia) |
+|----------------------------------------------------------|----------------------------------------------------|---------------------------------------------------|
+| Supervisar manualmente el estado de las máquinas         | Alta / Alta                                        | Media / Alta                                      |
+| Recoger datos de sensores en hojas de cálculo            | Media / Alta                                       | Alta / Alta                                       |
+| Comunicar fallas a través de WhatsApp o llamadas         | Alta / Alta                                        | Alta / Alta                                       |
+| Solicitar informes de mantenimiento a técnicos           | Alta / Alta                                        | Baja / Media                                      |
+| Coordinar turnos de trabajo de forma verbal o por Excel  | Alta / Alta                                        | Media / Media                                     |
+| Revisar el inventario físicamente o por listas           | Media / Alta                                       | Alta / Alta                                       |
+| Hacer seguimiento al progreso de producción a mano       | Alta / Alta                                        | Media / Media                                     |
+| Redactar reportes semanales en Word o Excel              | Alta / Alta                                        | Baja / Media                                      |
+| Solicitar repuestos por correo o llamadas                | Media / Alta                                       | Alta / Alta                                       |
+| Evaluar productividad con datos dispersos                | Alta / Alta                                        | Media / Alta                                      |
 
-#### Análisis de reportes de eficiencia
-Proporciona datos sobre producción, consumo energético y desempeño. Es una tarea frecuente para Luis que le permite evaluar objetivos, mientras Carla lo consulta para ajustes técnicos.
+#### Explicación detallada de tareas
 
-#### Planificación de mantenimiento preventivo
-Ayuda a evitar fallos imprevistos mediante tareas programadas. Luis la realiza constantemente para optimizar recursos; Carla participa ocasionalmente para alinear acciones técnicas.
+1. **Supervisar manualmente el estado de las máquinas**  
+   Se realiza inspección presencial o revisión visual de indicadores sin herramientas automáticas.
 
-#### Supervisión de productividad diaria
-Involucra el seguimiento del rendimiento por turnos, líneas o máquinas. Es responsabilidad principal de Luis, pero no se encuentra en el foco de Carla.
+2. **Recoger datos de sensores en hojas de cálculo**  
+   El personal extrae manualmente valores de temperatura, vibración u otras variables en planillas Excel.
 
-#### Coordinación con el área técnica o proveedores
-Requiere interacción fluida entre los roles operativos y técnicos para resolver problemas o implementar mejoras. Carla tiene una participación crítica y Luis la realiza cuando se requieren decisiones de alto nivel.
+3. **Comunicar fallas a través de WhatsApp o llamadas**  
+   Las incidencias se notifican por medios informales, sin un sistema centralizado ni registro histórico.
 
-#### Presentación de resultados a gerencia
-Luis prepara informes ejecutivos para justificar inversiones o mostrar avances. Carla no realiza esta tarea directamente.
+4. **Solicitar informes de mantenimiento a técnicos**  
+   Los reportes son requeridos directamente al personal técnico, generando demoras y variabilidad en la presentación.
 
-#### Evaluación de nuevas tecnologías para optimización
-Implica la exploración de soluciones innovadoras como sensores IoT o software analítico. Carla está directamente involucrada en pruebas y demos, mientras Luis da el visto bueno estratégico.
+5. **Coordinar turnos de trabajo de forma verbal o por Excel**  
+   La asignación y seguimiento de turnos se lleva en pizarras o archivos sin integración con rendimiento de planta.
 
-#### Instalación y configuración de sensores IoT
-Tarea exclusivamente técnica, esencial para Carla durante la puesta en marcha o ampliación del sistema. No es parte de las funciones de Luis.
+6. **Revisar el inventario físicamente o por listas**  
+   Se consulta manualmente el almacén o listas impresas para verificar disponibilidad de repuestos.
 
-#### Capacitación del personal en nuevas tecnologías
-Se refiere a entrenar operadores o equipos en el uso correcto del sistema DyeTex. Luis la promueve, y Carla puede dictar sesiones o resolver dudas.
+7. **Hacer seguimiento al progreso de producción a mano**  
+   Los jefes deben consultar con operarios o revisar formularios para conocer el avance productivo.
 
-#### Recolección de feedback del cliente
-Incluye recibir opiniones del personal que usa las máquinas o la plataforma. Carla lo hace frecuentemente para identificar mejoras; Luis rara vez participa directamente.
+8. **Redactar reportes semanales en Word o Excel**  
+   Se consolidan múltiples fuentes de datos para generar informes, lo cual requiere tiempo y esfuerzo.
 
-#### Soporte técnico post-venta
-Implica brindar asistencia tras la implementación del sistema. Es parte fundamental del rol de Carla, mientras que Luis se enfoca más en la gestión general.
+9. **Solicitar repuestos por correo o llamadas**  
+   El proceso para reponer piezas se realiza por vías tradicionales, sin alertas automáticas ni trazabilidad.
 
-#### Comparación de costos operativos antes y después de la implementación
-Permite medir el impacto económico del sistema. Es relevante para Luis en reportes estratégicos y ocasional para Carla en evaluaciones técnicas.
-
-#### Acceso remoto al monitoreo de planta
-Función que ofrece supervisión desde cualquier lugar. Luis la usa para tomar decisiones en tiempo real y Carla para seguimiento técnico puntual.
-
-#### Coordinación de pilotos y demos
-Actividad donde Carla lidera pruebas en planta y Luis colabora validando resultados con stakeholders.
-
-#### Generación de informes automáticos
-Automatiza la creación de reportes operativos o técnicos. Luis los usa como soporte en reuniones y Carla como base para análisis de campo.
+10. **Evaluar productividad con datos dispersos**  
+   Se intenta analizar el desempeño productivo reuniendo datos manuales y desactualizados de varias fuentes.
 
 #### 2.3.3. User Journey Mapping
 
