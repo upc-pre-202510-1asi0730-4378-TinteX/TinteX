@@ -1784,7 +1784,12 @@ A continuación, se muestran las capturas de los insights del repositorio.
 
 ## Conclusiones
 
-<hr>
+- A lo largo del desarrollo de DyeTex, se ha identificado y seleccionado a su público objetivo: empresas textiles que buscan aumentar la eficiencia operativa de su maquinaria y proveedores de soluciones que pueden integrarse. Esta comprensión nos permitió diseñar una plataforma que se adapta a las necesidades de este sector, abordando problemáticas como la falta de visibilidad de los procesos, el mantenimiento y los tiempos de inactividad no planificados.
+
+- Durante el análisis del entorno industrial, DyeTex ha demostrado una clara ventaja al ofrecer una solución específica para el sector textil, que se diferencia de sistemas genéricos de monitoreo. Su enfoque en el uso de IoT, la capacidad de integrarse con maquinaria existente y la provisión de datos accionables en tiempo real nos posiciona como una solución evolutiva y eficaz.
+
+- Asimismo, se ha resaltado la importancia de adaptar DyeTex al contexto local y regional, considerando los niveles de automatización actuales, las capacidades técnicas del personal y los procesos productivos específicos de cada empresa.
+
 
 ## Bibliografía
 
