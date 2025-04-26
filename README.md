@@ -1762,6 +1762,30 @@ Algunos metodos usados en JavaScript
 
 #### 5.1.4. Software Deployment Configuration
 
+*Landing Page*
+Consideraciones antes del despliegue
+1. Archivos HTML, CSS y JS Asegurse que todos los archivos de la página web sean implementados en HTML, CSS y JS para un correcto
+funcionamiento de la página. En el caso de la imágenes, nos permitimos usar los distintos formatos existentes (jpg, png, webp, etc).
+2. Publicación de archivos Debido al funcionamiento del servicio de Github Pages, todos los archivos correspondientes al funcionamiento de
+nuestra aplicación será subidos al repositorio compartido de Github para poder trabajar de manera simultanea entre los integrantes del
+grupo.
+3. Pruebas de funcionamiento Con cada actualización e implementación del repositorio se harán pruebas que garanticen el correcto
+funcionamiento de la página, además la página también será probada por usuarios externos al grupo de trabajo para evitar opiniones
+influenciadas por la propiedad del proyecto.
+
+*Requerimientos para realizar del despliegue:*
+- Repositorio en nuestra organización de GitHub
+- Repositorio con visibilidad pública
+- Permisos de Github
+- Código Fuente de nuestra Landing Page
+
+*Pasos realizados para desplegar nuestra Landing Page:*
+1. Subir el código fuente de nuestra Landig Page a nuestro repositorio destino en GitHub.
+2. Ir a la página de configuración de nuestro repositorio de GitHub.
+3. Seleccionar el apartado de Pages.
+4. Elegir la rama main y folder(/root).
+5. Una vez hecho el paso anterior se estaría contruyendo y poco tiempo después tendriamos que observar la landing desplegada
+
 ### 5.2. Landing Page, Services & Applications Implementation
 
 #### 5.2.1. Sprint 1
@@ -1809,6 +1833,16 @@ En este Sprint el equipo se enfocó en construir la Landing Page de TinteX, cubr
 | US-05    | Diseño responsive                    | T05     | Responsive Layout          | Adaptación del diseño a pantallas móviles y tablets                     | 3                | Khafna09             | Done     |
 | US-06    | Soporte de dos idiomas               | T06     | Multilanguage Support      | Implementación de selector de idioma y carga de contenidos en español/inglés | 2            | Gabriel Gordon        | Done     |
 ##### 5.2.1.4. Development Evidence for Sprint Review
+
+Durante este sprint, se realizaron avances importantes en el proyecto, distribuidos entre distintos miembros del equipo. A continuación, se presentan algunos de los commits más relevantes de cada colaborador:
+
+| Repository                  | Branch  | Commit Id | Commit Message                                    | Commit Message Body                                   | Commited on (Date) |
+|------------------------------|---------|-----------|---------------------------------------------------|-------------------------------------------------------|--------------------|
+| 1asi0730-TinteX/landing-page | develop | 9c2a7779  | feat: nav-bar behavior                           | Lógica del comportamiento de la barra de navegación.  | 24/04/2025         |
+| 1asi0730-TinteX/landing-page | develop | 40c4688b  | chore: change language of tittle                 | Cambio de idioma en el título de la página.           | 24/04/2025         |
+| 1asi0730-TinteX/landing-page | develop | 815e84a8  | feat: add responsive functionality               | Se agrega funcionalidad responsive al menú.           | 24/04/2025         |
+| 1asi0730-TinteX/landing-page | develop | a3e807d4  | feat: added 'How Work' styles                    | Estilos para la sección "Cómo Funciona".              | 24/04/2025         |
+| 1asi0730-TinteX/landing-page | develop | 48c1531c  | feat: adding desing menu                         | Implementación inicial del menú de navegación.        | 24/04/2025         |
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
