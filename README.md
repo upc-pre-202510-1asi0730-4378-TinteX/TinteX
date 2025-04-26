@@ -730,7 +730,8 @@ Para crear la Organización en Github seguimos los siguientes pasos:
 Para nuestro proyecto se creo 1 repositorio de nombre **TinteX**, el cual usamos para subir la landing page y desarrollar continuamente el informe del proyecto.
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
-A continuación, se muestran las capturas de los insights del repositorio.
+A continuación, se muestran la captura de los insights del repositorio.
+  <img src = "/assets/insights.png" width = "500">
 
 
 <hr>
