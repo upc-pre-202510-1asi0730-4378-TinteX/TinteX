@@ -715,7 +715,8 @@ Para realizar el diseño de los wireframes y mockups de la Landing Page de DyeTe
 
 **Deployment**
 Para despegar la landing page, se utiliza GitHub Pages:
-  <img src = "/assets/GithubPages.png" width = "450">
+  <img src = "/assets/GithubPages.jpg" width = "450">
+  <br>
 Para crear la Organización en Github seguimos los siguientes pasos:
   <img src = "/assets/github1.png" width = "500">
   <img src = "/assets/github2.png" width = "500">
