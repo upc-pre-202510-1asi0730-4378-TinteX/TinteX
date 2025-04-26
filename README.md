@@ -1297,6 +1297,22 @@ Por último, se encuentran las vistas dedicadas al monitoreo en tiempo real y la
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
+<p align="center">
+  <img src="./assets/mock-ups/user flow 4.png" alt="user flow 4" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mock-ups/user flow 1.png" alt="user flow 1" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mock-ups/user flow 2.png" alt="user flow 2" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mock-ups/user flow 3.png" alt="user flow 3" width="800">
+</p>
+
 ### 4.5. Web Applications Prototyping
 
 ### 4.6. Domain-Driven Software Architecture
