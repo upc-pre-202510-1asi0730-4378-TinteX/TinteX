@@ -1626,6 +1626,34 @@ Sistema por el cual nos permite rastrear, guardar y gestioar diversos cambios qu
 | JS | Lenguaje fundamental para el desarrollo web, ya que añade interactividad en el lado del navegador  | https://www.w3schools.com/js/default.asp |
 
 #### 5.1.2. Source Code Management
+| Producto | Repositorio | Link |
+| -------- | ----------- | ---- |
+| Landing Page | TinteX Landing Page | https://silent343.github.io/1asi0730-4378-TinteX-LandingPage/
+
+
+#### Flujo de trabajo GitFlow
+
+Usaremos el flujo de trabajo planteado por Vincent Driessen en "A successful Git branching model" con los siguientes parámetros:
+
+Una rama de producción.
+Una rama de pruebas.
+Una rama en la que se solucionen los bugs rapidamente y vuelvan a producción.
+Ramas de features a implementar.
+Cada cambio en producción debe establecerse como una nueva versión.
+
+Teniendo en cuenta la información anterior nos inclinamos por este tipo de organización en los branches:
+
+Main branch: Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo
+para evitar cambios sin verificar.
+Develop branch: Esta rama está destinada a las constantes implementaciones en caliente de los features,
+Features branch: Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con
+Develop branch.
+
+Con cada deployment de la aplicación debe establecerse como una nueva versión. Nomenclatura de numeración de las versiones:
+
+Major changes: Cuando el código o versión nueva del proyecto a implementar presenta cambios significativos con la versión anterior, estos cambios llegan a ser incompatibles con la versión anterior. Esto se evidenciará en el numero de la versión ej: versión 1.0.0 -> versión 2.0.0.
+
+Minor changes: Cuando el código o versión nueva del proyecto a implementar presenta cambios con respecto a alguna característica, ya sea añadir o modificar, de la versión anterior; estos cambios no llegan a ser incompatibles con la versión anterior.
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
