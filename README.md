@@ -702,10 +702,32 @@ Las pautas de estilo web de DyeTex están diseñadas con un enfoque en la usabil
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Durante el Sprint no se integraron servicios a través de APIs, por lo que no fue necesaria la generación de documentación técnica relacionada a este aspecto.
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+**Design**
+Para realizar el diseño de los wireframes y mockups de la Landing Page de DyeTex, se hizo uso de la plataforma Figma. Para utilizar la plataforma seguimos los siguientes pasos:
+1. Accedemos a la plataforma para iniciar sesión: [LogIn Figma](https://www.figma.com/login)
+     <img src = "/assets/figmaInicioSesion.png" width = "450">
+
+3. Creamos un **Draft**, el cual nos servirá de base para el proyecto colaborativo:
+      <img src = "/assets/draftFigma.png" width = "450">
+
+**Deployment**
+Para despegar la landing page, se utiliza GitHub Pages:
+  <img src = "/assets/GithubPages.png" width = "450">
+Para crear la Organización en Github seguimos los siguientes pasos:
+  <img src = "/assets/github1.png" width = "500">
+  <img src = "/assets/github2.png" width = "500">
+  <img src = "/assets/github3.png" width = "500">
+  <img src = "/assets/github4.png" width = "500">
+  <img src = "/assets/github5.png" width = "500">
+
+Para nuestro proyecto se creo 1 repositorio de nombre **TinteX**, el cual usamos para subir la landing page y desarrollar continuamente el informe del proyecto.
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+A continuación, se muestran las capturas de los insights del repositorio.
+
 
 <hr>
 
