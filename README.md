@@ -182,9 +182,10 @@ Visión: Convertirnos en la plataforma líder para la industria textil, ofrecien
 
 #### 1.1.2. Perfiles de Integrantes del Equipo
 
-| **Campo**    | **Detalle**     | **Foto** |
+| **Nombre**    | **Descripción**     | **Foto** |
 |--------------|-----------------|-----------|
-| Información completa  | Mi nombre es Héctor Javier Ríos Pacheco, tengo 19 años. Actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software en la UPC. Tengo conocimientos intermedios de C++, conocimiento básico de Java y portugués intermedio. Poseo como habilidades blandas la responsabilidad, compromiso, comunicación asertiva, manejo de tiempos y organización. Mi objetivo en este proyecto es aportar en la construcción sólida del mismo, así como verificar el avance correcto y dirección. |     <img src="./assets/foto1.png" alt="foto1" width="500">      |
+| Héctor Javier Ríos Pacheco |  Poseo como habilidades blandas la responsabilidad, compromiso, comunicación asertiva, manejo de tiempos y organización. Mi objetivo en este proyecto es aportar en la construcción sólida del mismo, así como verificar el avance correcto y dirección. |     <img src="./assets/fotos/foto1.png" alt="foto1" width="500">      |
+| Leonardo Fabrizzio Junior Prieto Mantari | Me considero una persona trabajadora que coopera bien con sus compañeros de grupo y le gusta ayudar a personas que necesiten de esta. Con estas habilidades, tengo como objetivo aportar lo mejor de mí en el proyecto para una buena presentación final. | <img src="./assets/fotos/foto-leo.png" alt="foto2" width="100">
 
 #### 1.2. Solution Profile
 DyeTex es una plataforma web que permite a las empresas textiles optimizar el rendimiento de sus máquinas mediante un monitoreo en tiempo real a través de dispositivos IoT. La aplicación ofrece una solución inteligente que permite a los usuarios gestionar el desempeño de sus máquinas, identificar posibles fallos y recibir notificaciones de mantenimiento oportuno, lo que contribuye a una mayor productividad y menor tiempo de inactividad. DyeTex adapta sus funcionalidades a las necesidades específicas de cada empresa, proporcionando herramientas de análisis que permiten tomar decisiones informadas para mejorar la eficiencia operativa y el control de los procesos de producción.
