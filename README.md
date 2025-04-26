@@ -58,6 +58,12 @@
 | TB1     | 0.11    | 25/04/2025  | Gabriel Gordon, Leonardo Prieto, Leandro Contreras                                       | Actualización de descripciones y versiones de diagramas de clases; mockups y pantallas de landing page; perfiles y outcomes de estudiantes; actualización de diagramas de base de datos; info personal en perfiles                                  |
 | TB1     | 0.12    | 26/04/2025  | Alessandra Becerra, Leandro Contreras, Hector Ríos, Gabriel Gordon                       | Múltiples “feat” y “fix”: imágenes y perfiles (startup y GitHub); actualización de product backlog y user stories; gráficos y charts de sprint 1 (planning, leaders & collaborators); conclusiones; evidencias de despliegue; insights de colaboración; mejoras en entrevistas; pantallas y guía de estilo; configuración de entorno |
 
+<hr>
+
+## Project Report Collaboration Insights  
+
+Todas las actividades asignadas para la entrega de la TB1 han sido completadas y se encuentran documentadas en el repositorio de GitHub de la organización del equipo, accesible en: https://github.com/upc-pre-202510-1asi0730-4378-TinteX . En cuanto al informe, cada miembro del equipo participó redactando y elaborando gráficos en formato Markdown de acuerdo con los temas asignados, registrando su progreso mediante commits en el repositorio correspondiente, encontrándose en el siguiente enlace: https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX . Aqui se pueden aprecion todos los commits hechos en la TB1 evidenciando el trabajo colaborativo.
+
 <p aling = "center">
   <img src = "./assets/proyect.jpeg" alt="TinteX Repositorio" width = "1000">
 </p>
@@ -69,12 +75,6 @@
 <p aling = "center">
   <img src = "./assets/landing.jpeg" alt="Landing Repositorio" width = "1000">
 </p>
-<hr>
-
-## Project Report Collaboration Insights  
-
-Todas las actividades asignadas para la entrega de la TB1 han sido completadas y se encuentran documentadas en el repositorio de GitHub de la organización del equipo, accesible en: https://github.com/upc-pre-202510-1asi0730-4378-TinteX . En cuanto al informe, cada miembro del equipo participó redactando y elaborando gráficos en formato Markdown de acuerdo con los temas asignados, registrando su progreso mediante commits en el repositorio correspondiente, encontrándose en el siguiente enlace: https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX . Aqui se pueden aprecion todos los commits hechos en la TB1 evidenciando el trabajo colaborativo.
-
 
 ## Tabla de Contenidos
 
