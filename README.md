@@ -1726,6 +1726,16 @@ En este Sprint el equipo se enfocó en construir la Landing Page de TinteX, cubr
 
 ##### 5.2.1.3. Sprint Backlog 1
 
+
+
+| Story ID | Story Title                          | Task ID | Task Title                 | Description                                                            | Estimation (Hrs) | Assigned To           | Status   |
+|----------|--------------------------------------|---------|----------------------------|------------------------------------------------------------------------|------------------|-----------------------|----------|
+| US-01    | Mostrar hero con mensaje claro       | T01     | Hero Section               | Diseño e implementación del encabezado principal con título y subtítulo | 2                | Gabriel Gordon        | Done     |
+| US-02    | Sección de características principales| T02     | Features Section           | Implementación de la sección que muestra las 3 funcionalidades clave    | 3                | WiDDsito             | Done     |
+| US-03    | Formulario de contacto            | T03     | Contact Form          | Creación y validación del formulario de captura de correo electrónico   | 2                | Alessandra Becerra    | Done     |
+| US-04    | Navegación fija                      | T04     | Fixed Navigation Menu      | Lógica y estilo para mantener el menú de navegación siempre visible     | 2.5              | Wuux1                | Done     |
+| US-05    | Diseño responsive                    | T05     | Responsive Layout          | Adaptación del diseño a pantallas móviles y tablets                     | 3                | Khafna09             | Done     |
+| US-06    | Soporte de dos idiomas               | T06     | Multilanguage Support      | Implementación de selector de idioma y carga de contenidos en español/inglés | 2            | Gabriel Gordon        | Done     |
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
