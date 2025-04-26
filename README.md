@@ -1187,6 +1187,14 @@ Se han definido etiquetas SEO y Meta Tags estratégicamente para la Landing Page
 
 #### 4.3.1. Landing Page Wireframe
 
+<p align="center">
+  <img src="./assets/landing page wireframes/Landing Page Wireframe 1.png" alt="lpw1" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/landing page wireframes/Landing Page Wireframe 2.png" alt="lpw2" width="700">
+</p>
+
 #### 4.3.2. Landing Page Mock-up
 
 ### 4.4. Web Applications UX/UI Design
