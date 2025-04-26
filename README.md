@@ -694,7 +694,8 @@ Gonzalo, director técnico, indica que su empresa ofrece soluciones como tablero
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EQS1hpXokxRIidntEDa515AB9jqflMhLgI0XDz6yfdzraw?e=ZBE84H)
 
 **Resumen de la entrevista:** <br>
-Afonso, CTO (Director de Tecnología) de una startup que digitaliza procesos en pymes industriales, comenta que su plataforma se basa en IoT y monitoreo en tiempo real, con experiencia en sectores como textil, alimentos y manufactura. Señala que en el rubro textil aún se depende de medios manuales como papel o WhatsApp para tareas clave como el pedido de insumos, lo que genera ineficiencias. Considera que muchos clientes no detectan fallas en sus máquinas hasta que ya es muy tarde. Cree que DyeTex tendría gran potencial si abarca desde el pedido de materiales hasta el monitoreo de eficiencia por máquina. Ve esenciales funcionalidades como trazabilidad, reportes visuales y conexión con ERP. Prefiere alianzas tipo co-branding o integraciones ágiles, y advierte barreras como la falta de personal capacitado y la desconfianza inicial. Está interesado en co-desarrollar la solución y ofrecer fábricas aliadas para pruebas piloto.
+
+Agustín, especialista en automatización industrial, menciona que han implementado soluciones IoT en plantas textiles, aunque enfrentan barreras como la resistencia al cambio y la falta de infraestructura. Señala que procesos clave como el pedido de insumos siguen siendo manuales, generando cuellos de botella. Considera que una plataforma como DyeTex tiene alto potencial si es escalable y se adapta a fábricas en etapas tempranas de automatización. Resalta la importancia de funcionalidades como alertas, trazabilidad, visualización simple y compatibilidad con hardware básico. Prefieren alianzas flexibles como el co-desarrollo y están interesados en participar en pilotos con clientes que buscan iniciarse en la digitalización industria.
 
 **Entrevista #6 - Datos del Entrevistado** 
 
@@ -714,7 +715,8 @@ Afonso, CTO (Director de Tecnología) de una startup que digitaliza procesos en 
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/ESJQX2mAoK9Fl5tkSSed_mcBjKYaL7Bk28Yjh8fJRtyZCA)
 
 **Resumen de la entrevista:** <br>
-Agustín, especialista en automatización industrial, menciona que han implementado soluciones IoT en plantas textiles, aunque enfrentan barreras como la resistencia al cambio y la falta de infraestructura. Señala que procesos clave como el pedido de insumos siguen siendo manuales, generando cuellos de botella. Considera que una plataforma como DyeTex tiene alto potencial si es escalable y se adapta a fábricas en etapas tempranas de automatización. Resalta la importancia de funcionalidades como alertas, trazabilidad, visualización simple y compatibilidad con hardware básico. Prefieren alianzas flexibles como el co-desarrollo y están interesados en participar en pilotos con clientes que buscan iniciarse en la digitalización industria.
+
+Afonso, CTO (Director de Tecnología) de una startup que digitaliza procesos en pymes industriales, comenta que su plataforma se basa en IoT y monitoreo en tiempo real, con experiencia en sectores como textil, alimentos y manufactura. Señala que en el rubro textil aún se depende de medios manuales como papel o WhatsApp para tareas clave como el pedido de insumos, lo que genera ineficiencias. Considera que muchos clientes no detectan fallas en sus máquinas hasta que ya es muy tarde. Cree que DyeTex tendría gran potencial si abarca desde el pedido de materiales hasta el monitoreo de eficiencia por máquina. Ve esenciales funcionalidades como trazabilidad, reportes visuales y conexión con ERP. Prefiere alianzas tipo co-branding o integraciones ágiles, y advierte barreras como la falta de personal capacitado y la desconfianza inicial. Está interesado en co-desarrollar la solución y ofrecer fábricas aliadas para pruebas piloto.
 
 #### 2.2.3. Análisis de entrevistas
 Al revisar las entrevistas, logramos identificar tanto las expectativas como las necesidades que los usuarios expresan, además de obtener retroalimentación valiosa sobre cómo imaginan su solución ideal. Esta información nos servirá como base para tomar decisiones clave en el desarrollo del producto.
@@ -1713,10 +1715,34 @@ En este Sprint, nuestro equipo ha conseguido completar y desplegar la Landing Pa
 <img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen6.png">
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Durante el Sprint no se integraron servicios a través de APIs, por lo que no fue necesaria la generación de documentación técnica relacionada a este aspecto.
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+**Design**
+Para realizar el diseño de los wireframes y mockups de la Landing Page de DyeTex, se hizo uso de la plataforma Figma. Para utilizar la plataforma seguimos los siguientes pasos:
+1. Accedemos a la plataforma para iniciar sesión: [LogIn Figma](https://www.figma.com/login)
+   <br>
+     <img src = "/assets/figmaInicioSesion.png" width = "450">
+
+3. Creamos un **Draft**, el cual nos servirá de base para el proyecto colaborativo:
+      <img src = "/assets/draftFigma.png" width = "450">
+
+**Deployment**
+Para despegar la landing page, se utiliza GitHub Pages:
+  <img src = "/assets/GithubPages.jpg" width = "450">
+  <br>
+Para crear la Organización en Github seguimos los siguientes pasos:
+  <img src = "/assets/github1.png" width = "500">
+  <img src = "/assets/github2.png" width = "500">
+  <img src = "/assets/github3.png" width = "500">
+  <img src = "/assets/github4.png" width = "500">
+  <img src = "/assets/github5.png" width = "500">
+
+Para nuestro proyecto se creo 1 repositorio de nombre **TinteX**, el cual usamos para subir la landing page y desarrollar continuamente el informe del proyecto.
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+A continuación, se muestran las capturas de los insights del repositorio.
+
 
 <hr>
 
