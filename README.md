@@ -1693,6 +1693,7 @@ Algunos metodos usados en JavaScript
 ### 5.2. Landing Page, Services & Applications Implementation
 
 #### 5.2.1. Sprint 1
+En el Sprint 1, el equipo se enfocó en establecer las bases de nuestra presencia digital construyendo la Landing Page de TinteX. Durante este ciclo de dos semanas, definimos y entregamos las secciones clave (hero, características, formulario de contacto, navegación fija y diseño responsive).
 
 ##### 5.2.1.1. Sprint Planning 1
 
