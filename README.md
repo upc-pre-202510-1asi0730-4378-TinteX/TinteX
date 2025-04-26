@@ -1569,9 +1569,122 @@ Un diseño robusto de la base de datos es esencial para el éxito de nuestro pro
 
 #### 5.1.1. Software Development Environment Configuration.
 
+**Project Management**   
+Plataformas con las cuales nos encargamos de desarrollar gran parte del proyecto con las diferentes herramientas que estos ofrecen.
+
+| **Plataforma** | **Descripción** | **Enlace** |
+|----------------|-----------------|------------|
+| PivotalTracker | Herramienta de gestión de proyectos ágil, diseñada especialmente para equipos de desarrollo de softwar. Permite realizar la gesión de historias de usuario en ella | https://www.pivotaltracker.com |
+| UxPressia | Herramienta que ayuda con el desarrollo de impact mapping y user persona | https://uxpressia.com |
+| Vertabelo | Se enfoca más en el diseño y modelado de bases de datos. Utilizada para crear diagramas entidad-relación de forma visual | https://vertabelo.com |
+| Lucidchart | Permite la creación de diagramas de todo tipo, usada para mapas mentas, diagramas de flujo, arquitecturas de software y más | https://www.lucidchart.com |
+| C4 Model | Forma estructurada y visual de documentar la arquitectura de software | https://c4model.com |
+
+**Product UX/UI Desing**   
+Creación de una interfaz amigable y accesible para el usuario, creando experiencias digitales que sean útiles, usables y visualmente atractivas.
+
+| **Plataforma** | **Descripción** | **Enlace** |
+|----------------|-----------------|------------|
+| Figma | Herramienta para el diseño (UI/UX) y protototipado, usada para diseñadar aplicaciones web y móviles | https://www.figma.com |
+
+**Code editor**   
+Herramienta diseñada para la escritura de codigo fuente, siendo un componente importante en los desarrolladores.
+
+| **Plataforma** | **Descripción** | **Enlace** |
+|----------------|-----------------|------------|
+| Visual Studio  | Editor de código fuente gratuito y multiplataforma | https://code.visualstudio.com |
+
+**Version Control**   
+Sistema por el cual nos permite rastrear, guardar y gestioar diversos cambios que se realizan en los archivos.
+
+| **Plataforma** | **Descripción** | **Enlace** |
+|----------------|-----------------|------------|
+| GitHub | Gestiona la documentación y codigo en repositorios | https://github.com |
+
+**Software Development**   
+Sistema por el cual nos permite rastrear, guardar y gestioar diversos cambios que se realizan en los archivos.
+
+| **Plataforma** | **Descripción** | **Enlace** |
+|----------------|-----------------|------------|
+| HTML | Es la estructura y contenido de la landing page | https://www.w3schools.com/html/default.asp |
+| CSS | Le da estilos a las estructuras, para que la landing page tenga una presentación visual más atractiva | https://www.w3schools.com/css/default.asp |
+| JS | Lenguaje fundamental para el desarrollo web, ya que añade interactividad en el lado del navegador  | https://www.w3schools.com/js/default.asp |
+
 #### 5.1.2. Source Code Management
 
 #### 5.1.3. Source Code Style Guide & Conventions
+
+Lenguajes Utilizados 
+
+- Html: Estructura y formato del contenido web, utiliza etiquetas semánticas para mejorar la accesibilidad.
+- CSS: Estilos y diseño del software, dando una experiencia visual al usuario más agradable.
+- JavaScript: Lógica y funcionalidad interactiva, permitiendo una automatización y perzonalización del software.
+
+Etiquetas usadas en el lenguage html 
+
+| **Etiqueta** (<>) | **Descripción** |
+|-------------------|-----------------|
+| !DOCTYPE html | Define el tipo de documento como HTML5 |
+| html | Raíz del documento |
+| head | Encabezado del documento, donde se incluyen metadatos | 
+| meta | Define metadatos sobre el documento como el "viewport" |
+| title | Título con el que se presenta la página |
+| link | Conecta enlaces con archivos CSS y fuentes externas |
+| body | Cuerpo del documento |
+| header | Encabezado de la página |
+| nav | Define una sección de navegación |
+| div | Contenedor de elementos |
+| img | Imagen |
+| ul | Define una lista no ordenada |
+| il | Selección individual de cada elemento en la lista |
+| a | Porporciona enlaces a paginas externas o en la propia página |
+| button | Botón |
+| main | Define el contenido principal del documento |
+| section | Agrupa contenido relacionado dentro de la web |
+| h1 | Define el título principal de la web |
+| h2 | Define un subtitulo en la página web |
+| video | Permite la incrustación de videos directamente a la web |
+| span | Aplica estilos o funciones específicas a partes pequeñas del texto sin romper el flujo del contenido |
+| svg | Se encarga de dibujar gráficos vectoriales escalables |
+| p | Define un parrafo de texto |
+| form | Creación de formularios interactivos |
+| label | Etiqueta de texto que se asocia a un control de formulario |
+| input | Crea un campo de entrada donde el usuario puede escribir |
+| i | Se usa para mostrar texto en cursiva; a menudo se usa también para iconos |
+| textarea | Crea un área de texto grande para escribir varias líneas |
+| br | Salto de línea |
+| footer | Parte final de la página o sección; contiene información como derechos de autor, enlaces, etc |
+| script | Permite insertar o enlazar código JavaScript para agregar interactividad a la página |
+
+Algunos selectores que usamos en CSS
+
+| **Selector** | **Descripción** |
+|--------------|-----------------|
+| box-sizing | Define cómo se calculan los tamaños de los elementos |
+| font-family |  Especifica la fuente a utilizar en el texto del elemento |
+| flex-direction | Determina la dirección en la que se organizan los elementos en un contenedor flex |
+| z-index | Controla el orden de apilamiento de los elementos en la página |
+| box-shadow | Aplica sombras al borde de un elemento |
+| transition | Especifica la animación entre dos estados de un elemento |
+| flex-wrap | Controla si los elementos dentro de un contenedor flex pueden ajustarse a una nueva línea |
+| overflow | Maneja el contenido que sobrepasa el área de un contenedor |
+| resize | Controla si el usuario puede cambiar el tamaño de un elemento |
+| opacity | Define la transparencia del elemento |
+| display | Especifica cómo se muestra un elemento en la página |
+| scroll-behavior | Controla el comportamiento del desplazamiento cuando se navega a un ancla |
+| backgound-color | Color de fondo de la página |
+| Width & Height | Representa el ancho y largo de un elemento |
+
+Algunos metodos usados en JavaScript
+
+| **Metodo** | **Descripción** |
+|------------|-----------------|
+| window.addEventListener("scroll", () => {...} ) | Evento detecta el desplazamiento de la página |
+| addEventListener('click', () => {...}) | Hace que el programa ejecuté una función al momento de hacer click |
+| document.querySelector() | Es utilizado para seleccionar elementos específicos en el DOM para interactuar con ellos |
+| createElement() | Crea un nuevo elemento HTML con la etiqueta especificada |
+| appendChild() | Agrega un nodo (elemento) como último hijo de un nodo padre |
+| classList.toggle() | Alterna (agrega o quita) una clase en el elemento |
 
 #### 5.1.4. Software Deployment Configuration
 
@@ -1588,6 +1701,16 @@ Un diseño robusto de la base de datos es esencial para el éxito de nuestro pro
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+
+En este Sprint, nuestro equipo ha conseguido completar y desplegar la Landing Page. A continuación, se mostrará los screens sacasdos desde la web: https://silent343.github.io/1asi0730-4378-TinteX-LandingPage/ 
+
+<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen1.png">
+<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen2.png">
+<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen3.png">
+<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen7.png">
+<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen4.png">
+<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen5.png">
+<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen6.png">
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
