@@ -708,6 +708,7 @@ Durante el Sprint no se integraron servicios a través de APIs, por lo que no fu
 **Design**
 Para realizar el diseño de los wireframes y mockups de la Landing Page de DyeTex, se hizo uso de la plataforma Figma. Para utilizar la plataforma seguimos los siguientes pasos:
 1. Accedemos a la plataforma para iniciar sesión: [LogIn Figma](https://www.figma.com/login)
+   <br>
      <img src = "/assets/figmaInicioSesion.png" width = "450">
 
 3. Creamos un **Draft**, el cual nos servirá de base para el proyecto colaborativo:
