@@ -1150,6 +1150,26 @@ Contiene un canal interno para que los trabajadores envíen notas o sugerencias,
 
 #### 4.2.3. SEO Tags and Meta Tags
 
+Se han definido etiquetas SEO y Meta Tags estratégicamente para la Landing Page y la Web App de DyeTex con el fin de mejorar la visibilidad en motores de búsqueda y optimizar la experiencia en redes sociales y navegadores.
+
+#### Landing Page
+- Title: Machines that transform quality into every stitch
+
+- Description: At DyeTex, we are committed to providing innovative, high-quality solutions for the textile industry. Our products are designed to improve the efficiency and quality of your production.
+
+- Meta Keywords: Textile IoT, industrial monitoring, predictive maintenance, textile efficiency, machinery management
+
+- Meta Author: TinteX
+
+#### Landing Page
+- Title: Machines that transform quality into every stitch
+
+- Description: In our App, we monitor your machine performance, receive alerts, plan maintenance, and optimize textile production with real-time data.
+
+- Meta Keywords: Textile IoT, industrial monitoring, predictive maintenance, textile efficiency, machinery management
+
+- Meta Author: TinteX
+
 #### 4.2.4. Searching Systems
 
 | **Nombre del Filtro**               | **Descripción** |
