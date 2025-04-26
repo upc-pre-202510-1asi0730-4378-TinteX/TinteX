@@ -58,6 +58,17 @@
 | TB1     | 0.11    | 25/04/2025  | Gabriel Gordon, Leonardo Prieto, Leandro Contreras                                       | Actualización de descripciones y versiones de diagramas de clases; mockups y pantallas de landing page; perfiles y outcomes de estudiantes; actualización de diagramas de base de datos; info personal en perfiles                                  |
 | TB1     | 0.12    | 26/04/2025  | Alessandra Becerra, Leandro Contreras, Hector Ríos, Gabriel Gordon                       | Múltiples “feat” y “fix”: imágenes y perfiles (startup y GitHub); actualización de product backlog y user stories; gráficos y charts de sprint 1 (planning, leaders & collaborators); conclusiones; evidencias de despliegue; insights de colaboración; mejoras en entrevistas; pantallas y guía de estilo; configuración de entorno |
 
+<p aling = "center">
+  <img src = "./assets/proyect.jpeg" alt="TinteX Repositorio" width = "1000">
+</p>
+
+<p aling = "center">
+  <img src = "./assets/landing1.jpeg" alt="Landing Repositorio" width = "1000">
+</p>
+
+<p aling = "center">
+  <img src = "./assets/landing.jpeg" alt="Landing Repositorio" width = "1000">
+</p>
 <hr>
 
 ## Project Report Collaboration Insights  
