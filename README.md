@@ -1716,9 +1716,14 @@ En el Sprint 1, el equipo se enfocó en establecer las bases de nuestra presenci
 En este Sprint el equipo se enfocó en construir la Landing Page de TinteX, cubriendo desde el encabezado inicial hasta la lógica de navegación y la adaptabilidad móvil. Para garantizar responsabilidad clara y comunicación efectiva, cada User Story fue asignada a un líder y a colaboradores clave, basados en el análisis de los commits realizados.
 
 
-             | L                                                              |
+| Team Member (Last Name, First Name)          | GitHub Username | Diseño visual y UX del Hero Section | Desarrollo del Formulario de contacto | Adaptación responsive para dispositivos móviles | Diseño y funcionalidad del Header fijo | Implementación de la sección de Características principales |
+|----------------------------------------------|-----------------|---------------------------------------|-----------------------------------------|-------------------------------------------------|----------------------------------------|----------------------------------------------------------------|
+| Becerra Tejeda, Alessandra Nicole            | aleeBecerra     | C                                     | C                                       | C                                               | C                                      | C                                                              |
+| Contreras López, Leandro Saul                | WiDDsito        | C                                     | C                                       | C                                               | C                                      | C                                                              |
+| Gordon Salas, Gabriel Fernando               | Silent343       | L                                     | L                                       | L                                               | L                                      | L                                                              |
 | Prieto Mantari, Leonardo Fabrizzio Junior    | Wuux1           | C                                     | C                                       | C                                               | C                                      | C                                                              |
 | Rios Pacheco, Hector Javier                  | Khafna09        | C                                     | C                                       | C                                               | C                                      | C                                                              |
+
 ##### 5.2.1.3. Sprint Backlog 1
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
