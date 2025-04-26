@@ -686,6 +686,47 @@ Descripción: tabla que representa los mensajes de notificación que se crean po
 
 #### 5.1.1. Software Development Environment Configuration.
 
+**Project Management**   
+Plataformas con las cuales nos encargamos de desarrollar gran parte del proyecto con las diferentes herramientas que estos ofrecen.
+
+| **Plataforma** | **Descripción** | **Enlace** |
+|----------------|-----------------|------------|
+| PivotalTracker | Herramienta de gestión de proyectos ágil, diseñada especialmente para equipos de desarrollo de softwar. Permite realizar la gesión de historias de usuario en ella | https://www.pivotaltracker.com |
+| UxPressia | Herramienta que ayuda con el desarrollo de impact mapping y user persona | https://uxpressia.com |
+| Vertabelo | Se enfoca más en el diseño y modelado de bases de datos. Utilizada para crear diagramas entidad-relación de forma visual | https://vertabelo.com |
+| Lucidchart | Permite la creación de diagramas de todo tipo, usada para mapas mentas, diagramas de flujo, arquitecturas de software y más | https://www.lucidchart.com |
+| C4 Model | Forma estructurada y visual de documentar la arquitectura de software | https://c4model.com |
+
+**Product UX/UI Desing**   
+Creación de una interfaz amigable y accesible para el usuario, creando experiencias digitales que sean útiles, usables y visualmente atractivas.
+
+| **Plataforma** | **Descripción** | **Enlace** |
+|----------------|-----------------|------------|
+| Figma | Herramienta para el diseño (UI/UX) y protototipado, usada para diseñadar aplicaciones web y móviles | https://www.figma.com |
+
+**Code editor**   
+Herramienta diseñada para la escritura de codigo fuente, siendo un componente importante en los desarrolladores.
+
+| **Plataforma** | **Descripción** | **Enlace** |
+|----------------|-----------------|------------|
+| Visual Studio  | Editor de código fuente gratuito y multiplataforma | https://code.visualstudio.com |
+
+**Version Control**   
+Sistema por el cual nos permite rastrear, guardar y gestioar diversos cambios que se realizan en los archivos.
+
+| **Plataforma** | **Descripción** | **Enlace** |
+|----------------|-----------------|------------|
+| GitHub | Gestiona la documentación y codigo en repositorios | https://github.com |
+
+**Software Development**   
+Sistema por el cual nos permite rastrear, guardar y gestioar diversos cambios que se realizan en los archivos.
+
+| **Plataforma** | **Descripción** | **Enlace** |
+|----------------|-----------------|------------|
+| HTML | Es la estructura y contenido de la landing page | https://www.w3schools.com/html/default.asp |
+| CSS | Le da estilos a las estructuras, para que la landing page tenga una presentación visual más atractiva | https://www.w3schools.com/css/default.asp |
+| JS | Lenguaje fundamental para el desarrollo web, ya que añade interactividad en el lado del navegador  | https://www.w3schools.com/js/default.asp |
+
 #### 5.1.2. Source Code Management
 
 #### 5.1.3. Source Code Style Guide & Conventions
