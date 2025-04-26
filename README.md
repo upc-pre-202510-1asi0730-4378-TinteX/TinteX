@@ -1003,12 +1003,12 @@ En esta sección se definirá el lenguaje ubicuo de DyeTex, una herramienta esen
 | 38 | TS38 | Implementar Autenticación de Usuario | Como desarrollador, quiero implementar la autenticación de usuarios en la plataforma, para asegurar que solo los usuarios autorizados puedan acceder al sistema. | Alta | 8
 | 39 | TS39 | Crear Tutorial Interactivo | Como desarrollador, quiero crear un tutorial interactivo para guiar a los nuevos usuarios en el uso de la plataforma. | Media | 5
 | 40 | TS40 | Almacenar Resultados de Control de Calidad | Como desarrollador, quiero implementar la funcionalidad para almacenar los resultados de las inspecciones de control de calidad. | Media | 3
-| 41       | US41          | Mostrar hero con mensaje claro    | Como visitante deseo ver un encabezado hero claro para comprender rápidamente el propósito de TinteX. | 3            |
-| 42       | US42          | Sección de características        | Como visitante deseo conocer las 3 funcionalidades clave de TinteX para decidir si me interesa.       | 5            |
-| 43       | US43          | Formulario de suscripción         | Como posible usuario deseo dejar mi email para recibir novedades y estar informado del lanzamiento.  | 5            |
-| 44       | US44          | Navegación fija                   | Como usuario deseo un menú fijo en el header para saltar a secciones rápidamente.                    | 3            |
-| 45       | US45          | Diseño responsive                 | Como usuario en móvil deseo que la landing se adapte correctamente para navegar cómodamente.         | 8            |
-| 46       | US46          | Soporte de dos idiomas            | Como usuario internacional deseo cambiar entre español e inglés para usar la aplicación en mi idioma. | 3            |
+| 41       | US41          | Mostrar hero con mensaje claro    | Como visitante deseo ver un encabezado hero claro para comprender rápidamente el propósito de TinteX. | Baja |3            |
+| 42       | US42          | Sección de características        | Como visitante deseo conocer las 3 funcionalidades clave de TinteX para decidir si me interesa.       | Media |5            |
+| 43       | US43          | Formulario de suscripción         | Como posible usuario deseo dejar mi email para recibir novedades y estar informado del lanzamiento.  | Media |5            |
+| 44       | US44          | Navegación fija                   | Como usuario deseo un menú fijo en el header para saltar a secciones rápidamente.                    | Baja |3            |
+| 45       | US45          | Diseño responsive                 | Como usuario en móvil deseo que la landing se adapte correctamente para navegar cómodamente.         | Alta |8            |
+| 46       | US46          | Soporte de dos idiomas            | Como usuario internacional deseo cambiar entre español e inglés para usar la aplicación en mi idioma. | Baja |3            |
 
 <hr>
 
