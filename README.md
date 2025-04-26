@@ -1412,7 +1412,142 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 
 #### 4.7.1. Class Diagrams
 
+![ClassDiagram-DyeTex](https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/DyeTex.v2.png)
+
 #### 4.7.2. Class Dictionary
+
+**User**  
+Descripción: Tabla que representa al usuario que se logea en la aplicación
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| id | UUID | Identificador unico del usuario |
+| name | String | Nombre completo del usuario |
+| corporateEmail | String | Email con el que el usuario ingresa a la applicación |
+| password | String | contraseña del usuario |
+| companyRole | String | rol del usuario en la compania |
+| plant | Plant | planta en la que se ubica el usuario |
+| phone | String | Telefono de contacto del usuario |
+| startDate | DateTime | fecha donde el usuario inicio en la app |
+| certification | String | certificado del usuario |
+| assignedShift | String | cargo asignado para el usuario |
+| availableays | String | días de disponibilidad del usuario |
+
+**Plant**  
+Descripción: Tabla que representa a la información de la Planta donde se encuentran en funcionamiento las maquinas de la empresa
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| id |  UUID | Identificador unico de la planta |
+| amountFlors | int | cantidad de pisos la planta |
+| location | Location | Ubicación de la planta |
+
+**Location**     
+Descripción: Tabla que representa la ubicación
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| country | String | País donde se ubica la planta |
+| Region | String | Region donde se ubica la planta |
+| Address | String | Dirección donde se ubica la planta |
+
+**Maintace**  
+Descripción: tabla que representa el mantenimiento que se dan de los maquinas textiles
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| id | UUID | Identificador unico de mantenimiento |
+| nextMainenaceDevice | DateTime | fecha del siguiente mantenimiento que recibe la maquina |
+| delayedTask | DateTime | Retraso del mantenimiento |
+
+**Date Time**    
+Descripción: tabla que representa la fecha 
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| date | Date | Fecha |
+| value | Date | Valor del tiempo |
+
+**TextileMachine**  
+Descripción: tabla que representa la maquina registrada en la app 
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| id | UUID | Identificador unico de la máquina de textil |
+| name | String | Nombre de la máquina |
+| status | String | Estado de la máquina |
+| numberMachine | int | Número por el cual se reconoce a la máquina |
+| floor | int | Número de piso en el que se encuentra la máquina |
+| zone | int | La zona en la que se encuentra la máquina |
+| dateInstalation | DateTime | fecha de instalación de la máquina |
+
+**Eventos**  
+Descripción: tabla que representa los eventos que sucede con la máquina
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| id | UUID | Identificdor único del evento |
+| dateTime | DateTime | Feha en la que sucede el evento |
+| nameEvent | String | Título del suceso |
+| description | String | Descripción del evento |
+
+**MachineInformation**  
+Descripción: tabla que representa la información de la maquina al momento de revisarla.
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| id | UUID | Identificador unico de la información de la maquina |
+| op | OperatioParameters | Patrones de operación que se generan con la maquita como vibración, electricidad, etc... |
+| textilMachine | TextilMachine | Identificador para cuál máquina posee la información |
+| user | User | Usuario encargado de dicha maquina |
+| timeSpent | time | Tiempo de inversión de la maquina |
+| dayProgress | Decimal | Porcentaje de progreso diario de la máquina |
+| failureRate | Decimal | Porcentaje de fallas diario de la máquina |
+| amountFailures | int | Cantidad de fallas de la máquina |
+
+**OperationParameters**  
+Descripción: tabla que representa los parámetros de operación o indicadored de funcionamiento relacionados con el comportamiento del sistema.
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| range | String | rango común del parametro que se mide de la máquina |
+| parameter | String | nombre del parametro que se mide |
+| value | String | valor que genera la máquina |
+
+**Stadistics**  
+Descripción: tabla que representa las estadisticas que se generar a travez de los reportes sobre el rendimiento de la máquina .
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| id | int | identificador unico de estadísticas |
+| mchnInformation | MachineInformation | maquila la cual van dirigidas las estadísticas |
+| file | File | Archivos por el cual el usuario puede descargar las estadísticas |
+| statusIndicator | String | estado de los picos que se hallán en las estadísticas |
+
+**File**  
+Descripción: tabla que representa los archivos que el usuario puede descargar 
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| type | String | Tipo de archivo |
+
+**AlertSystem**  
+Descripción: tabla que representa las alertas que se generar por la máquina
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| notificacion | List<Notificación> | Las distintas notificaciones que se da a conocer por la alerta |
+| user | User | Usuario al que le llega la alerta |
+
+**Notification**  
+Descripción: tabla que representa los mensajes de notificación que se crean por la maquina y se envían alertas con estos
+
+|**Campo**| **Tipo de dato** | **Descipción** |
+|---------|------------------|----------------|
+| id | UUID | Identificador unico de notificación |
+| message | String | mensaje que se va a enviar al usuario |
+| dateTime | DateTime | Fecha en la que se creó la notificación |
+| textilMachine | TextilMachine | Maquina por la cual se genera el mensaje |
 
 ### 4.8. Database Design
 
