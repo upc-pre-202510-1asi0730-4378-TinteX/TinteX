@@ -1713,6 +1713,7 @@ En el Sprint 1, el equipo se enfocó en establecer las bases de nuestra presenci
 | **Sum of Story Points**               | La suma de Story Point es 20 
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
+En este Sprint el equipo se enfocó en construir la Landing Page de TinteX, cubriendo desde el encabezado inicial hasta la lógica de navegación y la adaptabilidad móvil. Para garantizar responsabilidad clara y comunicación efectiva, cada User Story fue asignada a un líder y a colaboradores clave, basados en el análisis de los commits realizados.
 
 ##### 5.2.1.3. Sprint Backlog 1
 
