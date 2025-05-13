@@ -1256,7 +1256,7 @@ De la misma manera, se muestra su versión para mobile.
   <img src="./assets/mock-landing1.png" alt="lpmu2" width="250">
 </p>
 <p align="center">
-  <img src="./assets/mock-landing2 .png" alt="lpmu2" width="250">
+  <img src="./assets/mock-landing2.png" alt="lpmu2" width="250">
 </p>
 
 ### 4.4. Web Applications UX/UI Design
@@ -1294,37 +1294,37 @@ Estas pantallas muestran el partado donde se controlan las máquinas, donde se v
 [Link a wireframes](https://www.figma.com/design/FN4vK29L4adBmiKf0mwEsa/Untitled?node-id=0-1&t=Qawsjaqi3YzIv35B-1)
 #### 4.4.2. Web Applications Wireflow Diagrams
 <p align="center">
-  <img src="./assets/wireframes/wireFlows/Diapositiva1.jpg" alt="flows1" width="800">
+  <img src="./assets/wireframes/wireFlows/Diapositiva1.JPG" alt="flows1" width="800">
 </p>
 <p align="center">
-  <img src="./assets/wireframes/wireFlows/Diapositiva2.jpg" alt="flows2" width="800">
+  <img src="./assets/wireframes/wireFlows/Diapositiva2.JPG" alt="flows2" width="800">
 </p>
 <p align="center">
-  <img src="./assets/wireframes/wireFlows/Diapositiva3.jpg" alt="flows3" width="800">
+  <img src="./assets/wireframes/wireFlows/Diapositiva3.JPG" alt="flows3" width="800">
 </p>
 <p align="center">
-  <img src="./assets/wireframes/wireFlows/Diapositiva4.jpg" alt="flows4" width="800">
+  <img src="./assets/wireframes/wireFlows/Diapositiva4.JPG" alt="flows4" width="800">
 </p>
 <p align="center">
-  <img src="./assets/wireframes/wireFlows/Diapositiva5.jpg" alt="flows5" width="800">
+  <img src="./assets/wireframes/wireFlows/Diapositiva5.JPG" alt="flows5" width="800">
 </p>
 <p align="center">
-  <img src="./assets/wireframes/wireFlows/Diapositiva6.jpg" alt="flows6" width="800">
+  <img src="./assets/wireframes/wireFlows/Diapositiva6.JPG" alt="flows6" width="800">
 </p>
 <p align="center">
-  <img src="./assets/wireframes/wireFlows/Diapositiva7.jpg" alt="flows7" width="800">
+  <img src="./assets/wireframes/wireFlows/Diapositiva7.JPG" alt="flows7" width="800">
 </p>
 <p align="center">
-  <img src="./assets/wireframes/wireFlows/Diapositiva8.jpg" alt="flows8" width="800">
+  <img src="./assets/wireframes/wireFlows/Diapositiva8.JPG" alt="flows8" width="800">
 </p>
 <p align="center">
-  <img src="./assets/wireframes/wireFlows/Diapositiva9.jpg" alt="flows9" width="800">
+  <img src="./assets/wireframes/wireFlows/Diapositiva9.JPG" alt="flows9" width="800">
 </p>
 <p align="center">
-  <img src="./assets/wireframes/wireFlows/Diapositiva10.jpg" alt="flows10" width="800">
+  <img src="./assets/wireframes/wireFlows/Diapositiva10.JPG" alt="flows10" width="800">
 </p>
 <p align="center">
-  <img src="./assets/wireframes/wireFlows/Diapositiva11.jpg" alt="flows11" width="800">
+  <img src="./assets/wireframes/wireFlows/Diapositiva11.JPG" alt="flows11" width="800">
 </p>
 
 
