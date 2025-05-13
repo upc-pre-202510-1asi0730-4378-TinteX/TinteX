@@ -9,13 +9,13 @@
 <h3 align="center">
     Carrera: Ingeniería de Software
     <br> <br>
-    Curso: SI730 - Aplicaciones Web
+    Curso:  1ASI0730 - Aplicaciones Web
     <br> <br>
     Sección: 4378
     <br> <br>
-    Profesor: Angel Augusto Velasquez Nuñez
+    Profesor: Ángel Augusto Velásquez Nuñez
     <br> <br>
-    Ciclo: 2025-01 
+    Ciclo: 2025-10 
     <br> <br>
     Informe de Trabajo Final
     <br> <br>
@@ -191,9 +191,11 @@ Criterio: : La capacidad de funcionar efectivamente en un
 equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de
 colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
 
-| <div style="width:150px">Criterio específico</div> | <div style="width:250px">Acciones Realizadas</div> | <div style="width:250px">Conclusiones</div> |
-|-------------------|-------------------|------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia | **Héctor Ríos TB1:** Realicé la sección del startup profile, solution profile dentro del capítulo I. Asimismo, realicé en una de las entrevistas correspondientes al primer segmento. Además, colaboré en la elaboración del information architecture, los wireframes y mockups anterior al prototipo. <br><br> **Leonardo Prieto TB1:** Realicé todo el apartado de NeedFinding, que tiene las partes como: User Persona, User Task Matrix, Journey Map, Empathy Map y As-Is Scenario Map. Además, realicé los  Wireframes y Mock-Ups de la Landing Page y los Mock-Ups del Aplication Mobile, junto con su respectivo User Flow Diagram. <br><br> **Gabriel Gordon TB1:** Realicé el diseño de la landing page y la programación de está. Además ayudé en el diseño para los wireframes y Mock-ups de la landing. También, desarrollé el analisis competitivo con otras empresas, el diagrama de clases junto a su descripción <br></br> **Leandro Contreras TB1:** Realicé el capitulo 3 referente a "Requirements Specification" logrando con satisfacción con los items presentes en el indice, a su vez contribuí con el capitulo 4 especificamente la sección de Domain-Drivin-Desing, asi mismo ayude a elaborar el diagrama de clases como el diagrama de la base de datos y aportando ideas para los mock-ups del proyecto. <br><br> **Alessandra Becerra TB1:** Realicé el apartado de entrevistas, desde el diseño hasta análisis, colaboré en la identificación de User Stories y Style Guidelines, a su vez el Ubiquitous language y el Software Deployment Evidence for Sprint Review de diseño y deployment. | **TB1:** Como conclusión para esta presentación, cada integrante cumplió con sus actividades en el tiempo y participó activamente en las reuniones, manteniendo una correcta comunicación, dando como resultado en este avance una base sólida para continuar el proyecto. |
+| Criterio específico | Acciones realizadas    | Conclusiones    |
+|---------------------|  ----------------------|-----------------|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                | **Héctor Ríos** **TB1:** Durante el desarrollo colaboré de manera asertiva y coordinada con el equipo para ejercer un liderazgo compartido, junto a mis compañeros planificamos las reuniones para que pudiera realizar el Startup Profile y Solution Profile, acordando los objetivos. Participé en la entrevista dentro del primer segmento y contribuí al diseño colectivo creando y revisando el Information Architecture, los wireframes y mos mockups previos al prototipo, integrando las sugerencias y especificación mencionadas por lo miembros.|
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Héctor Ríos** **TB1:** Durante esta primera entrega promoví un ambiente donde puede aportar asertivamente, colaboré en la organización de sesiones de trabajo conjunto para definir el Startup Profile y el Solution Profile, anotando las ideas, contribuyendo a la construcción de esta primera entrega.   |
+
 
 ## Capítulo I: Introducción 
 
@@ -221,52 +223,43 @@ DyeTex es una plataforma web que permite a las empresas textiles optimizar el re
 Con un modelo de suscripción, DyeTex ofrece distintas opciones que se ajustan a las necesidades de las empresas textiles, brindando una versión básica con funcionalidades clave de monitoreo y una versión premium que incluye análisis avanzados, reportes detallados. DyeTex se posiciona como la solución ideal para aquellas empresas que buscan integrar tecnología de vanguardia en la gestión de su maquinaria y mejorar la competitividad en la industria textil.
 
 #### 1.2.1. Antecedentes y problemática
-**What**
+**What**  
+La mayoría de las empresas textiles carecen de visibilidad y control en tiempo real sobre el estado y rendimiento de su maquinaria, lo que provoca paradas inesperadas, bajo aprovechamiento de capacidad y elevados costos de mantenimiento. DyeTex resuelve esto mediante una plataforma web IoT que monitorea continuamente las máquinas, detecta posibles fallos y envía alertas de mantenimiento oportuno, mejorando la productividad y reduciendo el tiempo de inactividad.
 
-¿Cuál es el problema?
-- La mayoría de las empresas textiles enfrentan falta de visibilidad y control sobre el estado y rendimiento de su maquinaria en tiempo real. Trabajan con procesos manuales o equipos desconectados, lo que provoca paradas inesperadas, bajo aprovechamiento de capacidad y costos elevados de mantenimiento. DyeTex resuelve este problema al ofrecer una plataforma web IoT que monitorea continuamente el desempeño de las máquinas, detecta posibles fallos y envía alertas de mantenimiento oportuno, mejorando la productividad y reduciendo el tiempo de inactividad.
+**Who**  
+- Empresas textiles (talleres, pymes y grandes fábricas) que buscan optimizar su rendimiento productivo.  
+- Operarios, ingenieros de mantenimiento y gerentes de planta que necesitan una visión clara y en tiempo real del estado de sus equipos.  
+- Proveedores de soluciones tecnológicas interesados en herramientas de monitoreo y análisis de datos para el sector textil.
 
-**Who**
+**When**  
+El problema ocurre de forma continua en cada turno y lote de producción, agravándose en picos de demanda y con renovaciones tecnológicas lentas, justo cuando la competitividad global y los plazos de entrega son más exigentes.
 
-¿Quiénes se ven involucrados en el problema?
-- Empresas textiles (talleres, pymes y grandes fábricas) que requieren optimizar su rendimiento productivo junto con sus pperarios, ingenieros de mantenimiento y gerentes de planta que necesitan una visión clara y en tiempo real del estado de sus equipos
+**Where**  
+Los usuarios acceden a DyeTex desde estaciones de control en planta, oficinas de mantenimiento o de forma remota (PC, tablet o smartphone). El problema se origina en el piso de producción: líneas de tejeduría, tintorería y acabado, donde la falta de datos en tiempo real impide una gestión proactiva de la maquinaria.
 
-- Proveedores de soluciones tecnológicas interesados en ofrecer herramientas de monitoreo y análisis de datos al sector textil.
+**Why**  
+- Falta de digitalización, con registros manuales y controles aislados.  
+- Ausencia de sistemas predictivos que anticipen desgastes o averías.  
+- Mantenimiento reactivo, que aumenta tiempos de paro y costos imprevistos.
 
+**How**  
+DyeTex se integra con sensores IoT en cada máquina (temperatura, vibración, velocidad y uso). La plataforma centraliza datos en dashboards personalizables, envía notificaciones al superar umbrales críticos y genera reportes de tendencia. Permite configurar alertas (SMS/email) para mantenimientos preventivos y ajustes operativos en tiempo real.
 
-**When**
-¿Cuándo sucede el problema?
-- El problema es constante en el ciclo de producción: en cada turno y en cada lote de producción, las máuinas pueden tener fallos imprevistos o funcionar por debajo de su redimiento óptimo. La necesidad de supervisión inteligente se agrava en contextos de alta demanda, picos de producción y renovación tecnológica lenta, justo cuando la competitividad global y los tiempos de entrega son más exigentes.
+**How Much**  
+- 800 horas de inactividad promedio al año por fallos imprevistos (≈ 9 % de disponibilidad perdida).  
+- 40 % del tiempo de los técnicos dedicado a reparaciones de emergencia.  
+- 25 % más de defectos y retrabajos por ausencia de alertas tempranas.
 
-**Where**
-
-¿Dónde está el cliente cuando usa el producto y dónde surge el problema?
-- Los usuarios emplean DyeTex desde sus estaciones de control en planta, oficinas de mantenimiento o incluso de forma remota, mediante cualquier dispositivo con conexión a Internet (computadora, tablet o smartphone). El problema surge directamente en el piso de producción: talleres y líneas de tejeduría, tintorería y acabado, donde la escasez de datos en tiempo real impide una gestión proactiva de la maquinaria.
-
-**Why**
-¿Cuáles son las causas del problema?
-- Falta de digitalización: muchas fábricas aún dependen de registros manuales y controles aislados.
-- Ausencia de sistemas predictivos: no cuentan con herramientas que anticipen desgastes o averías.
-- Costos de mantenimiento reactivo: la reparación se hace tras la falla, incrementando tiempos de paro y gastos inesperados.
-
-**How**
-
-¿En qué condiciones los clientes usan nuestro producto?
-- DyeTex se integra con sensores IoT instalados en cada máquina, que recogen métricas de temperatura, vibración, velocidad y uso. La plataforma web centraliza toda la información, muestra dashboards personalizables, envía notificaciones de umbrales críticos y genera reportes de tendencia. Los usuarios pueden configurar alertas SMS o correo para programar mantenimientos preventivos y ajustar parámetros operativos al instante.
-
-**How much**
-
-Las plantas textiles sufren en promedio 800 horas de inactividad al año, debido a fallas imprevistas y mantenimiento reactivo.
-Esto equivale a una pérdida de alrededor del 9 % de disponibilidad de los equipos, limitando la capacidad productiva.
-El 40 % del tiempo de los técnicos se destina a reparaciones de emergencia, reduciendo el enfoque en mantenimiento preventivo.
-La falta de alertas tempranas incrementa los defectos y retrabajos en un 25 %, afectando la consistencia y calidad del producto final.
 #### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-Nuestro sistema DyeTex fue diseñado para ayudar a las empresas textiles a monitorizar y optimizar el rendimiento de sus máquinas en tiempo real mediante tecnología IoT.
-Hemos observado que las plantas siguen enfrentando altos niveles de paradas no planificadas, visibilidad limitada de sus procesos y mantenimiento principalmente reactivo, lo cual compromete la productividad y la calidad del producto.
-¿Cómo podríamos abordar estas deficiencias para que las empresas textiles puedan anticiparse a las fallas, reducir el tiempo de inactividad y mejorar el control y la eficiencia operativa de sus maquinarias?
+El estado actual de la gestión de maquinaria textil se ha centrado principalmente en inspecciones manuales, registros aislados y sistemas locales poco conectados que obligan a reaccionar a fallos luego de producirse y generando largos tiempos de inactividad y disminución general de producción.
+Lo que los servicios existentes no abordan es la falta de soluciones adaptadas a la variabilidad de las máquinas textiles, con integraciones sencillas para control de parámetros y notificaciones inmediatas pues no son desarrollos a medida.
+Nuestro servicio abordará esta brecha al ofrecer DyeTex, una solución que permite el monitoreo completo de cada activo y control de recursos, unido a un dashboard preconfigurado con alertas automáticas y que a su vez permite mejorar los tiempos de inactividad por prevención de riesgos.
+Nuestro enfoque inicial será pequeñas y medianas empresas textiles con equipos de mantenimiento interno, sin experiencia en soluciones predictivas y con presupuestos limitados.
+Nosotros sabremos que tenemos éxito cuando vemos que al menos 20 pymes implementan la solución con más de un 50% % de activación de alertas en el primer mes, reducen un 30 % las paradas no planificadas en seis meses y obtienen una  visibilidad y control de maquinaria.
+
 
 #### 1.2.2.2. Lean UX Assumptions
 **¿Quién es el usuario?**
@@ -351,7 +344,7 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
     <img src="./assets/Lean-UX-Canvas.png" alt="Lean UX" width="850px">
 </p>
 
-[Visualizar Lean UX Canvas](https://www.canva.com/design/DAGlJa5hM50/r6zjjmIBlYsMarSUoKuRaQ/edit?utm_content=DAGlJa5hM50&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+https://www.canva.com/design/DAGlJa5hM50/r6zjjmIBlYsMarSUoKuRaQ/edit
 
 
 ### 1.3. Segmentos Objetivos
@@ -626,7 +619,7 @@ Segmento 1: Entrevista #1 - Datos del Entrevistado
 | Momento de inicio  | 00:00           |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/s1_interview1.png" alt="Entrevista 1" width="500"> 
+<img src="./assets/s1_interview1.png" alt="Entrevista 1" width="500"> 
 </a>
 <br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EVFpcS23HvlDsP1GoyQ9-BEBUQBy8sOGp8gD0ohzLI_utA?e=RfkRuZ)
@@ -652,7 +645,7 @@ Para finalizar, menciona que el principal aporte sería en **mejorar los proceso
 | Momento de inicio   | 00:57             |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/imagenEntrevistaMery.png" alt="Entrevista 2" width="500"> 
+<img src="./assets/imagenEntrevistaMery.png" alt="Entrevista 2" width="500"> 
 </a>
 <br>
 
@@ -672,7 +665,7 @@ Mery, una trabajadora la cual es responsable de producción de la empresa textil
 | Momento de inicio   | 00:55             |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/imagenEntrevistaJorge.png" alt="Entrevista 3" width="500"> 
+<img src="./assets/imagenEntrevistaJorge.png" alt="Entrevista 3" width="500"> 
 </a>
 <br>
 
@@ -694,7 +687,7 @@ Jorge, jefe de planta, indica que actualmente el monitoreo del rendimiento de la
 | Momento de inicio   | 00:50             |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/imagenEntrevistaGonzalo.png" alt="Entrevista 4" width="500"> 
+<img src="./assets/imagenEntrevistaGonzalo.png" alt="Entrevista 4" width="500"> 
 </a>
 <br>
 
@@ -714,7 +707,7 @@ Gonzalo, director técnico, indica que su empresa ofrece soluciones como tablero
 | Momento de inicio   | 00:55             |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/imagenEntrevistaAgustin.png" alt="Entrevista 5" width="500"> 
+<img src="./assets/imagenEntrevistaAgustin.png" alt="Entrevista 5" width="500"> 
 </a>
 <br>
 
@@ -735,7 +728,7 @@ Agustín, especialista en automatización industrial, menciona que han implement
 | Momento de inicio   | 00:50             |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/imagenEntrevistaAlfonso.png" alt="Entrevista 6" width="500"> 
+<img src="./assets/imagenEntrevistaAlfonso.png" alt="Entrevista 6" width="500"> 
 </a>
 <br>
 
@@ -749,22 +742,22 @@ Afonso, CTO (Director de Tecnología) de una startup que digitaliza procesos en 
 Al revisar las entrevistas, logramos identificar tanto las expectativas como las necesidades que los usuarios expresan, además de obtener retroalimentación valiosa sobre cómo imaginan su solución ideal. Esta información nos servirá como base para tomar decisiones clave en el desarrollo del producto.
 
 **Segmento 1: Empresas Textiles** <br>
-<img src="/assets/s1_g1.png" alt="Grafico 1" width="500"> 
+<img src="./assets/s1_g1.png" alt="Grafico 1" width="500"> 
 </a>
-<img src="/assets/s1_g2.png" alt="Grafico 2" width="500"> 
+<img src="./assets/s1_g2.png" alt="Grafico 2" width="500"> 
 </a>
-<img src="/assets/s1_g3.png" alt="Grafico 3" width="500"> 
+<img src="./assets/s1_g3.png" alt="Grafico 3" width="500"> 
 </a>
-<img src="/assets/s1_g4.png" alt="Grafico 4" width="500"> 
+<img src="./assets/s1_g4.png" alt="Grafico 4" width="500"> 
 </a>
 
 **Segmento 2: Proveedores** <br>
-<img src="/assets/s2_g1.png" alt="Grafico 5" width="500"> 
+<img src="./assets/s2_g1.png" alt="Grafico 5" width="500"> 
 </a>
 
-<img src="/assets/s2_g3.png" alt="Grafico 7" width="500"> 
+<img src="./assets/s2_g3.png" alt="Grafico 7" width="500"> 
 </a>
-<img src="/assets/s2_g4.png" alt="Grafico 8" width="500"> 
+<img src="./assets/s2_g4.png" alt="Grafico 8" width="500"> 
 </a>
 
 ### 2.3. Needfinding
@@ -1049,29 +1042,29 @@ Las pautas generales de estilo de DyeTex están diseñadas para proyectar una id
 **Branding:** La paleta de colores seleccionada comunica confiabilidad, precisión y eficiencia operativa. El color principal, #003366, un azul profundo y elegante, representa estabilidad, profesionalismo y tecnología. Este color funciona como base sólida para la interfaz, asegurando un contraste claro y favoreciendo la legibilidad. Los colores neutros #b3b3b3, #e6e6e6 y #ffffff se emplean para estructuras, fondos y secciones informativas, facilitando una navegación intuitiva y limpia. Este equilibrio cromático permite que la atención del usuario se dirija a lo más relevante: el monitoreo de sus máquinas y la toma de decisiones basadas en datos.
 <br>
 **Paleta de colores primaria:** <br>
-<img src="/assets/styleGuidelines/primaryPaletteColors.png" alt="Palette 1" width="500">
+<img src="./assets/styleGuidelines/primaryPaletteColors.png" alt="Palette 1" width="500">
 </a> 
 <br>
 **Paleta de colores secundaria:** <br>
-<img src="/assets/styleGuidelines/secondaryPaletteColors1.png" alt="Palette 2" width="400">
+<img src="./assets/styleGuidelines/secondaryPaletteColors1.png" alt="Palette 2" width="400">
 </a> <br>
 
 **Typography:** Se ha elegido la tipografía Prompt debido a su claridad, modernidad y legibilidad en todos los tamaños de pantalla. Las diferentes variaciones de peso (ExtraBold, SemiBold, Medium, Regular) permiten crear una jerarquía clara y aseguran que los usuarios puedan navegar fácilmente por la interfaz. <br>
 <br>
 <br>
-<img src="/assets/styleGuidelines/typographyDyeTex.png" alt="Typography" width="400">
+<img src="./assets/styleGuidelines/typographyDyeTex.png" alt="Typography" width="400">
 </a> <br>
 
 **Icons:** Se emplean íconos con un estilo lineal y simple para facilitar una comunicación clara y rápida. Su diseño distintivo permite que sean identificados fácilmente por los usuarios, manteniendo una apariencia coherente con el estilo moderno de la plataforma. <br>
 <br>
 <br>
-<img src="/assets/styleGuidelines/icons.png" alt="Icons" width="400">
+<img src="./assets/styleGuidelines/icons.png" alt="Icons" width="400">
 </a> <br>
 
 **Buttons:** Los botones están diseñados para ser altamente visibles y accesibles. Se utilizan colores de la paleta de colores primaria y secundaria como el azul, para las acciones principales, mientras que los bordes redondeados mejoran la usabilidad en dispositivos táctiles. <br>
 <br>
 <br>
-<img src="/assets/styleGuidelines/WhiteButtons.png" alt="Buttons" width="400">
+<img src="./assets/styleGuidelines/WhiteButtons.png" alt="Buttons" width="400">
 </a> <br>
 
 **Spacing and Layout:** Se emplea una estructura de espaciado coherente y equilibrada que asegura una presentación limpia del contenido y una experiencia de usuario fluida. Mantener distancias adecuadas entre los distintos elementos permite una lectura más cómoda, facilita la interacción, especialmente en dispositivos con pantallas táctiles, y guía la atención del usuario hacia las acciones más importantes.
@@ -1083,12 +1076,12 @@ Las pautas de estilo web de DyeTex están diseñadas con un enfoque en la usabil
 **Responsive Design:** Toda la plataforma de DyeTex está optimizada para ser completamente responsive, lo que permite que los usuarios puedan interactuar fácilmente desde cualquier dispositivo, ya sea una computadora en planta, una tablet o un smartphone, sin comprometer la experiencia de uso.
 **Color Accessibility:** La selección de colores en DyeTex cumple con criterios de contraste visual adecuados, alineándose con las pautas de accesibilidad como las WCAG. Esto asegura que todos los textos sean legibles frente a sus fondos, e incluye versiones de alto contraste para operadores o usuarios con dificultades visuales. <br>
 
-<img src="/assets/styleGuidelines/webStyleGuidelines.png" alt="WebStyleColors" width="500">
+<img src="./assets/styleGuidelines/webStyleGuidelines.png" alt="WebStyleColors" width="500">
 </a> <br>
 
 **Hover and Active States:** Los botones, enlaces e iconos cuentan con estados visuales bien definidos al pasar el cursor (hover) y al hacer clic (active), lo que brinda una retroalimentación clara al usuario. Esta característica es clave para mejorar la usabilidad y minimizar posibles errores de interacción.
 
-<img src="/assets/styleGuidelines/buttonsWebStyleGuidelines.png" alt="WebStyleButtons" width="350">
+<img src="./assets/styleGuidelines/buttonsWebStyleGuidelines.png" alt="WebStyleButtons" width="350">
 </a> <br>
 
 **Optimización del Rendimiento:** Se prioriza el uso de diseños ligeros que aseguren tiempos de carga rápidos, empleando imágenes y recursos optimizados. Esta eficiencia es fundamental para mantener una experiencia fluida en el ritmo acelerado de un entorno gastronómico.
@@ -1228,25 +1221,42 @@ Se han definido etiquetas SEO y Meta Tags estratégicamente para la Landing Page
 | **Accesos rápidos**      | Botones flotantes o atajos hacia funciones frecuentes como registrar una alerta, consultar mantenimiento o tomar lectura manual de un sensor. |
 
 ### 4.3. Landing Page UI Design
+Durnate la elaboración de la landing page se utilizaropn los principios de diseño, utlizando diferentes secciones que muestran la información de manera clara.
 
 #### 4.3.1. Landing Page Wireframe
-
+A continuación se muestra la primera captura de wireframe que enseña la distribución de los elementos, como un navbar que redirige a las secciones correspondientes y un espacio para la imagen princiapl de toda la landing page.
+Por otro lado, se meustran las dos primeras secciones, los espaicos reservados para imágenes y texto (Soluciones y Cómo funciona).
 <p align="center">
   <img src="./assets/landing page wireframes/Landing Page Wireframe 1.png" alt="lpw1" width="700">
 </p>
 
+En esta captura se muestra la sección que muestrará nuestra infromación como servicio. Asimismo, el partado para contactarnos y el footer con información.
 <p align="center">
   <img src="./assets/landing page wireframes/Landing Page Wireframe 2.png" alt="lpw2" width="700">
 </p>
+De igual manera se le corresponde el diseño en versión mobile.
+<p align="center">
+  <img src="./assets/wire-landing-mobile1.png" alt="lpw2" width="250">
+</p>
+<p align="center">
+  <img src="./assets/wire-landing-mobile2.png" alt="lpw2" width="250">
+</p>
 
 #### 4.3.2. Landing Page Mock-up
-
+Para la versión mockup de la landing page se agregó las imagenes correspondientes. Además, el logo representativo y se completaron los campos de imformación.
 <p align="center">
   <img src="./assets/landing page mock ups/Landing Page Mock-Up 1.png" alt="lpmu1" width="700">
 </p>
 
 <p align="center">
   <img src="./assets/landing page mock ups/Landing Page Mock-Up 2.png" alt="lpmu2" width="700">
+</p>
+De la misma manera, se muestra su versión para mobile.
+<p align="center">
+  <img src="./assets/mock-landing1.png" alt="lpmu2" width="250">
+</p>
+<p align="center">
+  <img src="./assets/mock-landing2 .png" alt="lpmu2" width="250">
 </p>
 
 ### 4.4. Web Applications UX/UI Design
@@ -1284,20 +1294,39 @@ Estas pantallas muestran el partado donde se controlan las máquinas, donde se v
 [Link a wireframes](https://www.figma.com/design/FN4vK29L4adBmiKf0mwEsa/Untitled?node-id=0-1&t=Qawsjaqi3YzIv35B-1)
 #### 4.4.2. Web Applications Wireflow Diagrams
 <p align="center">
-  <img src="./assets/wireframes/flows1.png" alt="flows1" width="800">
+  <img src="./assets/wireframes/wireFlows/Diapositiva1.jpg" alt="flows1" width="800">
 </p>
 <p align="center">
-  <img src="./assets/wireframes/flows2.png" alt="flows2" width="800">
+  <img src="./assets/wireframes/wireFlows/Diapositiva2.jpg" alt="flows2" width="800">
 </p>
 <p align="center">
-  <img src="./assets/wireframes/flows3.png" alt="flows3" width="350">
+  <img src="./assets/wireframes/wireFlows/Diapositiva3.jpg" alt="flows3" width="800">
 </p>
 <p align="center">
-  <img src="./assets/wireframes/flows4.png" alt="flows4" width="800">
+  <img src="./assets/wireframes/wireFlows/Diapositiva4.jpg" alt="flows4" width="800">
 </p>
 <p align="center">
-  <img src="./assets/wireframes/flows5.png" alt="flows5" width="800">
+  <img src="./assets/wireframes/wireFlows/Diapositiva5.jpg" alt="flows5" width="800">
 </p>
+<p align="center">
+  <img src="./assets/wireframes/wireFlows/Diapositiva6.jpg" alt="flows6" width="800">
+</p>
+<p align="center">
+  <img src="./assets/wireframes/wireFlows/Diapositiva7.jpg" alt="flows7" width="800">
+</p>
+<p align="center">
+  <img src="./assets/wireframes/wireFlows/Diapositiva8.jpg" alt="flows8" width="800">
+</p>
+<p align="center">
+  <img src="./assets/wireframes/wireFlows/Diapositiva9.jpg" alt="flows9" width="800">
+</p>
+<p align="center">
+  <img src="./assets/wireframes/wireFlows/Diapositiva10.jpg" alt="flows10" width="800">
+</p>
+<p align="center">
+  <img src="./assets/wireframes/wireFlows/Diapositiva11.jpg" alt="flows11" width="800">
+</p>
+
 
 #### 4.4.3. Web Applications Mock-ups
 
@@ -1804,9 +1833,10 @@ En el Sprint 1, el equipo se enfocó en establecer las bases de nuestra presenci
 | **Attendees (to planning meeting)**   | Leandro Contreras, Alessandra Becerra, Leonardo Prieto, Héctor Ríos, Gabriel Gordon                                                                                                                         |
 | **Sprint n-1 Review Summary**         | Este es el primer Sprint, por lo que este campo aún no es aplicable                                                                                                                         |
 | **Sprint n-1 Retrospective Summary**  | Este es el primer Sprint, por lo que este campo aún no es aplicable                                                                                                                         |
-| **Sprint 1 Goal**                     | Desarrollar e implementar la landing page de nuestra aplicación y de esta manera ofrecer una presentación clara y atractiva de la solución que promete el producto a los usuarios potenciales. Consideraremos este objetivo alcanzado cuando la página esté publicada y el número de visitas alcance al menos el umbral establecido. |
-| **Sprint 1 Velocity**                 | Nuestro equipo puede aceptar hasta 23 story points                                                                                                                                           |
-| **Sum of Story Points**               | La suma de Story Point es 20 
+| **Sprint 1 Goal**                     | Nuestro enfoque está en desarrollar e implementar una landing page responsiva y accesible que presente nuestra solución de forma clara a usuarios potenciales. Creemos que aporta confianza de nuestro producto y mejora la experiencia de los visitantes, facilitando su primer contacto con nuestra propuesta de solución. Se confirmará cuando la página esté publicada en producción y validemos el interés mediante el análisis de visitas al cierre del Sprint. 
+ |
+| **Sprint 1 Velocity**                 | Nuestro equipo puede aceptar hasta 20 story points                                                                                                                                           |
+| **Sum of Story Points**               | La suma de Story Points es 23 
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 En este Sprint el equipo se enfocó en construir la Landing Page de TinteX, cubriendo desde el encabezado inicial hasta la lógica de navegación y la adaptabilidad móvil. Para garantizar responsabilidad clara y comunicación efectiva, cada User Story fue asignada a un líder y a colaboradores clave, basados en el análisis de los commits realizados.
@@ -1831,7 +1861,7 @@ En este Sprint el equipo se enfocó en construir la Landing Page de TinteX, cubr
 | US-03    | Formulario de contacto            | T03     | Contact Form          | Creación y validación del formulario de captura de correo electrónico   | 2                | Alessandra Becerra    | Done     |
 | US-04    | Navegación fija                      | T04     | Fixed Navigation Menu      | Lógica y estilo para mantener el menú de navegación siempre visible     | 2.5              | Wuux1                | Done     |
 | US-05    | Diseño responsive                    | T05     | Responsive Layout          | Adaptación del diseño a pantallas móviles y tablets                     | 3                | Khafna09             | Done     |
-| US-06    | Soporte de dos idiomas               | T06     | Multilanguage Support      | Implementación de selector de idioma y carga de contenidos en español/inglés | 2            | Gabriel Gordon        | Done     |
+| US-06    | Soporte de dos idiomas               | T06     | Multilanguage Support      | Implementación de selector de idioma y carga de contenidos en español/inglés | 2            | Gabriel Gordon        | To do     |
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
 Durante este sprint, se realizaron avances importantes en el proyecto, distribuidos entre distintos miembros del equipo. A continuación, se presentan algunos de los commits más relevantes de cada colaborador:
@@ -1848,13 +1878,14 @@ Durante este sprint, se realizaron avances importantes en el proyecto, distribui
 
 En este Sprint, nuestro equipo ha conseguido completar y desplegar la Landing Page. A continuación, se mostrará los screens sacasdos desde la web: https://silent343.github.io/1asi0730-4378-TinteX-LandingPage/ 
 
-<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen1.png">
-<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen2.png">
-<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen3.png">
-<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen7.png">
-<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen4.png">
-<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen5.png">
-<img src="https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/LandingPage-Screen6.png">
+<img src="https://raw.githubusercontent.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/feature/gordon/assets/LandingPage-Screen1.png" alt="LandingPage Screen 1">
+<img src="https://raw.githubusercontent.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/feature/gordon/assets/LandingPage-Screen2.png" alt="LandingPage Screen 2">
+<img src="https://raw.githubusercontent.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/feature/gordon/assets/LandingPage-Screen3.png" alt="LandingPage Screen 3">
+<img src="https://raw.githubusercontent.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/feature/gordon/assets/LandingPage-Screen7.png" alt="LandingPage Screen 7">
+<img src="https://raw.githubusercontent.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/feature/gordon/assets/LandingPage-Screen4.png" alt="LandingPage Screen 4">
+<img src="https://raw.githubusercontent.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/feature/gordon/assets/LandingPage-Screen5.png" alt="LandingPage Screen 5">
+<img src="https://raw.githubusercontent.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/feature/gordon/assets/LandingPage-Screen6.png" alt="LandingPage Screen 6">
+
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Durante el Sprint no se integraron servicios a través de APIs, por lo que no fue necesaria la generación de documentación técnica relacionada a este aspecto.
@@ -1864,40 +1895,42 @@ Durante el Sprint no se integraron servicios a través de APIs, por lo que no fu
 Para realizar el diseño de los wireframes y mockups de la Landing Page de DyeTex, se hizo uso de la plataforma Figma. Para utilizar la plataforma seguimos los siguientes pasos:
 1. Accedemos a la plataforma para iniciar sesión: [LogIn Figma](https://www.figma.com/login)
    <br>
-     <img src = "/assets/figmaInicioSesion.png" width = "450">
+     <img src = "./assets/figmaInicioSesion.png" width = "450">
 
 3. Creamos un **Draft**, el cual nos servirá de base para el proyecto colaborativo:
-      <img src = "/assets/draftFigma.png" width = "450">
+      <img src = "./assets/draftFigma.png" width = "450">
 
 **Deployment**
 Para despegar la landing page, se utiliza GitHub Pages:
   <img src = "/assets/GithubPages.jpg" width = "450">
   <br>
 Para crear la Organización en Github seguimos los siguientes pasos:
-  <img src = "/assets/github1.png" width = "500">
-  <img src = "/assets/github2.png" width = "500">
-  <img src = "/assets/github3.png" width = "500">
-  <img src = "/assets/github4.png" width = "500">
-  <img src = "/assets/github5.png" width = "500">
+  <img src = "./assets/github1.png" width = "500">
+  <img src = "./assets/github2.png" width = "500">
+  <img src = "./assets/github3.png" width = "500">
+  <img src = "./assets/github4.png" width = "500">
+  <img src = "./assets/github5.png" width = "500">
 
 Para nuestro proyecto se creo 1 repositorio de nombre **TinteX**, el cual usamos para subir la landing page y desarrollar continuamente el informe del proyecto.
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 A continuación, se muestran la captura de los insights del repositorio.
-  <img src = "/assets/insights.png" width = "500">
+  <img src = "./assets/insights.png" width = "500">
 
 
 <hr>
 
 ## Conclusiones
 
-- A lo largo del desarrollo de DyeTex, se ha identificado y seleccionado a su público objetivo: empresas textiles que buscan aumentar la eficiencia operativa de su maquinaria y proveedores de soluciones que pueden integrarse. Esta comprensión nos permitió diseñar una plataforma que se adapta a las necesidades de este sector, abordando problemáticas como la falta de visibilidad de los procesos, el mantenimiento y los tiempos de inactividad no planificados.
+### Conclusiones y Recomendaciones
 
-- Durante el análisis del entorno industrial, DyeTex ha demostrado una clara ventaja al ofrecer una solución específica para el sector textil, que se diferencia de sistemas genéricos de monitoreo. Su enfoque en el uso de IoT, la capacidad de integrarse con maquinaria existente y la provisión de datos accionables en tiempo real nos posiciona como una solución evolutiva y eficaz.
+Se confirma que la falta de visibilidad en tiempo real y el mantenimiento reactivo generan paradas imprevistas y costos adicionales en las plantas textiles.
 
-- Asimismo, se ha resaltado la importancia de adaptar DyeTex al contexto local y regional, considerando los niveles de automatización actuales, las capacidades técnicas del personal y los procesos productivos específicos de cada empresa.
+Los usuarios manifiestan interés en una plataforma que integre datos de sensores y ofrezca alertas automáticas para anticipar fallos.
 
+Los objetivos de Lean UX (disminuir inactividad y alcanzar un nivel mínimo de activación de alertas) son desafiantes pero factibles mediante pilotos controlados.
 
+### Video About-the-Team
 ## Bibliografía
 
 <hr>
