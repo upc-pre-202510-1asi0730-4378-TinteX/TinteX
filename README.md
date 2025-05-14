@@ -930,20 +930,12 @@ En esta sección se definirá el lenguaje ubicuo de DyeTex, una herramienta esen
 
 ### 3.2. User Stories
 
-## Epics
+Las historias de usuario (User Stories) constituyen descripciones concisas, centradas en el usuario, que detallan una funcionalidad específica del producto desde la perspectiva de quien lo utilizará. Estas narrativas permiten comprender con mayor claridad las necesidades, objetivos y motivaciones de los usuarios, al enfocarse en lo que desean alcanzar y el propósito que subyace a dicha acción.
 
-| ID  | Título                                       | Descripción |
-|-----|----------------------------------------------|-------------|
-| 01  | Monitoreo en tiempo real de las máquinas     | Como usuario responsable de operaciones, quiero visualizar en tiempo real el estado y rendimiento de cada máquina, para detectar anomalías de forma inmediata y optimizar la producción. |
-| 02  | Gestión de alertas y notificaciones          | Como técnico de mantenimiento, quiero recibir alertas automáticas cuando una máquina tenga un fallo o comportamiento anómalo, para poder actuar rápidamente y reducir el tiempo de inactividad. |
-| 03  | Historial y análisis de desempeño            | Como gerente o analista de planta, quiero acceder al historial de rendimiento y fallas de las máquinas, para tomar decisiones basadas en datos y mejorar la eficiencia operativa. |
-| 04  | Optimización del mantenimiento preventivo    | Como supervisor de mantenimiento, quiero recibir recomendaciones inteligentes sobre cuándo realizar mantenimientos, para evitar fallas imprevistas y alargar la vida útil de la maquinaria. |
-| 05  | Gestión estratégica de producción            | Como gerente de planta, quiero disponer de reportes y métricas que reflejen el desempeño general de la producción, para planificar mejor los recursos y tomar decisiones estratégicas. |
-| 06  | Operación diaria de maquinaria               | Como operador técnico, quiero acceder fácilmente a la información y estado de las máquinas que manejo, para realizar mis tareas con mayor precisión y seguridad. |
-| 07  | Integración de soluciones tecnológicas       | Como proveedor tecnológico, quiero integrar mis sensores o software con DyeTex mediante APIs y herramientas compatibles, para ofrecer una solución más robusta y adaptada a mis clientes industriales. |
-| 08  | Gestión de Acceso y Permisos Basada en Roles | Como administrador del sistema, quiero implementar un sistema de gestión de acceso y permisos basado en roles, para controlar qué acciones y datos puede ver o modificar cada usuario, mejorando la seguridad y la eficiencia en la administración. |
-| 09  | Gestión de la Experiencia del Usuario (UX) y Formación | Como usuario de la plataforma, quiero tener una interfaz intuitiva y acceso a tutoriales interactivos, para aprender a utilizar la plataforma fácilmente y trabajar de manera eficiente. |
-| 10  | Gestión de Calidad                           | Como responsable de calidad, quiero registrar y validar los resultados del control de calidad, para asegurar el cumplimiento de los estándares, mantener la trazabilidad y mejorar el proceso de producción. |
+Su elaboración no solo facilita la identificación del valor que una funcionalidad aporta al usuario, sino que también proporciona un marco que orienta el diseño y desarrollo de soluciones alineadas con su contexto real de uso. De esta manera, las User Stories se convierten en una herramienta fundamental para priorizar adecuadamente las características del producto, en función de su impacto y relevancia para los usuarios finales.
+
+Dentro del proceso de desarrollo, cada User Story se encuentra vinculada a un Epic —una agrupación de funcionalidades relacionadas que representan un objetivo más amplio del sistema—. A continuación, se presentan los Epics identificados y definidos por nuestro equipo, los cuales han guiado la formulación de las historias de usuario correspondientes: 
+
 
 <br/>
 
