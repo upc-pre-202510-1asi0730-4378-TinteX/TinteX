@@ -384,7 +384,7 @@ Segmento 1: Entrevista #1 - Datos del Entrevistado
 | Momento de inicio  | 00:00           |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/s1_interview1.png" alt="Entrevista 1" width="500"> 
+<img src="./assets/s1_interview1.png" alt="Entrevista 1" width="500"> 
 </a>
 <br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EVFpcS23HvlDsP1GoyQ9-BEBUQBy8sOGp8gD0ohzLI_utA?e=RfkRuZ)
@@ -410,7 +410,7 @@ Para finalizar, menciona que el principal aporte sería en **mejorar los proceso
 | Momento de inicio   | 00:57             |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/imagenEntrevistaMery.png" alt="Entrevista 2" width="500"> 
+<img src="./assets/imagenEntrevistaMery.png" alt="Entrevista 2" width="500"> 
 </a>
 <br>
 
@@ -430,14 +430,15 @@ Mery, una trabajadora la cual es responsable de producción de la empresa textil
 | Momento de inicio   | 00:55             |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/imagenEntrevistaJorge.png" alt="Entrevista 3" width="500"> 
+<img src="./assets/imagenEntrevistaJorge.png" alt="Entrevista 3" width="500"> 
 </a>
 <br>
 
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EabKpNkSUmdDslvBx2ceqGABHoNko2f4oRQc_H1S7fLOFw?e=Z8BGup)
 
 **Resumen de la entrevista:** <br>
-Jorge, jefe de planta, indica que actualmente el monitoreo del rendimiento de las máquinas es manual, mediante reportes en hojas de cálculo llenados por operarios. Las fallas ocurren una o dos veces por semana y afectan directamente la producción, sobre todo en pedidos grandes. El mantenimiento es preventivo, pero depende de que los operarios detecten señales anómalas, lo cual no siempre es confiable. Considera que una solución como DyeTex sería muy útil, especialmente si puede implementarse en fábricas que están comenzando a automatizar. Valora especialmente que la plataforma permita registrar el pedido de insumos de forma digital, ya que esa etapa sigue siendo manual y propensa a errores. También espera que sea fácil de usar y esté orientada a reducir pérdidas y mejorar la eficiencia operativa.
+
+Jorge, jefe de planta, comenta que el monitoreo del rendimiento de las máquinas aún es manual, utilizando reportes en hojas de cálculo llenados por operarios. Enfrentan fallas o paradas inesperadas al menos una o dos veces por semana, y aunque el mantenimiento es preventivo, dependen mucho de la percepción del personal. Los tiempos de inactividad afectan directamente la productividad y cumplimiento de entregas, especialmente en pedidos grandes. Está evaluando implementar soluciones como DyeTex, ya que le parece valioso que funcione incluso en fábricas en etapa inicial de automatización. Destaca como crítica la necesidad de digitalizar también el pedido de insumos, que hoy se hace manualmente y genera errores. Considera esencial que la plataforma sea fácil de usar para operarios y estaría dispuesto a invertir si se demuestra un impacto en la reducción de pérdidas. Los principales indicadores que utilizan son el tiempo operativo vs. detenido, defectos por lote, producción por hora y cumplimiento de entregas.
 
 **Segmento 2:**
 
@@ -452,14 +453,16 @@ Jorge, jefe de planta, indica que actualmente el monitoreo del rendimiento de la
 | Momento de inicio   | 00:50             |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/imagenEntrevistaGonzalo.png" alt="Entrevista 4" width="500"> 
+<img src="./assets/imagenEntrevistaGonzalo.png" alt="Entrevista 4" width="500"> 
 </a>
 <br>
 
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EWjXOKXdyHdFg4-WYOHokY4BS_a-dFbtfjp9RBeNOCwx1Q?e=jaHKdk)
 
 **Resumen de la entrevista:** <br>
-Gonzalo, director técnico, indica que su empresa ofrece soluciones como tableros SCADA y sensores IoT, y que ya han trabajado con monitoreo en tiempo real y mantenimiento predictivo. Señala que muchas fábricas textiles aún están en etapas tempranas de automatización, por lo que es clave ofrecer soluciones escalables. Destaca que procesos como el pedido de insumos siguen siendo manuales y generan errores. Ve a DyeTex como una oportunidad valiosa, siempre que sea integrable y fácil de usar desde etapas tempranas del flujo productivo. Están abiertos a co-desarrollar o integrar bajo modelo white-label y muestran interés en participar en pilotos con fábricas que inician su transformación digital.
+
+Gonzalo, director técnico de una empresa de automatización industrial, comenta que ofrecen soluciones como tableros SCADA y sensores IoT aplicables también al sector textil. Tienen experiencia previa en monitoreo de líneas de producción y mantenimiento predictivo. Identifica como principal desafío la baja madurez digital de muchas fábricas textiles, por lo que considera clave ofrecer soluciones escalables. Resalta que muchos procesos, como el pedido de insumos, siguen siendo manuales y propensos a errores. Ve gran potencial en una plataforma como DyeTex, especialmente si se integra bien desde el inicio del flujo productivo. Considera imprescindibles funcionalidades como APIs abiertas, compatibilidad industrial y dashboards configurables. Están abiertos a alianzas tipo white-label o co-desarrollo, y creen que la resistencia al cambio puede mitigarse si la solución es intuitiva y ataca procesos críticos. Confirmó su interés en participar en pilotos, sobre todo en fábricas que están comenzando a automatizar.
+
 
 **Entrevista #5 - Datos del Entrevistado** 
 
@@ -472,7 +475,7 @@ Gonzalo, director técnico, indica que su empresa ofrece soluciones como tablero
 | Momento de inicio   | 00:55             |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/imagenEntrevistaAgustin.png" alt="Entrevista 5" width="500"> 
+<img src="./assets/imagenEntrevistaAgustin.png" alt="Entrevista 5" width="500"> 
 </a>
 <br>
 
@@ -480,7 +483,8 @@ Gonzalo, director técnico, indica que su empresa ofrece soluciones como tablero
 
 **Resumen de la entrevista:** <br>
 
-Agustín, especialista en automatización industrial, menciona que han implementado soluciones IoT en plantas textiles, aunque enfrentan barreras como la resistencia al cambio y la falta de infraestructura. Señala que procesos clave como el pedido de insumos siguen siendo manuales, generando cuellos de botella. Considera que una plataforma como DyeTex tiene alto potencial si es escalable y se adapta a fábricas en etapas tempranas de automatización. Resalta la importancia de funcionalidades como alertas, trazabilidad, visualización simple y compatibilidad con hardware básico. Prefieren alianzas flexibles como el co-desarrollo y están interesados en participar en pilotos con clientes que buscan iniciarse en la digitalización industria.
+Agustín, especialista en automatización industrial, comenta que su empresa se dedica a integrar soluciones en distintas plantas, incluidas algunas textiles. Aunque han logrado implementar IoT en monitoreo energético y alarmas, identifica resistencia al cambio y carencias como la falta de redes estables. Señala que tareas como el pedido de insumos siguen siendo manuales y afectan toda la cadena productiva. Cree que incluso una automatización básica puede marcar una diferencia significativa. Ve gran potencial en DyeTex si se adapta a clientes con bajo nivel de automatización y crece progresivamente con ellos. Considera esenciales funcionalidades como alertas, trazabilidad de insumos, visualización sencilla y compatibilidad con hardware básico. Prefieren alianzas flexibles como co-desarrollo o integración modular. Indica que los costos y la falta de enfoque comercial podrían ser barreras, pero que con un roadmap sólido, es viable. Están interesados en probar la plataforma en pilotos con fábricas en fase inicial de madurez tecnológica.
+
 
 **Entrevista #6 - Datos del Entrevistado** 
 
@@ -493,7 +497,7 @@ Agustín, especialista en automatización industrial, menciona que han implement
 | Momento de inicio   | 00:50             |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/imagenEntrevistaAlfonso.png" alt="Entrevista 6" width="500"> 
+<img src="./assets/imagenEntrevistaAlfonso.png" alt="Entrevista 6" width="500"> 
 </a>
 <br>
 
@@ -501,29 +505,56 @@ Agustín, especialista en automatización industrial, menciona que han implement
 
 **Resumen de la entrevista:** <br>
 
-Afonso, CTO (Director de Tecnología) de una startup que digitaliza procesos en pymes industriales, comenta que su plataforma se basa en IoT y monitoreo en tiempo real, con experiencia en sectores como textil, alimentos y manufactura. Señala que en el rubro textil aún se depende de medios manuales como papel o WhatsApp para tareas clave como el pedido de insumos, lo que genera ineficiencias. Considera que muchos clientes no detectan fallas en sus máquinas hasta que ya es muy tarde. Cree que DyeTex tendría gran potencial si abarca desde el pedido de materiales hasta el monitoreo de eficiencia por máquina. Ve esenciales funcionalidades como trazabilidad, reportes visuales y conexión con ERP. Prefiere alianzas tipo co-branding o integraciones ágiles, y advierte barreras como la falta de personal capacitado y la desconfianza inicial. Está interesado en co-desarrollar la solución y ofrecer fábricas aliadas para pruebas piloto.
+Alfonso, CTO de una startup que digitaliza procesos en pymes industriales, comenta que su plataforma se basa en IoT y monitoreo en tiempo real, con experiencia en sectores como textil, alimentos y manufactura. Señala que en el rubro textil aún se depende de medios manuales como papel o WhatsApp para tareas clave como el pedido de insumos, lo que genera ineficiencias. Considera que muchos clientes no detectan fallas en sus máquinas hasta que ya es muy tarde. Cree que DyeTex tendría gran potencial si abarca desde el pedido de materiales hasta el monitoreo de eficiencia por máquina. Ve esenciales funcionalidades como trazabilidad, reportes visuales y conexión con ERP. Prefiere alianzas tipo co-branding o integraciones ágiles, y advierte barreras como la falta de personal capacitado y la desconfianza inicial. Está interesado en co-desarrollar la solución y ofrecer fábricas aliadas para pruebas piloto.
+
 
 #### 2.2.3. Análisis de entrevistas
 Al revisar las entrevistas, logramos identificar tanto las expectativas como las necesidades que los usuarios expresan, además de obtener retroalimentación valiosa sobre cómo imaginan su solución ideal. Esta información nos servirá como base para tomar decisiones clave en el desarrollo del producto.
 
 **Segmento 1: Empresas Textiles** <br>
-<img src="/assets/s1_g1.png" alt="Grafico 1" width="500"> 
-</a>
-<img src="/assets/s1_g2.png" alt="Grafico 2" width="500"> 
-</a>
-<img src="/assets/s1_g3.png" alt="Grafico 3" width="500"> 
-</a>
-<img src="/assets/s1_g4.png" alt="Grafico 4" width="500"> 
-</a>
+<img src="./assets/s1_g1.png" alt="Grafico 1" width="500"> </a>
+<br>
 
+En este primer gráfico del segmento número 1, podemos observar que el 100% de los entrevistados indicó que sufren fallas o paradas inesperadas con frecuencia dentro de la empresa donde trabajan actualmente. <br>
+<br>
+</a>
+<img src="./assets/s1_g2.png" alt="Grafico 2" width="500"> 
+</a>
+<br>
+
+En este segundo gráfico del segmento número 1, podemos observar que el 100% de los entrevistados indicó que no utilizan mantenimiento predictivo, es decir, actualmente realizan mantenimiento correctivo. <br>
+<br>
+</a>
+<img src="./assets/s1_g3.png" alt="Grafico 3" width="500"> </a>
+<br>
+En este tercer gráfico del segmento número 1, podemos observar que el 100% de los entrevistados indicó que están realmente interesados en implementar soluciones IoT como DyeTex. <br>
+<br>
+</a>
+<img src="./assets/s1_g4.png" alt="Grafico 4" width="500"> </a>
+<br>
+En este cuarto gráfico del segmento número 1, podemos observar que el 2 de 3 entrevistados indicaron que sí utilizan un software para monitorear sus máquinas, siendo 1 el que realiza este proceso manualmente. <br>
+<br>
+</a>
 **Segmento 2: Proveedores** <br>
-<img src="/assets/s2_g1.png" alt="Grafico 5" width="500"> 
+<img src="./assets/s2_g1.png" alt="Grafico 5" width="500"> </a>
+<br>
+En este primer gráfico del segmento número 2, podemos observar que el 100% de los entrevistados reconocen que aún existen ciertos procesos que se realizan manualmente, a pesar de que utilizan un software para monitorear sus máquinas. <br>
+<br>
 </a>
-<img src="/assets/s2_g2.png" alt="Grafico 6" width="500"> 
+<img src="./assets/s2_g2.png" alt="Grafico 6" width="500"> </a>
+<br>
+En este segundo gráfico del segmento número 2, podemos observar que el 100% de los entrevistados consideran relevante un monitoreo predictivo o preventido para sus clientes, pues disminuyendo el mantenimiento correctivo reducirían gastos de operación. <br>
+<br>
 </a>
-<img src="/assets/s2_g3.png" alt="Grafico 7" width="500"> 
+<img src="./assets/s2_g3.png" alt="Grafico 7" width="500"> </a>
+<br>
+En este tercer gráfico del segmento número 2, podemos observar que el 100% de los entrevistados sí han interactuado con IoT y tienen experiencia previa integrándolo en sus áreas de trabajo. <br>
+<br>
 </a>
-<img src="/assets/s2_g4.png" alt="Grafico 8" width="500"> 
+<img src="./assets/s2_g4.png" alt="Grafico 8" width="500"> </a>
+<br>
+En este cuarto gráfico del segmento número 2, podemos observar que 2 de 3 entrevistado reconocen que sus clientes sí estarían dispuestos a invertir en este tipo de soluciones, siendo el 1 restante el que indica que puede existir cierta resistencia al cambio de parte algunos clientes. <br>
+<br>
 </a>
 
 ### 2.3. Needfinding
