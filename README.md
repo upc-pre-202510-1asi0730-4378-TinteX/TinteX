@@ -445,10 +445,22 @@ Estos tratan a la problemática desde diferentes puntos de vista, los 3 competid
     </tr>
     <tr>
         <td colspan="2">Nombre de la StartUp</td>
-        <td><span>DyeText</span></td>
-        <td>Doeet</td>
-        <td>Textil Caiman</td>
-        <td>Delta Máquinas Textiles</td>
+        <td>
+            <span>DyeText</span>
+            <img src="./assets/DyeTex - Logo.png" alt="dyetex Logo">
+        </td>
+        <td>
+            Doeet
+            <img src="./assets/doeet-isotipo-320.png" alt="doeet Logo">
+        </td>
+        <td>
+            Textil Caiman
+            <img src="./assets/images.jpeg" alt="textilCamain Logo">
+        </td>
+        <td>
+            Delta Máquinas Textiles
+            <img src="./assets/delta_maquinas_texteis_logo.jpeg" alt="deltaMáquinaTextil Lgo">
+        </td>
     </tr>
     <div class="Profile">
         <tr>
