@@ -1533,7 +1533,7 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 
 #### 4.7.1. Class Diagrams
 
-![ClassDiagram-DyeTex](https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX/blob/feature/gordon/assets/DyeTex.v2.png)
+![ClassDiagram-DyeTex](assets/DyeTex%20Diagram%20Class%20Desing%20(3).png)
 
 #### 4.7.2. Class Dictionary
 
