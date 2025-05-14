@@ -235,10 +235,10 @@ La mayoría de las empresas textiles carecen de visibilidad y control en tiempo 
 El problema ocurre de forma continua en cada turno y lote de producción, agravándose en picos de demanda y con renovaciones tecnológicas lentas, justo cuando la competitividad global y los plazos de entrega son más exigentes.
 
 **Where**  
-Los usuarios acceden a DyeTex desde estaciones de control en planta, oficinas de mantenimiento o de forma remota (PC, tablet o smartphone). El problema se origina en el piso de producción: líneas de tejeduría, tintorería y acabado, donde la falta de datos en tiempo real impide una gestión proactiva de la maquinaria.
+Los usuarios acceden a DyeTex desde estaciones de control en planta, oficinas de mantenimiento o de forma remota (PC, tablet o smartphone). El problema se origina en el piso de producción: líneas de tejeduría, tintorería y acabado, donde la f de datos en tiempo real impide una gestión proactiva de la maquinaria.
 
 **Why**  
-- Falta de digitalización, con registros manuales y controles aislados.  
+- F de digitalización, con registros manuales y controles aislados.  
 - Ausencia de sistemas predictivos que anticipen desgastes o averías.  
 - Mantenimiento reactivo, que aumenta tiempos de paro y costos imprevistos.
 
@@ -255,7 +255,7 @@ DyeTex se integra con sensores IoT en cada máquina (temperatura, vibración, ve
 #### 1.2.2.1. Lean UX Problem Statements
 
 El estado actual de la gestión de maquinaria textil se ha centrado principalmente en inspecciones manuales, registros aislados y sistemas locales poco conectados que obligan a reaccionar a fallos luego de producirse y generando largos tiempos de inactividad y disminución general de producción.
-Lo que los servicios existentes no abordan es la falta de soluciones adaptadas a la variabilidad de las máquinas textiles, con integraciones sencillas para control de parámetros y notificaciones inmediatas pues no son desarrollos a medida.
+Lo que los servicios existentes no abordan es la f de soluciones adaptadas a la variabilidad de las máquinas textiles, con integraciones sencillas para control de parámetros y notificaciones inmediatas pues no son desarrollos a medida.
 Nuestro servicio abordará esta brecha al ofrecer DyeTex, una solución que permite el monitoreo completo de cada activo y control de recursos, unido a un dashboard preconfigurado con alertas automáticas y que a su vez permite mejorar los tiempos de inactividad por prevención de riesgos.
 Nuestro enfoque inicial será pequeñas y medianas empresas textiles con equipos de mantenimiento interno, sin experiencia en soluciones predictivas y con presupuestos limitados.
 Nosotros sabremos que tenemos éxito cuando vemos que al menos 20 pymes implementan la solución con más de un 50% % de activación de alertas en el primer mes, reducen un 30 % las paradas no planificadas en seis meses y obtienen una  visibilidad y control de maquinaria.
@@ -374,7 +374,7 @@ https://www.canva.com/design/DAGlJa5hM50/r6zjjmIBlYsMarSUoKuRaQ/edit
   - Mejorar la eficiencia operativa sin grandes inversiones en nueva maquinaria
 - **Estilo de operación:** Enfocados en la producción, con interés creciente en adoptar tecnologías de control de procesos
 - **Preocupaciones:**
-  - Falta de visibilidad sobre el estado de las máquinas
+  - F de visibilidad sobre el estado de las máquinas
   - Pérdidas por mantenimiento reactivo
   - Presión por entregar productos a tiempo y con calidad
 - **Adaptación a la tecnología:** Moderada, con interés creciente en herramientas digitales de fácil integración
@@ -391,7 +391,7 @@ https://www.canva.com/design/DAGlJa5hM50/r6zjjmIBlYsMarSUoKuRaQ/edit
   - Fabricantes de maquinaria con componentes electrónicos o automatizados
 - **Tamaño:** Startups, medianas y grandes empresas del sector tecnológico
 - **Nivel Socioeconómico Empresarial:** Medio a alto
-- **Capacidad de Inversión:** Alta (en desarrollo e integración de nuevas tecnologías)
+- **Capacidad de Inversión:**  (en desarrollo e integración de nuevas tecnologías)
 
 #### Aspectos Geográficos
 - **Nacionalidad:** Nacional e internacional
@@ -409,7 +409,7 @@ https://www.canva.com/design/DAGlJa5hM50/r6zjjmIBlYsMarSUoKuRaQ/edit
   - Soluciones escalables
   - Interoperabilidad
   - Facilidad de integración con otras plataformas
-- **Adaptación a la tecnología:** Alta, con infraestructura y equipos técnicos capacitados
+- **Adaptación a la tecnología:** , con infraestructura y equipos técnicos capacitados
 - **Interés por la personalización:** Interesados en SDKs, APIs y plataformas adaptables y escalables
 
 <hr>
@@ -422,7 +422,7 @@ A partir de un estudio de mercado al cuál nos enfocamos, hemos podido identific
 Estos tratan a la problemática desde diferentes puntos de vista, los 3 competidores que se seleccionaron son:
 
 - Doeet : Empresa tecnológica que ofrece un software MES (Manufacturing Execution System) enfocado en la industria manufacturera. Permite monitorear en tiempo real el rendimiento de las máquinas y procesos productivos, ayudando a mejorar la eficiencia, reducir tiempos de inactividad y optimizar la toma de decisiones mediante IoT y análisis de datos.
-- Textil Caiman : Empresa textil especializada en la fabricación de tejidos técnicos y sostenibles. Produce telas de alta calidad para diferentes industrias, incluyendo moda, seguridad industrial y ropa deportiva, con un fuerte enfoque en innovación, sostenibilidad y economía circular.
+- Textil Caiman : Empresa textil especializada en la fabricación de tejidos técnicos y sostenibles. Produce telas de  calidad para diferentes industrias, incluyendo moda, seguridad industrial y ropa deportiva, con un fuerte enfoque en innovación, sostenibilidad y economía circular.
 - Delta Máquinas Textiles : Empresa encargada de desarrollar soluciones automatizadas como relajadoras, revisadoras y sistemas de inspección, con tecnología avanzada para mejorar la eficiencia en la preparación, acabado y control de calidad de tejidos.
 
 #### 2.1.1. Análisis competitivo
@@ -527,13 +527,13 @@ Estos tratan a la problemática desde diferentes puntos de vista, los 3 competid
             <td>Enfoque especializado en productividad textil con una plataforma fácil de escalar. Además, posee uso de IoT para el mantenimiento predictivo</td>
             <td>Especialización en control OEE y digitalización industrial, Integración con IoT y ERP, además de poseer una plataforma modular y escalable </td>
             <td>Amplia gama de textiles técnicos certificados con un fuerte enfoque en sostenibilidad</td>
-            <td>Equipos de alta tecnología e innovación, personalización y soporte técnico, y Presencia en más de 20 países</td>
+            <td>Equipos de  tecnología e innovación, personalización y soporte técnico, y Presencia en más de 20 países</td>
         </tr>
         <tr>
             <td>Debilidades</td>
             <td>Startup emergente con poca presencia en el mercado, Dependencia tecnológica, Poco conocimiento en la industria textil</td>
             <td>Alto costo inicial para las pequeñas y medianas empresas</td>
-            <td>Alta dependencia del mercao textil brasileño, Poca visibilidad internacional</td>
+            <td> dependencia del mercao textil brasileño, Poca visibilidad internacional</td>
             <td>Alto costo unitario de las máquinas, Ciclos de venta prolongados</td>
         </tr>
         <tr>
@@ -548,7 +548,7 @@ Estos tratan a la problemática desde diferentes puntos de vista, los 3 competid
             <td>Dificultad para competir con plataformas consolidadas, Desconfianza al cambio en empresas tradicionales</td>
             <td>Competencia creciente en el sector MES, Riesgos de ciberseguridad en entornos conectados</td>
             <td>Competencia de importaciones asiáticas más económicas</td>
-            <td>Alta inversión inicial y nuevos competidores entrando al mercado</td>
+            <td> inversión inicial y nuevos competidores entrando al mercado</td>
         </tr>
     </div>
 </table>
@@ -664,7 +664,7 @@ Para finalizar, menciona que el principal aporte sería en **mejorar los proceso
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EeWbZk1-SRNAj2BxpYH44DMBi9Z4AygGmlm78jzZOQNrqg?e=4pvfDP)
 
 **Resumen de la entrevista:** <br>
-Mery, una trabajadora la cual es responsable de producción de la empresa textil Fibras del Sur, indicó que actualmente el monitoreo del rendimiento de sus máquinas se realiza de forma manual, mediante hojas de Excel y supervisión directa. Enfrentan paradas frecuentes debido a errores humanos y la falta de alertas tempranas. Consideran que implementar una solución IoT sería clave para comenzar con la automatización, sobre todo si permite llevar el control desde el momento en que se realiza el pedido de insumos, ya que esa etapa aún es manual y propensa a errores. Esperan que la herramienta ayude a reducir los tiempos muertos y mejorar la eficiencia operativa.
+Mery, una trabajadora la cual es responsable de producción de la empresa textil Fibras del Sur, indicó que actualmente el monitoreo del rendimiento de sus máquinas se realiza de forma manual, mediante hojas de Excel y supervisión directa. Enfrentan paradas frecuentes debido a errores humanos y la f de alertas tempranas. Consideran que implementar una solución IoT sería clave para comenzar con la automatización, sobre todo si permite llevar el control desde el momento en que se realiza el pedido de insumos, ya que esa etapa aún es manual y propensa a errores. Esperan que la herramienta ayude a reducir los tiempos muertos y mejorar la eficiencia operativa.
 
 **Entrevista #3 - Datos del Entrevistado** 
 
@@ -708,7 +708,7 @@ Jorge, jefe de planta, comenta que el monitoreo del rendimiento de las máquinas
 
 **Resumen de la entrevista:** <br>
 
-Gonzalo, director técnico de una empresa de automatización industrial, comenta que ofrecen soluciones como tableros SCADA y sensores IoT aplicables también al sector textil. Tienen experiencia previa en monitoreo de líneas de producción y mantenimiento predictivo. Identifica como principal desafío la baja madurez digital de muchas fábricas textiles, por lo que considera clave ofrecer soluciones escalables. Resalta que muchos procesos, como el pedido de insumos, siguen siendo manuales y propensos a errores. Ve gran potencial en una plataforma como DyeTex, especialmente si se integra bien desde el inicio del flujo productivo. Considera imprescindibles funcionalidades como APIs abiertas, compatibilidad industrial y dashboards configurables. Están abiertos a alianzas tipo white-label o co-desarrollo, y creen que la resistencia al cambio puede mitigarse si la solución es intuitiva y ataca procesos críticos. Confirmó su interés en participar en pilotos, sobre todo en fábricas que están comenzando a automatizar.
+Gonzalo, director técnico de una empresa de automatización industrial, comenta que ofrecen soluciones como tableros SCADA y sensores IoT aplicables también al sector textil. Tienen experiencia previa en monitoreo de líneas de producción y mantenimiento predictivo. Identifica como principal desafío la baja madurez digital de muchas fábricas textiles, por lo que considera clave ofrecer soluciones escalables. Res que muchos procesos, como el pedido de insumos, siguen siendo manuales y propensos a errores. Ve gran potencial en una plataforma como DyeTex, especialmente si se integra bien desde el inicio del flujo productivo. Considera imprescindibles funcionalidades como APIs abiertas, compatibilidad industrial y dashboards configurables. Están abiertos a alianzas tipo white-label o co-desarrollo, y creen que la resistencia al cambio puede mitigarse si la solución es intuitiva y ataca procesos críticos. Confirmó su interés en participar en pilotos, sobre todo en fábricas que están comenzando a automatizar.
 
 
 **Entrevista #5 - Datos del Entrevistado** 
@@ -730,7 +730,7 @@ Gonzalo, director técnico de una empresa de automatización industrial, comenta
 
 **Resumen de la entrevista:** <br>
 
-Agustín, especialista en automatización industrial, comenta que su empresa se dedica a integrar soluciones en distintas plantas, incluidas algunas textiles. Aunque han logrado implementar IoT en monitoreo energético y alarmas, identifica resistencia al cambio y carencias como la falta de redes estables. Señala que tareas como el pedido de insumos siguen siendo manuales y afectan toda la cadena productiva. Cree que incluso una automatización básica puede marcar una diferencia significativa. Ve gran potencial en DyeTex si se adapta a clientes con bajo nivel de automatización y crece progresivamente con ellos. Considera esenciales funcionalidades como alertas, trazabilidad de insumos, visualización sencilla y compatibilidad con hardware básico. Prefieren alianzas flexibles como co-desarrollo o integración modular. Indica que los costos y la falta de enfoque comercial podrían ser barreras, pero que con un roadmap sólido, es viable. Están interesados en probar la plataforma en pilotos con fábricas en fase inicial de madurez tecnológica.
+Agustín, especialista en automatización industrial, comenta que su empresa se dedica a integrar soluciones en distintas plantas, incluidas algunas textiles. Aunque han logrado implementar IoT en monitoreo energético y alarmas, identifica resistencia al cambio y carencias como la f de redes estables. Señala que tareas como el pedido de insumos siguen siendo manuales y afectan toda la cadena productiva. Cree que incluso una automatización básica puede marcar una diferencia significativa. Ve gran potencial en DyeTex si se adapta a clientes con bajo nivel de automatización y crece progresivamente con ellos. Considera esenciales funcionalidades como alertas, trazabilidad de insumos, visualización sencilla y compatibilidad con hardware básico. Prefieren alianzas flexibles como co-desarrollo o integración modular. Indica que los costos y la f de enfoque comercial podrían ser barreras, pero que con un roadmap sólido, es viable. Están interesados en probar la plataforma en pilotos con fábricas en fase inicial de madurez tecnológica.
 
 
 **Entrevista #6 - Datos del Entrevistado** 
@@ -752,7 +752,7 @@ Agustín, especialista en automatización industrial, comenta que su empresa se 
 
 **Resumen de la entrevista:** <br>
 
-Alfonso, CTO de una startup que digitaliza procesos en pymes industriales, comenta que su plataforma se basa en IoT y monitoreo en tiempo real, con experiencia en sectores como textil, alimentos y manufactura. Señala que en el rubro textil aún se depende de medios manuales como papel o WhatsApp para tareas clave como el pedido de insumos, lo que genera ineficiencias. Considera que muchos clientes no detectan fallas en sus máquinas hasta que ya es muy tarde. Cree que DyeTex tendría gran potencial si abarca desde el pedido de materiales hasta el monitoreo de eficiencia por máquina. Ve esenciales funcionalidades como trazabilidad, reportes visuales y conexión con ERP. Prefiere alianzas tipo co-branding o integraciones ágiles, y advierte barreras como la falta de personal capacitado y la desconfianza inicial. Está interesado en co-desarrollar la solución y ofrecer fábricas aliadas para pruebas piloto.
+Alfonso, CTO de una startup que digitaliza procesos en pymes industriales, comenta que su plataforma se basa en IoT y monitoreo en tiempo real, con experiencia en sectores como textil, alimentos y manufactura. Señala que en el rubro textil aún se depende de medios manuales como papel o WhatsApp para tareas clave como el pedido de insumos, lo que genera ineficiencias. Considera que muchos clientes no detectan fallas en sus máquinas hasta que ya es muy tarde. Cree que DyeTex tendría gran potencial si abarca desde el pedido de materiales hasta el monitoreo de eficiencia por máquina. Ve esenciales funcionalidades como trazabilidad, reportes visuales y conexión con ERP. Prefiere alianzas tipo co-branding o integraciones ágiles, y advierte barreras como la f de personal capacitado y la desconfianza inicial. Está interesado en co-desarrollar la solución y ofrecer fábricas aliadas para pruebas piloto.
 
 
 #### 2.2.3. Análisis de entrevistas
@@ -831,16 +831,16 @@ Esta matriz identifica tareas que los usuarios realizan antes de conocer la plat
 
 | Tarea                                                   | Gerente de Operaciones (Frecuencia / Importancia) | Representante Técnica (Frecuencia / Importancia) |
 |----------------------------------------------------------|----------------------------------------------------|---------------------------------------------------|
-| Supervisar manualmente el estado de las máquinas         | Alta / Alta                                        | Media / Alta                                      |
-| Recoger datos de sensores en hojas de cálculo            | Media / Alta                                       | Alta / Alta                                       |
-| Comunicar fallas a través de WhatsApp o llamadas         | Alta / Alta                                        | Alta / Alta                                       |
-| Solicitar informes de mantenimiento a técnicos           | Alta / Alta                                        | Baja / Media                                      |
-| Coordinar turnos de trabajo de forma verbal o por Excel  | Alta / Alta                                        | Media / Media                                     |
-| Revisar el inventario físicamente o por listas           | Media / Alta                                       | Alta / Alta                                       |
-| Hacer seguimiento al progreso de producción a mano       | Alta / Alta                                        | Media / Media                                     |
-| Redactar reportes semanales en Word o Excel              | Alta / Alta                                        | Baja / Media                                      |
-| Solicitar repuestos por correo o llamadas                | Media / Alta                                       | Alta / Alta                                       |
-| Evaluar productividad con datos dispersos                | Alta / Alta                                        | Media / Alta                                      |
+| Supervisar manualmente el estado de las máquinas         |  /                                         | Media /                                       |
+| Recoger datos de sensores en hojas de cálculo            | Media /                                        |  /                                        |
+| Comunicar fallas a través de WhatsApp o llamadas         |  /                                         |  /                                        |
+| Solicitar informes de mantenimiento a técnicos           |  /                                         | Baja / Media                                      |
+| Coordinar turnos de trabajo de forma verbal o por Excel  |  /                                         | Media / Media                                     |
+| Revisar el inventario físicamente o por listas           | Media /                                        |  /                                        |
+| Hacer seguimiento al progreso de producción a mano       |  /                                         | Media / Media                                     |
+| Redactar reportes semanales en Word o Excel              |  /                                         | Baja / Media                                      |
+| Solicitar repuestos por correo o llamadas                | Media /                                        |  /                                        |
+| Evaluar productividad con datos dispersos                |  /                                         | Media /                                       |
 
 #### Explicación detallada de tareas
 
@@ -985,7 +985,7 @@ Dentro del proceso de desarrollo, cada User Story se encuentra vinculada a un Ep
 | US29 | Comparación de rendimiento entre turnos | Como supervisor de planta, quiero comparar el rendimiento entre turnos, para identificar el más productivo. | Dado que accede a la sección de análisis<br>Cuando selecciona dos turnos<br>Entonces el sistema muestra un gráfico comparativo con métricas clave.<br><br>Dado que desea ver un día específico<br>Cuando selecciona la fecha y área<br>Entonces el sistema muestra los datos desglosados por turno. | 05 |
 | TS35 | Generar Reporte de Producción | Como desarrollador, quiero crear la funcionalidad para generar reportes de producción, para que los gerentes analicen el desempeño. | Dado que el sistema tiene datos de producción<br>Cuando se solicita un reporte<br>Entonces se genera un archivo PDF o Excel con métricas como eficiencia y tiempo.<br><br>Dado que el usuario aplica filtros<br>Cuando se genera el reporte<br>Entonces este incluye la información personalizada según los filtros seleccionados. | 05 |
 | EP06 | Gestión Operativa de Máquinas | Los operadores técnicos monitorean y reportan el estado funcional de las máquinas en tiempo real, garantizando continuidad operativa y atención oportuna ante fallas. | Dado que el operador está logueado en el sistema<br>Cuando accede al panel de control<br>Entonces visualiza el estado funcional actualizado de sus máquinas.<br><br>Dado que detecta una anomalía<br>Cuando la reporta mediante el sistema<br>Entonces se genera un registro asociado a la máquina. | 06 |
-| US10 | Visualización del estado funcional de máquinas a cargo | Como operador técnico, quiero ver el estado de funcionamiento de las máquinas a mi cargo, para monitorearlas y actuar ante fallas | Dado que accede al panel de monitoreo<br>Cuando consulta el estado<br>Entonces el sistema muestra indicadores visuales actualizados de funcionamiento.<br><br>Dado que selecciona una máquina<br>Cuando hace clic en ella<br>Entonces se muestran más detalles del estado de operación. | 06 |
+| US10 | Visualización del estado funcional de máquinas a cargo | Como operador técnico, quiero ver el estado de funcionamiento de las máquinas a mi cargo, para monitorearlas y actuar ante fallas. | Dado que accede al panel de monitoreo<br>Cuando consulta el estado<br>Entonces el sistema muestra indicadores visuales actualizados de funcionamiento.<br><br>Dado que selecciona una máquina<br>Cuando hace clic en ella<br>Entonces se muestran más detalles del estado de operación. | 06 |
 | US11 | Reporte de anomalías observadas en máquinas | Como operador técnico, quiero reportar anomalías observadas en las máquinas, para que el equipo técnico pueda solucionarlas. | Dado que identifica una falla<br>Cuando ingresa la observación en el sistema<br>Entonces se genera una notificación al área correspondiente.<br><br>Dado que se incluye evidencia<br>Cuando sube una foto y descripción<br>Entonces el sistema guarda el registro en el historial de la máquina. | 06 |
 | TS36 | Mostrar Estado de la Máquina en Tiempo Real | Como desarrollador, quiero mostrar el estado actual de las máquinas a los operadores, para que puedan supervisar su funcionamiento. | Dado que el sistema recibe datos en tiempo real<br>Cuando el operador accede a la interfaz<br>Entonces visualiza el estado actual de cada máquina con indicadores claros.<br><br>Dado que el operador selecciona una máquina<br>Cuando solicita detalles<br>Entonces el sistema muestra información adicional como temperatura, velocidad y producción. | 06 |
 | EP07 | Integración Tecnológica con Terceros | Los proveedores tecnológicos integran sus sistemas externos a la plataforma mediante APIs, webhooks y sincronización con el ERP, garantizando interoperabilidad eficiente. | Dado que el proveedor desea integrar su tecnología<br>Cuando accede a la documentación de la API<br>Entonces puede conectar sus soluciones externas.<br><br>Dado que se configura un webhook o conexión ERP<br>Cuando ocurre un evento relevante<br>Entonces el sistema sincroniza automáticamente la información. | 07 |
@@ -1021,56 +1021,62 @@ Dentro del proceso de desarrollo, cada User Story se encuentra vinculada a un Ep
 
 ### 3.4. Product Backlog
 
-### Product Backlog
+El Product Backlog es, en su sentido más estricto, el _tablero de control_ del desarrollo ágil: una lista viva de funcionalidades, necesidades y prioridades, no alineada por orden de aparición, sino por el valor que aportan. No es cuestión de seguir un manual paso a paso ni de ensamblar piezas con instrucciones claras, sino de priorizar lo que tiene mayor influjo en la experiencia del usuario y en los objetivos del negocio.
 
-| Orden | User Story ID | Título | Descripción | Prioridad | Story Points |
-|-------|----------------|--------|-------------|-----------|---------------|
-| 1 | US01 | Visualización en tiempo real de métricas operativas por máquina | Como técnico de mantenimiento, quiero visualizar en tiempo real las métricas de operación de cada máquina para detectar anomalías sin necesidad de inspección física. | Alta | 8 |
-| 2 | US02 | Panel de control general para monitoreo de máquinas | Como jefa de planta, quiero tener una vista general del estado de todas las máquinas desde un panel principal para tener el control total de la planta. | Alta | 8 |
-| 3 | US03 | Alertas automáticas ante incidentes en maquinaria | Como operador, quiero recibir notificaciones automáticas cuando se detecten incidentes en las máquinas para tomar acción rápidamente. | Alta | 8 |
-| 4 | US04 | Consulta del historial de fallas y mantenimientos | Como técnico de mantenimiento, quiero consultar el historial de fallas y mantenimientos de cada máquina para entender su comportamiento y prevenir futuras averías. | Alta | 8 |
-| 5 | US05 | Reportes periódicos para evaluación del rendimiento | Como jefa de planta, quiero acceder a reportes diarios y semanales del rendimiento de las máquinas para tomar decisiones basadas en datos reales. | Alta | 5 |
-| 6 | US06 | Recomendaciones para mantenimiento preventivo | Como técnico de mantenimiento, quiero recibir recomendaciones sobre cuándo realizar mantenimientos preventivos para asegurar el buen funcionamiento de las máquinas. | Media | 5 |
-| 7 | US07 | Detección de paradas de máquinas y sus causas | Como jefa de planta, quiero saber cuándo una máquina está detenida y por qué para actuar rápidamente y evitar retrasos en la producción. | Alta | 5 |
-| 8 | US08 | Dashboard en tiempo real de eficiencia por máquina | Como Gerente de Planta quiero visualizar un dashboard con la eficiencia de cada máquina en tiempo real para tomar decisiones estratégicas de mejora en la producción. | Alta | 8 |
-| 9 | US09 | Alertas sobre cuellos de botella en producción | Como Gerente de Planta, quiero recibir alertas sobre cuellos de botella en producción para tomar decisiones correctivas con rapidez. | Alta | 8 |
-| 10 | US10 | Visualización del estado funcional de máquinas a cargo | Como Operador Técnico, quiero ver el estado de funcionamiento de las máquinas a mi cargo para poder monitorearlas y actuar ante fallas o anomalías. | Alta | 8 |
-| 11 | US11 | Reporte de anomalías observadas en máquinas | Como Operador Técnico, quiero reportar anomalías observadas en la máquina, para que el equipo técnico pueda dar seguimiento y solucionarlas. | Alta | 8 |
-| 12 | US12 | Acceso a API documentada para integración tecnológica | Como proveedor tecnológico, quiero acceder a una API documentada de DyeTex, para poder integrar nuestras soluciones de análisis y monitoreo. | Alta | 8 |
-| 13 | US13 | Configuración de Webhooks para eventos críticos | Como proveedor tecnológico, quiero configurar Webhooks para recibir eventos importantes, para sincronizar acciones con nuestros sistemas externos. | Alta | 8 |
-| 14 | US14 | Gestión de accesos basada en roles | Como administrador del sistema, quiero que los usuarios tengan acceso según su rol para gestionar los permisos de manera eficiente. | Media | 5 |
-| 15 | US15 | Almacenamiento histórico de controles de calidad | Como inspector de calidad, quiero almacenar los resultados de los controles realizados en cada lote de producción para mantener un registro histórico. | Media | 5 |
-| 16 | US16 | Recordatorios automatizados para mantenimiento | Como jefe de mantenimiento, quiero automatizar los recordatorios para el mantenimiento preventivo de las máquinas, para garantizar que no se pasen por alto. | Media | 5 |
-| 17 | US17 | Ajuste de turnos según demanda de producción | Como supervisor, quiero poder ajustar los turnos de trabajo según la demanda de producción, para optimizar los recursos humanos. | Alta | 8 |
-| 18 | US18 | Integración de la plataforma con el ERP | Como responsable de IT, quiero integrar la plataforma con nuestro sistema ERP, para centralizar la información y evitar duplicación de datos. | Alta | 8 |
-| 19 | US19 | Análisis predictivo para anticipar fallas | Como ingeniero de mantenimiento, quiero que el sistema utilice análisis predictivo para predecir fallas de maquinaria, para programar intervenciones antes de que ocurran. | Alta | 8 |
-| 20 | US20 | Accesibilidad multiplataforma de la plataforma | Como supervisor de planta, quiero que la plataforma sea accesible desde diferentes dispositivos, para monitorear la producción desde cualquier lugar. | Alta | 8 |
-| 21 | US21 | Dashboard unificado con KPIs clave | Como director de operaciones, quiero ver los KPIs clave de la planta en un solo dashboard, para tener una visión clara del desempeño general. | Alta | 8 |
-| 22 | US22 | Gestión eficiente de repuestos críticos | Como responsable de almacén, quiero gestionar los repuestos críticos de manera eficiente, para garantizar que siempre estén disponibles cuando se necesiten. | Media | 8 |
-| 23 | US23 | Auditoría de accesos a la plataforma | Como administrador de seguridad, quiero auditar los accesos a la plataforma, para garantizar que solo los usuarios autorizados puedan acceder a la información sensible. | Media | 8 |
-| 24 | US24 | Tutoriales interactivos para nuevos usuarios | Como encargado de formación, quiero que la plataforma ofrezca tutoriales interactivos para los nuevos usuarios, para que puedan aprender rápidamente a utilizarla. | Alta | 8 |
-| 25 | US25 | Comparación de eficiencia en producción por periodos | Como gerente de producción, quiero acceder al historial completo de producción, para poder comparar la eficiencia en diferentes periodos. | Alta | 8 |
-| 26 | US26 | Automatización del mantenimiento ante detección de retrasos | Como técnico de mantenimiento, quiero que el sistema reprograma automáticamente las tareas de mantenimiento cuando se detectan retrasos, para asegurar que no se pasen por alto. | Alta | 8 |
-| 27 | US27 | Análisis histórico comparativo de datos de planta | Como analista de producción, quiero acceder a los datos históricos de cada planta para hacer un análisis comparativo entre ellas. | Alta | 8 |
-| 28 | US28 | Gestión de fallas en tiempo real para minimizar inactividad | Como técnico de soporte, quiero gestionar las fallas de los equipos en tiempo real para minimizar el tiempo de inactividad de la planta. | Alta | 8 |
-| 29 | US29 | Comparación de rendimiento entre turnos | Como supervisor de planta, quiero comparar el rendimiento entre turnos, para identificar cuál es más productivo y analizar posibles mejoras. | Alta | 8 |
-| 30 | TS30 | Recuperar Datos de Máquina vía API | Como desarrollador, quiero recuperar los datos de una máquina específica mediante una solicitud GET, para poder mostrar su estado en la interfaz de usuario. | Alta | 5 |
-| 31 | TS31 | Enviar Alerta de Fallo de Máquina | Como desarrollador, quiero implementar la lógica para enviar una alerta cuando se detecte un fallo en una máquina, para notificar al personal de mantenimiento. | Media | 5
-| 32 | US32 | Registro y evaluación de paradas programadas | Como jefe de mantenimiento, quiero registrar las paradas programadas, para diferenciarlas de las no planificadas y evaluar la eficacia del cronograma. | Alta | 8
-| 33 | TS33 | Almacenar Historial de Rendimiento | Como desarrollador, quiero implementar la funcionalidad para almacenar el historial de rendimiento de las máquinas en la base de datos, para su posterior análisis. | Media | 5
-| 34 | TS34 | Calcular Recomendaciones de Mantenimiento | Como desarrollador, quiero implementar el algoritmo para calcular las recomendaciones de mantenimiento preventivo, basándome en el historial de la máquina y otros factores. | Alta | 8
-| 35 | TS35 | Generar Reporte de Producción | Como desarrollador, quiero crear la funcionalidad para generar reportes de producción que muestren métricas clave, para que los gerentes puedan analizar el desempeño. | Media | 3
-| 36 | TS36 | Mostrar Estado de la Máquina en Tiempo Real | Como desarrollador, quiero implementar la interfaz para mostrar el estado actual de las máquinas a los operadores. | Alta | 8
-| 37 | TS37 | Integrar Sensor de Temperatura vía API | Como desarrollador, quiero implementar la integración con un sensor de temperatura externo mediante una API, para recibir datos de temperatura en tiempo real. | Alta | 8
-| 38 | TS38 | Implementar Autenticación de Usuario | Como desarrollador, quiero implementar la autenticación de usuarios en la plataforma, para asegurar que solo los usuarios autorizados puedan acceder al sistema. | Alta | 8
-| 39 | TS39 | Crear Tutorial Interactivo | Como desarrollador, quiero crear un tutorial interactivo para guiar a los nuevos usuarios en el uso de la plataforma. | Media | 5
-| 40 | TS40 | Almacenar Resultados de Control de Calidad | Como desarrollador, quiero implementar la funcionalidad para almacenar los resultados de las inspecciones de control de calidad. | Media | 3
-| 41       | US41          | Mostrar hero con mensaje claro    | Como visitante deseo ver un encabezado hero claro para comprender rápidamente el propósito de TinteX. | Baja |3            |
-| 42       | US42          | Sección de características        | Como visitante deseo conocer las 3 funcionalidades clave de TinteX para decidir si me interesa.       | Media |5            |
-| 43       | US43          | Formulario de suscripción         | Como posible usuario deseo dejar mi email para recibir novedades y estar informado del lanzamiento.  | Media |5            |
-| 44       | US44          | Navegación fija                   | Como usuario deseo un menú fijo en el header para saltar a secciones rápidamente.                    | Baja |3            |
-| 45       | US45          | Diseño responsive                 | Como usuario en móvil deseo que la landing se adapte correctamente para navegar cómodamente.         | Alta |8            |
-| 46       | US46          | Soporte de dos idiomas            | Como usuario internacional deseo cambiar entre español e inglés para usar la aplicación en mi idioma. | Baja |3            |
+En nuestro proyecto, el Product Backlog es a la vez brújula y espejo: refleja lo que el equipo piensa que debe construir, pero también lo enfrenta con lo que realmente tiene sentido. No es una lista, sino una declaración de principios con prioridades, en la que cada ítem ha sido revisado y debatido.
+
+Continuando con nuestro Product Backlog: una lista priorizada de decisiones, preguntas resueltas y otras todavía sin resolver, todas para producir un producto, ordenado correctamente por valor al negocio, priorizando primero las funcionalidades esenciales para los usuarios y la plataforma (como la landing page, el monitoreo en tiempo real y los dashboards).
+
+<hr>
+
+| Orden | User Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
+|-------|----------------|--------|-------------|--------------|
+| 1 | TS35   | Generar Reporte de Producción   | Como desarrollador, quiero crear la funcionalidad para generar reportes de producción, para que los gerentes analicen el desempeño.  | 3 | 
+| 2 | TS40   | Almacenar Resultados de Control de Calidad   | Como desarrollador, quiero almacenar los resultados de las inspecciones de calidad, para garantizar la trazabilidad de los lotes.  | 3 | 
+| 3 | US41            | Mostrar hero con mensaje claro      | Como visitante, quiero ver un encabezado con título y subtítulo claros, para entender rápidamente el propósito de la plataforma.  | 3 | 
+| 4 | US44            | Navegación fija                     | Como usuario, quiero un menú de navegación fijo, para acceder rápidamente a las secciones de la landing page.  | 3  |
+| 5 | US46            | Soporte de dos idiomas              | Como usuario internacional, quiero cambiar la interfaz entre español e inglés, para usar la plataforma en mi idioma preferido.  | 3 |
+| 6 | US05   | Reportes periódicos para evaluación del rendimiento   | CComo jefa de planta, quiero acceder a reportes periódicos del rendimiento de las máquinas, para tomar decisiones basadas en datos reales.  | 5  |
+| 7 | US06   | Recomendaciones para mantenimiento preventivo   | Como técnico de mantenimiento, quiero recibir recomendaciones de mantenimiento preventivo, para asegurar el buen funcionamiento de las máquinas.  | 5  |
+| 8 | US07   | Detección de paradas de máquinas y sus causas   | Como jefa de planta, quiero saber cuándo y por qué se detiene una máquina, para actuar rápidamente y evitar retrasos.  | 5  |
+| 9 | US14   | Gestión de accesos basada en roles   | Como administrador del sistema, quiero asignar roles a los usuarios, para gestionar sus permisos de acceso eficientemente.  | 5  |
+| 10 | US15   | Almacenamiento histórico de controles de calidad   | Como inspector de calidad, quiero almacenar los resultados de los controles realizados en producción, para mantener un registro histórico.  | 5 |
+| 11 | US16   | Recordatorios automatizados para mantenimiento   | Como jefe de mantenimiento, quiero automatizar los recordatorios de mantenimiento preventivo, para garantizar que no se pasen por alto.  | 5 |
+| 12 | TS30   | Recuperar Datos de Máquina vía API   | Como desarrollador, quiero recuperar los datos de una máquina específica mediante una solicitud GET, para poder mostrar su estado en la interfaz de usuario.  | 5  |
+| 13 | TS31   | Enviar Alerta de Fallo de Máquina   | Como desarrollador, quiero implementar la lógica para enviar alertas cuando se detecte un fallo en una máquina, para notificar al personal de mantenimiento.  | 5  |
+| 14 | TS33   | Almacenar Historial de Rendimiento   | Como desarrollador, quiero almacenar el historial de rendimiento de las máquinas, para facilitar su análisis posterior.  | 5  |
+| 15 | TS39   | Crear Tutorial Interactivo   | Como desarrollador, quiero crear un tutorial interactivo para guiar a los nuevos usuarios, para que aprendan fácilmente.  | 5 |
+| 16 | US42            | Sección de características          | Como visitante, quiero conocer las funcionalidades clave de la plataforma, para decidir si me interesa usarla.  | 5 |
+| 17 | US43            | Formulario de suscripción           | Como usuario, quiero un formulario sencillo para dejar mi email, para recibir novedades sobre el lanzamiento.  | 5 |
+| 18 | US01   | Visualización en tiempo real de métricas operativas por máquina   | Como técnico de mantenimiento, quiero visualizar en tiempo real las métricas operativas de cada máquina, para detectar anomalías sin realizar inspecciones físicas.  | 8 |
+| 19 | US02   | Panel de control general para monitoreo de máquinas   | Como jefa de planta, quiero tener una vista general del estado de todas las máquinas desde un panel principal, para tener el control total de la planta.  | 8 |
+| 20 | US03   | Alertas automáticas ante incidentes en maquinaria   | Como operador, quiero recibir notificaciones automáticas cuando se detecten incidentes en las máquinas, para poder actuar rápidamente.  | 8 |
+| 21 | US04   | Consulta del historial de fallas y mantenimientos   | Como técnico de mantenimiento, quiero consultar el historial de fallas y mantenimientos, para prevenir futuras averías.  | 8 |
+| 22 | US08   | Dashboard en tiempo real de eficiencia por máquina   | Como gerente de planta, quiero ver un dashboard con la eficiencia de cada máquina en tiempo real, para tomar decisiones estratégicas.  | 8 |
+| 23 | US09   | Alertas sobre cuellos de botella en producción   | Como gerente de planta, quiero recibir alertas sobre cuellos de botella, para tomar medidas correctivas de inmediato.  | 8 |
+| 24 | US10   | Visualización del estado funcional de máquinas a cargo   | Como operador técnico, quiero ver el estado de funcionamiento de las máquinas a mi cargo, para monitorearlas y actuar ante fallas.  | 8 |
+| 25 | US11   | Reporte de anomalías observadas en máquinas   | Como operador técnico, quiero reportar anomalías observadas en las máquinas, para que el equipo técnico pueda solucionarlas.  | 8 |
+| 26 | US12   | Acceso a API documentada para integración tecnológica   | Como proveedor tecnológico, quiero acceder a una API documentada, para integrar nuestras soluciones con la plataforma.  | 8 |
+| 27 | US13   | Configuración de Webhooks para eventos críticos   | Como proveedor tecnológico, quiero configurar Webhooks para recibir eventos importantes, para sincronizar nuestras acciones.   | 8 |
+| 28 | US17   | Ajuste de turnos según demanda de producción   | Como supervisor, quiero ajustar los turnos de trabajo según la demanda de producción, para optimizar el uso del personal.  | 8 |
+| 29 | US18   | Integración de la plataforma con el ERP   | Como responsable de IT, quiero integrar la plataforma con el ERP, para centralizar la información y evitar duplicación de datos.  | 8 |
+| 30 | US19   | Análisis predictivo para anticipar fallas   | Como ingeniero de mantenimiento, quiero que el sistema prediga fallas de maquinaria, para intervenir antes de que ocurran.  | 8 |
+| 31 | US20   | Accesibilidad multiplataforma de la plataforma   | Como supervisor de planta, quiero acceder a la plataforma desde diferentes dispositivos, para monitorear la producción desde cualquier lugar.  | 8 |
+| 32 | US21   | Dashboard unificado con KPIs clave   | Como director de operaciones, quiero ver los KPIs clave de la planta en un solo dashboard, para tener una visión clara del desempeño.  | 8 |
+| 33 | US22   | Gestión eficiente de repuestos críticos   | Como responsable de almacén, quiero gestionar los repuestos críticos eficientemente, para asegurar su disponibilidad cuando se necesiten.  | 8 |
+| 34 | US23   | Auditoría de accesos a la plataforma   | Como administrador de seguridad, quiero auditar los accesos a la plataforma, para garantizar que solo accedan usuarios autorizados.  | 8 |
+| 35 | US24   | Tutoriales interactivos para nuevos usuarios   | Como encargado de formación, quiero ofrecer tutoriales interactivos, para que los nuevos usuarios aprendan a usar la plataforma.  | 8 |
+| 36 | US25   | Comparación de eficiencia en producción por periodos   | Como gerente de producción, quiero acceder al historial completo de producción, para poder comparar la eficiencia en diferentes periodos.  | 8 |
+| 37 | US26   | Automatización del mantenimiento ante detección de retrasos   | Como técnico de mantenimiento, quiero que el sistema reprograme automáticamente tareas retrasadas, para asegurar que se realicen a tiempo.  | 8 |
+| 38 | US27   | Análisis histórico comparativo de datos de planta   | Como analista de producción, quiero comparar datos históricos entre plantas, para analizar el rendimiento y proponer mejoras.  | 8 |
+| 39 | US28   | Gestión de fallas en tiempo real para minimizar inactividad   | Como técnico de soporte, quiero gestionar las fallas de las máquinas en tiempo real, para minimizar el tiempo de inactividad en la planta.  | 8 |
+| 40 | US29   | Comparación de rendimiento entre turnos   | Como supervisor de planta, quiero comparar el rendimiento entre turnos, para identificar el más productivo.  | 8 |
+| 41 | US32   | Registro y evaluación de paradas programadas   | Como jefe de mantenimiento, quiero registrar y evaluar las paradas programadas, para mejorar la planificación del mantenimiento.  | 8 | 
+| 42 | TS34   | Calcular Recomendaciones de Mantenimiento   | Como desarrollador, quiero implementar un algoritmo que calcule recomendaciones de mantenimiento preventivo, para optimizar la planificación.  | 8 |
+| 43 | TS36   | Mostrar Estado de la Máquina en Tiempo Real   | Como desarrollador, quiero mostrar el estado actual de las máquinas a los operadores, para que puedan supervisar su funcionamiento.  | 8 | 
+| 44 | TS37   | Integrar Sensor de Temperatura vía API   | Como desarrollador, quiero integrar sensores de temperatura mediante API, para recibir y almacenar sus datos.  | 8 | 
+| 45 | TS38   | Implementar Autenticación de Usuario   | Como desarrollador, quiero implementar autenticación de usuarios, para asegurar que solo los autorizados accedan a la plataforma.  | 8 | 
+| 46 | US45            | Diseño responsive                   | Como usuario en móvil, quiero que la landing page se adapte a pantallas pequeñas, para navegar cómodamente sin hacer zoom.  | 8 | 
 
 <hr>
 
@@ -1079,7 +1085,7 @@ Dentro del proceso de desarrollo, cada User Story se encuentra vinculada a un Ep
 ### 4.1. Style Guidelines
 
 #### 4.1.1. General Style Guidelines
-Las pautas generales de estilo de DyeTex están diseñadas para proyectar una identidad sólida, moderna y altamente tecnológica, en línea con su propósito de optimizar el rendimiento de maquinaria textil mediante soluciones inteligentes basadas en IoT. <br>
+Las pautas generales de estilo de DyeTex están diseñadas para proyectar una identidad sólida, moderna y mente tecnológica, en línea con su propósito de optimizar el rendimiento de maquinaria textil mediante soluciones inteligentes basadas en IoT. <br>
 
 **Branding:** La paleta de colores seleccionada comunica confiabilidad, precisión y eficiencia operativa. El color principal, #003366, un azul profundo y elegante, representa estabilidad, profesionalismo y tecnología. Este color funciona como base sólida para la interfaz, asegurando un contraste claro y favoreciendo la legibilidad. Los colores neutros #b3b3b3, #e6e6e6 y #ffffff se emplean para estructuras, fondos y secciones informativas, facilitando una navegación intuitiva y limpia. Este equilibrio cromático permite que la atención del usuario se dirija a lo más relevante: el monitoreo de sus máquinas y la toma de decisiones basadas en datos.
 <br>
@@ -1103,7 +1109,7 @@ Las pautas generales de estilo de DyeTex están diseñadas para proyectar una id
 <img src="./assets/styleGuidelines/icons.png" alt="Icons" width="400">
 </a> <br>
 
-**Buttons:** Los botones están diseñados para ser altamente visibles y accesibles. Se utilizan colores de la paleta de colores primaria y secundaria como el azul, para las acciones principales, mientras que los bordes redondeados mejoran la usabilidad en dispositivos táctiles. <br>
+**Buttons:** Los botones están diseñados para ser mente visibles y accesibles. Se utilizan colores de la paleta de colores primaria y secundaria como el azul, para las acciones principales, mientras que los bordes redondeados mejoran la usabilidad en dispositivos táctiles. <br>
 <br>
 <br>
 <img src="./assets/styleGuidelines/WhiteButtons.png" alt="Buttons" width="400">
@@ -1966,7 +1972,7 @@ A continuación, se muestran la captura de los insights del repositorio.
 
 ### Conclusiones y Recomendaciones
 
-Se confirma que la falta de visibilidad en tiempo real y el mantenimiento reactivo generan paradas imprevistas y costos adicionales en las plantas textiles.
+Se confirma que la f de visibilidad en tiempo real y el mantenimiento reactivo generan paradas imprevistas y costos adicionales en las plantas textiles.
 
 Los usuarios manifiestan interés en una plataforma que integre datos de sensores y ofrezca alertas automáticas para anticipar fallos.
 
