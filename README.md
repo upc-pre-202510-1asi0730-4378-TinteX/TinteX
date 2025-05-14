@@ -595,6 +595,7 @@ En esta sección se definirá el lenguaje ubicuo de DyeTex, una herramienta esen
 ### 3.2. User Stories
 
 ### 3.3. Impact Mapping
+<img src = "https://i.imgur.com/PR6m1yE.png"/>
 
 ### 3.4. Product Backlog
 
