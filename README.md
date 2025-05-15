@@ -1750,7 +1750,7 @@ Plataformas con las cuales nos encargamos de desarrollar gran parte del proyecto
 
 | **Plataforma** | **Descripción** | **Enlace** |
 |----------------|-----------------|------------|
-| PivotalTracker | Herramienta de gestión de proyectos ágil, diseñada especialmente para equipos de desarrollo de softwar. Permite realizar la gesión de historias de usuario en ella | https://www.pivotaltracker.com |
+| Trello | Herramienta de gestión de proyectos ágil, diseñada especialmente para equipos de desarrollo de software. Permite realizar la gesión de historias de usuario en ella. | https://trello.com |
 | UxPressia | Herramienta que ayuda con el desarrollo de impact mapping y user persona | https://uxpressia.com |
 | Vertabelo | Se enfoca más en el diseño y modelado de bases de datos. Utilizada para crear diagramas entidad-relación de forma visual | https://vertabelo.com |
 | Lucidchart | Permite la creación de diagramas de todo tipo, usada para mapas mentas, diagramas de flujo, arquitecturas de software y más | https://www.lucidchart.com |
