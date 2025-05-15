@@ -1956,10 +1956,10 @@ En este Sprint el equipo se enfocó en construir la Landing Page de TinteX, cubr
 | Story ID | Story Title                          | Task ID | Task Title                 | Description                                                            | Estimation (Hrs) | Assigned To           | Status   |
 |----------|--------------------------------------|---------|----------------------------|------------------------------------------------------------------------|------------------|-----------------------|----------|
 | US-01    | Mostrar hero con mensaje claro       | T01     | Hero Section               | Diseño e implementación del encabezado principal con título y subtítulo | 2                | Gabriel Gordon        | Done     |
-| US-02    | Sección de características principales| T02     | Features Section           | Implementación de la sección que muestra las 3 funcionalidades clave    | 3                | WiDDsito             | Done     |
+| US-02    | Sección de características principales| T02     | Features Section           | Implementación de la sección que muestra las 3 funcionalidades clave    | 3                | Leandro Contreras             | Done     |
 | US-03    | Formulario de contacto            | T03     | Contact Form          | Creación y validación del formulario de captura de correo electrónico   | 2                | Alessandra Becerra    | Done     |
-| US-04    | Navegación fija                      | T04     | Fixed Navigation Menu      | Lógica y estilo para mantener el menú de navegación siempre visible     | 2.5              | Wuux1                | Done     |
-| US-05    | Diseño responsive                    | T05     | Responsive Layout          | Adaptación del diseño a pantallas móviles y tablets                     | 3                | Khafna09             | Done     |
+| US-04    | Navegación fija                      | T04     | Fixed Navigation Menu      | Lógica y estilo para mantener el menú de navegación siempre visible     | 2.5              | Leonardo Prieto                | Done     |
+| US-05    | Diseño responsive                    | T05     | Responsive Layout          | Adaptación del diseño a pantallas móviles y tablets                     | 3                | Hector Rios             | Done     |
 | US-06    | Soporte de dos idiomas               | T06     | Multilanguage Support      | Implementación de selector de idioma y carga de contenidos en español/inglés | 2            | Gabriel Gordon        | To do     |
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -2036,7 +2036,7 @@ En el Sprint 2, el equipo centró sus esfuerzos en mejorar la calidad del report
 | **Sprint n-1 Retrospective Summary**  | En el anterior sprint desarrollamos completamente el reporte, sin embargo, fueron realizadas varias observaciones las cuales fueron levantadas, así como las tareas acumuladas de la landing page no implementadas pasaron a este sprint donde fueron implementadas                                                                                                                      |
 | **Sprint 2 Goal**                     | Nuestra prioridad en este sprint es el mejoramiento de la información del reporte e implementar la primera versión de la aplicación frontend. Creemos que esto permitirá comunicar con mayor claridad nuestra solución, y facilitará una primera interacción funcional con la plataforma por parte de los usuarios. Este objetivo se considerará cumplido cuando el reporte esté corregido y validado, y la aplicación frontend cuente con una estructura navegable y contenidos iniciales desplegados. |
 | **Sprint 2 Velocity**                 |                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Sum of Story Points**               |                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Sum of Story Points**               |  En el sprint 2, se calcuaron 42 puntos en función a las user stories implementadas                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 
 ##### 5.2.2.2. Aspect Leaders and Collaborators
@@ -2059,6 +2059,16 @@ Cada **User Story** fue asignada estratégicamente a un **líder de desarrollo**
 
 
 ##### 5.2.2.3. Sprint Backlog 2
+
+| Story ID | Story Title                                                 | Task ID | Task Title                          | Description                                                                         | Estimation (Hrs) | Assigned To        | Status |
+| -------- | ----------------------------------------------------------- | ------- | ----------------------------------- | ----------------------------------------------------------------------------------- | ---------------- | ------------------ | ------ |
+| US-02    | Vista general del estado de todas las máquinas              | T07     | Machine Overview Dashboard          | Desarrollo de panel principal con resumen visual del estado general de las máquinas | 4.5              | Gabriel Gordon     | Done  |
+| US-03    | Notificaciones automáticas por incidentes                   | T08     | Incident Notification System        | Lógica para detectar fallos y enviar alertas automáticas al operador                | 3                | Leandro Contreras    | Done  |
+| US-08    | Dashboard con eficiencia en tiempo real                     | T09     | Real-time Machine Efficiency Charts | Visualización de KPIs en tiempo real por máquina                                    | 5                | Gabriel Gordon     | Done  |
+| US-10    | Estado de funcionamiento de máquinas asignadas              | T10     | Machine Status View for Operators   | Interfaz donde cada operador técnico puede monitorear sus máquinas asignadas        | 3                | Alessandra Becerra | Done  |
+| US-14    | Asignar roles y permisos a usuarios                         | T11     | User Role Management Panel          | Panel para asignación de roles, permisos y gestión de acceso de usuarios            | 3              | Leonardo Prieto    | Done  |
+| US-16    | Automatización de recordatorios de mantenimiento preventivo | T12     | Preventive Maintenance Reminder     | Sistema de alertas programadas para mantenimiento según frecuencia configurada      | 3.5              | Hector Rios      | Done  |
+
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 ##### 5.2.2.5. Execution Evidence for Sprint Review
