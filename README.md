@@ -1969,7 +1969,9 @@ Los objetivos de Lean UX (disminuir inactividad y alcanzar un nivel mínimo de a
 
 ### Video About-the-Team
 ## Bibliografía
-
+- W3C. (2018). Web Content Accessibility Guidelines (WCAG) 2.1. https://www.w3.org/TR/WCAG21/
+- Evans, E. (2004). Domain-Driven Design: Tackling Complexity in the Heart of Software. Addison-Wesley. https://www.bibsonomy.org/bibtex/2b613dcc2b969d6659bf549defb6f8dae/juve
+- Mobley, R. K. (2002). An Introduction to Predictive Maintenance (2nd ed.). Butterworth-Heinemann. https://www.semanticscholar.org/paper/An-introduction-to-predictive-maintenance-Mobley/85be94bab757bd520f6e60355a0e4efd587d5425
 <hr>
 
 ## Anexos
