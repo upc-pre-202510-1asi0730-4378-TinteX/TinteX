@@ -904,21 +904,27 @@ Por otro lado, el proveedor tecnológico se enfoca en:
 
 ### 2.4. Ubiquitous Language
 En esta sección se definirá el lenguaje ubicuo de DyeTex, una herramienta esencial para construir un vocabulario compartido y específico que garantice una comunicación clara entre el equipo de desarrollo y los involucrados en el proyecto. Este lenguaje común ayuda a alinear la comprensión de todos sobre los conceptos clave, asegurando coherencia en las decisiones y evitando malentendidos a lo largo del desarrollo del producto.
-| **Término**                   | **Definición**                                                                                                                                  |
-|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Plataforma DyeTex**        | Sistema web centralizado para visualizar, gestionar y analizar datos de maquinaria textil en tiempo real mediante IoT.                         |
-| **Usuario Administrador**    | Persona encargada de configurar la cuenta empresarial, gestionar usuarios internos y controlar los permisos en la plataforma.                  |
-| **Operador**                 | Usuario que trabaja directamente con las máquinas y utiliza DyeTex para supervisar el funcionamiento y alertas.                                |
-| **Máquina**                  | Equipo textil conectado al sistema (como lavadoras, secadoras industriales) que transmite datos en tiempo real.                                |
-| **Sensor IoT**               | Dispositivo que recoge datos físicos (temperatura, vibración, consumo, etc.) y los transmite a la plataforma para su análisis.                 |
-| **Panel de Monitoreo**       | Vista principal donde se observa el estado de todas las máquinas conectadas, incluyendo métricas y alertas.                                   |
-| **Alerta**                   | Notificación automática ante comportamientos anómalos o condiciones críticas detectadas en las máquinas.                                       |
-| **Mantenimiento Preventivo** | Acciones programadas para evitar fallos futuros, basadas en el historial de uso y las recomendaciones técnicas.                                |
-| **Dashboard de Producción**  | Interfaz con estadísticas generales como eficiencia por máquina, producción por turno y comparaciones entre periodos.                         |
-| **Notificación**             | Mensaje informativo (en la plataforma o por correo) que alerta sobre eventos importantes: fallos, mantenimientos, etc.                        |
-| **KPI Textil**               | Indicadores clave de rendimiento del proceso textil: eficiencia, tiempos muertos, calidad de producción, entre otros.                         |
-| **Integración ERP**          | Conexión entre DyeTex y sistemas empresariales para sincronizar datos de producción con áreas como finanzas, inventario y logística.          |
-| **Reporte Técnico**          | Documento que resume el estado, desempeño, fallos y recomendaciones de mantenimiento de una o más máquinas.                                   |
+
+Es por esto que este glosario contiene los términos fundamentales del dominio textil industrial y de la solución propuesta por DyeTex. Su propósito es unificar el lenguaje entre todos los integrantes del equipo y los stakeholders, eliminando ambigüedades y asegurando una comprensión compartida del problema y la solución. Todos los términos se presentan en inglés, con su equivalente en español.
+
+| **Término (en inglés)**       | **Término (en español)**         | **Definición**                                                                                     |
+|-------------------------------|----------------------------------|----------------------------------------------------------------------------------------------------|
+| Textile Machinery             | Maquinaria textil               | Conjunto de máquinas utilizadas en procesos como teñido, lavado, secado y acabado de textiles.    |
+| Production Line               | Línea de producción              | Secuencia organizada de máquinas y procesos por los que pasa una tela dentro de la fábrica.       |
+| Shift                         | Turno                            | Periodo de trabajo continuo realizado por un grupo de operarios.                                  |
+| Operator                      | Operario                         | Persona encargada de operar y supervisar el funcionamiento de una o varias máquinas textiles.     |
+| Downtime                      | Tiempo de inactividad            | Periodo en el que una máquina no está operativa, ya sea por fallas, mantenimiento o ajustes.      |
+| Preventive Maintenance        | Mantenimiento preventivo         | Intervenciones programadas para evitar fallas futuras en las máquinas.                            |
+| Corrective Maintenance        | Mantenimiento correctivo         | Intervención realizada para reparar una máquina después de que ha ocurrido una falla o avería, con el fin de restaurar su funcionamiento normal. |
+| Performance Report            | Informe de desempeño             | Documento o visualización con datos sobre la eficiencia y productividad de las máquinas.          |
+| Machine Efficiency            | Eficiencia de máquina            | Relación entre el tiempo efectivo de producción y el tiempo total disponible de una máquina.      |
+| Production Volume             | Volumen de producción            | Cantidad de textiles procesados o terminados en un periodo de tiempo determinado.                 |
+| Alert                         | Alerta                           | Señal o notificación que indica una anomalía en el comportamiento de una máquina.                 |
+| Incident Log                  | Registro de incidentes           | Historial de eventos no planificados como fallas o paradas en la producción.                      |
+| Textile Plant                 | Planta textil                    | Fábrica donde se llevan a cabo procesos industriales para la elaboración de productos textiles.   |
+| Fabric Type                   | Tipo de tela                     | Clasificación de textiles según su composición, uso o características técnicas.                   |
+| Production Schedule           | Cronograma de producción         | Planificación detallada de las tareas y tiempos para cumplir con los objetivos de producción.     |
+| Productivity Index            | Índice de productividad          | Métrica que evalúa el rendimiento general de la planta o de una máquina específica.               |
 <hr>
 
 ## Capítulo III: Requirements Specification
