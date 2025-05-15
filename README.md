@@ -1450,89 +1450,110 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 #### 4.6.1. Software Architecture Context Diagrams
 
 > [!NOTE]  
-> En este diagrama encontrarás:
-> - Supplier (Proveedores): Acceden a la plataforma 
-> - Administrator (Administradores): Acceden y gestionan la plataforma
-> - Employees (Empleados):  Acceden a la plataforma
-> - DyeTeX: Software que los usuarios utilizarán
+> Este nivel ubica al sistema en su entorno: muestra quiénes lo usan (actores) y con qué otros sistemas se integra (servicios externos).
+> En el caso de DyeTex, incluye:
+> <br>Actores humanos:
+> - Supplier: gestiona recursos y máquinas.
+> - Administrator: administra el sistema, usuarios y configuración.
+> - Collaborator: tiene accesos limitados según su rol.
+> <br>Servicios externos:
+> - SMTP Server: para envío de correos (confirmaciones, alertas, recuperación de contraseña).
+> - Email Authenticator: valida la identidad del usuario por correo electrónico.
+> Sistema central: DyeTex
 
 <p align="center">
-  <img src="./assets/System Context.png" alt="Context Diagram" width="950">
+  <img src="./assets/SystemContext.png" alt="Context Diagram" width="950">
 </p>
 
 #### 4.6.2. Software Architecture Container Diagrams
 
 > [!NOTE]  
-> En este diagrama encontrarás:
-> - Fronted Application: Página que presenta el producto.  
-> - SinglePage Application: Frontend donde los usuarios interactúan con la aplicación.  
-> - API: Conexión entre el frontend y backend.  
-> - Bounded Contexts: Las funcionalidades que el sistema proporciona a los usuarios.
+> Los contenedores son: <br>
+> DyeTex Web App <br>
+> Single Page Application (SPA) <br>
+> Tecnología: Vue.js + PrimeVue + Axios <br>
+> Función: es la interfaz interactiva principal. Desde aquí los usuarios gestionan cuentas, despliegan máquinas, reciben alertas, ven gráficos, etc.
+> Integraciones externas (desde la SPA): <br>
+> - SMTP Server → para notificaciones por email.
+> - Email Authenticator → para autenticación.
+> - Otros servicios como IoT Gateway o ERP Connector según el contexto.
 
 <p align="center">
-  <img src="./assets/Container Diagram.png" alt="Container Diagram" width="1000">
+  <img src="./assets/Containers-DyeTex.png" alt="Container Diagram" width="1000">
 </p>
 
 #### 4.6.3. Software Architecture Components Diagrams
 
-#### Bounded Context Management 
+#### Bounded Context Management Account
 
 > [!NOTE]
-> En este diagrama encontrarás:
-> - Controller: Controla un conjunto de funcionalidades.
-> - Service: Secciones de la aplicación que realizan una o varias tareas especifícas.
-> - External Services: Servicios de terceros para complementar la funcionalidad de la applicacion.
+> Enfocado en la gestión de cuentas de usuario.
+> Permite a los usuarios:
+> - Crear una cuenta.
+> - Iniciar sesión.
+> - Cambiar su contraseña.
+> - Recuperar su cuenta mediante email.
+> - Validar su identidad por correo electrónico.
 
 <p align="center">
-  <img src="./assets/Component Diagram.png" alt="Component Diagram" width="1000">
+  <img src="./assets/management-account-components.png" alt="Component Diagram" width="1000">
 </p>
 
 #### Bounded Context Machine Deployment
 
 > [!NOTE]
-> En este diagrama encontrarás:
-> - Controller: Controla un conjunto de funcionalidades.
-> - Service: Secciones de la aplicación que realizan una o varias tareas especifícas.
-> - Repository: Permite el acceso a una base de datos.
+> Control y asignación de máquinas en el sistema.
+> Permite a los usuarios:
+> - Ver una lista de máquinas disponibles
+> - Asignarlas a tareas, usuarios o ubicaciones
+> - Consultar el estado actual (activo, en mantenimiento, etc.)
+> - Integrarse con gateways IoT para obtener información en tiempo real
+
 
 <p align="center">
-  <img src="./assets/Component Diagram2.png" alt="Component Diagram" width="1000">
+  <img src="./assets/machine-deployment-components.png" alt="Component Diagram" width="1000">
 </p>
 
 #### Bounded Context Notifications and Alerts Management
 
 > [!NOTE]
-> En este diagrama encontrarás:
-> - Controller: Controla un conjunto de funcionalidades.
-> - Service: Secciones de la aplicación que realizan una o varias tareas especifícas.
-> - Repository: Permite el acceso a una base de datos.
+> Gestión de notificaciones del sistema y alertas automáticas.
+> Incluye:
+> - Centro de notificaciones visual
+> - Alertas críticas enviadas por correo
+> - Contadores e indicadores visuales de alertas nuevas
+> - Configuración personalizada del tipo y frecuencia de alertas
 
 <p align="center">
-  <img src="./assets/Component Diagram3.png" alt="Component Diagram" width="1000">
+  <img src="./assets/notifications-components.png" alt="Component Diagram" width="1000">
 </p>
 
 #### Bounded Context History and Performance Analysis
 
 > [!NOTE]
-> En este diagrama encontrarás:
-> - Controller: Controla un conjunto de funcionalidades.
-> - Service: Secciones de la aplicación que realizan una o varias tareas especifícas.
-> - Repository: Permite el acceso a una base de datos.
+> Visualización del historial de actividades y métricas de rendimiento.
+> Permite:
+> - Consultar registros de actividad (logs)
+> - Analizar métricas de productividad a través del tiempo
+> - Filtrar datos por fecha, usuario, empresa, etc.
+> - Descargar reportes en distintos formatos
 
 <p align="center">
-  <img src="./assets/Component Diagram4.png" alt="Component Diagram" width="1000">
+  <img src="./assets/history-performance-components.png" alt="Component Diagram" width="1000">
 </p>
 
 #### Bounded Context Optimization and Integration Flow
 
 > [!NOTE]
-> En este diagrama encontrarás:
-> - Controller: Controla un conjunto de funcionalidades.
-> - Service: Secciones de la aplicación que realizan una o varias tareas especifícas.
-> - Repository: Permite el acceso a una base de datos.
+> Mejora continua e integración entre módulos y servicios.
+> Permite:
+> - Integrar datos desde otros módulos (máquinas, rendimiento, usuarios, etc.)
+> - Coordinar flujos de trabajo entre componentes
+> - Mostrar sugerencias automáticas para optimizar tiempos o procesos
+> - Conectarse con sistemas externos como ERP o CRM
 
 <p align="center">
-  <img src="./assets/Component Diagram5.png" alt="Component Diagram" width="1000">
+  <img src="./assets/optimization-flow-components.png" alt="Component Diagram" width="1000">
 </p>
 
 ### 4.7. Software Object-Oriented Design
