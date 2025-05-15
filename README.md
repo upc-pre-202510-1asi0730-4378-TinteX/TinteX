@@ -1450,110 +1450,89 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 #### 4.6.1. Software Architecture Context Diagrams
 
 > [!NOTE]  
-> Este nivel ubica al sistema en su entorno: muestra quiénes lo usan (actores) y con qué otros sistemas se integra (servicios externos).
-> En el caso de DyeTex, incluye:
-> <br>Actores humanos:
-> - Supplier: gestiona recursos y máquinas.
-> - Administrator: administra el sistema, usuarios y configuración.
-> - Collaborator: tiene accesos limitados según su rol.
-> <br>Servicios externos:
-> - SMTP Server: para envío de correos (confirmaciones, alertas, recuperación de contraseña).
-> - Email Authenticator: valida la identidad del usuario por correo electrónico.
-> Sistema central: DyeTex
+> En este diagrama encontrarás:
+> - Supplier (Proveedores): Acceden a la plataforma 
+> - Administrator (Administradores): Acceden y gestionan la plataforma
+> - Employees (Empleados):  Acceden a la plataforma
+> - DyeTeX: Software que los usuarios utilizarán
 
 <p align="center">
-  <img src="./assets/SystemContext.png" alt="Context Diagram" width="950">
+  <img src="./assets/System Context.png" alt="Context Diagram" width="950">
 </p>
 
 #### 4.6.2. Software Architecture Container Diagrams
 
 > [!NOTE]  
-> Los contenedores son: <br>
-> DyeTex Web App <br>
-> Single Page Application (SPA) <br>
-> Tecnología: Vue.js + PrimeVue + Axios <br>
-> Función: es la interfaz interactiva principal. Desde aquí los usuarios gestionan cuentas, despliegan máquinas, reciben alertas, ven gráficos, etc.
-> Integraciones externas (desde la SPA): <br>
-> - SMTP Server → para notificaciones por email.
-> - Email Authenticator → para autenticación.
-> - Otros servicios como IoT Gateway o ERP Connector según el contexto.
+> En este diagrama encontrarás:
+> - Fronted Application: Página que presenta el producto.  
+> - SinglePage Application: Frontend donde los usuarios interactúan con la aplicación.  
+> - API: Conexión entre el frontend y backend.  
+> - Bounded Contexts: Las funcionalidades que el sistema proporciona a los usuarios.
 
 <p align="center">
-  <img src="./assets/Containers-DyeTex.png" alt="Container Diagram" width="1000">
+  <img src="./assets/Container Diagram.png" alt="Container Diagram" width="1000">
 </p>
 
 #### 4.6.3. Software Architecture Components Diagrams
 
-#### Bounded Context Management Account
+#### Bounded Context Management 
 
 > [!NOTE]
-> Enfocado en la gestión de cuentas de usuario.
-> Permite a los usuarios:
-> - Crear una cuenta.
-> - Iniciar sesión.
-> - Cambiar su contraseña.
-> - Recuperar su cuenta mediante email.
-> - Validar su identidad por correo electrónico.
+> En este diagrama encontrarás:
+> - Controller: Controla un conjunto de funcionalidades.
+> - Service: Secciones de la aplicación que realizan una o varias tareas especifícas.
+> - External Services: Servicios de terceros para complementar la funcionalidad de la applicacion.
 
 <p align="center">
-  <img src="./assets/management-account-components.png" alt="Component Diagram" width="1000">
+  <img src="./assets/Component Diagram.png" alt="Component Diagram" width="1000">
 </p>
 
 #### Bounded Context Machine Deployment
 
 > [!NOTE]
-> Control y asignación de máquinas en el sistema.
-> Permite a los usuarios:
-> - Ver una lista de máquinas disponibles
-> - Asignarlas a tareas, usuarios o ubicaciones
-> - Consultar el estado actual (activo, en mantenimiento, etc.)
-> - Integrarse con gateways IoT para obtener información en tiempo real
-
+> En este diagrama encontrarás:
+> - Controller: Controla un conjunto de funcionalidades.
+> - Service: Secciones de la aplicación que realizan una o varias tareas especifícas.
+> - Repository: Permite el acceso a una base de datos.
 
 <p align="center">
-  <img src="./assets/machine-deployment-components.png" alt="Component Diagram" width="1000">
+  <img src="./assets/Component Diagram2.png" alt="Component Diagram" width="1000">
 </p>
 
 #### Bounded Context Notifications and Alerts Management
 
 > [!NOTE]
-> Gestión de notificaciones del sistema y alertas automáticas.
-> Incluye:
-> - Centro de notificaciones visual
-> - Alertas críticas enviadas por correo
-> - Contadores e indicadores visuales de alertas nuevas
-> - Configuración personalizada del tipo y frecuencia de alertas
+> En este diagrama encontrarás:
+> - Controller: Controla un conjunto de funcionalidades.
+> - Service: Secciones de la aplicación que realizan una o varias tareas especifícas.
+> - Repository: Permite el acceso a una base de datos.
 
 <p align="center">
-  <img src="./assets/notifications-components.png" alt="Component Diagram" width="1000">
+  <img src="./assets/Component Diagram3.png" alt="Component Diagram" width="1000">
 </p>
 
 #### Bounded Context History and Performance Analysis
 
 > [!NOTE]
-> Visualización del historial de actividades y métricas de rendimiento.
-> Permite:
-> - Consultar registros de actividad (logs)
-> - Analizar métricas de productividad a través del tiempo
-> - Filtrar datos por fecha, usuario, empresa, etc.
-> - Descargar reportes en distintos formatos
+> En este diagrama encontrarás:
+> - Controller: Controla un conjunto de funcionalidades.
+> - Service: Secciones de la aplicación que realizan una o varias tareas especifícas.
+> - Repository: Permite el acceso a una base de datos.
 
 <p align="center">
-  <img src="./assets/history-performance-components.png" alt="Component Diagram" width="1000">
+  <img src="./assets/Component Diagram4.png" alt="Component Diagram" width="1000">
 </p>
 
 #### Bounded Context Optimization and Integration Flow
 
 > [!NOTE]
-> Mejora continua e integración entre módulos y servicios.
-> Permite:
-> - Integrar datos desde otros módulos (máquinas, rendimiento, usuarios, etc.)
-> - Coordinar flujos de trabajo entre componentes
-> - Mostrar sugerencias automáticas para optimizar tiempos o procesos
-> - Conectarse con sistemas externos como ERP o CRM
+> En este diagrama encontrarás:
+> - Controller: Controla un conjunto de funcionalidades.
+> - Service: Secciones de la aplicación que realizan una o varias tareas especifícas.
+> - Repository: Permite el acceso a una base de datos.
 
 <p align="center">
-  <img src="./assets/optimization-flow-components.png" alt="Component Diagram" width="1000">
+  <img src="./assets/Component Diagram5.png" alt="Component Diagram" width="1000">
 </p>
 
 ### 4.7. Software Object-Oriented Design
@@ -1992,6 +1971,22 @@ A continuación, se muestran la captura de los insights del repositorio.
 #### 5.2.2. Sprint 2
 
 ##### 5.2.2.1. Sprint Planning 2
+En el Sprint 2, el equipo centró sus esfuerzos en mejorar la calidad del reporte entregado previamente e iniciar el desarrollo de la primera versión funcional del frontend de la aplicación de TinteX. Durante este ciclo de dos semanas, nos enfocamos en implementar las correcciones señaladas en el documento inicial y en construir la estructura base del sistema que permitirá interactuar con los usuarios desde la web.
+
+| Campo                                 | Detalle                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint #**                          | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Date**                              | 12-05-2025                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Time**                              | 2:30 PM                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Location**                          | Virtual – Discord                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Prepared By**                       | Héctor Ríos                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Attendees (to planning meeting)**   | Leandro Contreras, Alessandra Becerra, Leonardo Prieto, Héctor Ríos, Gabriel Gordon                                                                                                                                                                                                                                                                                                                                              |
+| **Sprint n-1 Review Summary**         | En el anterior sprint se logró realizar el reporte y desarrollar la landing page, así como su implementación, consiguiendo terminar con casi todos los story points                                                                                                                                                                                                                                                             |
+| **Sprint n-1 Retrospective Summary**  | En el anterior sprint desarrollamos completamente el reporte, sin embargo, fueron realizadas varias observaciones las cuales fueron levantadas, así como las tareas acumuladas de la landing page no implementadas pasaron a este sprint donde fueron implementadas                                                                                                                      |
+| **Sprint 2 Goal**                     | Nuestra prioridad en este sprint es el mejoramiento de la información del reporte e implementar la primera versión de la aplicación frontend. Creemos que esto permitirá comunicar con mayor claridad nuestra solución, y facilitará una primera interacción funcional con la plataforma por parte de los usuarios. Este objetivo se considerará cumplido cuando el reporte esté corregido y validado, y la aplicación frontend cuente con una estructura navegable y contenidos iniciales desplegados. |
+| **Sprint 2 Velocity**                 |                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Sum of Story Points**               |                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
 
 ##### 5.2.2.2. Aspect Leaders and Collaborators
 
