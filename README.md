@@ -812,13 +812,13 @@ Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, 
 *Segmento 1: Empresas textiles*
 
 <p align="center">
-    <img src="./assets/Luis Ramos.png" alt="User-Persona-1" width="600">
+    <img src="./assets/Luis Ramos - User 1.png" alt="User-Persona-1" width="600">
 </p>
 
 *Segmento 2: Proovedores Tecnológicos para la Industria textil*
 
 <p align="center">
-    <img src="./assets/Carla Meza.png" alt="User-Persona-2" width="600">
+    <img src="./assets/Carla Meza - User 2.png" alt="User-Persona-2" width="600">
 </p>
 
 #### 2.3.2. User Task Matrix
