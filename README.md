@@ -1969,5 +1969,8 @@ Los objetivos de Lean UX (disminuir inactividad y alcanzar un nivel mínimo de a
 
 ### Video About-the-Team
 ## Bibliografía
+
+
+
 ## Anexos
 
