@@ -825,54 +825,50 @@ Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, 
 
 #### Introducción
 
-Esta matriz identifica tareas que los usuarios realizan antes de conocer la plataforma DyeTex. Se consideran dos segmentos: **Gerente de Operaciones** y **Representante Técnica**. Las tareas se evalúan en función de su **frecuencia** y **nivel de importancia**.
+En esta sección se presenta el **User Task Matrix**. El análisis se ha realizado considerando dos segmentos representativos:
 
-#### Tabla de tareas por usuario
+- **Segmento 1:** Encargados de planta o responsables de producción en empresas textiles.  
+- **Segmento 2:** Especialistas en automatización industrial o proveedores tecnológicos que integran soluciones para el sector textil.
 
-| Tarea                                                   | Gerente de Operaciones (Frecuencia / Importancia) | Representante Técnica (Frecuencia / Importancia) |
-|----------------------------------------------------------|----------------------------------------------------|---------------------------------------------------|
-| Supervisar manualmente el estado de las máquinas         |  /                                         | Media /                                       |
-| Recoger datos de sensores en hojas de cálculo            | Media /                                        |  /                                        |
-| Comunicar fallas a través de WhatsApp o llamadas         |  /                                         |  /                                        |
-| Solicitar informes de mantenimiento a técnicos           |  /                                         | Baja / Media                                      |
-| Coordinar turnos de trabajo de forma verbal o por Excel  |  /                                         | Media / Media                                     |
-| Revisar el inventario físicamente o por listas           | Media /                                        |  /                                        |
-| Hacer seguimiento al progreso de producción a mano       |  /                                         | Media / Media                                     |
-| Redactar reportes semanales en Word o Excel              |  /                                         | Baja / Media                                      |
-| Solicitar repuestos por correo o llamadas                | Media /                                        |  /                                        |
-| Evaluar productividad con datos dispersos                |  /                                         | Media /                                       |
+El objetivo es identificar las tareas que estos usuarios realizan actualmente independientemente de la existencia de DyeTex, para así detectar oportunidades reales de intervención de la solución. Estas tareas se basan en las entrevistas anteriores.
 
-#### Explicación detallada de tareas
+---
 
-1. **Supervisar manualmente el estado de las máquinas**  
-   Se realiza inspección presencial o revisión visual de indicadores sin herramientas automáticas.
+| **Tarea**                                                                 | **Encargado de Planta (Textil)**<br>Frecuencia | **Encargado de Planta (Textil)**<br>Importancia | **Proveedor Tecnológico**<br>Frecuencia | **Proveedor Tecnológico**<br>Importancia |
+|---------------------------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------|----------------------------------------|
+| Monitorear manualmente el rendimiento de las máquinas                    | Alta                                          | Alta                                          | Media                                   | Alta                                   |
+| Revisar físicamente las máquinas para detectar fallas                   | Alta                                          | Alta                                          | Alta                                    | Media                                  |
+| Realizar paradas no planificadas por errores o mantenimiento            | Media                                         | Alta                                          | Media                                   | Alta                                   |
+| Gestionar pedidos de insumos de forma manual                            | Alta                                          | Alta                                          | Baja                                    | Alta                                   |
+| Coordinar mantenimiento correctivo después de una falla                 | Media                                         | Alta                                          | Media                                   | Alta                                   |
+| Capacitar al personal para reaccionar ante fallas sin herramientas digitales | Media                                         | Media                                         | Baja                                    | Media                                  |
+| Registrar incidencias en papel o Excel                                   | Alta                                          | Media                                         | Media                                   | Media                                  |
+| Verificar consumo energético sin monitoreo automático                    | Media                                         | Media                                         | Alta                                    | Alta                                   |
+| Elaborar reportes de producción o eficiencia semanalmente               | Media                                         | Alta                                          | Media                                   | Alta                                   |
+| Identificar cuellos de botella en procesos sin trazabilidad             | Alta                                          | Alta                                          | Alta                                    | Alta                                   |
+| Coordinar con compras sin automatización                                | Alta                                          | Media                                         | Media                                   | Media                                  |
 
-2. **Recoger datos de sensores en hojas de cálculo**  
-   El personal extrae manualmente valores de temperatura, vibración u otras variables en planillas Excel.
+---
 
-3. **Comunicar fallas a través de WhatsApp o llamadas**  
-   Las incidencias se notifican por medios informales, sin un sistema centralizado ni registro histórico.
+#### Análisis del User Task Matrix
 
-4. **Solicitar informes de mantenimiento a técnicos**  
-   Los reportes son requeridos directamente al personal técnico, generando demoras y variabilidad en la presentación.
+Las tareas con mayor frecuencia e importancia para ambos segmentos son:
 
-5. **Coordinar turnos de trabajo de forma verbal o por Excel**  
-   La asignación y seguimiento de turnos se lleva en pizarras o archivos sin integración con rendimiento de planta.
+- Monitoreo del rendimiento de máquinas.
+- Identificación de cuellos de botella sin trazabilidad.
+- Elaboración de reportes y mantenimiento reactivo.
 
-6. **Revisar el inventario físicamente o por listas**  
-   Se consulta manualmente el almacén o listas impresas para verificar disponibilidad de repuestos.
+Estas actividades revelan una necesidad urgente de mejorar la visibilidad y control de los procesos operativos.
 
-7. **Hacer seguimiento al progreso de producción a mano**  
-   Los jefes deben consultar con operarios o revisar formularios para conocer el avance productivo.
+En el caso del encargado de planta, se priorizan tareas operativas como:
+- La revisión física de equipos.
+- La gestión manual de insumos.
+- El registro de incidencias y la coordinación directa con compras.
 
-8. **Redactar reportes semanales en Word o Excel**  
-   Se consolidan múltiples fuentes de datos para generar informes, lo cual requiere tiempo y esfuerzo.
-
-9. **Solicitar repuestos por correo o llamadas**  
-   El proceso para reponer piezas se realiza por vías tradicionales, sin alertas automáticas ni trazabilidad.
-
-10. **Evaluar productividad con datos dispersos**  
-   Se intenta analizar el desempeño productivo reuniendo datos manuales y desactualizados de varias fuentes.
+Por otro lado, el proveedor tecnológico se enfoca en:
+- Superar limitaciones estructurales del cliente (como conectividad deficiente).
+- Adaptar soluciones modulares.
+- Promover la adopción de tecnologías en clientes con baja madurez digital.
 
 #### 2.3.3. User Journey Mapping
 
