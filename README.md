@@ -2034,6 +2034,12 @@ Los objetivos de Lean UX (disminuir inactividad y alcanzar un nivel mínimo de a
 ### Video About-the-Team
 ## Bibliografía
 
+- Doeet, la solución MES MOM para la industria 4.0. (2022, September 12). doeet.com. https://doeet.com/
+
+- Textil Caiman mejora el rendimiento de sus máquinas de tintura textil. (2020a, July 1). Escarre. https://www.escarre.com/es/textil-caiman-mejora-el-rendimiento-de-sus-maquinas-de-tintura-textil/
+
+- Delta Máquinas Textiles. (n.d.). Retrieved May 15, 2025, from https://deltamaquinastexteis.com.br/es/
+
 <hr>
 
 ## Anexos
