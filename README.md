@@ -193,8 +193,8 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 
 | Criterio específico | Acciones realizadas    | Conclusiones    |
 |---------------------|  ----------------------|-----------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta                | **Héctor Ríos** **TB1:** Durante el desarrollo colaboré de manera asertiva y coordinada con el equipo para ejercer un liderazgo compartido, junto a mis compañeros planificamos las reuniones para que pudiera realizar el Startup Profile y Solution Profile, acordando los objetivos. Participé en la entrevista dentro del primer segmento y contribuí al diseño colectivo creando y revisando el Information Architecture, los wireframes y mos mockups previos al prototipo, integrando las sugerencias y especificación mencionadas por lo miembros.|
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Héctor Ríos** **TB1:** Durante esta primera entrega promoví un ambiente donde puede aportar asertivamente, colaboré en la organización de sesiones de trabajo conjunto para definir el Startup Profile y el Solution Profile, anotando las ideas, contribuyendo a la construcción de esta primera entrega.   |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                | **Héctor Ríos** **TB1:** Durante el desarrollo colaboré de manera asertiva y coordinada con el equipo para ejercer un liderazgo compartido, junto a mis compañeros planificamos las reuniones para que pudiera realizar el Startup Profile y Solution Profile, acordando los objetivos. Participé en la entrevista dentro del primer segmento y contribuí al diseño colectivo creando y revisando el Information Architecture, los wireframes y mos mockups previos al prototipo, integrando las sugerencias y especificación mencionadas por lo miembros. <br> **Gabriel Gordon TB1:** En esta etapa inicial del proyecto, ejercí liderazgo de la mano con mis compañeros en la elaboración de la StartUp y contribuí activamente. Participé en la elaboración de la página web, proporcionando opiniones sobre como puede ir un diseño llamativo, también aporté ideas para escoger a nuestro competidores.      <br><br> **Gabriel Gordon TP:** Asumí un rol activo en la coordinación del equipo durante el desarrollo, todos pudieron aportar ideas y apoyarnos entre nosotros. Participé en el arregló de los diagrams, además pude mejorar nuestra landing page en base a ideas que compartimos entre equipo. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Héctor Ríos** **TB1:** Durante esta primera entrega promoví un ambiente donde puede aportar asertivamente, colaboré en la organización de sesiones de trabajo conjunto para definir el Startup Profile y el Solution Profile, anotando las ideas, contribuyendo a la construcción de esta primera entrega.   <br> **Gabriel Gordon TB1:** En esta primera entrea fomenté la participación equitativa dentro el equipo. Establecimos cronogramas de trabajo para poder cumplir con los objetivos sobre el trabajo.         <br><br> **Gabriel Gordon TP:** Me enfoqué en generar un entorno de trabajo basao en la comunicación abierta y el respeto por las ideas de cada integrante. Junto al equipo, definimos metas claras y nos mantuvimos organizados en la elaboración del proyecto, contribuyendo de manera colaborativa para mejorar ciertos errores.|
 
 
 ## Capítulo I: Introducción 
@@ -1563,7 +1563,7 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 
 #### 4.7.1. Class Diagrams
 
-![ClassDiagram-DyeTex](assets/DyeTex%20Diagram%20Class%20Desing%20(3).png)
+![ClassDiagram-DyeTex](./assets/DyeTex%20Diagram%20Class%20Desing%20(3).png)
 
 #### 4.7.2. Class Dictionary
 
@@ -1706,9 +1706,8 @@ Un diseño robusto de la base de datos es esencial para el éxito de nuestro pro
 
 #### 4.8.1. Database Diagram
 
-<p aling = "center">
-  <img src = "./assets/DyeTex_Database_Diagram_Design.png" alt="Database Diagram" width = "1000">
-</p>
+![DataBaseDiagram-DyeTex](./assets/DyeTex_Database_Diagram_Design.png)
+
 
 <hr>
 
@@ -2034,6 +2033,12 @@ Los objetivos de Lean UX (disminuir inactividad y alcanzar un nivel mínimo de a
 
 ### Video About-the-Team
 ## Bibliografía
+
+- Doeet, la solución MES MOM para la industria 4.0. (2022, September 12). doeet.com. https://doeet.com/
+
+- Textil Caiman mejora el rendimiento de sus máquinas de tintura textil. (2020a, July 1). Escarre. https://www.escarre.com/es/textil-caiman-mejora-el-rendimiento-de-sus-maquinas-de-tintura-textil/
+
+- Delta Máquinas Textiles. (n.d.). Retrieved May 15, 2025, from https://deltamaquinastexteis.com.br/es/
 
 <hr>
 
