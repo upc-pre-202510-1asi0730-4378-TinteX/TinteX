@@ -2095,6 +2095,23 @@ Los objetivos de Lean UX (disminuir inactividad y alcanzar un nivel mínimo de a
 
 - Delta Máquinas Textiles. (n.d.). Retrieved May 15, 2025, from https://deltamaquinastexteis.com.br/es/
 
+- Mirani, A. A., Velasco-Hernandez, G., Awasthi, A., & Walsh, J. (2022). Key Challenges and Emerging Technologies in Industrial IoT Architectures: A    Review. Sensors, 22(15), 5836. https://doi.org/10.3390/s22155836
+
+- Petrillo, A., Rehman, M., & Baffo, I. (2024). Digital and Sustainable Transition in Textile Industry through Internet of Things Technologies: A Pakistani Case Study. Applied Sciences, 14(13), 5380. https://doi.org/10.3390/app14135380
+
+- Achouch, M., Dimitrova, M., Ziane, K., Sattarpanah Karganroudi, S., Dhouib, R., Ibrahim, H., & Adda, M. (2022). On Predictive Maintenance in Industry 4.0: Overview, Models, and Challenges. Applied Sciences, 12(16), 8081. https://doi.org/10.3390/app12168081
+
+- Aarlien, D., & Colomo-Palacios, R. (2020). Lean UX: A systematic literature review. En O. Gervasi et al. (Eds.), Computational Science and Its Applications – ICCSA 2020 (Lecture Notes in Computer Science, Vol. 12253, pp. 500–510). Springer. https://doi.org/10.1007/978-3-030-58817-5_37
+
+- Folgado, F. J., Calderón, D., González, I., & Calderón, A. J. (2024). Review of Industry 4.0 from the perspective of automation and supervision systems: Definitions, architectures and recent trends. Electronics, 13(4), 782. https://doi.org/10.3390/electronics13040782
+
+- W3C. (2018). Web Content Accessibility Guidelines (WCAG) 2.1. https://www.w3.org/TR/WCAG21/
+
+- Evans, E. (2004). Domain-Driven Design: Tackling Complexity in the Heart of Software. Addison-Wesley. https://www.bibsonomy.org/bibtex/2b613dcc2b969d6659bf549defb6f8dae/juve
+
+- Mobley, R. K. (2002). An Introduction to Predictive Maintenance (2nd ed.). Butterworth-Heinemann. https://www.semanticscholar.org/paperAn-introduction-to-predictive-maintenance-Mobley/85be94bab757bd520f6e60355a0e4efd587d5425
+
+
 <hr>
 
 ## Anexos
