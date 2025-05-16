@@ -2074,10 +2074,14 @@ Cada **User Story** fue asignada estratégicamente a un **líder de desarrollo**
 
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
+
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
+A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.
+
+  <img src = "./assets/sprint2.jpg" width = "1000">
 
 ## Conclusiones
 
