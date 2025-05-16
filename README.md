@@ -876,11 +876,11 @@ Por otro lado, el proveedor tecnológico se enfoca en:
 #### 2.3.3. User Journey Mapping
 
 <p align="center">
-    <img src="./assets/Journey map Usuario 1.png" alt="Journey Map 1" width="600">
+    <img src="./assets/Journey map Usuario 1 - App Web.png" alt="Journey Map 1" width="600">
 </p>
 
 <p align="center">
-    <img src="./assets/Journey Map Usuario 2.png" alt="Journey Map 2" width="600">
+    <img src="./assets/Journey map Usuario 2 - App Web.png" alt="Journey Map 2" width="600">
 </p>
 
 #### 2.3.4. Empathy Mapping
