@@ -2078,6 +2078,18 @@ Cada **User Story** fue asignada estratégicamente a un **líder de desarrollo**
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Frontend Deployment
+
+Para el despliegue de la aplicación frontend se utilizó Netlify y se siguieron los siguientes pasos:
+Paso 1: Primero se creó una cuenta en Netlify, seleccionamos Import an existing project.
+  <img src = "./assets/paso1netlify.png" width = "1000">
+Paso 2: Después se procede a seleccionar la organización y repositorio con el proyecto a desplegar y se termina de configurar el despliegue añadiendo el comando de construcción y la carpeta de despliegue.
+  <img src = "./assets/paso2netlify.png" width = "1000">
+Paso 3: Finalmente netlify nos proporciona un enlace para acceder a la aplicación frontend desplegada.
+
+  <img src = "./assets/paso3netlify.png" width = "1000">
+
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.
 
