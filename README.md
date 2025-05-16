@@ -2080,7 +2080,12 @@ Cada **User Story** fue asignada estratégicamente a un **líder de desarrollo**
 
 ### Conclusiones y Recomendaciones
 
-Se confirma que la f de visibilidad en tiempo real y el mantenimiento reactivo generan paradas imprevistas y costos adicionales en las plantas textiles.
+La importancia del proyecto en el contexto actual:
+En la actualidad donde la tecnología avanza de manera constante, muchas industrias aún operan con sistemas tradicionales que limitan su crecimiento, nuestra solución resuelve esta necesidad en las fábricas textiles.
+
+Durante nuestra investigación, vimos que muchas fábricas aún dependen de métodos manuales: hojas de Excel, controles visuales o incluso reportes a mano, lo que nos confirma la necesidad de una automatización.
+
+Se confirma que la visibilidad en tiempo real y el mantenimiento reactivo generan paradas imprevistas y costos adicionales en las plantas textiles.
 
 Los usuarios manifiestan interés en una plataforma que integre datos de sensores y ofrezca alertas automáticas para anticipar fallos.
 
