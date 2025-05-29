@@ -2037,9 +2037,9 @@ En el Sprint 2, el equipo centró sus esfuerzos en mejorar la calidad del report
 | **Attendees (to planning meeting)**   | Leandro Contreras, Alessandra Becerra, Leonardo Prieto, Héctor Ríos, Gabriel Gordon                                                                                                                                                                                                                                                                                                                                              |
 | **Sprint n-1 Review Summary**         | En el anterior sprint se logró realizar el reporte y desarrollar la landing page, así como su implementación, consiguiendo terminar con casi todos los story points                                                                                                                                                                                                                                                             |
 | **Sprint n-1 Retrospective Summary**  | En el anterior sprint desarrollamos completamente el reporte, sin embargo, fueron realizadas varias observaciones las cuales fueron levantadas, así como las tareas acumuladas de la landing page no implementadas pasaron a este sprint donde fueron implementadas                                                                                                                      |
-| **Sprint 2 Goal**                     | Nuestra prioridad en este sprint es el mejoramiento de la información del reporte e implementar la primera versión de la aplicación frontend. Creemos que esto permitirá comunicar con mayor claridad nuestra solución, y facilitará una primera interacción funcional con la plataforma por parte de los usuarios. Este objetivo se considerará cumplido cuando el reporte esté corregido y validado, y la aplicación frontend cuente con una estructura navegable y contenidos iniciales desplegados. |
-| **Sprint 2 Velocity**                 |                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Sum of Story Points**               |  En el sprint 2, se calcuaron 42 puntos en función a las user stories implementadas                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Sprint 2 Goal**                     | Nuestra prioridad en este sprint es el mejoramiento de la información del reporte e implementar los CRUDs que conforman las funcionalidades básicas de los bounded contexts identificados en el sistema de nuestra aplicación frontend. Creemos que esto permitirá comunicar con mayor claridad nuestra solución, y facilitará una primera interacción funcional con la plataforma por parte de los usuarios. Este objetivo se considerará cumplido cuando el reporte esté corregido y validado, y la aplicación frontend cuente con una estructura navegable y contenidos iniciales desplegados. |
+| **Sprint 2 Velocity**                 |     La cantidad de puntos estimados son 26                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Sum of Story Points**               |  En el sprint 2, se calcuaron 26 puntos en función a las user stories implementadas                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 
 ##### 5.2.2.2. Aspect Leaders and Collaborators
@@ -2056,9 +2056,9 @@ Cada **User Story** fue asignada estratégicamente a un **líder de desarrollo**
 | ----------------------------------------- | --------------- | ----------------------------- | ---------------------------- | ------------------------ | ----------------------------- | ------------------------------ |
 | Becerra Tejeda, Alessandra Nicole         | aleeBecerra     | C                             | C                            | C                        | C                             | C                              |
 | Contreras López, Leandro Saul             | WiDDsito        | C                             | C                            | C                        | C                             | C                              |
-| Gordon Salas, Gabriel Fernando            | Silent343       | L                         | L                        | L                    | L                         | L                          |
+| Gordon Salas, Gabriel Fernando            | Silent343       | L                         | L                        | C                    | L                         | L                          |
 | Prieto Mantari, Leonardo Fabrizzio Junior | Wuux1           | C                             | C                            | C                        | C                             | C                              |
-| Rios Pacheco, Hector Javier               | Khafna09        | C                             | C                            | C                        | C                             | C                              |
+| Rios Pacheco, Hector Javier               | Khafna09        | C                             | C                            | L                        | C                             | C                              |
 
 
 ##### 5.2.2.3. Sprint Backlog 2
@@ -2071,6 +2071,12 @@ Cada **User Story** fue asignada estratégicamente a un **líder de desarrollo**
 | US-10    | Estado de funcionamiento de máquinas asignadas              | T10     | Machine Status View for Operators   | Interfaz donde cada operador técnico puede monitorear sus máquinas asignadas        | 3                | Alessandra Becerra | Done  |
 | US-14    | Asignar roles y permisos a usuarios                         | T11     | User Role Management Panel          | Panel para asignación de roles, permisos y gestión de acceso de usuarios            | 3              | Leonardo Prieto    | Done  |
 | US-16    | Automatización de recordatorios de mantenimiento preventivo | T12     | Preventive Maintenance Reminder     | Sistema de alertas programadas para mantenimiento según frecuencia configurada      | 3.5              | Hector Rios      | Done  |
+
+
+
+
+
+
 
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
