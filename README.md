@@ -1514,7 +1514,7 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 > - Otros servicios como IoT Gateway o ERP Connector según el contexto.
 
 <p aling="center">
-  <img src="./assets/DyeTex-Containers.png" alt="Container Diagram" width="1000">
+  <img src="./assets/ContainersDyetex.png" alt="Container Diagram" width="1000">
 </p>
 
 #### 4.6.3. Software Architecture Components Diagrams
