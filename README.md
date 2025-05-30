@@ -1495,7 +1495,7 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 >- Sistema central:
 <br>DyeTex: plataforma que reúne funcionalidades como autenticación, gestión de máquinas, notificaciones, análisis y optimización.
 
-<p align="center">
+<p aling="center">
   <img src="./assets/SystemContext.png" alt="Context Diagram" width="950">
 </p>
 
@@ -1513,8 +1513,8 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 > - Email Authenticator → para autenticación. <br>
 > - Otros servicios como IoT Gateway o ERP Connector según el contexto.
 
-<p align="center">
-  <img src="./assets/Containers-DyeTex.png" alt="Container Diagram" width="1000">
+<p aling="center">
+  <img src="./assets/ContainersDyetex.png" alt="Container Diagram" width="1000">
 </p>
 
 #### 4.6.3. Software Architecture Components Diagrams
@@ -1530,7 +1530,7 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 > - Recuperar su cuenta mediante email
 > - Validar su identidad por correo electrónico
 
-<p align="center">
+<p aling="center">
   <img src="./assets/management-account-components.png" alt="Component Diagram" width="1000">
 </p>
 
@@ -1544,7 +1544,7 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 > - Consultar el estado actual (activo, en mantenimiento, etc.)
 > - Integrarse con gateways IoT para obtener información en tiempo real
 
-<p align="center">
+<p aling="center">
   <img src="./assets/machine-deployment-components.png" alt="Component Diagram" width="1000">
 </p>
 
