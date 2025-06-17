@@ -2101,24 +2101,47 @@ Cada **User Story** fue asignada estratégicamente a un **líder de desarrollo**
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
+En la realización de este sprint se logró la implementación de los CRUDS por parte del Frontend y su deploy; lo cual incluye el desarrollo de varios endponts e ingrso de datos. Además, se mejoró la landing page.
+
+  <img src = "./assets/Execution_Evidence1.png" width = "700">
+  <img src = "./assets/Execution_Evidence2.png" width = "700">
+  <img src = "./assets/Execution_Evidence3.png" width = "700">
+  <img src = "./assets/Execution_Evidence4.png" width = "700">
+  <img src = "./assets/Execution_Evidence5.png" width = "700">
+
+
+
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 Frontend Deployment
+- Para la realización del deploy de esta primera entrega del frontend se usó vercel, para ello creamos una cuenta.
+<img src = "./assets/deploy_evidence1.png" width = "700">
+<img src = "./assets/deploy_evidence2.png" width = "700">
+- Luego abrimos nuestro proyecto usando webstorm y ejecutamos los comandos  “npm install”, “npm install -g vercel” y “npm run build”.
+<img src = "./assets/deploy_evidence3.png" width = "700">
+<img src = "./assets/deploy_evidence4.png" width = "700">
+- Iniciamos sesión con vercel dentro del proyecto usando nuestro email y validamos los campos.
+<img src = "./assets/deploy_evidence5.png" width = "700">
+- Ahora usando el comando “vercel” configuramos el proyecto para realizar el deploy.
+<img src = "./assets/deploy_evidence6.png" width = "700">
+- De esta manera podremos validar que se subió correctamente viéndolo en la cuenta de vercel.
+<img src = "./assets/deploy_evidence7.png" width = "700">
+- Y lo vemos de la siguiente manera:
+<img src = "./assets/deploy_evidence8.png" width = "700">
+- Como penúltimo paso, usando beeceptor creamos un endpoint.
+<img src = "./assets/deploy_evidence9.png" width = "700">
+- Y luego vamos creando los CRUDS.
+<img src = "./assets/deploy_evidence10.png" width = "700">
+<img src = "./assets/deploy_evidence11.png" width = "700">
+- Agregamos la data mediante métodos POST.
+<img src = "./assets/deploy_evidence12.png" width = "700">
+- Y finalmente se ve de esta manera:
+<img src = "./assets/deploy_evidence13.png" width = "700">
 
-Para el despliegue de la aplicación frontend se utilizó Netlify y se siguieron los siguientes pasos:
-Paso 1: Primero se creó una cuenta en Netlify, seleccionamos Import an existing project.
-  <img src = "./assets/paso1netlify.png" width = "1000">
-Paso 2: Después se procede a seleccionar la organización y repositorio con el proyecto a desplegar y se termina de configurar el despliegue añadiendo el comando de construcción y la carpeta de despliegue.
-  <img src = "./assets/paso2netlify.png" width = "1000">
-Paso 3: Finalmente netlify nos proporciona un enlace para acceder a la aplicación frontend desplegada.
-
-  <img src = "./assets/paso3netlify.png" width = "1000">
-
-##### 5.2.2.8. Team Collaboration Insights during Sprint
-A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.
-
-  <img src = "./assets/sprint2.jpg" width = "1000">
 
 ## Conclusiones
 
