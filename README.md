@@ -2400,6 +2400,86 @@ Desde su rol como proveedor de máquinas textiles, Alvaro afirmó que la página
 
 
 ###### 5.3.3. Evaluaciones según heurísticas
+**UX Heuristics & Principles Evaluation**
+
+**Carrera: Ingeniería de Software** 
+ **Curso: Aplicaciones Web** 
+ **NRC: 4378** 
+  **Profesores:  Angel  Velasquez Nuñez**  
+  **Auditor: TinteX** 
+   **Clientes: Todos**
+
+**SITE o APP A EVALUAR:**  DyeTex
+
+**TAREAS A EVALUAR:** El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+**Desktop landing page**
+1. Visualizar la propuesta de valor al llegar a la página  
+2. Localizar el formulario de contacto o registro  
+3. Navegar por la información de servicios/ofertas  
+4. Ver la información del equipo  
+5. Utilizar el chatbot para hacer una consulta rápida
+6. Comprender el propósito del sitio en los primeros segundos de navegación
+
+**Tareas no incluidas en esta versión de la evaluación:**
+
+- Revisión de compatibilidad con dispositivos móviles  
+- Validación de enlaces externos o redes sociales  
+- Interacción completa con el chatbot (respuestas automatizadas, flujos complejos)  
+- Evaluación del contenido legal (política de privacidad, términos y condiciones)  
+- Revisión de comportamiento en diferentes navegadores (cross-browser testing)
+
+**ESCALA DE SEVERIDAD**
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: no interfiere gravemente con la experiencia. |
+| 2     | Problema menor: ocurre ocasionalmente, conviene resolverlo. |
+| 3     | Problema mayor: afecta la interacción frecuente. Alta prioridad. |
+| 4     | Problema muy grave: impide continuar. Debe corregirse antes del lanzamiento. |
+
+
+---
+## TABLA RESUMEN DE PROBLEMAS
+
+| # | Problema                                                                 | Severidad | Heurística/Principio violado                         |
+|---|--------------------------------------------------------------------------|-----------|------------------------------------------------------|
+| 1 | El chatbot no se destaca visualmente, parece solo decorativo            | 2         | Usabilidad – Visibilidad del estado del sistema       |
+| 2 | No hay botón de regreso rápido al inicio desde secciones inferiores     | 2         | Usabilidad – Control del usuario                      |
+| 3 | Falta de etiquetas accesibles en íconos e imágenes                      | 3         | Inclusive Design – Proporciona experiencias comparables |
+| 4 | Llamados a la acción poco diferenciados visualmente                     | 2         | Usabilidad – Visibilidad y jerarquía visual           |
+
+**DESCRIPCIÓN DE PROBLEMAS**
+
+### Problema #1: El chatbot no se destaca visualmente
+- **Severidad:** 2  
+- **Heurística violada:** Usabilidad – Visibilidad del estado del sistema  
+- **Descripción:** El chatbot está presente pero no hay ninguna animación o mensaje que lo haga notar.  
+- **Recomendación:** Añadir animaciones o mensajes automáticos de bienvenida para invitar al uso.
+
+---
+
+### Problema #2: No hay botón de regreso rápido al inicio
+- **Severidad:** 2  
+- **Heurística violada:** Usabilidad – Control del usuario  
+- **Descripción:** Al estar en la parte inferior de la página no se puede volver fácilmente al inicio.  
+- **Recomendación:** Agregar un botón flotante de “volver arriba”.
+
+---
+
+### Problema #3: Falta de etiquetas accesibles en íconos e imágenes
+- **Severidad:** 3  
+- **Heurística violada:** Inclusive Design – Proporciona experiencias comparables  
+- **Descripción:** Imágenes e íconos carecen de descripciones alternativas.  
+- **Recomendación:** Incluir atributos `alt` y asegurar compatibilidad con lectores de pantalla.
+
+---
+
+### Problema #4: Llamados a la acción poco diferenciados visualmente
+- **Severidad:** 2  
+- **Heurística violada:** Usabilidad – Visibilidad y jerarquía visual  
+- **Descripción:** Botones importantes como “Contáctanos” o “Comienza ahora” no destacan lo suficiente respecto al resto del contenido. No hay una jerarquía clara que los haga sobresalir como acciones principales.  
+- **Recomendación:** Aumentar el contraste, tamaño o estilo visual de los botones principales para que llamen más la atención e inviten al clic.
 
 ##### 5.4. Video About‑the‑Product
 
