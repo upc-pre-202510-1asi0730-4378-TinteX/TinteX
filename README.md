@@ -2359,14 +2359,14 @@ En cuanto a su rol como proveedor, destacó que la plataforma puede ayudarlo a o
 
 | **Dato**            | **Información**   |
 |---------------------|-------------------|
-| Nombre              | Alvaro Bejarano   |
+| Nombre              | Bruce Via   |
 | Edad                | 25 años           |
 | Distrito            | San Miguel        |
 | Tiempo de duración  |                   |
 
 
 **Detalles de la entrevista:** <br>
-<img src="./assets/imagenEntrevistaValidacionAlvaro.png" alt="Entrevista 5 Val" width="500"> 
+<img src="./assets/imagenEntrevistaValidacionBruce.png" alt="Entrevista 5 Val" width="500"> 
 </a>
 <br>
 
@@ -2374,9 +2374,9 @@ En cuanto a su rol como proveedor, destacó que la plataforma puede ayudarlo a o
 
 **Resumen de la entrevista:** <br>
 
-Alvaro consideró que el diseño es moderno, ordenado y visualmente agradable. Le resultó fácil navegar por las secciones y entendió rápidamente cómo usar la plataforma. Aunque en general los botones y textos eran claros, sugirió que algunos podrían tener nombres más descriptivos, y que ciertos textos pequeños mejorarían con más legibilidad.
+Bruce consideró que el diseño es moderno, ordenado y visualmente agradable. Le resultó fácil navegar por las secciones y entendió rápidamente cómo usar la plataforma. Aunque en general los botones y textos eran claros, sugirió que algunos podrían tener nombres más descriptivos, y que ciertos textos pequeños mejorarían con más legibilidad.
 Valoró que exista un panel general con la información principal, pero recomendó destacarlo más para que sea más visible desde el inicio. También propuso agregar más señales visuales o animaciones al realizar acciones importantes, para dar mayor claridad al usuario.
-Desde su rol como proveedor de máquinas textiles, Alvaro afirmó que la página puede ayudarle a mostrar su catálogo de forma clara y profesional, facilitando que los clientes conozcan su oferta sin complicaciones.
+Desde su rol como proveedor de máquinas textiles, Bruce afirmó que la página puede ayudarle a mostrar su catálogo de forma clara y profesional, facilitando que los clientes conozcan su oferta sin complicaciones.
 
 **Entrevista #3 - Datos del Entrevistado** 
 
