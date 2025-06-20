@@ -2162,6 +2162,51 @@ Frontend Deployment
 - Y finalmente se ve de esta manera:
 <img src = "./assets/deploy_evidence13.png" width = "700">
 
+##### 5.2.3. Sprint 3
+###### 5.2.3.1. Sprint Planning 3
+
+En el Sprint 3, el equipo se centró en refinar y optimizar el frontend según el feedback recibido, actualizar la landing page, producir los videos “About the Team” y “About the Product” y desplegar el backend en un entorno operativo, asegurando así una experiencia más sólida y completa para los usuarios.
+
+| Campo                               | Detalle                                                                                                                                                                                                                                                      |
+|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint #**                        | Sprint 3                                                                                                                                                                                                                                                     |
+| **Fecha**                           | 19/06/2025                                                                                                                                                                                                                                                  |
+| **Hora**                            | 19:00                                                                                                                                                                                                                                                        |
+| **Ubicación**                       | Virtual – Discord                                                                                                                                                                                                                                            |
+| **Elaborado por**                   | Leandro Contreras                                                                                                                                                                                                                                            |
+| **Asistentes (planning meeting)**   | Leandro Contreras, Alessandra Becerra, Leonardo Prieto, Héctor Ríos, Gabriel Gordon                                                                                                                                                                         |
+| **Sprint n-1 Review Summary**       | En el Sprint 2 corregimos y validamos el reporte original, implementamos los CRUDs de los bounded contexts y desplegamos la estructura navegable básica del frontend con contenidos iniciales.                                                               |
+| **Sprint n-1 Retrospective Summary**| En el Sprint 2 resolvimos los problemas de despliegue del frontend que quedaron pendientes; estas tareas pasaron a este sprint donde ya fueron completamente solucionadas e implementadas.                                                                   |
+| **Objetivo del Sprint**             | Refinar y optimizar el frontend según el feedback recibido, ajustar la landing page, producir y presentar los videos “About the Team” y “About the Product”, y crear y desplegar nuestro backend en un entorno operativo. |
+| **Sprint Velocity**                 | x  puntos estimados                                                                                                                                                                                                                                          |
+| **Sum of Story Points**             | x  puntos                                                                                                                                                                                                                                                    |
+
+###### 5.2.3.2. Aspect Leaders and Collaborators
+
+En este Sprint, el equipo se enfocó en desarrollar los módulos clave del sistema TinteX, abordando funcionalidades centrales como gestión de perfiles, analítica, diseño de servicios, suscripciones, control de accesos y administración de recursos. Para asegurar una asignación eficiente y una ejecución organizada, cada módulo fue liderado por un miembro del equipo, acompañado por uno o dos colaboradores, distribuidos según los análisis de participación reflejados en los commits.
+
+
+| Team Member (Last Name, First Name)          | GitHub Username | Profile and Preferences | Dashboard & Analytics | Service Design & Planning | Subscriptions & Payments | Identity and Access Management | Asset and Resource Management |
+|----------------------------------------------|-----------------|--------------------------|------------------------|----------------------------|--------------------------|-------------------------------|-------------------------------|
+| Ríos Pacheco, Héctor Javier                  | Khafna09        | L                        | L                      | C                          | C                        | C                             |                               |
+| Prieto Mantari, Leonardo Fabrizzio Junior    | Wuux1           | C                        |                        | C                          |                          | L                             | C                             |
+| Contreras López, Leandro Saul                | WiDDsito        |                          | C                      | L                          |                          | C                             |                               |
+| Gordon Salas, Gabriel Fernando               | Silent343       |                          | C                      |                            | L                        |                               | C                             |
+| Becerra Tejeda, Alessandra Nicole            | aleeBecerra     |                          |                        |                            | C                        |                               | L                             |
+
+###### 5.2.3.3. Sprint Backlog 3
+###### 5.2.3.4. Development Evidence for Sprint Review
+###### 5.2.3.5. Execution Evidence for Sprint Review
+###### 5.2.3.6. Services Documentation Evidence for Sprint Review
+###### 5.2.3.7. Software Deployment Evidence for Sprint Review
+###### 5.2.3.8. Team Collaboration Insights during Sprint
+
+##### 5.3. Validation Interviews
+###### 5.3.1. Diseño de Entrevistas
+###### 5.3.2. Registro de Entrevistas
+###### 5.3.3. Evaluaciones según heurísticas
+
+##### 5.4. Video About‑the‑Product
 
 ## Conclusiones
 
