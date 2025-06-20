@@ -2205,7 +2205,56 @@ En este Sprint, el equipo se enfocó en desarrollar los módulos clave del siste
 
 ##### 5.3. Validation Interviews
 ###### 5.3.1. Diseño de Entrevistas
+**Preguntas para segmento 1:**
+<br>
+
+1. ¿Qué te parece en general el diseño y la presentación del frontend?
+2. ¿La navegación entre las secciones te pareció clara y fácil de usar?
+3. ¿Los textos, botones e íconos son comprensibles y cumplen su función?
+4. ¿Te pareció intuitiva la interfaz?
+5. ¿Hay elementos que consideras innecesarios o que no aportan valor a la experiencia?
+6. ¿Qué mejorarías o agregarías a este frontend para que sea más completo o útil?
+7. ¿Cambiarías algo en la distribución, colores, tipografías o iconografía del sitio?
+8. ¿Te gustaría ver más animaciones, confirmaciones visuales u otros elementos interactivos al realizar acciones?
+9. ¿Hubo algún momento en que te sentiste confundido o no sabías qué hacer a continuación? <br>
+
+**Preguntas para segmento 2:** 
+
+1. ¿Qué te parece en general el diseño y la presentación del frontend?
+2. ¿La navegación entre las secciones te pareció clara y fácil de usar?
+3. ¿Los textos, botones e íconos son comprensibles y cumplen su función?
+4. ¿Te pareció intuitiva la interfaz?
+5. ¿Hay elementos que consideras innecesarios o que no aportan valor a la experiencia?
+6. ¿Qué mejorarías o agregarías a este frontend para que sea más completo o útil?
+7. ¿Cambiarías algo en la distribución, colores, tipografías o iconografía del sitio?
+8. ¿Te gustaría ver más animaciones, confirmaciones visuales u otros elementos interactivos al realizar acciones?
+9. ¿Hubo algún momento en que te sentiste confundido o no sabías qué hacer a continuación?
+10. ¿Consideras que te puede beneficiar a la hora de tener mejor organización de tus maquinas a vender?<br>
+
 ###### 5.3.2. Registro de Entrevistas
+**Segmento 1**<br>
+
+**Entrevista #1 - Datos del Entrevistado** 
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              | Jorge Linares     |
+| Edad                | 30 años           |
+| Distrito            | San Miguel        |
+| Tiempo de duración  | 05:58 minutos     |
+
+
+**Detalles de la entrevista:** <br>
+<img src="./assets/imagenEntrevistaValidacionJorge.png" alt="Entrevista 1 Val" width="500"> 
+</a>
+<br>
+
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/ESZ8YAa89IJAkpl5KOgzBY0BoXycLJvP4wvlWXx7lxKaow)
+
+**Resumen de la entrevista:** <br>
+
+Jorge, jefe de planta...
+
 ###### 5.3.3. Evaluaciones según heurísticas
 
 ##### 5.4. Video About‑the‑Product
