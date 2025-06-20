@@ -2092,13 +2092,32 @@ Cada **User Story** fue asignada estratégicamente a un **líder de desarrollo**
 | US-16    | Automatización de recordatorios de mantenimiento preventivo | T12     | Preventive Maintenance Reminder     | Sistema de alertas programadas para mantenimiento según frecuencia configurada      | 3.5              | Hector Rios      | Done  |
 
 
-
-
-
-
-
-
 ##### 5.2.2.4. Development Evidence for Sprint Review
+
+| Repository | Branch             | Commit ID                               | Commit Message                           | Commit Message Body         | Committed on (Date) |
+|------------|--------------------|------------------------------------------|------------------------------------------|------------------------------|----------------------|
+| TinteX     | develop (merge)    | 971f8a02021864220742ad6936637ac26a8ac10f | Merge pull request #26 from feature/becerra | feat: added ubiquitpus language improvements | 2025-05-15 |
+| TinteX     | feature/becerra    | a44cd191be3ee3aa918655e6bcf22bd0b29f0419 | feat: added ubiquitpus language improvements | No description provided     | 2025-05-15 |
+| TinteX     | develop (merge)    | 4b377b807c8b420a8e06e499061485c7b9f18a57 | Merge pull request #25 from feature/gordon | Update Diagrams and bibliography | 2025-05-15 |
+| TinteX     | feature/gordon     | 730a9740a4161a87625285136e86f350c6868166 | feat: add links about competitors         | No description provided     | 2025-05-15 |
+| TinteX     | feature/gordon     | bbe9abe6568a0a3900cf6b30cd08ff1a94d12444 | chore: update student outcome GabrielGordon | No description provided     | 2025-05-15 |
+| TinteX     | feature/gordon     | 4f5af4afe689ad7e31aaa032418cbeff413b45ee | fix: repair diagram links                 | No description provided     | 2025-05-15 |
+| TinteX     | feature/gordon     | 1e135d861c767d88c95f49521176105d25adce36 | chore: update class diagram with correct data and writing | No description provided | 2025-05-15 |
+| TinteX     | feature/prieto     | 4009b44e5f94c62ef260a7bf350a9c24eaa87c29 | fix: fixing user flows                    | No description provided     | 2025-05-14 |
+| TinteX     | feature/rios       | 1a34d9489a61901afa19ca4b10c120ee1ebd8c34 | fix: fixing register of versions          | No description provided     | 2025-05-15 |
+| TinteX     | feature/rios       | a2e7d05035dd02dd1fd46d02dcd456e96de2bb6a | feat: adding outcomes and conclusions     | No description provided     | 2025-05-15 |
+| TinteX     | feature/rios       | 932d518138d082f27769c4b212f5e40972fe6077 | feat: modifying the conclusions           | No description provided     | 2025-05-15 |
+| TinteX     | feature/rios       | 5236598028776830554bb95b507756a05734e70e | feat: adding conclusions                  | No description provided     | 2025-05-15 |
+| TinteX     | feature/contreras  | f0a9624a3bc3314bf024adfb21a8833a3efcdaba | fix: Software Project Management changed. | No description provided     | 2025-05-15 |
+| TinteX     | feature/contreras  | 652048f7cebf43fb7f664b9b9c8cf8e5d16bf171 | feat: Added information about Sprint 2.   | No description provided     | 2025-05-15 |
+| TinteX     | feature/contreras  | 09c450a8dc4620ae2e7962cb71057cd07e7d60f2 | feat: Student Outcome Leandro             | No description provided     | 2025-05-15 |
+| TinteX     | feature/becerra    | 0769adf65b87e889e945d5a2016b2e2b9d4f5ce0 | feat: added student outcome Alessandra    | No description provided     | 2025-05-15 |
+| TinteX     | feature/prieto     | e83fd21afa4515d7d15a50fb251669e2a3a94daa | fix: fixing journey map                   | No description provided     | 2025-05-16 |
+| TinteX     | feature/contreras  | fd12856dcda97b0593c7f508bd0d79cf2b018d78 | feat: sprint 2 insights                   | No description provided     | 2025-05-16 |
+| TinteX     | feature/contreras  | 29044dc54a9e5671dfdb4ba9a20b88c0baf917f4 | feat: sprint 2 insights                   | No description provided     | 2025-05-16 |
+| TinteX     | feature/becerra    | 003c956ea0f885936b1474e7a2a749fca01e39b9 | feat: added images netlify                | No description provided     | 2025-05-16 |
+| TinteX     | feature/becerra    | e985a54f2d1a6f07f38222e26729e089fa371af8 | feat: added 5.2.3.7                        | No description provided     | 2025-05-16 |
+
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 En la realización de este sprint se logró la implementación de los CRUDS por parte del Frontend y su deploy; lo cual incluye el desarrollo de varios endponts e ingrso de datos. Además, se mejoró la landing page.
