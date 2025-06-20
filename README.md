@@ -2217,24 +2217,24 @@ En este Sprint, el equipo se enfocó en desarrollar los módulos clave del siste
 **Preguntas para segmento 1:**
 <br>
 
-1. ¿Qué te parece en general el diseño y la presentación del frontend?
+1. ¿Qué te parece en general el diseño y la presentación de la página?
 2. ¿La navegación entre las secciones te pareció clara y fácil de usar?
 3. ¿Los textos, botones e íconos son comprensibles y cumplen su función?
-4. ¿Te pareció intuitiva la interfaz?
+4. ¿Te pareció intuitiva la página?
 5. ¿Hay elementos que consideras innecesarios o que no aportan valor a la experiencia?
-6. ¿Qué mejorarías o agregarías a este frontend para que sea más completo o útil?
+6. ¿Qué mejorarías o agregarías para que sea más completa o útil?
 7. ¿Cambiarías algo en la distribución, colores, tipografías o iconografía del sitio?
 8. ¿Te gustaría ver más animaciones, confirmaciones visuales u otros elementos interactivos al realizar acciones?
 9. ¿Hubo algún momento en que te sentiste confundido o no sabías qué hacer a continuación? <br>
 
 **Preguntas para segmento 2:** 
 
-1. ¿Qué te parece en general el diseño y la presentación del frontend?
+1. ¿Qué te parece en general el diseño y la presentación de la página?
 2. ¿La navegación entre las secciones te pareció clara y fácil de usar?
 3. ¿Los textos, botones e íconos son comprensibles y cumplen su función?
-4. ¿Te pareció intuitiva la interfaz?
+4. ¿Te pareció intuitiva la página?
 5. ¿Hay elementos que consideras innecesarios o que no aportan valor a la experiencia?
-6. ¿Qué mejorarías o agregarías a este frontend para que sea más completo o útil?
+6. ¿Qué mejorarías o agregarías para que sea más completa o útil?
 7. ¿Cambiarías algo en la distribución, colores, tipografías o iconografía del sitio?
 8. ¿Te gustaría ver más animaciones, confirmaciones visuales u otros elementos interactivos al realizar acciones?
 9. ¿Hubo algún momento en que te sentiste confundido o no sabías qué hacer a continuación?
@@ -2263,6 +2263,120 @@ En este Sprint, el equipo se enfocó en desarrollar los módulos clave del siste
 **Resumen de la entrevista:** <br>
 
 Jorge, jefe de planta...
+
+**Entrevista #2 - Datos del Entrevistado** 
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              | Dania Najo        |
+| Edad                | 25 años           |
+| Distrito            | Comas             |
+| Tiempo de duración  |                   |
+
+
+**Detalles de la entrevista:** <br>
+<img src="./assets/imagenEntrevistaValidacionDania.png" alt="Entrevista 2 Val" width="500"> 
+</a>
+<br>
+
+[URL de la entrevista]()
+
+**Resumen de la entrevista:** <br>
+
+Dania destacó el diseño limpio y profesional del frontend, así como su estructura clara y fluida. Comenta también que consideró que todos los elementos están bien etiquetados y que no hay sobrecarga de contenido, lo cual considera bastante importante en una página.
+Indica que no identificó elementos innecesarios y sugirió como mejora una opción de personalización para los usuarios. También recomendó reforzar el uso del color en los botones principales y agregar mensajes de confirmación visual al realizar acciones. En general, no experimentó confusión durante la navegación.
+
+**Entrevista #3 - Datos del Entrevistado** 
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              | Mery Ojeda        |
+| Edad                | 36 años           |
+| Distrito            | San Miguel        |
+| Tiempo de duración  |                   |
+
+
+**Detalles de la entrevista:** <br>
+<img src="./assets/imagenEntrevistaValidacionMery.png" alt="Entrevista 3 Val" width="500"> 
+</a>
+<br>
+
+[URL de la entrevista]()
+
+**Resumen de la entrevista:** <br>
+
+Mery encontró que el diseño es moderno y visualmente agradable, aunque algunas secciones podrían simplificarse. La navegación le pareció clara, pero notó que ciertos botones no eran muy visibles. Los textos e íconos eran comprensibles, aunque algunos necesitaban una etiqueta para mayor claridad.
+Le pareció fácil de usar, pero sugiere incluir mensajes que orienten al usuario mientras navega. Comentó que hay imágenes o bloques que podrían quitarse. También recomendó agregar un buscador, filtros y confirmaciones visuales al hacer clic.
+En cuanto a la parte visual, cree que se podría mejorar el contraste y aumentar el tamaño de algunos textos. Por último, mencionó que en un momento no supo si su acción se había completado, por lo que un aviso habría sido útil.
+
+**Segmento 2**<br>
+
+**Entrevista #1 - Datos del Entrevistado** 
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              | Joaquin Gutierrez |
+| Edad                | 26 años           |
+| Distrito            | La Perla          |
+| Tiempo de duración  |                   |
+
+
+**Detalles de la entrevista:** <br>
+<img src="./assets/imagenEntrevistaValidacionJoaquin.png" alt="Entrevista 4 Val" width="500"> 
+</a>
+<br>
+
+[URL de la entrevista]()
+
+**Resumen de la entrevista:** <br>
+
+Joaquín opinó que la página tiene un diseño ordenado y agradable. Le pareció fácil de navegar y entendió bien cómo usarla desde el principio. Los textos e íconos le resultaron claros y funcionales. No notó elementos innecesarios, aunque mencionó que algunas secciones podrían simplificarse.
+Sugirió agregar una sección de ayuda rápida y hacer que los títulos o botones importantes resalten más. También recomendó incluir confirmaciones visuales al realizar acciones para mayor seguridad.
+En cuanto a su rol como proveedor, destacó que la plataforma puede ayudarlo a organizar mejor su inventario y mostrar de forma más clara sus máquinas a los clientes.
+
+**Entrevista #2 - Datos del Entrevistado** 
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              | Alvaro Bejarano   |
+| Edad                | 25 años           |
+| Distrito            | San Miguel        |
+| Tiempo de duración  |                   |
+
+
+**Detalles de la entrevista:** <br>
+<img src="./assets/imagenEntrevistaValidacionAlvaro.png" alt="Entrevista 5 Val" width="500"> 
+</a>
+<br>
+
+[URL de la entrevista]()
+
+**Resumen de la entrevista:** <br>
+
+Alvaro consideró que el diseño es moderno, ordenado y visualmente agradable. Le resultó fácil navegar por las secciones y entendió rápidamente cómo usar la plataforma. Aunque en general los botones y textos eran claros, sugirió que algunos podrían tener nombres más descriptivos, y que ciertos textos pequeños mejorarían con más legibilidad.
+Valoró que exista un panel general con la información principal, pero recomendó destacarlo más para que sea más visible desde el inicio. También propuso agregar más señales visuales o animaciones al realizar acciones importantes, para dar mayor claridad al usuario.
+Desde su rol como proveedor de máquinas textiles, Alvaro afirmó que la página puede ayudarle a mostrar su catálogo de forma clara y profesional, facilitando que los clientes conozcan su oferta sin complicaciones.
+
+**Entrevista #3 - Datos del Entrevistado** 
+
+| **Dato**            | **Información**   |
+|---------------------|-------------------|
+| Nombre              |        |
+| Edad                |            |
+| Distrito            |         |
+| Tiempo de duración  |                   |
+
+
+**Detalles de la entrevista:** <br>
+<img src="./assets/" alt="Entrevista 6 Val" width="500"> 
+</a>
+<br>
+
+[URL de la entrevista]()
+
+**Resumen de la entrevista:** <br>
+
+
 
 ###### 5.3.3. Evaluaciones según heurísticas
 
