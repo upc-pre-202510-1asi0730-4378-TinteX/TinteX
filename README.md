@@ -1,12 +1,12 @@
-<p align="center">
+<p aling="center">
     <img src="./assets/logo-upc.png" alt="upc-logo" width="80px" height="80px"/>
 </p>
 
-<h1 align="center">
+<h1 aling="center">
     Universidad Peruana de Ciencias Aplicadas
 </h1>
 
-<h3 align="center">
+<h3 aling="center">
     Carrera: Ingeniería de Software
     <br> <br>
     Curso:  1ASI0730 - Aplicaciones Web
@@ -24,7 +24,7 @@
     Producto: DyeTex  
 </h3>
 
-<div align="center">
+<div aling="center">
 
 | <div style="width:300px">Alumno</div> | <div style="width:125px">Código</div> |
 |:-------------------------------------------:|:-------------------------------------------:|
@@ -36,7 +36,7 @@
 
 </div>
 
-<div align="center"> Abril 2025 </div>
+<div aling="center"> Abril 2025 </div>
 
 
 <hr>
@@ -345,7 +345,7 @@ Sí, ya que el retorno sobre inversión es tangible al reducir pérdidas operati
 **Cuando veamos** interés en forma de registros para demos, solicitudes de información o preórdenes por parte de al menos 5 empresas textiles dentro del primer mes de lanzamiento.
 
 #### 1.2.2.4. Lean UX Canvas
-<p align="center">
+<p aling="center">
     <img src="./assets/Lean-UX-Canvas.png" alt="Lean UX" width="850px">
 </p>
 
@@ -469,7 +469,7 @@ Estos tratan a la problemática desde diferentes puntos de vista, los 3 competid
     </tr>
     <div class="Profile">
         <tr>
-            <td rowspan="2" STYLE="transform: rotate(-90deg)" align="center">Perfil</td>
+            <td rowspan="2" STYLE="transform: rotate(-90deg)" aling="center">Perfil</td>
             <td>Overview</td>
             <td>Sistema diseñado a optimizar la productividad de las máquinas textiles, mejorando los procesos de producción y llevar un mejor control en el mantenimiento.  </td>
             <td>Plataforma de Industria 4.0 centrada en el control de producción, mejora de la productiviad y reducción de costes.</td>
@@ -486,7 +486,7 @@ Estos tratan a la problemática desde diferentes puntos de vista, los 3 competid
     </div>
     <div class="MarketingProfile">
         <tr>
-            <td rowspan="2" STYLE="transform: rotate(-90deg)" align="center">Perfil de Marketing</td>
+            <td rowspan="2" STYLE="transform: rotate(-90deg)" aling="center">Perfil de Marketing</td>
             <td>Mercado objetivo</td>
             <td>Empresas textiles y Proovedores de soluciones tecnológicas para la industria textil</td>
             <td>Empresas de manufacturas, y Responsables de planta y producción</td>
@@ -503,7 +503,7 @@ Estos tratan a la problemática desde diferentes puntos de vista, los 3 competid
     </div>
     <div class="ProductProfile">
         <tr>
-            <td rowspan="3" STYLE="transform: rotate(-90deg)" align="center">Perfil del Producto</td>
+            <td rowspan="3" STYLE="transform: rotate(-90deg)" aling="center">Perfil del Producto</td>
             <td>Productos & Servicios</td>
             <td>Sistema MES, OEE, Control de calidad, Integración de sensores IoT</td>
             <td>Sistema MES, OEE, Gestióon de paradas y tiempos improductivos, Control de calidad, Integración con ERP y sensores IoT</td>
@@ -527,7 +527,7 @@ Estos tratan a la problemática desde diferentes puntos de vista, los 3 competid
     </div>
     <div class="SwotAnalysis">
         <tr>
-            <td rowspan="4" STYLE="transform: rotate(-90deg)" align="center">Análisis SWOT</td>
+            <td rowspan="4" STYLE="transform: rotate(-90deg)" aling="center">Análisis SWOT</td>
             <td>Fortalezas</td>
             <td>Enfoque especializado en productividad textil con una plataforma fácil de escalar. Además, posee uso de IoT para el mantenimiento predictivo</td>
             <td>Especialización en control OEE y digitalización industrial, Integración con IoT y ERP, además de poseer una plataforma modular y escalable </td>
@@ -816,13 +816,13 @@ Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, 
 
 *Segmento 1: Empresas textiles*
 
-<p align="center">
+<p aling="center">
     <img src="./assets/Luis Ramos - User 1.png" alt="User-Persona-1" width="600">
 </p>
 
 *Segmento 2: Proovedores Tecnológicos para la Industria textil*
 
-<p align="center">
+<p aling="center">
     <img src="./assets/Carla Meza - User 2.png" alt="User-Persona-2" width="600">
 </p>
 
@@ -877,31 +877,31 @@ Por otro lado, el proveedor tecnológico se enfoca en:
 
 #### 2.3.3. User Journey Mapping
 
-<p align="center">
+<p aling="center">
     <img src="./assets/Journey map Usuario 1 - App Web.png" alt="Journey Map 1" width="600">
 </p>
 
-<p align="center">
+<p aling="center">
     <img src="./assets/Journey map Usuario 2 - App Web.png" alt="Journey Map 2" width="600">
 </p>
 
 #### 2.3.4. Empathy Mapping
 
-<p align="center">
+<p aling="center">
     <img src="./assets/Empathy Map 1.png" alt="Empathy Map 1" width="600">
 </p>
 
-<p align="center">
+<p aling="center">
     <img src="./assets/Empathy Map 2.png" alt="Empathy Map 2" width="600">
 </p>
 
 #### 2.3.5. As-is Scenario Mapping
 
-<p align="center">
+<p aling="center">
     <img src="./assets/As-Is Scenario Mapping.png" alt="As-is Scenario Mapping" width="1500">
 </p>
 
-<p align="center">
+<p aling="center">
     <img src="./assets/As-Is Scenario Mapping 2.png" alt="As-is Scenario Mapping 2" width="1500">
 </p>
 
@@ -935,12 +935,12 @@ Es por esto que este glosario contiene los términos fundamentales del dominio t
 ## Capítulo III: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
-<p align="center">
+<p aling="center">
   <img src="./assets/Scenario Mapping.jpg" alt="Scenario Mapping Proyect" width="1500">
 </p>
 
 
-<p align="center">
+<p aling="center">
   <img src="./assets/Scenario Mapping US.jpg" alt="Scenario Mapping User Persona" width="1500">
 </p>
 
@@ -965,10 +965,14 @@ Dentro del proceso de desarrollo, cada User Story se encuentra vinculada a un Ep
 | US20 | Accesibilidad multiplataforma de la plataforma | Como supervisor de planta, quiero acceder a la plataforma desde diferentes dispositivos, para monitorear la producción desde cualquier lugar. | Dado que el usuario inicia sesión desde un dispositivo móvil<br>Cuando accede al sistema<br>Entonces visualiza la misma información que en escritorio adaptada al dispositivo.<br><br>Dado que cambia de dispositivo<br>Cuando continúa su sesión<br>Entonces el sistema mantiene sincronizada la vista sin pérdida de información. | 01 |
 | US28 | Gestión de fallas en tiempo real para minimizar inactividad | Como técnico de soporte, quiero gestionar las fallas de las máquinas en tiempo real, para minimizar el tiempo de inactividad en la planta. | Dado que una máquina reporta un error<br>Cuando el sistema detecta la falla<br>Entonces se crea automáticamente un ticket de soporte.<br><br>Dado que se asigna un recurso a la falla<br>Cuando el recurso es validado<br>Entonces el sistema actualiza el estado y notifica al personal asignado. | 01 |
 | TS30 | Recuperar Datos de Máquina vía API | Como desarrollador, quiero recuperar los datos de una máquina específica mediante una solicitud GET, para poder mostrar su estado en la interfaz de usuario. | Dado que el desarrollador envía una solicitud con ID válido<br>Cuando consulta la API<br>Entonces recibe los datos de la máquina en formato JSON.<br><br>Dado que el ID es inválido<br>Cuando consulta la API<br>Entonces el sistema responde con error 404 indicando no encontrado. | 01 |
+| TS66 | Implementar Monitoreo en Tiempo Real | Como desarrollador, quiero implementar monitoreo en tiempo real, para supervisar el estado actual de todas las máquinas. | Escenario 1.<br>Dado que las máquinas envían datos de estado cada 10 segundos, cuando un sensor indica un valor fuera de rango, entonces el sistema debe actualizar el panel en tiempo real y marcar el equipo como “crítico”. <br>Escenario 2.<br>Dado que se monitorean múltiples máquinas, cuando un supervisor accede al tablero, entonces debe ver el estado actual de cada máquina sin necesidad de refrescar manualmente. | 01 |
+| TS68 | Procesar Datos de Sensores IoT | Como desarrollador, quiero implementar procesamiento de datos IoT para recibir y procesar información de sensores | Escenario 1<br>Dado que un sensor de vibración está conectado a una máquina<br>Cuando emite datos en tiempo real<br>Entonces el sistema debe procesar los datos y almacenarlos para análisis histórico.<br>Escenario 2<br>Dado que un sensor se desconecta inesperadamente<br>Cuando el sistema deja de recibir datos por más de 60 segundos<br>Entonces debe registrar una alerta de pérdida de comunicación. | 01 |
 | EP02 | Gestión de Alertas y Notificaciones | El personal operativo recibe alertas automáticas cuando las máquinas presentan fallas, permitiendo reacciones rápidas ante incidentes. | Dado que una condición crítica es detectada<br>Cuando el sistema lo identifica<br>Entonces se genera y envía una notificación al usuario correspondiente.<br><br>Dado que hay múltiples receptores<br>Cuando se activa una alerta<br>Entonces todos los operadores asignados son notificados. | 02 |
 | US03 | Alertas automáticas ante incidentes en maquinaria | Como operador, quiero recibir notificaciones automáticas cuando se detecten incidentes en las máquinas, para poder actuar rápidamente. | Dado que la temperatura de una máquina supera el límite<br>Cuando el sistema lo detecta<br>Entonces se envía una alerta al técnico.<br><br>Dado que hay múltiples operadores monitoreando<br>Cuando se detecta un incidente<br>Entonces todos reciben la notificación en tiempo real. | 02 |
 | US16 | Recordatorios automatizados para mantenimiento | Como jefe de mantenimiento, quiero automatizar los recordatorios de mantenimiento preventivo, para garantizar que no se pasen por alto. | Dado que el calendario de mantenimiento está configurado<br>Cuando se acerca la fecha programada<br>Entonces el sistema envía un recordatorio automático.<br><br>Dado que la fecha coincide con un feriado<br>Cuando el sistema lo detecta<br>Entonces reprograma automáticamente al siguiente día hábil. | 02 |
 | TS31 | Enviar Alerta de Fallo de Máquina | Como desarrollador, quiero implementar la lógica para enviar alertas cuando se detecte un fallo en una máquina, para notificar al personal de mantenimiento. | Dado que el sistema detecta un fallo crítico<br>Cuando se genera la alerta<br>Entonces se registra en base de datos y se notifica al técnico.<br><br>Dado que hay múltiples fallos con diferente severidad<br>Cuando se envían las alertas<br>Entonces se priorizan según gravedad y destinatario. | 02 |
+| TS65 | Implementar Recordatorios Automáticos | Como desarrollador, quiero implementar sistema de recordatorios automáticos, para notificar tareas de mantenimiento programadas | Escenario 1<br>Dado que se ha programado una tarea para dentro de 48 horas<br>Cuando se acerque el vencimiento<br>Entonces el sistema debe enviar un recordatorio automático al técnico responsable.<br>Escenario 2<br>Dado que un técnico no ha marcado una tarea como realizada<br>Cuando la fecha programada haya pasado<br>Entonces el sistema debe enviar una notificación de vencimiento.| 02 |
+| TS67 | Gestionar Alertas y Notificaciones | Como desarrollador, quiero implementar sistema de alertas, para notificar eventos críticos inmediatamente | Escenario 1<br>Dado que se detecta un fallo de temperatura elevada<br>Cuando se supera el umbral crítico<br>Entonces el sistema debe generar una alerta inmediata y notificar al equipo de mantenimiento.<br>Escenario 2<br>Dado que un usuario ha configurado notificaciones por email<br>Cuando se genera una alerta en su zona asignada<br>Entonces debe recibir una notificación detallada por correo electrónico. | 02 |
 | EP03 | Reportes y Análisis Histórico | El personal técnico, de calidad y jefatura accede al historial de producción, mantenimiento y controles para tomar decisiones fundamentadas y planificar mejoras. | Dado que el usuario accede a la sección de historial<br>Cuando consulta registros históricos por fecha o máquina<br>Entonces el sistema muestra la información solicitada ordenada y detallada.<br><br>Dado que el usuario requiere un análisis específico<br>Cuando selecciona el tipo de reporte<br>Entonces el sistema genera los indicadores solicitados. | 03 |
 | US04 | Consulta del historial de fallas y mantenimientos | Como técnico de mantenimiento, quiero consultar el historial de fallas y mantenimientos, para prevenir futuras averías. | Dado que selecciona una máquina desde el módulo historial<br>Cuando accede al historial<br>Entonces el sistema muestra una lista detallada y ordenada de eventos.<br><br>Dado que desea conocer tendencias<br>Cuando revisa registros por periodos<br>Entonces puede detectar patrones de fallas. | 03 |
 | US05 | Reportes periódicos para evaluación del rendimiento | Como jefa de planta, quiero acceder a reportes periódicos del rendimiento de las máquinas, para tomar decisiones basadas en datos reales. | Dado que selecciona el rango de fechas<br>Cuando solicita el reporte<br>Entonces el sistema genera un archivo descargable con métricas.<br><br>Dado que configura la generación automática<br>Cuando llega la fecha programada<br>Entonces el reporte se envía por correo al destinatario. | 03 |
@@ -976,12 +980,16 @@ Dentro del proceso de desarrollo, cada User Story se encuentra vinculada a un Ep
 | US25 | Comparación de eficiencia en producción por periodos | Como gerente de producción, quiero acceder al historial de producción, para comparar la eficiencia entre distintos periodos. | Dado que accede al historial mensual<br>Cuando selecciona un mes anterior<br>Entonces el sistema muestra datos de eficiencia, tiempos y cantidades.<br><br>Dado que desea comparar periodos<br>Cuando elige dos rangos<br>Entonces el sistema genera una vista comparativa con indicadores clave. | 03 |
 | US27 | Análisis histórico comparativo de datos de planta | Como analista de producción, quiero comparar datos históricos entre plantas, para analizar el rendimiento y proponer mejoras. | Dado que selecciona dos plantas<br>Cuando accede al análisis comparativo<br>Entonces el sistema muestra métricas como eficiencia y tiempo activo.<br><br>Dado que desea conservar la comparación<br>Cuando hace clic en exportar<br>Entonces el sistema genera un archivo descargable. | 03 |
 | TS33 | Almacenar Historial de Rendimiento | Como desarrollador, quiero almacenar el historial de rendimiento de las máquinas, para facilitar su análisis posterior. | Dado que el sistema recibe datos de rendimiento<br>Cuando los almacena<br>Entonces los guarda con marca de tiempo.<br><br>Dado que se reciben grandes volúmenes<br>Cuando se procesan<br>Entonces se optimiza el rendimiento para evitar pérdidas de datos. | 03 |
+| TS70 | Generar Métricas de Rendimiento | Como desarrollador, quiero implementar generación de métricas para calcular indicadores de rendimiento automáticamente | Escenario 1<br>Dado que se tiene el historial de intervenciones de mantenimiento<br>Cuando se consulta el promedio de tiempo de resolución<br>Entonces el sistema debe calcular y mostrar la métrica como parte de los indicadores<br>Escenario 2<br>Dado que se monitorean fallos por tipo de máquina<br>Cuando se solicita un análisis comparativo<br>Entonces el sistema debe generar las métricas agrupadas por categoría. | 03 | 
+| TS71 | Implementar Agregación de Datos | Como desarrollador, quiero implementar agregación de datos para procesar grandes volúmenes de información eficientemente | Escenario 1<br>Dado que el sistema recopila datos de múltiples sensores<br>Cuando se requiere generar un resumen diario<br>Entonces el sistema debe consolidar los datos y calcular promedios y máximos<br>Escenario 2<br>Dado que los datos están almacenados por día, hora y máquina<br>Cuando se solicita un reporte semanal<br>Entonces el sistema debe agrupar la información por periodo y máquina de forma eficiente | 03 |
+| TS73 | Generar Reportes Automáticos | Como desarrollador, quiero implementar generación automática de reportes para crear informes periódicos sin intervención manual | Escenario 1<br>Dado que se ha configurado la generación de reportes semanales<br>Cuando llega el día programado<br>Entonces el sistema debe compilar la información, generar el PDF y enviarlo automáticamente<br>Escenario 2<br>Dado que un usuario solicita un reporte mensual personalizado<br>Cuando define los filtros y lo programa<br>Entonces el sistema debe guardarlo como plantilla y ejecutarlo automáticamente en cada periodo | 03 | 
 | EP04 | Mantenimiento Inteligente y Predictivo | El personal técnico y de mantenimiento recibe sugerencias automáticas para realizar mantenimiento preventivo y anticiparse a fallas futuras mediante análisis predictivo. | Dado que el sistema detecta caídas de rendimiento o patrones inusuales<br>Cuando analiza los datos históricos y actuales<br>Entonces genera recomendaciones de mantenimiento preventivo.<br><br>Dado que el sistema evalúa múltiples factores<br>Cuando procesa la información<br>Entonces emite alertas con justificación detallada y fecha sugerida. | 04 |
 | US06 | Recomendaciones para mantenimiento preventivo | Como técnico de mantenimiento, quiero recibir recomendaciones de mantenimiento preventivo, para asegurar el buen funcionamiento de las máquinas. | Dado que una máquina presenta caídas constantes en su rendimiento<br>Cuando el sistema analiza su uso<br>Entonces sugiere mantenimiento con base en el análisis.<br><br>Dado que se detecta una posible falla<br>Cuando se hace el análisis<br>Entonces se muestra la recomendación junto a una explicación. | 04 |
 | US07 | Detección de paradas de máquinas y sus causas | Como jefa de planta, quiero saber cuándo y por qué se detiene una máquina, para actuar rápidamente y evitar retrasos. | Dado que una máquina deja de operar<br>Cuando pasan más de 2 minutos sin actividad<br>Entonces el sistema registra la parada y alerta a la jefa de planta.<br><br>Dado que se reanuda la operación<br>Cuando se detecta nuevamente actividad<br>Entonces el sistema cierra el evento de parada con duración total. | 04 |
 | US19 | Análisis predictivo para anticipar fallas | Como ingeniero de mantenimiento, quiero que el sistema prediga fallas de maquinaria, para intervenir antes de que ocurran. | Dado que el sistema analiza datos históricos<br>Cuando detecta patrones similares a fallas pasadas<br>Entonces genera una alerta con grado de riesgo y recomendación.<br><br>Dado que recibe datos en tiempo real<br>Cuando identifica comportamiento anómalo<br>Entonces emite una predicción anticipada de falla. | 04 |
 | US22 | Gestión eficiente de repuestos críticos | Como responsable de almacén, quiero gestionar los repuestos críticos eficientemente, para asegurar su disponibilidad cuando se necesiten. | Dado que un repuesto baja del nivel mínimo<br>Cuando el inventario lo detecta<br>Entonces el sistema emite una alerta y sugiere realizar un pedido.<br><br>Dado que se asigna un repuesto a una orden de mantenimiento<br>Cuando se realiza la asignación<br>Entonces el inventario se actualiza y se vincula a la orden. | 04 |
 | TS34 | Calcular Recomendaciones de Mantenimiento | Como desarrollador, quiero implementar un algoritmo que calcule recomendaciones de mantenimiento preventivo, para optimizar la planificación. | Dado que el sistema tiene acceso al historial de rendimiento y mantenimiento<br>Cuando calcula la próxima fecha<br>Entonces genera una recomendación con tareas a realizar.<br><br>Dado que se consideran factores como antigüedad y uso<br>Cuando se hace el cálculo<br>Entonces la recomendación refleja estos factores para mayor precisión. | 04 |
+| TS62 | Algoritmo de Programación de Mantenimiento | Como desarrollador, quiero implementar algoritmos de programación de mantenimiento Para optimizar la planificación de intervenciones | Escenario 1<br>Dado que una máquina acumula 500 horas de uso<br>Cuando se cumple ese umbral<br>Entonces el sistema debe calcular y asignar automáticamente una orden de mantenimiento preventivo<br>Escenario 2<br>Dado que el calendario tiene múltiples mantenimientos programados<br>Cuando se ejecuta el algoritmo de planificación<br>Entonces el sistema debe distribuir las tareas para evitar solapamientos y optimizar los recursos disponibles. | 04 |
 | EP05 | Eficiencia Operativa y Productiva | El personal directivo, supervisores y técnicos accede a dashboards y reportes de indicadores clave para comparar periodos, turnos y detectar cuellos de botella en la producción. | Dado que el usuario accede al sistema de análisis<br>Cuando selecciona un periodo o turno<br>Entonces visualiza los indicadores de eficiencia, productividad y tiempos muertos.<br><br>Dado que hay caídas de productividad<br>Cuando el sistema las detecta<br>Entonces genera alertas o sugerencias de mejora en el dashboard. | 05 |
 | US08 | Dashboard en tiempo real de eficiencia por máquina | Como gerente de planta, quiero ver un dashboard con la eficiencia de cada máquina en tiempo real, para tomar decisiones estratégicas. | Dado que el supervisor accede al dashboard durante la jornada<br>Cuando lo consulta<br>Entonces el sistema muestra datos actualizados por máquina.<br><br>Dado que cambia el turno<br>Cuando el nuevo supervisor accede<br>Entonces visualiza los indicadores clave del turno anterior. | 05 |
 | US09 | Alertas sobre cuellos de botella en producción | Como gerente de planta, quiero recibir alertas sobre cuellos de botella, para tomar medidas correctivas de inmediato. | Dado que la productividad cae por debajo del 70%<br>Cuando el sistema lo detecta<br>Entonces se emite una alerta por correo o SMS si está configurado.<br><br>Dado que se han generado alertas anteriores<br>Cuando se consulta el historial<br>Entonces el sistema muestra una lista de las alertas generadas. | 05 |
@@ -991,15 +999,21 @@ Dentro del proceso de desarrollo, cada User Story se encuentra vinculada a un Ep
 | US32 | Registro y evaluación de paradas programadas | Como jefe de mantenimiento, quiero registrar y evaluar las paradas programadas, para mejorar la planificación del mantenimiento. | Dado que programa una parada<br>Cuando la registra<br>Entonces el sistema la clasifica como programada y la muestra en el calendario.<br><br>Dado que solicita un informe<br>Cuando selecciona el mes<br>Entonces el sistema muestra la proporción entre paradas programadas y no programadas. | 05 |
 | US29 | Comparación de rendimiento entre turnos | Como supervisor de planta, quiero comparar el rendimiento entre turnos, para identificar el más productivo. | Dado que accede a la sección de análisis<br>Cuando selecciona dos turnos<br>Entonces el sistema muestra un gráfico comparativo con métricas clave.<br><br>Dado que desea ver un día específico<br>Cuando selecciona la fecha y área<br>Entonces el sistema muestra los datos desglosados por turno. | 05 |
 | TS35 | Generar Reporte de Producción | Como desarrollador, quiero crear la funcionalidad para generar reportes de producción, para que los gerentes analicen el desempeño. | Dado que el sistema tiene datos de producción<br>Cuando se solicita un reporte<br>Entonces se genera un archivo PDF o Excel con métricas como eficiencia y tiempo.<br><br>Dado que el usuario aplica filtros<br>Cuando se genera el reporte<br>Entonces este incluye la información personalizada según los filtros seleccionados. | 05 |
+| TS63 | Gestionar Turnos de Trabajo |Como desarrollador, quiero implementar gestión de turnos para organizar la asignación de personal por horarios | Escenario 1<br>Dado que el administrador define turnos de trabajo semanales<br>Cuando asigna técnicos a cada franja horaria<br>Entonces el sistema debe reflejar la disponibilidad por persona y turno<br>Escenario 2<br>Dado que un técnico tiene un turno asignado<br>Cuando accede a su panel de control<br>Entonces debe poder ver los detalles de su horario y tareas asignadas. | 05 |
+| TS64 | Calcular Demanda de Recursos | Como desarrollador, Quiero implementar cálculo de demanda de recursos, Para optimizar la asignación de personal y materiales | Escenario 1<br>Dado que hay una planificación de mantenimiento mensual<br>Cuando se calculan los recursos necesarios<br>Entonces el sistema debe estimar horas de trabajo, personal y componentes requeridos<br>Escenario 2<br>Dado que se han asignado tareas a varios técnicos<br>Cuando se revisa la carga de trabajo acumulada<br>Entonces el sistema debe detectar sobreasignación y sugerir redistribuciones.| 05 |
+| TS72 | Calcular KPIs Operativos | Como desarrollador, quiero implementar cálculo de KPIs para generar indicadores clave de rendimiento | Escenario 1<br>Dado que se tienen datos de disponibilidad de máquinas<br>Cuando se calcula el KPI de disponibilidad operativa<br>Entonces el sistema debe mostrar el valor en porcentaje comparado con el estándar<br>Escenario 2<br>Dado que el área de planificación quiere evaluar eficiencia<br>Cuando se solicita el KPI de cumplimiento de tareas en plazo<br>Entonces el sistema debe calcular la tasa de cumplimiento y mostrar el resultado.| 05 |
 | EP06 | Gestión Operativa de Máquinas | Los operadores técnicos monitorean y reportan el estado funcional de las máquinas en tiempo real, garantizando continuidad operativa y atención oportuna ante fallas. | Dado que el operador está logueado en el sistema<br>Cuando accede al panel de control<br>Entonces visualiza el estado funcional actualizado de sus máquinas.<br><br>Dado que detecta una anomalía<br>Cuando la reporta mediante el sistema<br>Entonces se genera un registro asociado a la máquina. | 06 |
 | US10 | Visualización del estado funcional de máquinas a cargo | Como operador técnico, quiero ver el estado de funcionamiento de las máquinas a mi cargo, para monitorearlas y actuar ante fallas. | Dado que accede al panel de monitoreo<br>Cuando consulta el estado<br>Entonces el sistema muestra indicadores visuales actualizados de funcionamiento.<br><br>Dado que selecciona una máquina<br>Cuando hace clic en ella<br>Entonces se muestran más detalles del estado de operación. | 06 |
 | US11 | Reporte de anomalías observadas en máquinas | Como operador técnico, quiero reportar anomalías observadas en las máquinas, para que el equipo técnico pueda solucionarlas. | Dado que identifica una falla<br>Cuando ingresa la observación en el sistema<br>Entonces se genera una notificación al área correspondiente.<br><br>Dado que se incluye evidencia<br>Cuando sube una foto y descripción<br>Entonces el sistema guarda el registro en el historial de la máquina. | 06 |
 | TS36 | Mostrar Estado de la Máquina en Tiempo Real | Como desarrollador, quiero mostrar el estado actual de las máquinas a los operadores, para que puedan supervisar su funcionamiento. | Dado que el sistema recibe datos en tiempo real<br>Cuando el operador accede a la interfaz<br>Entonces visualiza el estado actual de cada máquina con indicadores claros.<br><br>Dado que el operador selecciona una máquina<br>Cuando solicita detalles<br>Entonces el sistema muestra información adicional como temperatura, velocidad y producción. | 06 |
+| TS58 | Gestionar Inventario de Máquinas | Como desarrollador, quiero implementar gestión de inventario de máquinas para mantener registro actualizado de todos los activos | Escenario 1<br>Dado que un técnico registra una nueva máquina<br>Cuando completa el formulario de alta con los datos del activo<br>Entonces el sistema debe agregarla al inventario con un ID único<br>Escenario 2<br>Dado que una máquina ha sido retirada del servicio<br>Cuando el administrador actualiza su estado a "inactiva"<br>Entonces el sistema debe reflejarlo en el inventario y evitar que se asigne en tareas futuras. | 06 |
+| TS59 | Almacenar Historial de Mantenimiento | Como desarrollador, quiero implementar almacenamiento de historial de mantenimiento para mantener trazabilidad de todas las intervenciones | Escenario 1<br>Dado que una máquina ha recibido mantenimiento correctivo<br>Cuando se registra la intervención en el sistema<br>Entonces se debe guardar la fecha, tipo de mantenimiento, técnico asignado y observaciones en el historial<br>Escenario 2<br>Dado que un técnico consulta el historial de una máquina<br>Cuando accede a su ficha técnica<br>Entonces el sistema debe mostrarle todas las intervenciones ordenadas cronológicamente. | 06 |
 | EP07 | Integración Tecnológica con Terceros | Los proveedores tecnológicos integran sus sistemas externos a la plataforma mediante APIs, webhooks y sincronización con el ERP, garantizando interoperabilidad eficiente. | Dado que el proveedor desea integrar su tecnología<br>Cuando accede a la documentación de la API<br>Entonces puede conectar sus soluciones externas.<br><br>Dado que se configura un webhook o conexión ERP<br>Cuando ocurre un evento relevante<br>Entonces el sistema sincroniza automáticamente la información. | 07 |
 | US12 | Acceso a API documentada para integración tecnológica | Como proveedor tecnológico, quiero acceder a una API documentada, para integrar nuestras soluciones con la plataforma. | Dado que el proveedor accede a la documentación<br>Cuando revisa los endpoints<br>Entonces puede integrar sensores o servicios externos.<br><br>Dado que usa la API<br>Cuando realiza una solicitud<br>Entonces el sistema responde validando el token o API Key. | 07 |
 | US13 | Configuración de Webhooks para eventos críticos | Como proveedor tecnológico, quiero configurar Webhooks para recibir eventos importantes, para sincronizar nuestras acciones. | Dado que registra una URL de Webhook<br>Cuando se produce un evento crítico<br>Entonces el sistema envía un payload con los datos relevantes.<br><br>Dado que hay un error en la conexión<br>Cuando falla el envío<br>Entonces el sistema lo registra en el log de eventos. | 07 |
 | US18 | Integración de la plataforma con el ERP | Como responsable de IT, quiero integrar la plataforma con el ERP, para centralizar la información y evitar duplicación de datos. | Dado que la integración está habilitada<br>Cuando se actualiza producción en la plataforma<br>Entonces los datos se sincronizan automáticamente con el ERP.<br><br>Dado que el ERP genera una nueva orden<br>Cuando se emite<br>Entonces el sistema de producción la recibe e incorpora automáticamente. | 07 |
 | TS37 | Integrar Sensor de Temperatura vía API | Como desarrollador, quiero integrar sensores de temperatura mediante API, para recibir y almacenar sus datos. | Dado que el sistema se conecta a la API del sensor<br>Cuando el sensor envía datos<br>Entonces el sistema los almacena en la base de datos.<br><br>Dado que falla la conexión<br>Cuando se intenta recibir datos<br>Entonces el sistema registra el error y notifica al administrador. | 07 |
+| TS69 | Implementar Sistema de Eventos | Como desarrollador, quiero implementar un sistema de eventos para manejar la comunicación entre componentes del sistema | Escenario 1<br>Dado que se crea una nueva orden de mantenimiento<br>Cuando se registra en el sistema<br>Entonces se debe emitir un evento que notifique al módulo de planificación y al de notificaciones<br>Escenario 2<br>Dado que una máquina cambia a estado “fuera de servicio”<br>Cuando se actualiza desde el sistema de monitoreo<br>Entonces se debe generar un evento que actualice su estado en los dashboards. | 07 |
 | EP08 | Seguridad y Control de Accesos | El administrador del sistema gestiona el acceso de usuarios según roles definidos, asegurando que la información sensible esté protegida y bien distribuida. | Dado que se crea o edita un usuario<br>Cuando se asigna un rol<br>Entonces el sistema otorga los permisos correspondientes automáticamente.<br><br>Dado que el administrador cambia un rol<br>Cuando guarda los cambios<br>Entonces los permisos del usuario se actualizan en tiempo real. | 08 |
 | US14 | Gestión de accesos basada en roles | Como administrador del sistema, quiero asignar roles a los usuarios, para gestionar sus permisos de acceso eficientemente. | Dado que el administrador accede al panel de gestión<br>Cuando asigna un rol a un nuevo usuario<br>Entonces el sistema configura los permisos automáticamente.<br><br>Dado que desea modificar un usuario existente<br>Cuando cambia su rol<br>Entonces el sistema actualiza los permisos de forma inmediata. | 08 |
 | TS38 | Implementar Autenticación de Usuario | Como desarrollador, quiero implementar autenticación de usuarios, para asegurar que solo los autorizados accedan a la plataforma. | Dado que el usuario proporciona credenciales válidas<br>Cuando intenta iniciar sesión<br>Entonces el sistema permite el acceso.<br><br>Dado que el usuario introduce datos inválidos<br>Cuando intenta acceder<br>Entonces el sistema muestra un mensaje de error y bloquea el ingreso. | 08 |
@@ -1021,19 +1035,12 @@ Dentro del proceso de desarrollo, cada User Story se encuentra vinculada a un Ep
 | US49 | Editar datos del perfil                | Como usuario, quiero actualizar mis datos personales (nombre, email, teléfono) y mi preferencia de tema, para mantener mi información al día y personalizar la interfaz.                      | Dado que el usuario está en la vista de “Mi perfil”<br>Cuando hace clic en el icono de lápiz o “Editar perfil”<br>Entonces se muestran campos editables y botones “Guardar”/“Cancelar”.<br><br>Dado que el usuario modifica campos válidos<br>Cuando pulsa “Guardar”<br>Entonces los cambios se persisten y vuelve a la vista de perfil actualizada.<br><br>Dado que el usuario pulsa “Cancelar”<br>Cuando confirma<br>Entonces descarta cambios y regresa sin modificaciones. |    11   |
 | US50| Cambiar tema de visualización          | Como usuario, quiero alternar entre tema claro y oscuro, para adaptar la interfaz a mis preferencias de lectura.                                                                              | Dado que el usuario está en la pantalla de edición de perfil<br>Cuando hace clic en “Cambiar a tema claro” (o “Cambiar a tema oscuro”)<br>Entonces la interfaz aplica inmediatamente el nuevo esquema de colores y actualiza la etiqueta de tema. |    11   |
 | US051 | Cambiar contraseña                      | Como usuario preocupado por la seguridad, quiero iniciar un flujo de cambio de contraseña desde mi perfil, para mantener mi cuenta protegida en todo momento.                                 | Dado que el usuario está en la vista de perfil (o edición)<br>Cuando hace clic en “Cambiar contraseña”<br>Entonces se abre un formulario con campos: actual, nueva y confirmación, y botón “Enviar”.<br><br>Dado que rellena correctamente los campos<br>Cuando pulsa “Enviar”<br>Entonces la contraseña se actualiza y recibe mensaje de éxito.<br><br>Dado que hay un error (actual incorrecta o nueva no coincide)<br>Cuando envía<br>Entonces muestra mensaje de error y no guarda cambios. |    11   |
-
-
-
-
-
-
-
-
-
+| TS54 | Almacenar Preferencias de Usuario | Como desarrollador, quiero implementar almacenamiento de preferencias para personalizar la experiencia del usuario | Escenario 1<br>Dado que un usuario prefiere ver la interfaz en modo oscuro<br>Cuando selecciona esta opción en su configuración<br>Entonces el sistema debe guardar esta preferencia y aplicarla en sus próximas sesiones<br>Escenario 2<br>Dado que un usuario cambia el idioma de la interfaz a "Inglés"<br>Cuando guarda su preferencia<br>Entonces el sistema debe almacenar el idioma y reflejarlo al recargar la página. | 11 |
+| TS55 | Gestionar Configuración de Temas | Como desarrollador, quiero implementar gestión de temas visuales para permitir personalización de la interfaz | Escenario 1<br>Dado que un usuario está en la sección de preferencias<br>Cuando selecciona un tema visual personalizado<br>Entonces el sistema debe guardar y aplicar el tema de inmediato<br>Escenario 2<br>Dado que se ha definido un tema por defecto para nuevos usuarios<br>Cuando un nuevo usuario se registra<br>Entonces el sistema debe asignarle automáticamente ese tema. | 11 |
 <hr>
 
 ### 3.3. Impact Mapping
-<p align="center">
+<p aling="center">
   <img src="./assets/Impact Map about User Persons.png" alt="Impact Mapping" width="1500">
 </p>
 <p>
@@ -1052,57 +1059,59 @@ Continuando con nuestro Product Backlog: una lista priorizada de decisiones, pre
 
 | Orden | User Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
 |-------|----------------|--------|-------------|--------------|
-| 1 | TS35   | Generar Reporte de Producción   | Como desarrollador, quiero crear la funcionalidad para generar reportes de producción, para que los gerentes analicen el desempeño.  | 3 | 
-| 2 | TS40   | Almacenar Resultados de Control de Calidad   | Como desarrollador, quiero almacenar los resultados de las inspecciones de calidad, para garantizar la trazabilidad de los lotes.  | 3 | 
-| 3 | US41            | Mostrar hero con mensaje claro      | Como visitante, quiero ver un encabezado con título y subtítulo claros, para entender rápidamente el propósito de la plataforma.  | 3 | 
-| 4 | US44            | Navegación fija                     | Como usuario, quiero un menú de navegación fijo, para acceder rápidamente a las secciones de la landing page.  | 3  |
-| 5 | US46            | Soporte de dos idiomas              | Como usuario internacional, quiero cambiar la interfaz entre español e inglés, para usar la plataforma en mi idioma preferido.  | 3 |
-| 6 | US05   | Reportes periódicos para evaluación del rendimiento   | CComo jefa de planta, quiero acceder a reportes periódicos del rendimiento de las máquinas, para tomar decisiones basadas en datos reales.  | 5  |
-| 7 | US06   | Recomendaciones para mantenimiento preventivo   | Como técnico de mantenimiento, quiero recibir recomendaciones de mantenimiento preventivo, para asegurar el buen funcionamiento de las máquinas.  | 5  |
-| 8 | US07   | Detección de paradas de máquinas y sus causas   | Como jefa de planta, quiero saber cuándo y por qué se detiene una máquina, para actuar rápidamente y evitar retrasos.  | 5  |
-| 9 | US14   | Gestión de accesos basada en roles   | Como administrador del sistema, quiero asignar roles a los usuarios, para gestionar sus permisos de acceso eficientemente.  | 5  |
-| 10 | US15   | Almacenamiento histórico de controles de calidad   | Como inspector de calidad, quiero almacenar los resultados de los controles realizados en producción, para mantener un registro histórico.  | 5 |
-| 11 | US16   | Recordatorios automatizados para mantenimiento   | Como jefe de mantenimiento, quiero automatizar los recordatorios de mantenimiento preventivo, para garantizar que no se pasen por alto.  | 5 |
-| 12 | TS30   | Recuperar Datos de Máquina vía API   | Como desarrollador, quiero recuperar los datos de una máquina específica mediante una solicitud GET, para poder mostrar su estado en la interfaz de usuario.  | 5  |
-| 13 | TS31   | Enviar Alerta de Fallo de Máquina   | Como desarrollador, quiero implementar la lógica para enviar alertas cuando se detecte un fallo en una máquina, para notificar al personal de mantenimiento.  | 5  |
-| 14 | TS33   | Almacenar Historial de Rendimiento   | Como desarrollador, quiero almacenar el historial de rendimiento de las máquinas, para facilitar su análisis posterior.  | 5  |
-| 15 | TS39   | Crear Tutorial Interactivo   | Como desarrollador, quiero crear un tutorial interactivo para guiar a los nuevos usuarios, para que aprendan fácilmente.  | 5 |
-| 16 | US42            | Sección de características          | Como visitante, quiero conocer las funcionalidades clave de la plataforma, para decidir si me interesa usarla.  | 5 |
-| 17 | US43            | Formulario de suscripción           | Como usuario, quiero un formulario sencillo para dejar mi email, para recibir novedades sobre el lanzamiento.  | 5 |
-| 18 | US01   | Visualización en tiempo real de métricas operativas por máquina   | Como técnico de mantenimiento, quiero visualizar en tiempo real las métricas operativas de cada máquina, para detectar anomalías sin realizar inspecciones físicas.  | 8 |
-| 19 | US02   | Panel de control general para monitoreo de máquinas   | Como jefa de planta, quiero tener una vista general del estado de todas las máquinas desde un panel principal, para tener el control total de la planta.  | 8 |
-| 20 | US03   | Alertas automáticas ante incidentes en maquinaria   | Como operador, quiero recibir notificaciones automáticas cuando se detecten incidentes en las máquinas, para poder actuar rápidamente.  | 8 |
-| 21 | US04   | Consulta del historial de fallas y mantenimientos   | Como técnico de mantenimiento, quiero consultar el historial de fallas y mantenimientos, para prevenir futuras averías.  | 8 |
-| 22 | US08   | Dashboard en tiempo real de eficiencia por máquina   | Como gerente de planta, quiero ver un dashboard con la eficiencia de cada máquina en tiempo real, para tomar decisiones estratégicas.  | 8 |
-| 23 | US09   | Alertas sobre cuellos de botella en producción   | Como gerente de planta, quiero recibir alertas sobre cuellos de botella, para tomar medidas correctivas de inmediato.  | 8 |
-| 24 | US10   | Visualización del estado funcional de máquinas a cargo   | Como operador técnico, quiero ver el estado de funcionamiento de las máquinas a mi cargo, para monitorearlas y actuar ante fallas.  | 8 |
-| 25 | US11   | Reporte de anomalías observadas en máquinas   | Como operador técnico, quiero reportar anomalías observadas en las máquinas, para que el equipo técnico pueda solucionarlas.  | 8 |
-| 26 | US12   | Acceso a API documentada para integración tecnológica   | Como proveedor tecnológico, quiero acceder a una API documentada, para integrar nuestras soluciones con la plataforma.  | 8 |
-| 27 | US13   | Configuración de Webhooks para eventos críticos   | Como proveedor tecnológico, quiero configurar Webhooks para recibir eventos importantes, para sincronizar nuestras acciones.   | 8 |
-| 28 | US17   | Ajuste de turnos según demanda de producción   | Como supervisor, quiero ajustar los turnos de trabajo según la demanda de producción, para optimizar el uso del personal.  | 8 |
-| 29 | US18   | Integración de la plataforma con el ERP   | Como responsable de IT, quiero integrar la plataforma con el ERP, para centralizar la información y evitar duplicación de datos.  | 8 |
-| 30 | US19   | Análisis predictivo para anticipar fallas   | Como ingeniero de mantenimiento, quiero que el sistema prediga fallas de maquinaria, para intervenir antes de que ocurran.  | 8 |
-| 31 | US20   | Accesibilidad multiplataforma de la plataforma   | Como supervisor de planta, quiero acceder a la plataforma desde diferentes dispositivos, para monitorear la producción desde cualquier lugar.  | 8 |
-| 32 | US21   | Dashboard unificado con KPIs clave   | Como director de operaciones, quiero ver los KPIs clave de la planta en un solo dashboard, para tener una visión clara del desempeño.  | 8 |
-| 33 | US22   | Gestión eficiente de repuestos críticos   | Como responsable de almacén, quiero gestionar los repuestos críticos eficientemente, para asegurar su disponibilidad cuando se necesiten.  | 8 |
-| 34 | US23   | Auditoría de accesos a la plataforma   | Como administrador de seguridad, quiero auditar los accesos a la plataforma, para garantizar que solo accedan usuarios autorizados.  | 8 |
-| 35 | US24   | Tutoriales interactivos para nuevos usuarios   | Como encargado de formación, quiero ofrecer tutoriales interactivos, para que los nuevos usuarios aprendan a usar la plataforma.  | 8 |
-| 36 | US25   | Comparación de eficiencia en producción por periodos   | Como gerente de producción, quiero acceder al historial completo de producción, para poder comparar la eficiencia en diferentes periodos.  | 8 |
-| 37 | US26   | Automatización del mantenimiento ante detección de retrasos   | Como técnico de mantenimiento, quiero que el sistema reprograme automáticamente tareas retrasadas, para asegurar que se realicen a tiempo.  | 8 |
-| 38 | US27   | Análisis histórico comparativo de datos de planta   | Como analista de producción, quiero comparar datos históricos entre plantas, para analizar el rendimiento y proponer mejoras.  | 8 |
-| 39 | US28   | Gestión de fallas en tiempo real para minimizar inactividad   | Como técnico de soporte, quiero gestionar las fallas de las máquinas en tiempo real, para minimizar el tiempo de inactividad en la planta.  | 8 |
-| 40 | US29   | Comparación de rendimiento entre turnos   | Como supervisor de planta, quiero comparar el rendimiento entre turnos, para identificar el más productivo.  | 8 |
-| 41 | US32   | Registro y evaluación de paradas programadas   | Como jefe de mantenimiento, quiero registrar y evaluar las paradas programadas, para mejorar la planificación del mantenimiento.  | 8 | 
-| 42 | TS34   | Calcular Recomendaciones de Mantenimiento   | Como desarrollador, quiero implementar un algoritmo que calcule recomendaciones de mantenimiento preventivo, para optimizar la planificación.  | 8 |
-| 43 | TS36   | Mostrar Estado de la Máquina en Tiempo Real   | Como desarrollador, quiero mostrar el estado actual de las máquinas a los operadores, para que puedan supervisar su funcionamiento.  | 8 | 
-| 44 | TS37   | Integrar Sensor de Temperatura vía API   | Como desarrollador, quiero integrar sensores de temperatura mediante API, para recibir y almacenar sus datos.  | 8 | 
-| 45 | TS38   | Implementar Autenticación de Usuario   | Como desarrollador, quiero implementar autenticación de usuarios, para asegurar que solo los autorizados accedan a la plataforma.  | 8 | 
-| 46 | US45            | Diseño responsive                   | Como usuario en móvil, quiero que la landing page se adapte a pantallas pequeñas, para navegar cómodamente sin hacer zoom.  | 8 | 
-| 47     | TS47          | Almacenar Resultados de Control de Calidad | Como desarrollador, quiero almacenar los resultados de las inspecciones de calidad, para garantizar la trazabilidad de los lotes.                                                            | 5            |
-| 48     | US48          | Visualizar perfil de usuario             | Como usuario autenticado, quiero ver mi perfil con mis datos básicos, estado de membresía y tema activo, para comprobar rápidamente mi información y configuración.                        | 3            |
-| 49     | US49          | Editar datos del perfil                  | Como usuario, quiero actualizar mis datos personales (nombre, email, teléfono) y mi preferencia de tema, para mantener mi información al día y personalizar la interfaz.                   | 5            |
-| 50     | US50          | Cambiar tema de visualización            | Como usuario, quiero alternar entre tema claro y oscuro, para adaptar la interfaz a mis preferencias de lectura.                                                                           | 2            |
-| 51     | US51          | Cambiar contraseña                        | Como usuario preocupado por la seguridad, quiero iniciar un flujo de cambio de contraseña desde mi perfil, para mantener mi cuenta protegida en todo momento.                              | 3            |
+| 1  | US50          | Cambiar tema de visualización            | Como usuario, quiero alternar entre tema claro y oscuro, para adaptar la interfaz a mis preferencias de lectura.                                                                           | 2            |
+| 2  | US48          | Visualizar perfil de usuario             | Como usuario autenticado, quiero ver mi perfil con mis datos básicos, estado de membresía y tema activo, para comprobar rápidamente mi información y configuración.                        | 3            |
+| 3  | US51          | Cambiar contraseña                        | Como usuario preocupado por la seguridad, quiero iniciar un flujo de cambio de contraseña desde mi perfil, para mantener mi cuenta protegida en todo momento.                              | 3            |
+| 4 | TS35   | Generar Reporte de Producción   | Como desarrollador, quiero crear la funcionalidad para generar reportes de producción, para que los gerentes analicen el desempeño.  | 3 | 
+| 5 | TS40   | Almacenar Resultados de Control de Calidad   | Como desarrollador, quiero almacenar los resultados de las inspecciones de calidad, para garantizar la trazabilidad de los lotes.  | 3 | 
+| 6 | US41            | Mostrar hero con mensaje claro      | Como visitante, quiero ver un encabezado con título y subtítulo claros, para entender rápidamente el propósito de la plataforma.  | 3 | 
+| 7 | US44            | Navegación fija                     | Como usuario, quiero un menú de navegación fijo, para acceder rápidamente a las secciones de la landing page.  | 3  |
+| 8 | US46            | Soporte de dos idiomas              | Como usuario internacional, quiero cambiar la interfaz entre español e inglés, para usar la plataforma en mi idioma preferido.  | 3 |
+| 9 | US05   | Reportes periódicos para evaluación del rendimiento   | CComo jefa de planta, quiero acceder a reportes periódicos del rendimiento de las máquinas, para tomar decisiones basadas en datos reales.  | 5  |
+| 10 | US06   | Recomendaciones para mantenimiento preventivo   | Como técnico de mantenimiento, quiero recibir recomendaciones de mantenimiento preventivo, para asegurar el buen funcionamiento de las máquinas.  | 5  |
+| 11 | US07   | Detección de paradas de máquinas y sus causas   | Como jefa de planta, quiero saber cuándo y por qué se detiene una máquina, para actuar rápidamente y evitar retrasos.  | 5  |
+| 12 | US14   | Gestión de accesos basada en roles   | Como administrador del sistema, quiero asignar roles a los usuarios, para gestionar sus permisos de acceso eficientemente.  | 5  |
+| 13 | US15   | Almacenamiento histórico de controles de calidad   | Como inspector de calidad, quiero almacenar los resultados de los controles realizados en producción, para mantener un registro histórico.  | 5 |
+| 14 | US16   | Recordatorios automatizados para mantenimiento   | Como jefe de mantenimiento, quiero automatizar los recordatorios de mantenimiento preventivo, para garantizar que no se pasen por alto.  | 5 |
+| 15 | TS30   | Recuperar Datos de Máquina vía API   | Como desarrollador, quiero recuperar los datos de una máquina específica mediante una solicitud GET, para poder mostrar su estado en la interfaz de usuario.  | 5  |
+| 16 | TS31   | Enviar Alerta de Fallo de Máquina   | Como desarrollador, quiero implementar la lógica para enviar alertas cuando se detecte un fallo en una máquina, para notificar al personal de mantenimiento.  | 5  |
+| 17 | TS33   | Almacenar Historial de Rendimiento   | Como desarrollador, quiero almacenar el historial de rendimiento de las máquinas, para facilitar su análisis posterior.  | 5  |
+| 18 | TS39   | Crear Tutorial Interactivo   | Como desarrollador, quiero crear un tutorial interactivo para guiar a los nuevos usuarios, para que aprendan fácilmente.  | 5 |
+| 19 | US42            | Sección de características          | Como visitante, quiero conocer las funcionalidades clave de la plataforma, para decidir si me interesa usarla.  | 5 |
+| 20 | US43            | Formulario de suscripción           | Como usuario, quiero un formulario sencillo para dejar mi email, para recibir novedades sobre el lanzamiento.  | 5 |
+| 21    | TS47          | Almacenar Resultados de Control de Calidad | Como desarrollador, quiero almacenar los resultados de las inspecciones de calidad, para garantizar la trazabilidad de los lotes.                                                            | 5            |
+| 22     | US49          | Editar datos del perfil                  | Como usuario, quiero actualizar mis datos personales (nombre, email, teléfono) y mi preferencia de tema, para mantener mi información al día y personalizar la interfaz.                   | 5            |
+| 23 | US01   | Visualización en tiempo real de métricas operativas por máquina   | Como técnico de mantenimiento, quiero visualizar en tiempo real las métricas operativas de cada máquina, para detectar anomalías sin realizar inspecciones físicas.  | 8 |
+| 24 | US02   | Panel de control general para monitoreo de máquinas   | Como jefa de planta, quiero tener una vista general del estado de todas las máquinas desde un panel principal, para tener el control total de la planta.  | 8 |
+| 25 | US03   | Alertas automáticas ante incidentes en maquinaria   | Como operador, quiero recibir notificaciones automáticas cuando se detecten incidentes en las máquinas, para poder actuar rápidamente.  | 8 |
+| 26 | US04   | Consulta del historial de fallas y mantenimientos   | Como técnico de mantenimiento, quiero consultar el historial de fallas y mantenimientos, para prevenir futuras averías.  | 8 |
+| 27 | US08   | Dashboard en tiempo real de eficiencia por máquina   | Como gerente de planta, quiero ver un dashboard con la eficiencia de cada máquina en tiempo real, para tomar decisiones estratégicas.  | 8 |
+| 28 | US09   | Alertas sobre cuellos de botella en producción   | Como gerente de planta, quiero recibir alertas sobre cuellos de botella, para tomar medidas correctivas de inmediato.  | 8 |
+| 29 | US10   | Visualización del estado funcional de máquinas a cargo   | Como operador técnico, quiero ver el estado de funcionamiento de las máquinas a mi cargo, para monitorearlas y actuar ante fallas.  | 8 |
+| 30 | US11   | Reporte de anomalías observadas en máquinas   | Como operador técnico, quiero reportar anomalías observadas en las máquinas, para que el equipo técnico pueda solucionarlas.  | 8 |
+| 31 | US12   | Acceso a API documentada para integración tecnológica   | Como proveedor tecnológico, quiero acceder a una API documentada, para integrar nuestras soluciones con la plataforma.  | 8 |
+| 32 | US13   | Configuración de Webhooks para eventos críticos   | Como proveedor tecnológico, quiero configurar Webhooks para recibir eventos importantes, para sincronizar nuestras acciones.   | 8 |
+| 33 | US17   | Ajuste de turnos según demanda de producción   | Como supervisor, quiero ajustar los turnos de trabajo según la demanda de producción, para optimizar el uso del personal.  | 8 |
+| 34 | US18   | Integración de la plataforma con el ERP   | Como responsable de IT, quiero integrar la plataforma con el ERP, para centralizar la información y evitar duplicación de datos.  | 8 |
+| 35 | US19   | Análisis predictivo para anticipar fallas   | Como ingeniero de mantenimiento, quiero que el sistema prediga fallas de maquinaria, para intervenir antes de que ocurran.  | 8 |
+| 36 | US20   | Accesibilidad multiplataforma de la plataforma   | Como supervisor de planta, quiero acceder a la plataforma desde diferentes dispositivos, para monitorear la producción desde cualquier lugar.  | 8 |
+| 37 | US21   | Dashboard unificado con KPIs clave   | Como director de operaciones, quiero ver los KPIs clave de la planta en un solo dashboard, para tener una visión clara del desempeño.  | 8 |
+| 38 | US22   | Gestión eficiente de repuestos críticos   | Como responsable de almacén, quiero gestionar los repuestos críticos eficientemente, para asegurar su disponibilidad cuando se necesiten.  | 8 |
+| 39 | US23   | Auditoría de accesos a la plataforma   | Como administrador de seguridad, quiero auditar los accesos a la plataforma, para garantizar que solo accedan usuarios autorizados.  | 8 |
+| 40 | US24   | Tutoriales interactivos para nuevos usuarios   | Como encargado de formación, quiero ofrecer tutoriales interactivos, para que los nuevos usuarios aprendan a usar la plataforma.  | 8 |
+| 41 | US25   | Comparación de eficiencia en producción por periodos   | Como gerente de producción, quiero acceder al historial completo de producción, para poder comparar la eficiencia en diferentes periodos.  | 8 |
+| 42 | US26   | Automatización del mantenimiento ante detección de retrasos   | Como técnico de mantenimiento, quiero que el sistema reprograme automáticamente tareas retrasadas, para asegurar que se realicen a tiempo.  | 8 |
+| 43 | US27   | Análisis histórico comparativo de datos de planta   | Como analista de producción, quiero comparar datos históricos entre plantas, para analizar el rendimiento y proponer mejoras.  | 8 |
+| 44 | US28   | Gestión de fallas en tiempo real para minimizar inactividad   | Como técnico de soporte, quiero gestionar las fallas de las máquinas en tiempo real, para minimizar el tiempo de inactividad en la planta.  | 8 |
+| 45 | US29   | Comparación de rendimiento entre turnos   | Como supervisor de planta, quiero comparar el rendimiento entre turnos, para identificar el más productivo.  | 8 |
+| 46 | US32   | Registro y evaluación de paradas programadas   | Como jefe de mantenimiento, quiero registrar y evaluar las paradas programadas, para mejorar la planificación del mantenimiento.  | 8 | 
+| 47 | TS34   | Calcular Recomendaciones de Mantenimiento   | Como desarrollador, quiero implementar un algoritmo que calcule recomendaciones de mantenimiento preventivo, para optimizar la planificación.  | 8 |
+| 48 | TS36   | Mostrar Estado de la Máquina en Tiempo Real   | Como desarrollador, quiero mostrar el estado actual de las máquinas a los operadores, para que puedan supervisar su funcionamiento.  | 8 | 
+| 49 | TS37   | Integrar Sensor de Temperatura vía API   | Como desarrollador, quiero integrar sensores de temperatura mediante API, para recibir y almacenar sus datos.  | 8 | 
+| 50 | TS38   | Implementar Autenticación de Usuario   | Como desarrollador, quiero implementar autenticación de usuarios, para asegurar que solo los autorizados accedan a la plataforma.  | 8 | 
+| 51 | US45            | Diseño responsive                   | Como usuario en móvil, quiero que la landing page se adapte a pantallas pequeñas, para navegar cómodamente sin hacer zoom.  | 8 | 
+
+
 
 <hr>
 
@@ -1300,36 +1309,36 @@ Durnate la elaboración de la landing page se utilizaropn los principios de dise
 #### 4.3.1. Landing Page Wireframe
 A continuación se muestra la primera captura de wireframe que enseña la distribución de los elementos, como un navbar que redirige a las secciones correspondientes y un espacio para la imagen princiapl de toda la landing page.
 Por otro lado, se meustran las dos primeras secciones, los espaicos reservados para imágenes y texto (Soluciones y Cómo funciona).
-<p align="center">
+<p aling="center">
   <img src="./assets/landing page wireframes/Landing Page Wireframe 1.png" alt="lpw1" width="700">
 </p>
 
 En esta captura se muestra la sección que muestrará nuestra infromación como servicio. Asimismo, el partado para contactarnos y el footer con información.
-<p align="center">
+<p aling="center">
   <img src="./assets/landing page wireframes/Landing Page Wireframe 2.png" alt="lpw2" width="700">
 </p>
 De igual manera se le corresponde el diseño en versión mobile.
-<p align="center">
+<p aling="center">
   <img src="./assets/wire-landing-mobile1.png" alt="lpw2" width="250">
 </p>
-<p align="center">
+<p aling="center">
   <img src="./assets/wire-landing-mobile2.png" alt="lpw2" width="250">
 </p>
 
 #### 4.3.2. Landing Page Mock-up
 Para la versión mockup de la landing page se agregó las imagenes correspondientes. Además, el logo representativo y se completaron los campos de imformación.
-<p align="center">
+<p aling="center">
   <img src="./assets/landing page mock ups/Landing Page Mock-Up 1.png" alt="lpmu1" width="700">
 </p>
 
-<p align="center">
+<p aling="center">
   <img src="./assets/landing page mock ups/Landing Page Mock-Up 2.png" alt="lpmu2" width="700">
 </p>
 De la misma manera, se muestra su versión para mobile.
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-landing1.png" alt="lpmu2" width="250">
 </p>
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-landing2.png" alt="lpmu2" width="250">
 </p>
 
@@ -1338,66 +1347,66 @@ De la misma manera, se muestra su versión para mobile.
 #### 4.4.1. Web Applications Wireframes.
 
 Se muestra el procedimiento de inicio de sesión y registro
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/w1.png" alt="w1" width="800">
 </p>
 Se muestran la pantalla principal (home screen) desde donde se pueden acceder a todas las funciones. También configuraciones de la app, alertas y notificaciones, el perfil y los datos que pueden ser editables y un boton para descargar un reporte general.
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/w2.png" alt="w2" width="800">
 </p>
 A continuación se ve las pantallas correspondientes a los usuarios registrados y el procesos para registrar uno nuevo.
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/w3.png" alt="w3" width="350">
 </p>
 Las siguientes pantallas corresponden al proceso de mantenimiento predictivo y lista de tareas.
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/w4.png" alt="w4" width="800">
 </p>
 
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/w5.png" alt="w5" width="350">
 </p>
 Estas pantallas muestran el partado donde se controlan las máquinas, donde se ven sus parámetros  y otros detalles como su historial u opciones para reportar algún comportamiento anómalo. Asimismo, se muestra el proceso para registrar una nueva máquina.
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/w6.png" alt="w6" width="800">
 </p>
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/w7.png" alt="w7" width="800">
 </p>
 
 [Link a wireframes](https://www.figma.com/design/FN4vK29L4adBmiKf0mwEsa/Untitled?node-id=0-1&t=Qawsjaqi3YzIv35B-1)
 #### 4.4.2. Web Applications Wireflow Diagrams
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/wireFlows/Diapositiva1.JPG" alt="flows1" width="800">
 </p>
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/wireFlows/Diapositiva2.JPG" alt="flows2" width="800">
 </p>
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/wireFlows/Diapositiva3.JPG" alt="flows3" width="800">
 </p>
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/wireFlows/Diapositiva4.JPG" alt="flows4" width="800">
 </p>
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/wireFlows/Diapositiva5.JPG" alt="flows5" width="800">
 </p>
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/wireFlows/Diapositiva6.JPG" alt="flows6" width="800">
 </p>
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/wireFlows/Diapositiva7.JPG" alt="flows7" width="800">
 </p>
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/wireFlows/Diapositiva8.JPG" alt="flows8" width="800">
 </p>
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/wireFlows/Diapositiva9.JPG" alt="flows9" width="800">
 </p>
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/wireFlows/Diapositiva10.JPG" alt="flows10" width="800">
 </p>
-<p align="center">
+<p aling="center">
   <img src="./assets/wireframes/wireFlows/Diapositiva11.JPG" alt="flows11" width="800">
 </p>
 
@@ -1406,92 +1415,92 @@ Estas pantallas muestran el partado donde se controlan las máquinas, donde se v
 
 La primera sección muestra el procedimiento de inicio de sesión y registro. Se puede observar cómo el usuario es guiado desde la pantalla de bienvenida hasta la autenticación con sus credenciales. En caso de haber olvidado la contraseña, se incorpora un flujo de recuperación que permite el envío de un enlace para restablecerla, seguido de una sección para confirmar el nuevo acceso.
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/inicio de sesion.png" alt="inicio de sesion" width="800">
 </p>
 
 Posteriormente, se exhibe la pantalla principal, o “home screen”, la cual centraliza el acceso a todas las funciones clave del sistema. Desde esta vista se puede configurar la aplicación, acceder a las alertas y notificaciones, consultar el estado general de las máquinas, así como visualizar información relevante en tiempo real.
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/pantalla principal.png" alt="pantalla principal" width="800">
 </p>
 
 Más adelante, se ilustran las interfaces relacionadas con la gestión de usuarios. Aquí se presentan tanto las pantallas para registrar nuevos integrantes del equipo como las herramientas para administrar sus perfiles y roles. Se permite asignar turnos, definir permisos específicos y roles dentro de la organización, todo desde una interfaz intuitiva y organizada.
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/control usuarios.png" alt="control usuarios" width="400">
 </p>
 
 En la siguiente sección se representa el proceso de mantenimiento predictivo y la gestión de tareas programadas. Estas pantallas muestran cómo se pueden filtrar actividades por tipo de mantenimiento o activo, visualizar tareas atrasadas y programar futuras intervenciones.
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/proceso de planteamiento 1.png" alt="proceso planteamiento 1" width="800">
 </p>
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/proceso de planteamiento 2.png" alt="proceso planteamiento 2" width="400">
 </p>
 
 Por último, se encuentran las vistas dedicadas al monitoreo en tiempo real y la administración de dispositivos. Desde este apartado se pueden visualizar los parámetros operativos de cada máquina, controlar su estado, consultar métricas como temperatura, vibración y velocidad, así como enviar reportes de anomalías.
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/control de maquinas 1.png" alt="control maquinas 1" width="800">
 </p>
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/control de maquinas 2.png" alt="control maquinas 2" width="800">
 </p>
 
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/user-flow 1.png" alt="user flow 1" width="800">
 </p>
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/user-flow 2.png" alt="user flow 2" width="800">
 </p>
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/user-flow 3.png" alt="user flow 3" width="800">
 </p>
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/user-flow 4.png" alt="user flow 4" width="800">
 </p>
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/user-flow 5.png" alt="user flow 5" width="800">
 </p>
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/user-flow 6.png" alt="user flow 6" width="800">
 </p>
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/user-flow 7.png" alt="user flow 7" width="800">
 </p>
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/user-flow 8.png" alt="user flow 8" width="800">
 </p>
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/user-flow 9.png" alt="user flow 9" width="800">
 </p>
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/user-flow 10.png" alt="user flow 10" width="800">
 </p>
 
-<p align="center">
+<p aling="center">
   <img src="./assets/mock-ups/user-flow 11.png" alt="user flow 11" width="800">
 </p>
 
 ### 4.5. Web Applications Prototyping
 
-<p align="center">
+<p aling="center">
   <img src="./assets/prototipo.png" alt="prototipo" width="800">
 </p>
 
@@ -1579,7 +1588,7 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 > - Contadores e indicadores visuales de alertas nuevas
 > - Configuración personalizada del tipo y frecuencia de alertas
 
-<p align="center">
+<p aling="center">
   <img src="./assets/notifications-components.png" alt="Component Diagram" width="1000">
 </p>
 
@@ -1593,7 +1602,7 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 > - Filtrar datos por fecha, usuario, empresa, etc.
 > - Descargar reportes en distintos formatos
 
-<p align="center">
+<p aling="center">
   <img src="./assets/history-performance-components.png" alt="Component Diagram" width="1000">
 </p>
 
@@ -1607,7 +1616,7 @@ Domain-Drivin-Desing (DDD) es un enfoque de desarrollo de software que se centra
 > - Mostrar sugerencias automáticas para optimizar tiempos o procesos
 > - Conectarse con sistemas externos como ERP o CRM
 
-<p align="center">
+<p aling="center">
   <img src="./assets/optimization-flow-components.png" alt="Component Diagram" width="1000">
 </p>
 
