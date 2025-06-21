@@ -2290,6 +2290,14 @@ A continuación se mostrará la tabla con las stories relacionadas y llevadas a 
 
 ###### 5.2.3.4. Development Evidence for Sprint Review
 ###### 5.2.3.5. Execution Evidence for Sprint Review
+
+En la realización de este sprint se logró la implementación de la base de datos del backend y su deploy; lo cual incluye el desarrollo de varios endponts e ingrso de datos. Además, se mejoró la landing page y el frontend.
+
+<img src = "./assets/bckPart.png" width = "700">
+<img src = "./assets/bckPart2.png" width = "700">
+<img src = "./assets/bckPart3.png" width = "700">
+
+
 ###### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 | Endpoint                                           | Acción                                | Método HTTP | Sintaxis de llamada                                  |
