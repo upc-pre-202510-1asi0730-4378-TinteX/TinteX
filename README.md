@@ -76,7 +76,15 @@
 Todas las actividades asignadas para la entrega de la TB1 han sido completadas y se encuentran documentadas en el repositorio de GitHub de la organización del equipo, accesible en: https://github.com/upc-pre-202510-1asi0730-4378-TinteX . En cuanto al informe, cada miembro del equipo participó redactando y elaborando gráficos en formato Markdown de acuerdo con los temas asignados, registrando su progreso mediante commits en el repositorio correspondiente, encontrándose en el siguiente enlace: https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX . Aqui se pueden aprecion todos los commits hechos en la TB1 evidenciando el trabajo colaborativo.
 
 <p aling = "center">
-  <img src = "./assets/proyect.jpeg" alt="TinteX Repositorio" width = "1000">
+  <img src = "./assets/md.png" alt="TinteX Repositorio" width = "1000">
+</p>
+
+<p aling = "center">
+  <img src = "./assets/md2.png" alt="Landing Repositorio" width = "1000">
+</p>
+
+<p aling = "center">
+  <img src = "./assets/md3.png" alt="Landing Repositorio" width = "1000">
 </p>
 
 <p aling = "center">
@@ -85,6 +93,10 @@ Todas las actividades asignadas para la entrega de la TB1 han sido completadas y
 
 <p aling = "center">
   <img src = "./assets/landing.jpeg" alt="Landing Repositorio" width = "1000">
+</p>
+
+<p aling = "center">
+  <img src = "./assets/back.png" alt="Landing Repositorio" width = "1000">
 </p>
 
 ## Tabla de Contenidos
@@ -2391,8 +2403,27 @@ Backend Deployment
 ###### 5.2.3.8. Team Collaboration Insights during Sprint
 A continuación, se muestran la captura de los insights del repositorio.
 
-<img src="./assets/team_insights3.png" width="400">
+<img src="./assets/team_insights3.png" width="700">
 
+<img src="./assets/md2.png" width="700">
+
+<img src="./assets/md3.png" width="700">
+
+Ahora los insights del repositorio del Fronted Application
+
+<img src="./assets/front.png" width="700">
+
+<img src="./assets/front2.png" width="700">
+
+<img src="./assets/front3.png" width="400">
+
+Finalmente los insights del repostirio del Backend
+
+<img src="./assets/back.png" width="700">
+
+<img src="./assets/back2.png" width="700">
+
+<img src="./assets/back3.png" width="700">
 
 ##### 5.3. Validation Interviews
 ###### 5.3.1. Diseño de Entrevistas
