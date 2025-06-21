@@ -2270,140 +2270,106 @@ En este Sprint, el equipo se enfocó en desarrollar los módulos clave del siste
 10. ¿Consideras que te puede beneficiar a la hora de tener mejor organización de tus maquinas a vender?<br>
 
 ###### 5.3.2. Registro de Entrevistas
-**Segmento 1**<br>
-
-**Entrevista #1 - Datos del Entrevistado** 
-
-| **Dato**            | **Información**   |
-|---------------------|-------------------|
-| Nombre              | Jorge Linares     |
-| Edad                | 30 años           |
-| Distrito            | San Miguel        |
-| Tiempo de duración  | 05:58 minutos     |
 
 
-**Detalles de la entrevista:** <br>
-<img src="./assets/imagenEntrevistaValidacionJorge.png" alt="Entrevista 1 Val" width="500"> 
-</a>
-<br>
+### Segmento Objetivo 1: Empresas Textiles
 
-[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/ESZ8YAa89IJAkpl5KOgzBY0BoXycLJvP4wvlWXx7lxKaow)
+| Entrevista 1| Empresas Textiles                                                                                      |
+|----------------------------------------|----------------------------------------------------------------------------------------------|
+| **Entrevistado**                       | Jorge Linares                                                                                |
+| **Edad**                               | 30 años                                                                                      |
+| **Distrito**                           | San Miguel                                                                                   |
+| **Inicio de entrevista**               | 00:00                                                                                        |
+| **Enlace de entrevista**               | [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/ESZ8YAa89IJAkpl5KOgzBY0BoXycLJvP4wvlWXx7lxKaow)                                       |
+| **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionJorge.png" alt="Entrevista 1 Val" width="500">                         |
+| **Diseño de presentación del producto**| Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
+| **Información del producto**           | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece. |
+| **Visualización del panel principal**  | Le pareció intuitivo. Entendió fácilmente cómo navegar y moverse por las secciones.         |
+| **Sugerencias de mejora**              | Reforzar detalles visuales y agregar animaciones o confirmaciones al realizar acciones.     |
+| **Nivel de confusión**                 | No experimentó confusión durante la navegación.                                             |
 
-**Resumen de la entrevista:** <br>
-
-Jorge, jefe de planta...
-
-**Entrevista #2 - Datos del Entrevistado** 
-
-| **Dato**            | **Información**   |
-|---------------------|-------------------|
-| Nombre              | Dania Najo        |
-| Edad                | 25 años           |
-| Distrito            | Comas             |
-| Tiempo de duración  |                   |
+---
 
 
-**Detalles de la entrevista:** <br>
-<img src="./assets/imagenEntrevistaValidacionDania.png" alt="Entrevista 2 Val" width="500"> 
-</a>
-<br>
+|Entrevista 2| Empresas Textiles                                                                                      |
+|----------------------------------------|----------------------------------------------------------------------------------------------|
+| **Entrevistado**                       | Dania Najo                                                                                   |
+| **Edad**                               | 25 años                                                                                      |
+| **Distrito**                           | Comas                                                                                        |
+| **Inicio de entrevista**               | 00:00                                                                                        |
+| **Enlace de entrevista**               | [URL de la entrevista]()                      |
+| **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionDania.png" alt="Entrevista 2 Val" width="500">                                                    |
+| **Diseño de presentación del producto**| Opinó que es limpio y profesional, con estructura clara y sin sobrecarga visual.            |
+| **Información del producto**           | Está bien explicada y organizada. No notó información irrelevante.                          |
+| **Visualización del panel principal**  | Los elementos estaban bien etiquetados, lo cual facilitó su comprensión.                    |
+| **Sugerencias de mejora**              | Agregar personalización, uso de color en botones y mensajes visuales de confirmación.       |
+| **Nivel de confusión**                 | No se sintió confundida en ningún momento.                                                  |
 
-[URL de la entrevista]()
+---
 
-**Resumen de la entrevista:** <br>
+| Entrevista 3| Empresas Textiles                                                                                        |
+|----------------------------------------|----------------------------------------------------------------------------------------------|
+| **Entrevistado**                       | Mery Ojeda                                                                                   |
+| **Edad**                               | 36 años                                                                                      |
+| **Distrito**                           | San Miguel                                                                                   |
+| **Inicio de entrevista**               | 00:00                                                                                        |
+| **Enlace de entrevista**               |[URL de la entrevista]()                                       |
+| **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionMery.png" alt="Entrevista 3 Val" width="500">                         |
+| **Diseño de presentación del producto**| Moderno y agradable, aunque algunas secciones podrían simplificarse.                        |
+| **Información del producto**           | Adecuada, pero algunos textos deberían ser más grandes y con mejor contraste.               |
+| **Visualización del panel principal**  | Clara, pero notó que algunos botones no resaltaban lo suficiente.                          |
+| **Sugerencias de mejora**              | Agregar buscador, filtros, mensajes guía y retroalimentación visual.                        |
+| **Nivel de confusión**                 | En un momento no supo si su acción se completó; un aviso habría ayudado.                    |
 
-Dania destacó el diseño limpio y profesional del frontend, así como su estructura clara y fluida. Comenta también que consideró que todos los elementos están bien etiquetados y que no hay sobrecarga de contenido, lo cual considera bastante importante en una página.
-Indica que no identificó elementos innecesarios y sugirió como mejora una opción de personalización para los usuarios. También recomendó reforzar el uso del color en los botones principales y agregar mensajes de confirmación visual al realizar acciones. En general, no experimentó confusión durante la navegación.
-
-**Entrevista #3 - Datos del Entrevistado** 
-
-| **Dato**            | **Información**   |
-|---------------------|-------------------|
-| Nombre              | Mery Ojeda        |
-| Edad                | 36 años           |
-| Distrito            | San Miguel        |
-| Tiempo de duración  |                   |
-
-
-**Detalles de la entrevista:** <br>
-<img src="./assets/imagenEntrevistaValidacionMery.png" alt="Entrevista 3 Val" width="500"> 
-</a>
-<br>
-
-[URL de la entrevista]()
-
-**Resumen de la entrevista:** <br>
-
-Mery encontró que el diseño es moderno y visualmente agradable, aunque algunas secciones podrían simplificarse. La navegación le pareció clara, pero notó que ciertos botones no eran muy visibles. Los textos e íconos eran comprensibles, aunque algunos necesitaban una etiqueta para mayor claridad.
-Le pareció fácil de usar, pero sugiere incluir mensajes que orienten al usuario mientras navega. Comentó que hay imágenes o bloques que podrían quitarse. También recomendó agregar un buscador, filtros y confirmaciones visuales al hacer clic.
-En cuanto a la parte visual, cree que se podría mejorar el contraste y aumentar el tamaño de algunos textos. Por último, mencionó que en un momento no supo si su acción se había completado, por lo que un aviso habría sido útil.
-
-**Segmento 2**<br>
-
-**Entrevista #1 - Datos del Entrevistado** 
-
-| **Dato**            | **Información**   |
-|---------------------|-------------------|
-| Nombre              | Joaquin Gutierrez |
-| Edad                | 26 años           |
-| Distrito            | La Perla          |
-| Tiempo de duración  |                   |
+---
+### Segmento Objetivo 2: Proveedores Tecnológicos para la Industria Textil
 
 
-**Detalles de la entrevista:** <br>
-<img src="./assets/imagenEntrevistaValidacionJoaquin.png" alt="Entrevista 4 Val" width="500"> 
-</a>
-<br>
 
-[URL de la entrevista]()
+| **Entrevista 4**                                  | Proveedores Tecnológicos |
+|----------------------------------------|----------------------------------------------------------------------------------------------|
+| **Entrevistado**                       | Joaquín Gutiérrez                                                                            |
+| **Edad**                               | 26 años                                                                                      |
+| **Distrito**                           | La Perla                                                                                     |
+| **Inicio de entrevista**               | 00:00                                                                                        |
+| **Enlace de entrevista**               | [URL de la entrevista]()                                       |
+| **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionJoaquin.png" alt="Entrevista 4 Val" width="500">                                                    |
+| **Diseño de presentación del producto**| Diseño ordenado y visualmente agradable.                                                    |
+| **Información del producto**           | Clara y útil, entendió rápidamente el propósito del sitio.                                  |
+| **Visualización del panel principal**  | Navegación fácil e intuitiva desde el inicio.                                               |
+| **Sugerencias de mejora**              | Agregar sección de ayuda, mejorar visibilidad de botones y añadir confirmaciones visuales.  |
+| **Nivel de confusión**                 | No tuvo confusión durante la experiencia.                                                   |
 
-**Resumen de la entrevista:** <br>
+---
 
-Joaquín opinó que la página tiene un diseño ordenado y agradable. Le pareció fácil de navegar y entendió bien cómo usarla desde el principio. Los textos e íconos le resultaron claros y funcionales. No notó elementos innecesarios, aunque mencionó que algunas secciones podrían simplificarse.
-Sugirió agregar una sección de ayuda rápida y hacer que los títulos o botones importantes resalten más. También recomendó incluir confirmaciones visuales al realizar acciones para mayor seguridad.
-En cuanto a su rol como proveedor, destacó que la plataforma puede ayudarlo a organizar mejor su inventario y mostrar de forma más clara sus máquinas a los clientes.
+| **Entrevista 5**                                  | Proveedores Tecnológicos                                                                                      |
+|----------------------------------------|----------------------------------------------------------------------------------------------|
+| **Entrevistado**                       | Bruce Via                                                                                    |
+| **Edad**                               | 25 años                                                                                      |
+| **Distrito**                           | San Miguel                                                                                   |
+| **Inicio de entrevista**               | 00:00                                                                                        |
+| **Enlace de entrevista**               | [URL de la entrevista]()                                       |
+| **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionBruce.png" alt="Entrevista 5 Val" width="500">                                                     |
+| **Diseño de presentación del producto**| Moderno, ordenado y atractivo visualmente.                                                  |
+| **Información del producto**           | Clara, aunque algunos textos pequeños mejorarían con más legibilidad.                       |
+| **Visualización del panel principal**  | Valoró el panel general, aunque recomendó hacerlo más visible.                              |
+| **Sugerencias de mejora**              | Usar nombres más descriptivos, mejorar tipografía y añadir retroalimentación visual.        |
+| **Nivel de confusión**                 | No se sintió confundido. Considera útil mostrar su catálogo profesionalmente.               |
+---
 
-**Entrevista #2 - Datos del Entrevistado** 
-
-| **Dato**            | **Información**   |
-|---------------------|-------------------|
-| Nombre              | Bruce Via   |
-| Edad                | 25 años           |
-| Distrito            | San Miguel        |
-| Tiempo de duración  |                   |
-
-
-**Detalles de la entrevista:** <br>
-<img src="./assets/imagenEntrevistaValidacionBruce.png" alt="Entrevista 5 Val" width="500"> 
-</a>
-<br>
-
-[URL de la entrevista]()
-
-**Resumen de la entrevista:** <br>
-
-Bruce consideró que el diseño es moderno, ordenado y visualmente agradable. Le resultó fácil navegar por las secciones y entendió rápidamente cómo usar la plataforma. Aunque en general los botones y textos eran claros, sugirió que algunos podrían tener nombres más descriptivos, y que ciertos textos pequeños mejorarían con más legibilidad.
-Valoró que exista un panel general con la información principal, pero recomendó destacarlo más para que sea más visible desde el inicio. También propuso agregar más señales visuales o animaciones al realizar acciones importantes, para dar mayor claridad al usuario.
-Desde su rol como proveedor de máquinas textiles, Bruce afirmó que la página puede ayudarle a mostrar su catálogo de forma clara y profesional, facilitando que los clientes conozcan su oferta sin complicaciones.
-
-**Entrevista #3 - Datos del Entrevistado** 
-
-| **Dato**            | **Información**   |
-|---------------------|-------------------|
-| Nombre              |        |
-| Edad                |            |
-| Distrito            |         |
-| Tiempo de duración  |                   |
-
-
-**Detalles de la entrevista:** <br>
-<img src="./assets/" alt="Entrevista 6 Val" width="500"> 
-</a>
-<br>
-
-[URL de la entrevista]()
-
-**Resumen de la entrevista:** <br>
+| **Entrevista 6**                                  | Proveedores Tecnológicos                                                                                     |
+|----------------------------------------|----------------------------------------------------------------------------------------------|
+| **Entrevistado**                       |                                                                                              |
+| **Edad**                               |                                                                                              |
+| **Distrito**                           |                                                                                              |
+| **Inicio de entrevista**               |                                                                                              |
+| **Enlace de entrevista**               | [URL de la entrevista]()                                                                           |
+| **Foto captura**                       | *(Agregar imagen de la entrevista aquí)*                                                    |
+| **Diseño de presentación del producto**|                                                                                              |
+| **Información del producto**           |                                                                                              |
+| **Visualización del panel principal**  |                                                                                              |
+| **Sugerencias de mejora**              |                                                                                              |
+| **Nivel de confusión**                 |                                                                                              |
 
 
 
