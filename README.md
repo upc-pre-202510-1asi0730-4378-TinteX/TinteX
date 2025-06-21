@@ -2228,6 +2228,12 @@ Frontend Deployment
 - Y finalmente se ve de esta manera:
 <img src = "./assets/deploy_evidence13.png" width = "700">
 
+###### 5.2.2.8. Team Collaboration Insights during Sprint
+A continuación, se muestran la captura de los insights del repositorio.
+
+<img src="./assets/team_insights2.png" width="400">
+
+
 ##### 5.2.3. Sprint 3
 ###### 5.2.3.1. Sprint Planning 3
 
@@ -2370,6 +2376,10 @@ Backend Deployment
 
 
 ###### 5.2.3.8. Team Collaboration Insights during Sprint
+A continuación, se muestran la captura de los insights del repositorio.
+
+<img src="./assets/team_insights3.png" width="400">
+
 
 ##### 5.3. Validation Interviews
 ###### 5.3.1. Diseño de Entrevistas
