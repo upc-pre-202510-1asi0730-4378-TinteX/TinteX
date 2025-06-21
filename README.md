@@ -2297,7 +2297,7 @@ En este Sprint, el equipo se enfocó en desarrollar los módulos clave del siste
 | **Entrevistado**                       | Jorge Linares                                                                                |
 | **Edad**                               | 30 años                                                                                      |
 | **Distrito**                           | San Miguel                                                                                   |
-| **Inicio de entrevista**               | 00:00                                                                                        |
+| **Inicio de entrevista**               | 02:32                                                                                        |
 | **Enlace de entrevista**               | [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/ESZ8YAa89IJAkpl5KOgzBY0BoXycLJvP4wvlWXx7lxKaow)                                       |
 | **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionJorge.png" alt="Entrevista 1 Val" width="500">                         |
 | **Diseño de presentación del producto**| Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
@@ -2312,10 +2312,10 @@ En este Sprint, el equipo se enfocó en desarrollar los módulos clave del siste
 |Entrevista 2| Empresas Textiles                                                                                      |
 |----------------------------------------|----------------------------------------------------------------------------------------------|
 | **Entrevistado**                       | Dania Najo                                                                                   |
-| **Edad**                               | 25 años                                                                                      |
+| **Edad**                               | 26 años                                                                                      |
 | **Distrito**                           | Comas                                                                                        |
-| **Inicio de entrevista**               | 00:00                                                                                        |
-| **Enlace de entrevista**               | [URL de la entrevista]()                      |
+| **Inicio de entrevista**               | 04:05                                                                                        |
+| **Enlace de entrevista**               | [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EXdDSPpNKpRMg2KeqYQqf0kBocdrFD0Cx6AlNc11fog1xA?e=cbnDn7)                      |
 | **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionDania.png" alt="Entrevista 2 Val" width="500">                                                    |
 | **Diseño de presentación del producto**| Opinó que es limpio y profesional, con estructura clara y sin sobrecarga visual.            |
 | **Información del producto**           | Está bien explicada y organizada. No notó información irrelevante.                          |
@@ -2377,17 +2377,17 @@ En este Sprint, el equipo se enfocó en desarrollar los módulos clave del siste
 
 | **Entrevista 6**                                  | Proveedores Tecnológicos                                                                                     |
 |----------------------------------------|----------------------------------------------------------------------------------------------|
-| **Entrevistado**                       |                                                                                              |
-| **Edad**                               |                                                                                              |
-| **Distrito**                           |                                                                                              |
-| **Inicio de entrevista**               |                                                                                              |
-| **Enlace de entrevista**               | [URL de la entrevista]()                                                                           |
-| **Foto captura**                       | *(Agregar imagen de la entrevista aquí)*                                                    |
-| **Diseño de presentación del producto**|                                                                                              |
-| **Información del producto**           |                                                                                              |
-| **Visualización del panel principal**  |                                                                                              |
-| **Sugerencias de mejora**              |                                                                                              |
-| **Nivel de confusión**                 |                                                                                              |
+| **Entrevistado**                       |    Lyan Carrasco                                                                                          |
+| **Edad**                               |            21                                                                                  |
+| **Distrito**                           |                               Callao                                                               |
+| **Inicio de entrevista**               |                                    02:48                                                          |
+| **Enlace de entrevista**               | [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EerWN3FECItJvB283EO4SmgB7pwVBNCk496gRDQSJEL9vw?e=GeST3C)                                                                           |
+| **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionLyan.png" alt="Entrevista 5 Val" width="500">                                                |
+| **Diseño de presentación del producto**|  El diseño es moderno y bien cuidado. La portada transmite innovación y enfoque tecnológico, lo que encaja con lo que busca como empresa del sector.                                                                                            |
+| **Información del producto**           |         La página presenta bien los contenidos, incluyendo el equipo, misión, visión, vídeo, producto y contacto. Destacó también la integración de idiomas y chatbot                                                                                     |
+| **Visualización del panel principal**  |               El dashboard tiene una estructura funcional y clara. Permite filtrar, ver estados, tareas, alertas, asignar usuarios y ver análisis visual de datos.                                                                               |
+| **Sugerencias de mejora**              |         Mejorar colores de estado para mensajes críticos, usar tipografía más técnica en dashboard, priorizar la sección de alertas, agregar métricas por máquina y API para integración.                                                                                      |
+| **Nivel de confusión**                 |               No hubo confusión grave. Solo sugirió hacer más guiado el módulo de mantenimiento para registrar o cerrar incidencias. Considera útil la solución para monitoreo y valor agregado al cliente.                                                                                |
 
 
 
