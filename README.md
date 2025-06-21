@@ -2291,6 +2291,43 @@ A continuación se mostrará la tabla con las stories relacionadas y llevadas a 
 ###### 5.2.3.4. Development Evidence for Sprint Review
 ###### 5.2.3.5. Execution Evidence for Sprint Review
 ###### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+| Endpoint                                           | Acción                                | Método HTTP | Sintaxis de llamada                                  |
+|---------------------------------------------------|----------------------------------------|-------------|------------------------------------------------------|
+| /api/v1/tasks                                     | Get All Tasks                          | GET         | /api/v1/tasks                                       |
+| /api/v1/tasks                                     | Create Task                            | POST        | /api/v1/tasks                                       |
+| /api/v1/tasks/{taskId}                            | Get Task by ID                         | GET         | /api/v1/tasks/{taskId}                              |
+| /api/v1/tasks/{taskId}                            | Delete Task                            | DELETE      | /api/v1/tasks/{taskId}                              |
+| /api/v1/tasks/{taskId}/name                       | Update Task Name                       | PUT         | /api/v1/tasks/{taskId}/name                         |
+| /api/v1/tasks/{taskId}/duedate                    | Update Task Due Date                   | PUT         | /api/v1/tasks/{taskId}/duedate                      |
+| /api/v1/profiles/{profileId}                      | Get Profile by ID                      | GET         | /api/v1/profiles/{profileId}                        |
+| /api/v1/profiles                                  | Create Profile                         | POST        | /api/v1/profiles                                    |
+| /api/v1/profiles                                  | Get All Profiles                       | GET         | /api/v1/profiles                                    |
+| /api/v1/device-configuration                      | Create Device Configuration            | POST        | /api/v1/device-configuration                        |
+| /api/v1/device-configuration                      | Get All Device Configurations          | GET         | /api/v1/device-configuration                        |
+| /api/v1/device-configuration/{ipAddress}          | Update Device Configuration            | PUT         | /api/v1/device-configuration/{ipAddress}            |
+| /api/v1/device-configuration/by-ip/{ipAddress}    | Get Device Configuration by IP         | GET         | /api/v1/device-configuration/by-ip/{ipAddress}      |
+| /api/v1/device-configurations                     | Create Device Configuration            | POST        | /api/v1/device-configurations                       |
+| /api/v1/device-configurations                     | Get All Device Configurations          | GET         | /api/v1/device-configurations                       |
+| /api/v1/device-configurations/{ipAddress}         | Update Device Configuration            | PUT         | /api/v1/device-configurations/{ipAddress}           |
+| /api/v1/device-configurations/by-ip/{ipAddress}   | Get Device Configuration by IP         | GET         | /api/v1/device-configurations/by-ip/{ipAddress}     |
+| /api/v1/machine-informations/{id}                 | Get Machine Information by ID          | GET         | /api/v1/machine-informations/{id}                   |
+| /api/v1/machine-informations/{id}                 | Update Machine Information             | PUT         | /api/v1/machine-informations/{id}                   |
+| /api/v1/machine-informations                      | Create Machine Information             | POST        | /api/v1/machine-informations                        |
+| /api/v1/textile-machines/{id}                     | Get Textile Machine by ID              | GET         | /api/v1/textile-machines/{id}                       |
+| /api/v1/textile-machines/{id}                     | Update Textile Machine                 | PUT         | /api/v1/textile-machines/{id}                       |
+| /api/v1/textile-machines/{name}                   | Get Textile Machine by Name            | GET         | /api/v1/textile-machines/{name}                     |
+| /api/v1/textile-machines                          | Get All Textile Machines               | GET         | /api/v1/textile-machines                            |
+| /api/v1/textile-machines                          | Create Textile Machine                 | POST        | /api/v1/textile-machines                            |
+| /api/v1/machine-failure-counts/refresh            | Refresh Failure Counts by ID           | POST        | /api/v1/machine-failure-counts/refresh              |
+| /api/v1/machine-failure-counts                    | Get All Textile Machine Failure Counts | GET         | /api/v1/machine-failure-counts                      |
+| /api/v1/machine-failure-counts/{machineId}        | Get Failure Count by ID                | GET         | /api/v1/machine-failure-counts/{machineId}          |
+| /api/v1/machine-failure-rate/refresh              | Refresh Failure Rate by ID             | POST        | /api/v1/machine-failure-rate/refresh                |
+| /api/v1/machine-failure-rate                      | Get All Textile Machine Failure Rates  | GET         | /api/v1/machine-failure-rate                        |
+| /api/v1/machine-failure-rate/{machineId}          | Get Failure Rate by ID                 | GET         | /api/v1/machine-failure-rate/{machineId}            |
+| /api/v1/task-due-status/refresh                   | Refresh Task Due Status by ID          | POST        | /api/v1/task-due-status/refresh                     |
+| /api/v1/task-due-status                           | Get All Task Due Status                | GET         | /api/v1/task-due-status                             |
+
 ###### 5.2.3.7. Software Deployment Evidence for Sprint Review
 ###### 5.2.3.8. Team Collaboration Insights during Sprint
 
