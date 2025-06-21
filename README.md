@@ -2297,6 +2297,7 @@ En la realización de este sprint se logró la implementación de la base de dat
 <img src = "./assets/bckPart2.png" width = "700">
 <img src = "./assets/bckPart3.png" width = "700">
 
+<a href="https://backend-dyetex.onrender.com/swagger/index.html">Ruta al backend</a>
 
 ###### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -2337,6 +2338,33 @@ En la realización de este sprint se logró la implementación de la base de dat
 | /api/v1/task-due-status                           | Get All Task Due Status                | GET         | /api/v1/task-due-status                             |
 
 ###### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Backend Deployment
+
+- Nos logeamos y creamos nuestra base de datos en freesqldatabase.com
+<img src="./assets/dplyBcnkn1.png" width="700">
+
+- Entramos a render, nos logueamos y accedemos a web service
+<img src="./assets/dplyBcnkn2.png" width="700">
+
+- Ingresamos el codigo de Docker en nuestro repositorio para posibilitar la conexción con el deploy
+<img src="./assets/dplyBcnkn3.png" width="700">
+
+- Ingresamos la configuración para la conexión con la base de datos que hemos creado
+<img src="./assets/dplyBcnkn4.png" width="700">
+
+- Ingresamos los datos que usaremos para el deploy 
+<img src="./assets/dplyBcnkn5.png" width="700">
+<img src="./assets/dplyBcnkn6.png" width="700">
+
+- Damos click en Deploy Web Service
+<img src="./assets/dplyBcnkn7.png" width="700">
+
+- Una vez hecho el deploy podemos visualizar el link por el cual podremos ingresar a nuestra web
+<img src="./assets/dplyBcnkn8.png" width="700">
+<img src="./assets/dplyBcnkn9.png" width="700">
+
+
 ###### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ##### 5.3. Validation Interviews
