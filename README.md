@@ -2401,8 +2401,7 @@ A continuación se mostrará la tabla con las stories relacionadas y llevadas a 
 | **Edad**                               | 25 años                                                                                      |
 | **Distrito**                           | San Miguel                                                                                   |
 | **Inicio de entrevista**               | 03:46                                                                                        |
-| **Enlace de entrevista**               | [URL de la entrevista]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/Ed57_3Vemt9Nrx35biNHQ9oBpCV5_Pf0muBY1SFS5oQZLA?e=PwEfwJ
-)                                       |
+| **Enlace de entrevista**               | [URL de la entrevista]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/Ed57_3Vemt9Nrx35biNHQ9oBpCV5_Pf0muBY1SFS5oQZLA?e=PwEfwJ)                                       |
 | **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionBruce.png" alt="Entrevista 5 Val" width="500">                                                     |
 | **Diseño de presentación del producto**| Moderno, ordenado y atractivo visualmente.                                                  |
 | **Información del producto**           | Clara, aunque algunos textos pequeños mejorarían con más legibilidad.                       |
