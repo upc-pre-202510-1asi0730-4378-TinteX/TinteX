@@ -2243,7 +2243,11 @@ En el Sprint 3, el equipo se centró en refinar y optimizar el frontend según
 | **Asistentes (planning meeting)**   | Leandro Contreras, Alessandra Becerra, Leonardo Prieto, Héctor Ríos, Gabriel Gordon                                                                                                                                                                         |
 | **Sprint n-1 Review Summary**       | En el Sprint 2 corregimos y validamos el reporte original, implementamos los CRUDs de los bounded contexts y desplegamos la estructura navegable básica del frontend con contenidos iniciales.                                                               |
 | **Sprint n-1 Retrospective Summary**| En el Sprint 2 resolvimos los problemas de despliegue del frontend que quedaron pendientes; estas tareas pasaron a este sprint donde ya fueron completamente solucionadas e implementadas.                                                                   |
-| **Objetivo del Sprint**             | Refinar y optimizar el frontend según el feedback recibido, ajustar la landing page, producir y presentar los videos “About the Team” y “About the Product”, y crear y desplegar nuestro backend en un entorno operativo. |
+| **Sprint Goal**             | Nuestro enfoque es refinar y optimizar el frontend según el feedback recibido, ajustar la landing page, producir y presentar los videos “About the Team” y “About the Product” y crear y desplegar nuestro backend en un entorno operativo.
+
+Creemos que esto permitirá una correcta aceptación y difusión de nuestro producto, así como una buena gestión de datos, proporcionando comodidad y funcionalidad a los usuarios.
+
+Esto se confirmará cuando los usuarios vean los videos y se sientan atraídos a probar nuestro producto. |
 | **Sprint Velocity**                 | Para este sprint velocity se han estimado 89  story points                                                                                                                                                                                                                                         |
 | **Sum of Story Points**             | La suma de history points a llevar a cabo es 89 story points                                                                                                                                                                                                                                                    |
 
