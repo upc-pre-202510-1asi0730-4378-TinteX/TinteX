@@ -891,7 +891,7 @@ Por otro lado, el proveedor tecnológico se enfoca en:
 </p>
 
 <p aling="center">
-    <img src="./assets/Journey map Usuario 2 - App Web.png" alt="Journey Map 2" width="600">
+    <img src="./assets/Journey Map Usuario 2 - App Web.png" alt="Journey Map 2" width="600">
 </p>
 
 #### 2.3.4. Empathy Mapping
@@ -2608,7 +2608,13 @@ A continuación, se muestran la captura de los insights del repositorio.
 - **Descripción:** Botones importantes como “Contáctanos” o “Comienza ahora” no destacan lo suficiente respecto al resto del contenido. No hay una jerarquía clara que los haga sobresalir como acciones principales.  
 - **Recomendación:** Aumentar el contraste, tamaño o estilo visual de los botones principales para que llamen más la atención e inviten al clic.
 
-##### 5.4. Video About‑the‑Product
+#### 5.4. Video About‑the‑Product
+
+<p aling="center">
+    <img src="./assets/About-the-product.png" alt="About-the-product" width="600">
+</p>
+
+Link del video: [About-the-product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319949_upc_edu_pe/EdYAVKCzDgFCiSZSaN9JZecBbjlTOztUp6HeNz2h1HSu1w?e=zORTMO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Conclusiones
 - El desarrollo de DyeTex ha permitido comprobar la necesidad real y urgente de soluciones tecnológicas accesibles en la industria textil. A través del diseño de una plataforma web basada en IoT, se abordó una problemática crítica: la falta de monitoreo constante del estado de las máquinas, lo cual genera tiempos de inactividad, pérdidas económicas y retrasos en la producción.
