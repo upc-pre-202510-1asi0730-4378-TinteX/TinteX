@@ -2365,14 +2365,14 @@ A continuación se mostrará la tabla con las stories relacionadas y llevadas a 
 | **Entrevistado**                       | Mery Ojeda                                                                                   |
 | **Edad**                               | 36 años                                                                                      |
 | **Distrito**                           | San Miguel                                                                                   |
-| **Inicio de entrevista**               | 00:00                                                                                        |
-| **Enlace de entrevista**               |[URL de la entrevista]()                                       |
+| **Inicio de entrevista**               | 04:00                                                                                        |
+| **Enlace de entrevista**               |[URL de la entrevista]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EYXtw-lOMRlKjb9aGm2ZsY8Bd24_Q_78-48pzTQhHHvIWQ?e=YDJh9W)                                       |
 | **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionMery.png" alt="Entrevista 3 Val" width="500">                         |
-| **Diseño de presentación del producto**| Moderno y agradable, aunque algunas secciones podrían simplificarse.                        |
-| **Información del producto**           | Adecuada, pero algunos textos deberían ser más grandes y con mejor contraste.               |
-| **Visualización del panel principal**  | Clara, pero notó que algunos botones no resaltaban lo suficiente.                          |
-| **Sugerencias de mejora**              | Agregar buscador, filtros, mensajes guía y retroalimentación visual.                        |
-| **Nivel de confusión**                 | En un momento no supo si su acción se completó; un aviso habría ayudado.                    |
+| **Diseño de presentación del producto**| El diseño es moderno y visualmente atractivo.                                                |
+| **Información del producto**           | La navegación es clara en general, aunque algunos botones podrían destacarse más. Los textos e íconos cumplen su función, aunque sugiere usar etiquetas más específicas. |
+| **Visualización del panel principal**  | La interfaz es intuitiva, aunque recomienda incluir tutoriales o mensajes explicativos en ciertas secciones. |
+| **Sugerencias de mejora**              | Agregar buscador, filtros y mejorar el contraste visual. También mejorar legibilidad en móviles. |
+| **Nivel de confusión**                 | Hubo un momento en que no supo si una acción se había completado; sugiere confirmaciones visuales claras. |
 
 ---
 ### Segmento Objetivo 2: Proveedores Tecnológicos para la Industria Textil
@@ -2400,8 +2400,9 @@ A continuación se mostrará la tabla con las stories relacionadas y llevadas a 
 | **Entrevistado**                       | Bruce Via                                                                                    |
 | **Edad**                               | 25 años                                                                                      |
 | **Distrito**                           | San Miguel                                                                                   |
-| **Inicio de entrevista**               | 00:00                                                                                        |
-| **Enlace de entrevista**               | [URL de la entrevista]()                                       |
+| **Inicio de entrevista**               | 03:46                                                                                        |
+| **Enlace de entrevista**               | [URL de la entrevista]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/Ed57_3Vemt9Nrx35biNHQ9oBpCV5_Pf0muBY1SFS5oQZLA?e=PwEfwJ
+)                                       |
 | **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionBruce.png" alt="Entrevista 5 Val" width="500">                                                     |
 | **Diseño de presentación del producto**| Moderno, ordenado y atractivo visualmente.                                                  |
 | **Información del producto**           | Clara, aunque algunos textos pequeños mejorarían con más legibilidad.                       |
