@@ -2295,6 +2295,23 @@ En este sprint estamos encargardos de realizar un API Restful mediante la implem
 | TS-77    | Implementar Eliminación Lógica de Tareas                  | T30     | Important for traceability and auditing when deactivating tasks | Implementar la lógica de eliminación lógica (soft delete) para tareas, permitiendo su desactivación sin pérdida de información histórica o trazabilidad. | 3                | Leandro Contreras   | Done   |
 
 ###### 5.2.3.4. Development Evidence for Sprint Review
+
+| Repository | Branch            | Commit ID                              | Commit Message                                | Commit Message Body              | Committed on (Date) |
+|------------|-------------------|----------------------------------------|-----------------------------------------------|----------------------------------|----------------------|
+| TinteX     | feature/prieto    | 3c64de1af60b5915f86ce5cbb316d0def956fb0e | feat: adding anexos                           | No description provided          | 2025-06-21           |
+| TinteX     | feature/prieto    | b3146ea236580bb9c01aa5030f2fd25cc7a240c6 | feat: adding student outcome                  | No description provided          | 2025-06-21           |
+| TinteX     | feature/prieto    | 25c6c2be21c126562eed0ee70c2abf8c67e2b2c2 | feat: adding services documentation evidence for sprint review | No description provided | 2025-06-20           |
+| TinteX     | feature/becerra   | f317f2d9936519c08610a5107f15d6d20f23def9 | feat: added student outcome tb2 Alessandra    | No description provided          | 2025-06-21           |
+| TinteX     | feature/becerra   | f51386a92dacf5fb48fb91f5e96e67c7684be9d4 | feat: added conclusions                       | No description provided          | 2025-06-21           |
+| TinteX     | feature/gordon    | 03265db34af0cf8c16f43713852c195fe90a7739 | fix: image path from software deployment evidence | No description provided      | 2025-06-21           |
+| TinteX     | feature/rios      | cc757d27a9fe27ae40ef3105c5917beb4297a69c | fix: table of sprint plannig                  | No description provided          | 2025-06-21           |
+| TinteX     | feature/contreras | a16e0b996ff46af8a5e9ce60e0fdac90e6dccf0f | fix: update Sprint Planning 3                 | No description provided          | 2025-06-21           |
+| TinteX     | feature/rios      | e1611f1d7c4e5f043edb9ea3b7c2e2c59e2591f2 | feat: adding link of execution evidence       | No description provided          | 2025-06-17           |
+| TinteX     | feature/becerra   | 93da5794eb66ad24cbcfb63b6d733196b889a6b9 | feat: added validation interviews Mery        | No description provided          | 2025-06-20           |
+| TinteX     | feature/gordon    | fbe105176c765e59cd42cfea11f776ffb58d51f5 | chore: updated class diagram                  | No description provided          | 2025-06-20           |
+| TinteX     | feature/gordon    | a354833be49c875433da982086a47b87329a0a18 | feat: added Services Documentation Evidence   | No description provided          | 2025-06-21           |
+| TinteX     | feature/contreras | 870ee4670642a5eee23636af8571e765f25914ba | feat: Student Outcome - Leandro Contreras     | No description provided          | 2025-06-21           |
+
 ###### 5.2.3.5. Execution Evidence for Sprint Review
 
 En la realización de este sprint se logró la implementación de la base de datos del backend y su deploy; lo cual incluye el desarrollo de varios endponts e ingrso de datos. Además, se mejoró la landing page y el frontend.
