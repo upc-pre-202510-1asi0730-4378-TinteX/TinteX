@@ -2584,7 +2584,9 @@ Backend Deployment
 ##### 5.4. Video About‑the‑Product
 
 ## Conclusiones
-
+- El desarrollo de DyeTex ha permitido comprobar la necesidad real y urgente de soluciones tecnológicas accesibles en la industria textil. A través del diseño de una plataforma web basada en IoT, se abordó una problemática crítica: la falta de monitoreo constante del estado de las máquinas, lo cual genera tiempos de inactividad, pérdidas económicas y retrasos en la producción.
+- Durante el proceso, se identificó que muchas empresas textiles, especialmente pequeñas y medianas, aún dependen de registros manuales y mantenimientos reactivos, lo que limita su competitividad frente a un mercado global cada vez más exigente. La propuesta de DyeTex, representa una alternativa costo-efectiva que se adapta a las necesidades específicas de cada planta, sin requerir una renovación completa de su maquinaria.
+- Las entrevistas de validación con operarios, técnicos y gerentes de planta confirmaron el valor de contar con una herramienta que permita anticiparse a fallos y mejorar la planificación de mantenimiento. Los usuarios demostraron gran interés en una solución que centralice datos de diferentes máquinas, genere reportes útiles para la toma de decisiones y sea fácil de usar. También se evidenció una disposición positiva hacia la digitalización, siempre que la tecnología ofrecida sea clara, funcional y acompañada de soporte técnico.
 ### Conclusiones y Recomendaciones
 
 La importancia del proyecto en el contexto actual:
