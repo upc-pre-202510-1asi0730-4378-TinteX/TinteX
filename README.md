@@ -2640,3 +2640,7 @@ Los objetivos de Lean UX (disminuir inactividad y alcanzar un nivel mínimo de a
 
 ## Anexos
 
+- Deployment Landing Page: [Landing Deployment](https://silent343.github.io/1asi0730-4378-TinteX-LandingPage/)
+- Deployment FrontEnd: [FrontEnd Deployment](https://frontend-app-web-dye-text-develop.vercel.app/home)
+- Deployment BackEnd: [BackEnd Deployment](https://backend-dyetex.onrender.com/swagger/index.html)
+
