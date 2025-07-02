@@ -2423,25 +2423,25 @@ A continuación, se muestran la captura de los insights del repositorio.
 
 <img src="./assets/team_insights3.png" width="700">
 
-<img src="./assets/md2.png" width="700">
+<img src="./assets/md2.PNG" width="700">
 
-<img src="./assets/md3.png" width="700">
+<img src="./assets/md3.PNG" width="700">
 
 Ahora los insights del repositorio del Fronted Application
 
-<img src="./assets/front.png" width="700">
+<img src="./assets/front.PNG" width="700">
 
-<img src="./assets/front2.png" width="700">
+<img src="./assets/front2.PNG" width="700">
 
-<img src="./assets/front3.png" width="400">
+<img src="./assets/front3.PNG" width="700">
 
 Finalmente los insights del repostirio del Backend
 
-<img src="./assets/back.png" width="700">
+<img src="./assets/back.PNG" width="700">
 
-<img src="./assets/back2.png" width="700">
+<img src="./assets/back2.PNG" width="700">
 
-<img src="./assets/back3.png" width="700">
+<img src="./assets/back3.PNG" width="700">
 
 ##### 5.3. Validation Interviews
 ###### 5.3.1. Diseño de Entrevistas
