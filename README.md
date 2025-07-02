@@ -76,15 +76,15 @@
 Todas las actividades asignadas para la entrega de la TB1 han sido completadas y se encuentran documentadas en el repositorio de GitHub de la organización del equipo, accesible en: https://github.com/upc-pre-202510-1asi0730-4378-TinteX . En cuanto al informe, cada miembro del equipo participó redactando y elaborando gráficos en formato Markdown de acuerdo con los temas asignados, registrando su progreso mediante commits en el repositorio correspondiente, encontrándose en el siguiente enlace: https://github.com/upc-pre-202510-1asi0730-4378-TinteX/TinteX . Aqui se pueden aprecion todos los commits hechos en la TB1 evidenciando el trabajo colaborativo.
 
 <p aling = "center">
-  <img src = "./assets/md.png" alt="TinteX Repositorio" width = "1000">
+  <img src = "./assets/md.PNG" alt="TinteX Repositorio" width = "1000">
 </p>
 
 <p aling = "center">
-  <img src = "./assets/md2.png" alt="Landing Repositorio" width = "1000">
+  <img src = "./assets/md2.PNG" alt="TinteX I Repositorio" width = "1000">
 </p>
 
 <p aling = "center">
-  <img src = "./assets/md3.png" alt="Landing Repositorio" width = "1000">
+  <img src = "./assets/md3.PNG" alt="TinTex II Repositorio" width = "1000">
 </p>
 
 <p aling = "center">
@@ -92,11 +92,11 @@ Todas las actividades asignadas para la entrega de la TB1 han sido completadas y
 </p>
 
 <p aling = "center">
-  <img src = "./assets/landing.jpeg" alt="Landing Repositorio" width = "1000">
+  <img src = "./assets/landing.jpeg" alt="Landing I Repositorio" width = "1000">
 </p>
 
 <p aling = "center">
-  <img src = "./assets/back.png" alt="Landing Repositorio" width = "1000">
+  <img src = "./assets/back.PNG" alt="Backend Repositorio" width = "1000">
 </p>
 
 ## Tabla de Contenidos
@@ -199,6 +199,24 @@ Todas las actividades asignadas para la entrega de la TB1 han sido completadas y
             <li><a href="#5216-services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></li>
             <li><a href="#5217-software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></li>
             <li><a href="#5218-team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></li>
+            <li><a href="#522-sprint-2">5.2.2. Sprint 2</a></li>
+            <li><a href="#5221-sprint-planning-2">5.2.2.1. Sprint Planning 2</a></li>
+            <li><a href="#5222-aspect-leaders-and-collaborators">5.2.2.2. Aspect Leaders and Collaborators</a></li>
+            <li><a href="#5223-sprint-backlog-2">5.2.2.3. Sprint Backlog 2</a></li>
+            <li><a href="#5224-development-evidence-for-sprint-review">5.2.2.4. Development Evidence for Sprint Review</a></li>
+            <li><a href="#5225-execution-evidence-for-sprint-review">5.2.2.5. Execution Evidence for Sprint Review</a></li>
+            <li><a href="5226-services-documentation-evidence-for-sprint-review">5.2.2.6. Services Documentation Evidence for Sprint Review</a></li>
+            <li><a href="5227-software-deployment-evidence-for-sprint-review">5.2.2.7. Software Deployment Evidence for Sprint Review</a></li>
+            <li><a href="5228-team-collaboration-insights-during-sprint">5.2.2.8. Team Collaboration Insights during Sprint</a></li>
+            <li><a href="#523-sprint-3">5.2.3. Sprint 3</a></li>
+            <li><a href="#5231-sprint-planning-3">5.2.3.1. Sprint Planning 3</a></li>
+            <li><a href="#5232-aspect-leaders-and-collaborators">5.2.3.2. Aspect Leaders and Collaborators</a></li>
+            <li><a href="#5233-sprint-backlog-3">5.2.3.3. Sprint Backlog 3</a></li>
+            <li><a href="#5234-development-evidence-for-sprint-review">5.2.3.4. Development Evidence for Sprint Review</a></li>
+            <li><a href="#5235-execution-evidence-for-sprint-review">5.2.3.5. Execution Evidence for Sprint Review</a></li>
+            <li><a href="5236-services-documentation-evidence-for-sprint-review">5.2.3.6. Services Documentation Evidence for Sprint Review</a></li>
+            <li><a href="5237-software-deployment-evidence-for-sprint-review">5.2.3.7. Software Deployment Evidence for Sprint Review</a></li>
+            <li><a href="5238-team-collaboration-insights-during-sprint">5.2.3.8. Team Collaboration Insights during Sprint</a></li>
         </ul>        
 </details>
 
