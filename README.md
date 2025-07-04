@@ -80,23 +80,23 @@ Todas las actividades asignadas para la entrega de la TB1 han sido completadas y
 </p>
 
 <p aling = "center">
-  <img src = "./assets/md2.PNG" alt="TinteX I Repositorio" width = "1000">
+  <img src = "./assets/md2.PNG" alt="Landing Repositorio" width = "1000">
 </p>
 
 <p aling = "center">
-  <img src = "./assets/md3.PNG" alt="TinTex II Repositorio" width = "1000">
+  <img src = "./assets/md3.PNG" alt="Landing I Repositorio" width = "1000">
 </p>
 
 <p aling = "center">
-  <img src = "./assets/landing1.jpeg" alt="Landing Repositorio" width = "1000">
+  <img src = "./assets/landing1.jpeg" alt="Landing II Repositorio" width = "1000">
 </p>
 
 <p aling = "center">
-  <img src = "./assets/landing.jpeg" alt="Landing I Repositorio" width = "1000">
+  <img src = "./assets/landing.jpeg" alt="Landing III Repositorio" width = "1000">
 </p>
 
 <p aling = "center">
-  <img src = "./assets/back.PNG" alt="Backend Repositorio" width = "1000">
+  <img src = "./assets/back.PNG" alt="Landing IV Repositorio" width = "1000">
 </p>
 
 ## Tabla de Contenidos
@@ -209,9 +209,9 @@ Todas las actividades asignadas para la entrega de la TB1 han sido completadas y
             <li><a href="5227-software-deployment-evidence-for-sprint-review">5.2.2.7. Software Deployment Evidence for Sprint Review</a></li>
             <li><a href="5228-team-collaboration-insights-during-sprint">5.2.2.8. Team Collaboration Insights during Sprint</a></li>
             <li><a href="#523-sprint-3">5.2.3. Sprint 3</a></li>
-            <li><a href="#5231-sprint-planning-3">5.2.3.1. Sprint Planning 3</a></li>
+            <li><a href="#5231-sprint-planning-2">5.2.3.1. Sprint Planning 3</a></li>
             <li><a href="#5232-aspect-leaders-and-collaborators">5.2.3.2. Aspect Leaders and Collaborators</a></li>
-            <li><a href="#5233-sprint-backlog-3">5.2.3.3. Sprint Backlog 3</a></li>
+            <li><a href="#5233-sprint-backlog-2">5.2.3.3. Sprint Backlog 3</a></li>
             <li><a href="#5234-development-evidence-for-sprint-review">5.2.3.4. Development Evidence for Sprint Review</a></li>
             <li><a href="#5235-execution-evidence-for-sprint-review">5.2.3.5. Execution Evidence for Sprint Review</a></li>
             <li><a href="5236-services-documentation-evidence-for-sprint-review">5.2.3.6. Services Documentation Evidence for Sprint Review</a></li>
@@ -2137,7 +2137,7 @@ En el Sprint 2, el equipo centró sus esfuerzos en mejorar la calidad del report
 | **Sprint n-1 Retrospective Summary**  | En el anterior sprint desarrollamos completamente el reporte, sin embargo, fueron realizadas varias observaciones las cuales fueron levantadas, así como las tareas acumuladas de la landing page no implementadas pasaron a este sprint donde fueron implementadas                                                                                                                      |
 | **Sprint 2 Goal**                     | Nuestra prioridad en este sprint es el mejoramiento de la información del reporte e implementar los CRUDs que conforman las funcionalidades básicas de los bounded contexts identificados en el sistema de nuestra aplicación frontend. Creemos que esto permitirá comunicar con mayor claridad nuestra solución, y facilitará una primera interacción funcional con la plataforma por parte de los usuarios. Este objetivo se considerará cumplido cuando el reporte esté corregido y validado, y la aplicación frontend cuente con una estructura navegable y contenidos iniciales desplegados. |
 | **Sprint 2 Velocity**                 |     La cantidad de puntos estimados son 26                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **Sum of Story Points**               |  En el sprint 2, se calcuaron 26 puntos en función a las user stories implementadas                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Sum of Story Points**               |  En el sprint 2, se calcularon 26 puntos en función a las user stories implementadas                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 
 ##### 5.2.2.2. Aspect Leaders and Collaborators
@@ -2161,6 +2161,8 @@ Cada **User Story** fue asignada estratégicamente a un **líder de desarrollo**
 
 ##### 5.2.2.3. Sprint Backlog 2
 
+En el Sprint 2 el equipo se ha enfocado principalmente la implementación del FrontEnd Application y en las correcciones del reporte. Se presenta el backlog de tareas para la elaboración de nuestro FrontEnd en este Sprint 2. 
+
 | Story ID | Story Title                                                 | Task ID | Task Title                          | Description                                                                         | Estimation (Hrs) | Assigned To        | Status |
 | -------- | ----------------------------------------------------------- | ------- | ----------------------------------- | ----------------------------------------------------------------------------------- | ---------------- | ------------------ | ------ |
 | US-02    | Vista general del estado de todas las máquinas              | T07     | Machine Overview Dashboard          | Desarrollo de panel principal con resumen visual del estado general de las máquinas | 4.5              | Gabriel Gordon     | Done  |
@@ -2172,6 +2174,8 @@ Cada **User Story** fue asignada estratégicamente a un **líder de desarrollo**
 
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
+
+En la tabla a continuación se muestran los commits realizados en el Sprint 2. 
 
 | Repository | Branch             | Commit ID                               | Commit Message                           | Commit Message Body         | Committed on (Date) |
 |------------|--------------------|------------------------------------------|------------------------------------------|------------------------------|----------------------|
@@ -2202,15 +2206,30 @@ Cada **User Story** fue asignada estratégicamente a un **líder de desarrollo**
 En la realización de este sprint se logró la implementación de los CRUDS por parte del Frontend y su deploy; lo cual incluye el desarrollo de varios endponts e ingrso de datos. Además, se mejoró la landing page.
 
   <img src = "./assets/Execution_Evidence1.png" width = "700">
+  
+  <br>Vista de la sección "Monitoring" donde se puede encontrar Filtros de Búsqueda y Lista de Máquinas Disponibles Pantalla con múltiples filtros en el lateral izquierdo: Status, Asset Type, Zone. <br>
+
   <img src = "./assets/Execution_Evidence2.png" width = "700">
+
+  <br>Se muestra la vista "Featured Machines" con tarjetas que representan diferentes máquinas textiles. Cada tarjeta incluye:
+  Nombre de la máquina y código, Estado de la máquina, Ubicación, Fecha de instalación.</br>
+
   <img src = "./assets/Execution_Evidence3.png" width = "700">
+
+  <br>Vista "Manage Users" con tarjetas por usuario. Cada tarjeta muestra: Nombre, email, teléfono, Start Date, Planta asignada, Rol, Permisos, Botones Edit User y Delete User.</br>
+
   <img src = "./assets/Execution_Evidence4.png" width = "700">
+
+  <br>Vista "Manage Notifications" con una tabla que incluye columnas: ID, Message, Date & Time, Textil Machine, Read, Icono para eliminar notificaciones.</br>
+
   <img src = "./assets/Execution_Evidence5.png" width = "700">
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EWw4guEnwzlBnBO_20czP2kBk-EVTgQ74lwQYeB4DH9FmQ?e=Qcdokg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Hemos conseguido implementar una aplicación web que utiliza un servicio de Json-Server para simular un backend. A continuación, se presenta la documentación de la API.
 
 ### Tabla de Endpoints - Proyecto DyeTex
 
@@ -2234,7 +2253,9 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EWw4guEn
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Frontend Deployment
+En esta sección se mostrará la evidencia de los despliegues efectuados para los distintos productos desarrollados durante el sprint. En este caso, el sprint contempla únicamente el despliegue del Application Frontend, el cual se ha llevado a cabo aplicando buenas prácticas y utilizando las herramientas apropiadas para garantizar su correcto funcionamiento y disponibilidad en línea.
+
+<strong>Frontend Deployment</strong>
 - Para la realización del deploy de esta primera entrega del frontend se usó vercel, para ello creamos una cuenta.
 <img src = "./assets/deploy_evidence1.png" width = "700">
 <img src = "./assets/deploy_evidence2.png" width = "700">
@@ -2262,7 +2283,7 @@ Frontend Deployment
 ###### 5.2.2.8. Team Collaboration Insights during Sprint
 A continuación, se muestran la captura de los insights del repositorio.
 
-<img src="./assets/team_insights2.png" width="400">
+<img src="./assets/team_insights2.png" width="700">
 
 
 ##### 5.2.3. Sprint 3
@@ -2326,6 +2347,8 @@ En este sprint estamos encargardos de realizar un API Restful mediante la implem
 
 ###### 5.2.3.4. Development Evidence for Sprint Review
 
+En la tabla a continuación se muestran los commits realizados en el Sprint 3.
+
 | Repository | Branch            | Commit ID                              | Commit Message                                | Commit Message Body              | Committed on (Date) |
 |------------|-------------------|----------------------------------------|-----------------------------------------------|----------------------------------|----------------------|
 | TinteX     | feature/prieto    | 3c64de1af60b5915f86ce5cbb316d0def956fb0e | feat: adding anexos                           | No description provided          | 2025-06-21           |
@@ -2344,15 +2367,123 @@ En este sprint estamos encargardos de realizar un API Restful mediante la implem
 
 ###### 5.2.3.5. Execution Evidence for Sprint Review
 
-En la realización de este sprint se logró la implementación de la base de datos del backend y su deploy; lo cual incluye el desarrollo de varios endponts e ingrso de datos. Además, se mejoró la landing page y el frontend.
+En la realización de este sprint se logró la implementación de la base de datos del backend y su deploy; lo cual incluye el desarrollo de varios endponts e ingreso de datos. Además, se mejoró la landing page y el frontend.
+
+### Tasks y Profiles
+
+#### Tasks – Gestión de tareas programadas
+
+| Método | Endpoint                                 | Descripción                             |
+|--------|------------------------------------------|-----------------------------------------|
+| GET    | `/api/v1/tasks`                          | Obtener todas las tareas                |
+| POST   | `/api/v1/tasks`                          | Crear una nueva tarea                   |
+| GET    | `/api/v1/tasks/{taskId}`                 | Obtener una tarea por ID                |
+| DELETE | `/api/v1/tasks/{taskId}`                 | Eliminar una tarea                      |
+| PUT    | `/api/v1/tasks/{taskId}/name`            | Actualizar el nombre de una tarea       |
+| PUT    | `/api/v1/tasks/{taskId}/duedate`         | Actualizar la fecha de vencimiento      |
+
+---
+
+#### Profiles – Gestión de perfiles de usuario
+
+| Método | Endpoint                                 | Descripción                             |
+|--------|------------------------------------------|-----------------------------------------|
+| GET    | `/api/v1/profiles/{profileId}`           | Obtener un perfil por ID                |
+| POST   | `/api/v1/profiles`                       | Crear un perfil                         |
+| GET    | `/api/v1/profiles`                       | Obtener todos los perfiles              |
+
+---
 
 <img src = "./assets/bckPart.png" width = "700">
+
+---
+
+### DeviceConfiguration, DeviceConfigurations y MachineInformations
+
+#### DeviceConfiguration – Configuración individual de dispositivos
+
+| Método | Endpoint                                                 | Descripción                                 |
+|--------|----------------------------------------------------------|---------------------------------------------|
+| POST   | `/api/v1/device-configuration`                          | Crear configuración de dispositivo          |
+| GET    | `/api/v1/device-configuration`                          | Obtener todas las configuraciones           |
+| PUT    | `/api/v1/device-configuration/{ipAddress}`              | Actualizar configuración por IP             |
+| GET    | `/api/v1/device-configuration/by-ip/{ipAddress}`       | Obtener configuración por dirección IP      |
+
+---
+
+#### DeviceConfigurations – Versión pluralizada (¿módulo alternativo?)
+
+| Método | Endpoint                                                   | Descripción                                |
+|--------|------------------------------------------------------------|--------------------------------------------|
+| POST   | `/api/v1/device-configurations`                            | Crear configuración de dispositivo         |
+| GET    | `/api/v1/device-configurations`                            | Obtener todas las configuraciones          |
+| PUT    | `/api/v1/device-configurations/{ipAddress}`                | Actualizar configuración por IP            |
+| GET    | `/api/v1/device-configurations/by-ip/{ipAddress}`         | Obtener configuración por dirección IP     |
+
+---
+
+#### MachineInformations – Información de máquinas
+
+| Método | Endpoint                                      | Descripción                             |
+|--------|-----------------------------------------------|-----------------------------------------|
+| GET    | `/api/v1/machine-informations/{id}`           | Obtener información por ID              |
+| PUT    | `/api/v1/machine-informations/{id}`           | Actualizar información por ID           |
+| POST   | `/api/v1/machine-informations`                | Crear nueva información de máquina      |
+
+---
+
 <img src = "./assets/bckPart2.png" width = "700">
+
+### TextileMachines, MachineFailure y TaskDueStatus
+
+#### TextileMachines – Gestión de máquinas textiles
+
+| Método | Endpoint                                 | Descripción                             |
+|--------|------------------------------------------|-----------------------------------------|
+| GET    | `/api/v1/textile-machines/{id}`          | Obtener máquina textil por ID           |
+| PUT    | `/api/v1/textile-machines/{id}`          | Actualizar máquina textil               |
+| GET    | `/api/v1/textile-machines/{name}`        | Obtener máquina textil por nombre       |
+| GET    | `/api/v1/textile-machines`               | Obtener todas las máquinas textiles     |
+| POST   | `/api/v1/textile-machines`               | Crear máquina textil                    |
+
+---
+
+#### MachineFailureCounts – Conteo de fallas por máquina
+
+| Método | Endpoint                                              | Descripción                             |
+|--------|-------------------------------------------------------|-----------------------------------------|
+| POST   | `/api/v1/machine-failure-counts/refresh`             | Refrescar fallas por máquina            |
+| GET    | `/api/v1/machine-failure-counts`                     | Obtener todos los conteos               |
+| GET    | `/api/v1/machine-failure-counts/{machineId}`         | Obtener conteo por máquina              |
+
+---
+
+#### MachineFailureRate – Tasa de fallos por máquina
+
+| Método | Endpoint                                          | Descripción                             |
+|--------|---------------------------------------------------|-----------------------------------------|
+| POST   | `/api/v1/machine-failure-rate/refresh`           | Refrescar tasa de fallos                |
+| GET    | `/api/v1/machine-failure-rate`                   | Obtener todas las tasas                 |
+| GET    | `/api/v1/machine-failure-rate/{machineId}`       | Obtener tasa por máquina                |
+
+---
+
+#### TaskDueStatus – Estado de vencimiento de tareas
+
+| Método | Endpoint                                           | Descripción                             |
+|--------|----------------------------------------------------|-----------------------------------------|
+| POST   | `/api/v1/task-due-status/refresh`                 | Refrescar estado por ID                 |
+| GET    | `/api/v1/task-due-status`                         | Obtener estados para todas las máquinas |
+
+---
+
 <img src = "./assets/bckPart3.png" width = "700">
 
 <a href="https://backend-dyetex.onrender.com/swagger/index.html">Ruta al backend</a>
 
 ###### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Se ha desarrollado una API RESTful para el Backend de la aplicación DyeTeX. A continuación se muestra la documentación de los servicios implementados.
 
 | Endpoint                                           | Acción                                | Método HTTP | Sintaxis de llamada                                  |
 |---------------------------------------------------|----------------------------------------|-------------|------------------------------------------------------|
@@ -2421,27 +2552,37 @@ Backend Deployment
 ###### 5.2.3.8. Team Collaboration Insights during Sprint
 A continuación, se muestran la captura de los insights del repositorio.
 
+#### Contributors Insights
+
 <img src="./assets/team_insights3.png" width="700">
 
-<img src="./assets/md2.PNG" width="700">
+<img src="./assets/md2.png" width="700">
 
-<img src="./assets/md3.PNG" width="700">
+<img src="./assets/md3.png" width="700">
 
 Ahora los insights del repositorio del Fronted Application
 
-<img src="./assets/front.PNG" width="700">
+#### Pulse Insights
 
-<img src="./assets/front2.PNG" width="700">
+<img src="./assets/front.png" width="700">
 
-<img src="./assets/front3.PNG" width="700">
+#### Contributors Insights
+
+<img src="./assets/front2.png" width="700">
+
+<img src="./assets/front3.png" width="700">
 
 Finalmente los insights del repostirio del Backend
 
-<img src="./assets/back.PNG" width="700">
+#### Pulse Insights
 
-<img src="./assets/back2.PNG" width="700">
+<img src="./assets/back.png" width="700">
 
-<img src="./assets/back3.PNG" width="700">
+#### Contribuitors Insights
+
+<img src="./assets/back2.png" width="700">
+
+<img src="./assets/back3.png" width="700">
 
 ##### 5.3. Validation Interviews
 ###### 5.3.1. Diseño de Entrevistas
