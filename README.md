@@ -2827,8 +2827,16 @@ Los objetivos de Lean UX (disminuir inactividad y alcanzar un nivel mínimo de a
 ## Bibliografía
 
 - Doeet, la solución MES MOM para la industria 4.0. (2022, September 12). doeet.com. https://doeet.com/
+  
+- World Wide Web Consortium (W3C). (2018). Web Content Accessibility Guidelines (WCAG) 2.1. https://www.w3.org/TR/WCAG21/
+  
+- Lidwell, W., Holden, K., & Butler, J. (2010). Universal principles of design (2nd ed.). Rockport Publishers.
+https://www.quartoknows.com/books/9781592535873/Universal-Principles-of-Design-Revised-and-Updated.html
 
 - Textil Caiman mejora el rendimiento de sus máquinas de tintura textil. (2020a, July 1). Escarre. https://www.escarre.com/es/textil-caiman-mejora-el-rendimiento-de-sus-maquinas-de-tintura-textil/
+  
+- Marcotte, E. (2014). Responsive web design. A Book Apart.
+https://abookapart.com/products/responsive-web-design
 
 - Delta Máquinas Textiles. (n.d.). Retrieved May 15, 2025, from https://deltamaquinastexteis.com.br/es/
 
