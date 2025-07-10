@@ -2556,33 +2556,33 @@ A continuación, se muestran la captura de los insights del repositorio.
 
 <img src="./assets/team_insights3.png" width="700">
 
-<img src="./assets/md2.png" width="700">
+<img src="./assets/md2.PNG" width="700">
 
-<img src="./assets/md3.png" width="700">
+<img src="./assets/md3.PNG" width="700">
 
 Ahora los insights del repositorio del Fronted Application
 
 #### Pulse Insights
 
-<img src="./assets/front.png" width="700">
+<img src="./assets/front.PNG" width="700">
 
 #### Contributors Insights
 
-<img src="./assets/front2.png" width="700">
+<img src="./assets/front2.PNG" width="700">
 
-<img src="./assets/front3.png" width="700">
+<img src="./assets/front3.PNG" width="700">
 
 Finalmente los insights del repostirio del Backend
 
 #### Pulse Insights
 
-<img src="./assets/back.png" width="700">
+<img src="./assets/back.PNG" width="700">
 
 #### Contribuitors Insights
 
-<img src="./assets/back2.png" width="700">
+<img src="./assets/back2.PNG" width="700">
 
-<img src="./assets/back3.png" width="700">
+<img src="./assets/back3.PNG" width="700">
 
 ##### 5.2.4. Sprint 4
 ###### 5.2.4.1. Sprint Planning 4
