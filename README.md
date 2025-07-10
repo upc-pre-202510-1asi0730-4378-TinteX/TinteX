@@ -2554,20 +2554,23 @@ A continuación, se muestran la captura de los insights del repositorio.
 
 #### Contributors Insights
 
+En esta imagen se muestra el resumen de contribuciones por cada integrante del equipo durante el Sprint, incluyendo la cantidad de commits y las líneas de código añadidas y eliminadas. La mayoría de contribuciones se concentran en la semana del 9 al 16 de junio.
 <img src="./assets/team_insights3.png" width="700">
 
+La gráfica presenta la evolución semanal de los commits en el repositorio desde el 5 de abril hasta el 14 de junio de 2025. Se identifican picos importantes de actividad en la semana del 21 de abril y del 16 de junio, lo que refleja momentos clave en el desarrollo del Sprint. Entre estos periodos, la actividad fue más moderada o baja.
 <img src="./assets/md2.PNG" width="700">
 
+Esta sección desglosa las contribuciones de cada miembro en detalle, incluyendo la cantidad total de commits y el volumen de líneas de código modificadas.
 <img src="./assets/md3.PNG" width="700">
 
 Ahora los insights del repositorio del Fronted Application
 
 #### Pulse Insights
-
+Esta imagen presenta un resumen general de la actividad del repositorio Backend. Se reportan 4 pull requests activos y ningún issue abierto o cerrado. En total, se han realizado 46 commits por 5 autores, afectando 56 archivos, con 3,243 líneas añadidas y 471 eliminadas. 
 <img src="./assets/front.PNG" width="700">
 
 #### Contributors Insights
-
+En esta gráfica se observa la evolución de los commits realizados entre el 10 de mayo y el 14 de junio de 2025. 
 <img src="./assets/front2.PNG" width="700">
 
 <img src="./assets/front3.PNG" width="700">
@@ -2575,11 +2578,11 @@ Ahora los insights del repositorio del Fronted Application
 Finalmente los insights del repostirio del Backend
 
 #### Pulse Insights
-
+Esta imagen presenta un resumen general de la actividad del repositorio Backend. Se reportan 3 pull requests activos y ningún issue abierto o cerrado. En total, se han realizado 17 commits por 5 autores, afectando 175 archivos, con 3,701 líneas añadidas y 550 eliminadas. Este panel refleja un periodo de desarrollo activo, centrado principalmente en la integración de nuevas funcionalidades.
 <img src="./assets/back.PNG" width="700">
 
 #### Contribuitors Insights
-
+En esta gráfica se observa la evolución de los commits realizados entre el 31 de mayo y el 14 de junio de 2025. La mayor concentración de aportes se da durante la semana del 9 al 16 de junio, con más de 10 contribuciones, lo que indica un pico de trabajo en la etapa final del Sprint.
 <img src="./assets/back2.PNG" width="700">
 
 <img src="./assets/back3.PNG" width="700">
