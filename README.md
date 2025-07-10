@@ -2857,7 +2857,12 @@ Los usuarios manifiestan interés en una plataforma que integre datos de sensore
 Los objetivos de Lean UX (disminuir inactividad y alcanzar un nivel mínimo de activación de alertas) son desafiantes pero factibles mediante pilotos controlados.
 
 ### Video About-the-Team
+<p aling="center">
+    <img src="./assets/About-the-team.png" alt="About-the-team" width="600">
+</p>
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EXoymkk5XRtIibILWwflPIgBUh0Sp_mKMggSQ8qxrldS9g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NvUGoD
 
+<div style="page-break-after: always;"></div>
 <div style="page-break-after: always;"></div>
 ## Bibliografía
 
