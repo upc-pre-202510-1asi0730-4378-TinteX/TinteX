@@ -2656,7 +2656,7 @@ Se ha desarrollado una API RESTful para el Backend de la aplicación DyeTeX. A c
 | **Edad**                               | 30 años                                                                                      |
 | **Distrito**                           | San Miguel                                                                                   |
 | **Inicio de entrevista**               | 02:32                                                                                        |
-| **Enlace de entrevista**               | [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/ESZ8YAa89IJAkpl5KOgzBY0BoXycLJvP4wvlWXx7lxKaow)                                       |
+| **Enlace de entrevista**               | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/ESZ8YAa89IJAkpl5KOgzBY0BoXycLJvP4wvlWXx7lxKaow                                       |
 | **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionJorge.png" alt="Entrevista 1 Val" width="500">                         |
 | **Diseño de presentación del producto**| Le pareció agradable y bien estructurado. Destacó la coherencia visual y buena organización general. |
 | **Información del producto**           | Considera que el sitio transmite bien la idea desde el inicio. Le pareció claro lo que se ofrece. |
@@ -2673,7 +2673,7 @@ Se ha desarrollado una API RESTful para el Backend de la aplicación DyeTeX. A c
 | **Edad**                               | 26 años                                                                                      |
 | **Distrito**                           | Comas                                                                                        |
 | **Inicio de entrevista**               | 04:05                                                                                        |
-| **Enlace de entrevista**               | [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EXdDSPpNKpRMg2KeqYQqf0kBocdrFD0Cx6AlNc11fog1xA?e=cbnDn7)                      |
+| **Enlace de entrevista**               | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EXdDSPpNKpRMg2KeqYQqf0kBocdrFD0Cx6AlNc11fog1xA?e=cbnDn7                      |
 | **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionDania.png" alt="Entrevista 2 Val" width="500">                                                    |
 | **Diseño de presentación del producto**| Opinó que es limpio y profesional, con estructura clara y sin sobrecarga visual.            |
 | **Información del producto**           | Está bien explicada y organizada. No notó información irrelevante.                          |
@@ -2689,7 +2689,7 @@ Se ha desarrollado una API RESTful para el Backend de la aplicación DyeTeX. A c
 | **Edad**                               | 36 años                                                                                      |
 | **Distrito**                           | San Miguel                                                                                   |
 | **Inicio de entrevista**               | 04:00                                                                                        |
-| **Enlace de entrevista**               |[URL de la entrevista]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EYXtw-lOMRlKjb9aGm2ZsY8Bd24_Q_78-48pzTQhHHvIWQ?e=YDJh9W)                                       |
+| **Enlace de entrevista**               | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EYXtw-lOMRlKjb9aGm2ZsY8Bd24_Q_78-48pzTQhHHvIWQ?e=YDJh9W                                       |
 | **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionMery.png" alt="Entrevista 3 Val" width="500">                         |
 | **Diseño de presentación del producto**| El diseño es moderno y visualmente atractivo.                                                |
 | **Información del producto**           | La navegación es clara en general, aunque algunos botones podrían destacarse más. Los textos e íconos cumplen su función, aunque sugiere usar etiquetas más específicas. |
@@ -2708,7 +2708,7 @@ Se ha desarrollado una API RESTful para el Backend de la aplicación DyeTeX. A c
 | **Edad**                               | 27 años                                                                                      |
 | **Distrito**                           | Callao                                                                                     |
 | **Inicio de entrevista**               | 03:37                                                                                       |
-| **Enlace de entrevista**               | [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EWXtBldYYjBLgtUdaFiaqwcBR-j5aF1nK9meF5j84EY_Vw?e=Z1eeVW)                                       |
+| **Enlace de entrevista**               | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EWXtBldYYjBLgtUdaFiaqwcBR-j5aF1nK9meF5j84EY_Vw?e=Z1eeVW                                       |
 | **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionJunior.png" alt="Entrevista 4 Val" width="500">                                                    |
 | **Diseño de presentación del producto**| Diseño ordenado y visualmente agradable.                                                    |
 | **Información del producto**           | Clara y útil, entendió rápidamente el propósito del sitio.                                  |
@@ -2724,7 +2724,7 @@ Se ha desarrollado una API RESTful para el Backend de la aplicación DyeTeX. A c
 | **Edad**                               | 25 años                                                                                      |
 | **Distrito**                           | San Miguel                                                                                   |
 | **Inicio de entrevista**               | 03:46                                                                                        |
-| **Enlace de entrevista**               | [URL de la entrevista]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/Ed57_3Vemt9Nrx35biNHQ9oBpCV5_Pf0muBY1SFS5oQZLA?e=PwEfwJ)                                       |
+| **Enlace de entrevista**               | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/Ed57_3Vemt9Nrx35biNHQ9oBpCV5_Pf0muBY1SFS5oQZLA?e=PwEfwJ                                       |
 | **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionBruce.png" alt="Entrevista 5 Val" width="500">                                                     |
 | **Diseño de presentación del producto**| Moderno, ordenado y atractivo visualmente.                                                  |
 | **Información del producto**           | Clara, aunque algunos textos pequeños mejorarían con más legibilidad.                       |
@@ -2739,7 +2739,7 @@ Se ha desarrollado una API RESTful para el Backend de la aplicación DyeTeX. A c
 | **Edad**                               |            21                                                                                  |
 | **Distrito**                           |                               Callao                                                               |
 | **Inicio de entrevista**               |                                    02:48                                                          |
-| **Enlace de entrevista**               | [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EerWN3FECItJvB283EO4SmgB7pwVBNCk496gRDQSJEL9vw?e=GeST3C)                                                                           |
+| **Enlace de entrevista**               | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318947_upc_edu_pe/EerWN3FECItJvB283EO4SmgB7pwVBNCk496gRDQSJEL9vw?e=GeST3C                                                                           |
 | **Foto captura**                       | <img src="./assets/imagenEntrevistaValidacionLyan.png" alt="Entrevista 5 Val" width="500">                                                |
 | **Diseño de presentación del producto**|  El diseño es moderno y bien cuidado. La portada transmite innovación y enfoque tecnológico, lo que encaja con lo que busca como empresa del sector.                                                                                            |
 | **Información del producto**           |         La página presenta bien los contenidos, incluyendo el equipo, misión, visión, vídeo, producto y contacto. Destacó también la integración de idiomas y chatbot                                                                                     |
@@ -2837,7 +2837,7 @@ Se ha desarrollado una API RESTful para el Backend de la aplicación DyeTeX. A c
     <img src="./assets/About-the-product.png" alt="About-the-product" width="600">
 </p>
 
-Link del video: [About-the-product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319949_upc_edu_pe/EdYAVKCzDgFCiSZSaN9JZecBbjlTOztUp6HeNz2h1HSu1w?e=zORTMO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319949_upc_edu_pe/EdYAVKCzDgFCiSZSaN9JZecBbjlTOztUp6HeNz2h1HSu1w?e=zORTMO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Conclusiones
 - El desarrollo de DyeTex ha permitido comprobar la necesidad real y urgente de soluciones tecnológicas accesibles en la industria textil. A través del diseño de una plataforma web basada en IoT, se abordó una problemática crítica: la falta de monitoreo constante del estado de las máquinas, lo cual genera tiempos de inactividad, pérdidas económicas y retrasos en la producción.
@@ -2894,7 +2894,7 @@ https://abookapart.com/products/responsive-web-design
 
 ## Anexos
 
-- Deployment Landing Page: [Landing Deployment](https://silent343.github.io/1asi0730-4378-TinteX-LandingPage/)
-- Deployment FrontEnd: [FrontEnd Deployment](https://frontend-app-web-dye-text-develop.vercel.app/home)
-- Deployment BackEnd: [BackEnd Deployment](https://backend-dyetex.onrender.com/swagger/index.html)
+- Deployment Landing Page: https://silent343.github.io/1asi0730-4378-TinteX-LandingPage/
+- Deployment FrontEnd: https://frontend-app-web-dye-text-develop.vercel.app/home
+- Deployment BackEnd: https://backend-dyetex.onrender.com/swagger/index.html
 
