@@ -2585,6 +2585,23 @@ Finalmente los insights del repostirio del Backend
 <img src="./assets/back3.png" width="700">
 
 ##### 5.2.4. Sprint 4
+###### 5.2.4.1. Sprint Planning 4
+Durante el Sprint 4, el equipo se centró en integrar completamente el frontend con el backend, permitiendo validar los flujos funcionales clave del sistema DyeTeX. Asimismo, se enfocaron esfuerzos en pulir la interfaz de usuario (UI), corregir inconsistencias, mejorar la experiencia de usuario (UX) y validar el sistema en conjunto para garantizar su funcionalidad operativa.
+
+| Campo                         | Detalle                                                                                                                                                     |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint #**                 | Sprint 4                                                                                                                                                      |
+| **Fecha**                    | 02/07/2025                                                                                                                                                    |
+| **Hora**                     | 19:00                                                                                                                                                         |
+| **Ubicación**                | Virtual – Discord                                                                                                                                             |
+| **Elaborado por**            | Alessandra Becerra                                                                                                                                            |
+| **Asistentes**               | Alessandra Becerra, Leandro Contreras, Leonardo Prieto, Héctor Ríos, Gabriel Gordon                                                                           |
+| **Sprint n-1 Review Summary**| En el Sprint 3 se desarrollaron endpoints clave del backend, se desplegó la base de datos, se mejoró la landing page y se implementaron módulos de monitoreo, autenticación y gestión de tareas. |
+| **Sprint n-1 Retrospective Summary** | Se identificaron oportunidades de mejora en la conexión entre frontend y backend, además de ajustes necesarios en flujos de usuario y consistencia visual. Estas observaciones orientan el objetivo de este sprint. |
+| **Sprint Goal**              | Integrar completamente el frontend con el backend, validando el funcionamiento completo del sistema DyeTeX, mejorando la interfaz y experiencia de usuario, corrigiendo errores visuales y funcionales, y garantizando una presentación robusta del producto. |
+| **Sprint Velocity**          | Para este sprint se han estimado **XX story points**.                                                                                                          |
+| **Sum of Story Points**      | La suma total de story points planificados es **XX**.                                                                                                         |
+
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 Se ha desarrollado una API RESTful para el Backend de la aplicación DyeTeX. A continuación se muestra la documentación de los servicios implementados.
