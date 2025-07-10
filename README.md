@@ -2857,6 +2857,8 @@ Los usuarios manifiestan interés en una plataforma que integre datos de sensore
 Los objetivos de Lean UX (disminuir inactividad y alcanzar un nivel mínimo de activación de alertas) son desafiantes pero factibles mediante pilotos controlados.
 
 ### Video About-the-Team
+
+<div style="page-break-after: always;"></div>
 ## Bibliografía
 
 - Doeet, la solución MES MOM para la industria 4.0. (2022, September 12). doeet.com. https://doeet.com/
@@ -2891,6 +2893,7 @@ https://abookapart.com/products/responsive-web-design
 
 
 <hr>
+<div style="page-break-after: always;"></div>
 
 ## Anexos
 
