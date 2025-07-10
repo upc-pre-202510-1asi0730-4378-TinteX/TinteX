@@ -2378,12 +2378,12 @@ En la realización de este sprint se logró la implementación de la base de dat
 
 | Método | Endpoint                                 | Descripción                             |
 |--------|------------------------------------------|-----------------------------------------|
-| GET    | `/api/v1/tasks`                          | Obtener todas las tareas                |
-| POST   | `/api/v1/tasks`                          | Crear una nueva tarea                   |
-| GET    | `/api/v1/tasks/{taskId}`                 | Obtener una tarea por ID                |
-| DELETE | `/api/v1/tasks/{taskId}`                 | Eliminar una tarea                      |
-| PUT    | `/api/v1/tasks/{taskId}/name`            | Actualizar el nombre de una tarea       |
-| PUT    | `/api/v1/tasks/{taskId}/duedate`         | Actualizar la fecha de vencimiento      |
+| GET    | `/api/v1/designandplanning/textiles-machine/tasks`                          | Obtener todas las tareas                |
+| POST   | `/api/v1/designandplanning/textiles-machine/tasks`                          | Crear una nueva tarea                   |
+| GET    | `/api/v1/designandplanning/textiles-machine/tasks/{taskId}`                 | Obtener una tarea por ID                |
+| DELETE | `/api/v1/designandplanning/textiles-machine/tasks/{taskId}`                 | Eliminar una tarea                      |
+| PUT    | `/api/v1/designandplanning/textiles-machine/tasks/{taskId}/name`            | Actualizar el nombre de una tarea       |
+| PUT    | `/api/v1/designandplanning/textiles-machine/tasks/{taskId}/duedate`         | Actualizar la fecha de vencimiento      |
 
 ---
 
@@ -2391,9 +2391,9 @@ En la realización de este sprint se logró la implementación de la base de dat
 
 | Método | Endpoint                                 | Descripción                             |
 |--------|------------------------------------------|-----------------------------------------|
-| GET    | `/api/v1/profiles/{profileId}`           | Obtener un perfil por ID                |
-| POST   | `/api/v1/profiles`                       | Crear un perfil                         |
-| GET    | `/api/v1/profiles`                       | Obtener todos los perfiles              |
+| GET    | `/api/v1/users/profiles/{profileId}`           | Obtener un perfil por ID                |
+| POST   | `/api/v1/users/profiles`                       | Crear un perfil                         |
+| GET    | `/api/v1/users/profiles`                       | Obtener todos los perfiles              |
 
 ---
 
@@ -2407,31 +2407,19 @@ En la realización de este sprint se logró la implementación de la base de dat
 
 | Método | Endpoint                                                 | Descripción                                 |
 |--------|----------------------------------------------------------|---------------------------------------------|
-| POST   | `/api/v1/device-configuration`                          | Crear configuración de dispositivo          |
-| GET    | `/api/v1/device-configuration`                          | Obtener todas las configuraciones           |
-| PUT    | `/api/v1/device-configuration/{ipAddress}`              | Actualizar configuración por IP             |
-| GET    | `/api/v1/device-configuration/by-ip/{ipAddress}`       | Obtener configuración por dirección IP      |
+| POST   | `/api/v1/assets/textiles-machine/device-configuration`                          | Crear configuración de dispositivo          |
+| GET    | `/api/v1/assets/textiles-machine/device-configuration`                          | Obtener todas las configuraciones           |
+| PUT    | `/api/v1/assets/textiles-machine/device-configuration/{ipAddress}`              | Actualizar configuración por IP             |
+| GET    | `/api/v1/assets/textiles-machine/device-configuration/by-ip/{ipAddress}`       | Obtener configuración por dirección IP      |
 
----
-
-#### DeviceConfigurations – Versión pluralizada (¿módulo alternativo?)
-
-| Método | Endpoint                                                   | Descripción                                |
-|--------|------------------------------------------------------------|--------------------------------------------|
-| POST   | `/api/v1/device-configurations`                            | Crear configuración de dispositivo         |
-| GET    | `/api/v1/device-configurations`                            | Obtener todas las configuraciones          |
-| PUT    | `/api/v1/device-configurations/{ipAddress}`                | Actualizar configuración por IP            |
-| GET    | `/api/v1/device-configurations/by-ip/{ipAddress}`         | Obtener configuración por dirección IP     |
-
----
 
 #### MachineInformations – Información de máquinas
 
 | Método | Endpoint                                      | Descripción                             |
 |--------|-----------------------------------------------|-----------------------------------------|
-| GET    | `/api/v1/machine-informations/{id}`           | Obtener información por ID              |
-| PUT    | `/api/v1/machine-informations/{id}`           | Actualizar información por ID           |
-| POST   | `/api/v1/machine-informations`                | Crear nueva información de máquina      |
+| GET    | `/api/v1/assets/textiles-machine/machine-informations/{id}`           | Obtener información por ID              |
+| PUT    | `/api/v1/assets/textiles-machine/machine-informations/{id}`           | Actualizar información por ID           |
+| POST   | `/api/v1/assets/textiles-machine/machine-informations`                | Crear nueva información de máquina      |
 
 ---
 
@@ -2443,11 +2431,11 @@ En la realización de este sprint se logró la implementación de la base de dat
 
 | Método | Endpoint                                 | Descripción                             |
 |--------|------------------------------------------|-----------------------------------------|
-| GET    | `/api/v1/textile-machines/{id}`          | Obtener máquina textil por ID           |
-| PUT    | `/api/v1/textile-machines/{id}`          | Actualizar máquina textil               |
-| GET    | `/api/v1/textile-machines/{name}`        | Obtener máquina textil por nombre       |
-| GET    | `/api/v1/textile-machines`               | Obtener todas las máquinas textiles     |
-| POST   | `/api/v1/textile-machines`               | Crear máquina textil                    |
+| GET    | `/api/v1/assets/textile-machines/{id}`          | Obtener máquina textil por ID           |
+| PUT    | `/api/v1/assets/textile-machines/{id}`          | Actualizar máquina textil               |
+| GET    | `/api/v1/assets/textile-machines/{name}`        | Obtener máquina textil por nombre       |
+| GET    | `/api/v1/assets/textile-machines`               | Obtener todas las máquinas textiles     |
+| POST   | `/api/v1/assets/textile-machines`               | Crear máquina textil                    |
 
 ---
 
@@ -2488,41 +2476,37 @@ En la realización de este sprint se logró la implementación de la base de dat
 
 Se ha desarrollado una API RESTful para el Backend de la aplicación DyeTeX. A continuación se muestra la documentación de los servicios implementados.
 
-| Endpoint                                           | Acción                                | Método HTTP | Sintaxis de llamada                                  |
-|---------------------------------------------------|----------------------------------------|-------------|------------------------------------------------------|
-| /api/v1/tasks                                     | Get All Tasks                          | GET         | /api/v1/tasks                                       |
-| /api/v1/tasks                                     | Create Task                            | POST        | /api/v1/tasks                                       |
-| /api/v1/tasks/{taskId}                            | Get Task by ID                         | GET         | /api/v1/tasks/{taskId}                              |
-| /api/v1/tasks/{taskId}                            | Delete Task                            | DELETE      | /api/v1/tasks/{taskId}                              |
-| /api/v1/tasks/{taskId}/name                       | Update Task Name                       | PUT         | /api/v1/tasks/{taskId}/name                         |
-| /api/v1/tasks/{taskId}/duedate                    | Update Task Due Date                   | PUT         | /api/v1/tasks/{taskId}/duedate                      |
-| /api/v1/profiles/{profileId}                      | Get Profile by ID                      | GET         | /api/v1/profiles/{profileId}                        |
-| /api/v1/profiles                                  | Create Profile                         | POST        | /api/v1/profiles                                    |
-| /api/v1/profiles                                  | Get All Profiles                       | GET         | /api/v1/profiles                                    |
-| /api/v1/device-configuration                      | Create Device Configuration            | POST        | /api/v1/device-configuration                        |
-| /api/v1/device-configuration                      | Get All Device Configurations          | GET         | /api/v1/device-configuration                        |
-| /api/v1/device-configuration/{ipAddress}          | Update Device Configuration            | PUT         | /api/v1/device-configuration/{ipAddress}            |
-| /api/v1/device-configuration/by-ip/{ipAddress}    | Get Device Configuration by IP         | GET         | /api/v1/device-configuration/by-ip/{ipAddress}      |
-| /api/v1/device-configurations                     | Create Device Configuration            | POST        | /api/v1/device-configurations                       |
-| /api/v1/device-configurations                     | Get All Device Configurations          | GET         | /api/v1/device-configurations                       |
-| /api/v1/device-configurations/{ipAddress}         | Update Device Configuration            | PUT         | /api/v1/device-configurations/{ipAddress}           |
-| /api/v1/device-configurations/by-ip/{ipAddress}   | Get Device Configuration by IP         | GET         | /api/v1/device-configurations/by-ip/{ipAddress}     |
-| /api/v1/machine-informations/{id}                 | Get Machine Information by ID          | GET         | /api/v1/machine-informations/{id}                   |
-| /api/v1/machine-informations/{id}                 | Update Machine Information             | PUT         | /api/v1/machine-informations/{id}                   |
-| /api/v1/machine-informations                      | Create Machine Information             | POST        | /api/v1/machine-informations                        |
-| /api/v1/textile-machines/{id}                     | Get Textile Machine by ID              | GET         | /api/v1/textile-machines/{id}                       |
-| /api/v1/textile-machines/{id}                     | Update Textile Machine                 | PUT         | /api/v1/textile-machines/{id}                       |
-| /api/v1/textile-machines/{name}                   | Get Textile Machine by Name            | GET         | /api/v1/textile-machines/{name}                     |
-| /api/v1/textile-machines                          | Get All Textile Machines               | GET         | /api/v1/textile-machines                            |
-| /api/v1/textile-machines                          | Create Textile Machine                 | POST        | /api/v1/textile-machines                            |
-| /api/v1/machine-failure-counts/refresh            | Refresh Failure Counts by ID           | POST        | /api/v1/machine-failure-counts/refresh              |
-| /api/v1/machine-failure-counts                    | Get All Textile Machine Failure Counts | GET         | /api/v1/machine-failure-counts                      |
-| /api/v1/machine-failure-counts/{machineId}        | Get Failure Count by ID                | GET         | /api/v1/machine-failure-counts/{machineId}          |
-| /api/v1/machine-failure-rate/refresh              | Refresh Failure Rate by ID             | POST        | /api/v1/machine-failure-rate/refresh                |
-| /api/v1/machine-failure-rate                      | Get All Textile Machine Failure Rates  | GET         | /api/v1/machine-failure-rate                        |
-| /api/v1/machine-failure-rate/{machineId}          | Get Failure Rate by ID                 | GET         | /api/v1/machine-failure-rate/{machineId}            |
-| /api/v1/task-due-status/refresh                   | Refresh Task Due Status by ID          | POST        | /api/v1/task-due-status/refresh                     |
-| /api/v1/task-due-status                           | Get All Task Due Status                | GET         | /api/v1/task-due-status                             |
+| Endpoint                                                         | Acción                                      | Método HTTP | Sintaxis de llamada                                    |
+|------------------------------------------------------------------|---------------------------------------------|-------------|--------------------------------------------------------|
+| /api/v1/designandplanning/textiles-machine/tasks                 | Get All Tasks                               | GET         | /api/v1/designandplanning/textiles-machine/tasks        |
+| /api/v1/designandplanning/textiles-machine/tasks                 | Create Task                                 | POST        | /api/v1/designandplanning/textiles-machine/tasks        |
+| /api/v1/designandplanning/textiles-machine/tasks/{taskId}        | Get Task by ID                              | GET         | /api/v1/designandplanning/textiles-machine/tasks/{taskId}|
+| /api/v1/designandplanning/textiles-machine/tasks/{taskId}        | Delete Task                                 | DELETE      | /api/v1/designandplanning/textiles-machine/tasks/{taskId}|
+| /api/v1/designandplanning/textiles-machine/tasks/{taskId}/name   | Update Task Name                            | PUT         | /api/v1/designandplanning/textiles-machine/tasks/{taskId}/name|
+| /api/v1/designandplanning/textiles-machine/tasks/{taskId}/duedate| Update Task Due Date                        | PUT         | /api/v1/designandplanning/textiles-machine/tasks/{taskId}/duedate|
+| /api/v1/users/profiles/{profileId}                               | Get Profile by ID                           | GET         | /api/v1/users/profiles/{profileId}                      |
+| /api/v1/users/profiles                                           | Create Profile                              | POST        | /api/v1/users/profiles                                 |
+| /api/v1/users/profiles                                           | Get All Profiles                            | GET         | /api/v1/users/profiles                                 |
+| /api/v1/assets/textiles-machine/device-configuration             | Create Device Configuration                 | POST        | /api/v1/assets/textiles-machine/device-configuration    |
+| /api/v1/assets/textiles-machine/device-configuration             | Get All Device Configurations               | GET         | /api/v1/assets/textiles-machine/device-configuration    |
+| /api/v1/assets/textiles-machine/device-configuration/{ipAddress}| Update Device Configuration by IP          | PUT         | /api/v1/assets/textiles-machine/device-configuration/{ipAddress}|
+| /api/v1/assets/textiles-machine/device-configuration/by-ip/{ipAddress}| Get Device Configuration by IP           | GET         | /api/v1/assets/textiles-machine/device-configuration/by-ip/{ipAddress}|
+| /api/v1/assets/textiles-machine/machine-informations/{id}        | Get Machine Information by ID               | GET         | /api/v1/assets/textiles-machine/machine-informations/{id}|
+| /api/v1/assets/textiles-machine/machine-informations/{id}        | Update Machine Information                  | PUT         | /api/v1/assets/textiles-machine/machine-informations/{id}|
+| /api/v1/assets/textiles-machine/machine-informations             | Create Machine Information                  | POST        | /api/v1/assets/textiles-machine/machine-informations    |
+| /api/v1/assets/textile-machines/{id}                             | Get Textile Machine by ID                   | GET         | /api/v1/assets/textile-machines/{id}                    |
+| /api/v1/assets/textile-machines/{id}                             | Update Textile Machine                      | PUT         | /api/v1/assets/textile-machines/{id}                    |
+| /api/v1/assets/textile-machines/{name}                           | Get Textile Machine by Name                 | GET         | /api/v1/assets/textile-machines/{name}                  |
+| /api/v1/assets/textile-machines                                  | Get All Textile Machines                    | GET         | /api/v1/assets/textile-machines                         |
+| /api/v1/assets/textile-machines                                  | Create Textile Machine                      | POST        | /api/v1/assets/textile-machines                         |
+| /api/v1/machine-failure-counts/refresh                           | Refresh Failure Counts by ID                | POST        | /api/v1/machine-failure-counts/refresh                  |
+| /api/v1/machine-failure-counts                                   | Get All Textile Machine Failure Counts      | GET         | /api/v1/machine-failure-counts                          |
+| /api/v1/machine-failure-counts/{machineId}                       | Get Failure Count by ID                     | GET         | /api/v1/machine-failure-counts/{machineId}              |
+| /api/v1/machine-failure-rate/refresh                             | Refresh Failure Rate by ID                  | POST        | /api/v1/machine-failure-rate/refresh                    |
+| /api/v1/machine-failure-rate                                     | Get All Textile Machine Failure Rates       | GET         | /api/v1/machine-failure-rate                            |
+| /api/v1/machine-failure-rate/{machineId}                         | Get Failure Rate by ID                      | GET         | /api/v1/machine-failure-rate/{machineId}                |
+| /api/v1/task-due-status/refresh                                  | Refresh Task Due Status by ID               | POST        | /api/v1/task-due-status/refresh                         |
+| /api/v1/task-due-status                                          | Get All Task Due Status                     | GET         | /api/v1/task-due-status                                 |
 
 ###### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -2611,14 +2595,13 @@ Durante el Sprint 4, el equipo se centró en integrar completamente el frontend 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 Se ha desarrollado una API RESTful para el Backend de la aplicación DyeTeX. A continuación se muestra la documentación de los servicios implementados.
-
 | **Endpoint Name**                  | **Implemented Actions**                  | **Call Syntax**                                           | **Parameters Specification**                                       | **Call Example**                                                   | **Response Explanation**                                               |
 |-----------------------------------|------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|
-| **Tasks**                         | GET, POST, GET by ID, DELETE, PUT (name, due date) | `/api/v1/tasks`<br>`/api/v1/tasks/{taskId}`<br>`/api/v1/tasks/{taskId}/name`<br>`/api/v1/tasks/{taskId}/duedate` | `taskId`, `name`, `dueDate`                                       | `GET http://localhost:8080/api/v1/tasks`                          | Devuelve todas las tareas registradas.                                 |
-| **Profiles**                      | GET, POST, GET by ID                     | `/api/v1/profiles`<br>`/api/v1/profiles/{profileId}`       | `profileId`, `name`, `email`, `bio`                               | `GET http://localhost:8080/api/v1/profiles/1`                     | Devuelve la información del perfil correspondiente.                   |
-| **Device Configuration**     | GET, POST, PUT, GET by IP                | `/api/v1/device-configuration`<br>`/api/v1/device-configuration/{ipAddress}`<br>`/api/v1/device-configuration/by-ip/{ipAddress}` | `ipAddress`, `configData`                                         | `GET http://localhost:8080/api/v1/device-configuration`           | Devuelve todas las configuraciones de dispositivos.                   |        |
-| **Machine Informations**          | GET by ID, PUT, POST                     | `/api/v1/machine-informations`<br>`/api/v1/machine-informations/{id}` | `id`, `model`, `status`, `details`                                 | `GET http://localhost:8080/api/v1/machine-informations/1`         | Devuelve o actualiza información sobre una máquina específica.        |
-| **Textile Machines**              | GET, POST, GET by ID or Name, PUT        | `/api/v1/textile-machines`<br>`/api/v1/textile-machines/{id}`<br>`/api/v1/textile-machines/{name}` | `id` o `name`, `machineData`                                      | `GET http://localhost:8080/api/v1/textile-machines`               | Devuelve todas las máquinas textiles o una específica.               |
+| **Tasks**                         | GET, POST, GET by ID, DELETE, PUT (name, due date) | `/api/v1/designandplanning/textiles-machine/tasks`<br>`/api/v1/designandplanning/textiles-machine/tasks/{taskId}`<br>`/api/v1/designandplanning/textiles-machine/tasks/{taskId}/name`<br>`/api/v1/designandplanning/textiles-machine/tasks/{taskId}/duedate` | `taskId`, `name`, `dueDate`                                       | `GET http://localhost:8080/api/v1/designandplanning/textiles-machine/tasks`                          | Devuelve todas las tareas registradas.                                 |
+| **Profiles**                      | GET, POST, GET by ID                     | `/api/v1/users/profiles`<br>`/api/v1/users/profiles/{profileId}`       | `profileId`, `name`, `email`, `bio`                               | `GET http://localhost:8080/api/v1/users/profiles/1`                     | Devuelve la información del perfil correspondiente.                   |
+| **Device Configuration**          | GET, POST, PUT, GET by IP                | `/api/v1/assets/textiles-machine/device-configuration`<br>`/api/v1/assets/textiles-machine/device-configuration/{ipAddress}`<br>`/api/v1/assets/textiles-machine/device-configuration/by-ip/{ipAddress}` | `ipAddress`, `configData`                                         | `GET http://localhost:8080/api/v1/assets/textiles-machine/device-configuration`           | Devuelve todas las configuraciones de dispositivos.                   |
+| **Machine Informations**          | GET by ID, PUT, POST                     | `/api/v1/assets/textiles-machine/machine-informations`<br>`/api/v1/assets/textiles-machine/machine-informations/{id}` | `id`, `model`, `status`, `details`                                 | `GET http://localhost:8080/api/v1/assets/textiles-machine/machine-informations/1`         | Devuelve o actualiza información sobre una máquina específica.        |
+| **Textile Machines**              | GET, POST, GET by ID or Name, PUT        | `/api/v1/assets/textile-machines`<br>`/api/v1/assets/textile-machines/{id}`<br>`/api/v1/assets/textile-machines/{name}` | `id` o `name`, `machineData`                                      | `GET http://localhost:8080/api/v1/assets/textile-machines`               | Devuelve todas las máquinas textiles o una específica.               |
 | **Machine Failure Counts**        | GET, POST (refresh), GET by ID           | `/api/v1/machine-failure-counts`<br>`/api/v1/machine-failure-counts/refresh`<br>`/api/v1/machine-failure-counts/{machineId}` | `machineId`                                                       | `GET http://localhost:8080/api/v1/machine-failure-counts/2`       | Devuelve o actualiza la cantidad de fallos de una máquina.           |
 | **Machine Failure Rate**          | GET, POST (refresh), GET by ID           | `/api/v1/machine-failure-rate`<br>`/api/v1/machine-failure-rate/refresh`<br>`/api/v1/machine-failure-rate/{machineId}` | `machineId`                                                       | `GET http://localhost:8080/api/v1/machine-failure-rate/2`         | Devuelve o actualiza la tasa de fallos de una máquina.               |
 | **Task Due Status**               | GET, POST (refresh)                      | `/api/v1/task-due-status`<br>`/api/v1/task-due-status/refresh` | `taskId`                                                          | `GET http://localhost:8080/api/v1/task-due-status`                | Devuelve o refresca el estado de vencimiento de tareas.              |
