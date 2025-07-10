@@ -2584,6 +2584,22 @@ Finalmente los insights del repostirio del Backend
 
 <img src="./assets/back3.png" width="700">
 
+##### 5.2.4. Sprint 4
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Se ha desarrollado una API RESTful para el Backend de la aplicación DyeTeX. A continuación se muestra la documentación de los servicios implementados.
+
+| **Endpoint Name**                  | **Implemented Actions**                  | **Call Syntax**                                           | **Parameters Specification**                                       | **Call Example**                                                   | **Response Explanation**                                               |
+|-----------------------------------|------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|
+| **Tasks**                         | GET, POST, GET by ID, DELETE, PUT (name, due date) | `/api/v1/tasks`<br>`/api/v1/tasks/{taskId}`<br>`/api/v1/tasks/{taskId}/name`<br>`/api/v1/tasks/{taskId}/duedate` | `taskId`, `name`, `dueDate`                                       | `GET http://localhost:8080/api/v1/tasks`                          | Devuelve todas las tareas registradas.                                 |
+| **Profiles**                      | GET, POST, GET by ID                     | `/api/v1/profiles`<br>`/api/v1/profiles/{profileId}`       | `profileId`, `name`, `email`, `bio`                               | `GET http://localhost:8080/api/v1/profiles/1`                     | Devuelve la información del perfil correspondiente.                   |
+| **Device Configuration**     | GET, POST, PUT, GET by IP                | `/api/v1/device-configuration`<br>`/api/v1/device-configuration/{ipAddress}`<br>`/api/v1/device-configuration/by-ip/{ipAddress}` | `ipAddress`, `configData`                                         | `GET http://localhost:8080/api/v1/device-configuration`           | Devuelve todas las configuraciones de dispositivos.                   |        |
+| **Machine Informations**          | GET by ID, PUT, POST                     | `/api/v1/machine-informations`<br>`/api/v1/machine-informations/{id}` | `id`, `model`, `status`, `details`                                 | `GET http://localhost:8080/api/v1/machine-informations/1`         | Devuelve o actualiza información sobre una máquina específica.        |
+| **Textile Machines**              | GET, POST, GET by ID or Name, PUT        | `/api/v1/textile-machines`<br>`/api/v1/textile-machines/{id}`<br>`/api/v1/textile-machines/{name}` | `id` o `name`, `machineData`                                      | `GET http://localhost:8080/api/v1/textile-machines`               | Devuelve todas las máquinas textiles o una específica.               |
+| **Machine Failure Counts**        | GET, POST (refresh), GET by ID           | `/api/v1/machine-failure-counts`<br>`/api/v1/machine-failure-counts/refresh`<br>`/api/v1/machine-failure-counts/{machineId}` | `machineId`                                                       | `GET http://localhost:8080/api/v1/machine-failure-counts/2`       | Devuelve o actualiza la cantidad de fallos de una máquina.           |
+| **Machine Failure Rate**          | GET, POST (refresh), GET by ID           | `/api/v1/machine-failure-rate`<br>`/api/v1/machine-failure-rate/refresh`<br>`/api/v1/machine-failure-rate/{machineId}` | `machineId`                                                       | `GET http://localhost:8080/api/v1/machine-failure-rate/2`         | Devuelve o actualiza la tasa de fallos de una máquina.               |
+| **Task Due Status**               | GET, POST (refresh)                      | `/api/v1/task-due-status`<br>`/api/v1/task-due-status/refresh` | `taskId`                                                          | `GET http://localhost:8080/api/v1/task-due-status`                | Devuelve o refresca el estado de vencimiento de tareas.              |
+
 ##### 5.3. Validation Interviews
 ###### 5.3.1. Diseño de Entrevistas
 **Preguntas para segmento 1:**
