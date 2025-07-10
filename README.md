@@ -2053,14 +2053,18 @@ En este Sprint el equipo se enfocó en construir la Landing Page de TinteX, cubr
 
 
 
-| Story ID | Story Title                          | Task ID | Task Title                 | Description                                                            | Estimation (Hrs) | Assigned To           | Status   |
-|----------|--------------------------------------|---------|----------------------------|------------------------------------------------------------------------|------------------|-----------------------|----------|
-| US-01    | Mostrar hero con mensaje claro       | T01     | Hero Section               | Diseño e implementación del encabezado principal con título y subtítulo | 2                | Gabriel Gordon        | Done     |
-| US-02    | Sección de características principales| T02     | Features Section           | Implementación de la sección que muestra las 3 funcionalidades clave    | 3                | Leandro Contreras             | Done     |
-| US-03    | Formulario de contacto            | T03     | Contact Form          | Creación y validación del formulario de captura de correo electrónico   | 2                | Alessandra Becerra    | Done     |
-| US-04    | Navegación fija                      | T04     | Fixed Navigation Menu      | Lógica y estilo para mantener el menú de navegación siempre visible     | 2.5              | Leonardo Prieto                | Done     |
-| US-05    | Diseño responsive                    | T05     | Responsive Layout          | Adaptación del diseño a pantallas móviles y tablets                     | 3                | Hector Rios             | Done     |
-| US-06    | Soporte de dos idiomas               | T06     | Multilanguage Support      | Implementación de selector de idioma y carga de contenidos en español/inglés | 2            | Gabriel Gordon        | To do     |
+| Story ID | Story Title                       | Task ID | Task Title               | Description                                                                        | Estimation (Hrs) | Assigned To       | Status |
+|----------|---------------------------------|---------|--------------------------|------------------------------------------------------------------------------------|------------------|-------------------|--------|
+| VS01   | Mostrar hero con mensaje claro    | T01     | Hero Section             | Diseño e implementación del encabezado principal con título y subtítulo           | 2                | Gabriel Gordon    | Done   |
+| VS02   | Sección de características principales | T02     | Features Section         | Implementación de la sección que muestra las 3 funcionalidades clave               | 3                | Leandro Contreras | Done   |
+| VS03   | Formulario de contacto            | T03     | Contact Form             | Creación y validación del formulario de captura de correo electrónico              | 2                | Alessandra Becerra| Done   |
+| VS04   | Navegación fija                   | T04     | Fixed Navigation Menu    | Lógica y estilo para mantener el menú de navegación siempre visible                | 2.5              | Leonardo Prieto   | Done   |
+| VS05   | Diseño responsive                | T05     | Responsive Layout        | Adaptación del diseño a pantallas móviles y tablets                                | 3                | Hector Rios       | Done   |
+| VS06   | Soporte de dos idiomas           | T06     | Multilanguage Support    | Implementación de selector de idioma y carga de contenidos en español/inglés       | 2                | Gabriel Gordon    | Done  |
+| VS07     | Visualizar equipo de desarrollo | Como visitante, quiero conocer el equipo de desarrollo, para entender quiénes están detrás del producto. | 2                | Gabriel Gordon    | To do  |
+| VS08     | Mostrar Call to Action claro   | Como visitante, quiero ver un call to action prominente para registrarme o solicitar demo.   | 1.5              | Alessandra Becerra| Done  |
+| VS09     | Visualizar información del producto | Como visitante, quiero leer una descripción clara y atractiva sobre el producto, para evaluar su utilidad. | 2                | Leandro Contreras | Done  |
+| VS10     | Formulario de suscripción de pago | Como visitante interesado, quiero un formulario para suscribirme a planes de pago, para acceder a beneficios premium. | 3                | Hector Rios       | Done |
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
 Durante este sprint, se realizaron avances importantes en el proyecto, distribuidos entre distintos miembros del equipo. A continuación, se presentan algunos de los commits más relevantes de cada colaborador:
