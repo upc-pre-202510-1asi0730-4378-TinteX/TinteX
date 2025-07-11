@@ -2485,7 +2485,7 @@ En la realización de este sprint se logró la implementación de la base de dat
 
 ---
 
-<img src = "./assets/bckdPart4.png" width = "700">
+<img src = "./assets/bckdp4.png" width = "700">
 
 Ruta al backend: https://backend-dyetex.onrender.com/swagger/index.html
 
@@ -2663,7 +2663,6 @@ Se ha desarrollado una API RESTful para el Backend de la aplicación DyeTeX. Añ
 | **Textile Machines** | GET, POST, GET by ID or Name, PUT | `/api/v1/assets/textile-machines`<br>`/api/v1/assets/textile-machines/{id}`<br>`/api/v1/assets/textile-machines/{name}` | `id`, `name`, `machineData` | `GET http://localhost:8080/api/v1/assets/textile-machines` | Devuelve todas las máquinas textiles o una específica. |
 | **Machine Failure Counts** | GET, POST (refresh), GET by ID | `/api/v1/dashboard&analytics/textiles-machine/failure-counts`<br>`/api/v1/dashboard&analytics/textiles-machine/{machineId}/failure-counts` | `machineId` | `GET http://localhost:8080/api/v1/dashboard&analytics/textiles-machine/2/failure-counts` | Devuelve o actualiza la cantidad de fallos de una máquina. |
 | **Machine Failure Rate** | GET, POST (refresh), GET by ID | `/api/v1/dashboard&analytics/textiles-machine/failure-rates`<br>`/api/v1/dashboard&analytics/textiles-machine/{machineId}/failure-rates` | `machineId` | `GET http://localhost:8080/api/v1/dashboard&analytics/textiles-machine/2/failure-rates` | Devuelve o actualiza la tasa de fallos de una máquina. |
-| **Task Due Status** | GET, POST (refresh) | `/api/v1/dashboard&analytics/task/due-status` | `taskId` | `GET http://localhost:8080/api/v1/dashboard&analytics/task/due-status` | Devuelve o refresca el estado de vencimiento de tareas. |
 | **Assign User** | GET, POST, GET by ID, PUT | `/api/v1/users/textiles-machine-assign-users`<br>`/api/v1/users/textiles-machine/{id}/assign-user` | `id`, `userData` | `GET http://localhost:8080/api/v1/users/textiles-machine-assign-users` | Lista, asigna o actualiza usuarios asignados a máquinas textiles. |
 | **Notifications** | GET, POST, GET by ID, PUT | `/api/v1/monitoring/textiles-machine/notification`<br>`/api/v1/monitoring/textiles-machine/{id}/notification` | `id`, `notificationData` | `GET http://localhost:8080/api/v1/monitoring/textiles-machine/notification` | Muestra, crea o actualiza notificaciones de monitoreo. |
 | **Users** | GET, GET by ID | `/api/v1/users`<br>`/api/v1/users/{id}` | `id` | `GET http://localhost:8080/api/v1/users/1` | Devuelve información de usuarios. |
