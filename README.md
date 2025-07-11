@@ -2627,6 +2627,13 @@ Durante el Sprint 4, el equipo se centró en integrar completamente el frontend 
 
 ###### 5.2.4.2. Aspect Leaders and Collaborators
 
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Service Operation and Monitoring** | **Profile and Preferences** | **Identity and Assets Management** |
+|-----------------------------------------|---------------------|--------------------------------------|------------------------------|------------------------------------|
+| Leandro Contreras López               | WiDDsito         |                                      | C                            | L                                  |
+| Alessandra Becerra Tejeda            | aleeBecerra            |                                      | C                            |                                    |
+| Gabriel Gordon Salas           | Silent343            | C                                    |                              |                                    |
+| Leonardo Prieto Mantari         | Wuux1            |                                      | L                            | C                                  |
+
 ###### 5.2.4.3. Sprint Backlog 4
 
 <hr>
