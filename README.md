@@ -2649,7 +2649,28 @@ Durante el Sprint 4, el equipo se centró en integrar completamente el frontend 
 
 ###### 5.2.4.4. Development Evidence for Sprint Review
 
+En la tabla a continuación se muestran los commits realizados en el Sprint 4.
+
+| Repository | Branch            | Commit ID                              | Commit Message                                | Commit Message Body              | Committed on (Date) |
+|------------|-------------------|----------------------------------------|-----------------------------------------------|----------------------------------|----------------------|
+| TinteX     | main              | 6ba4bddefe5a5c40d5d35a95b2c36238302afb33 | fix: fixing services documentation of sprint 4 | No description provided          | 2025-07-11           |
+| TinteX     | main              | 627f7d3d2b6e81c522f92ebc845985144971c91d | feat: added swagger image                     | No description provided          | 2025-07-11           |
+| TinteX     | main              | b452a71d64ff371064398ce64057d3c5e2d36dd5 | feat: added endpoints in services evidence    | No description provided          | 2025-07-11           |
+| TinteX     | main              | 0ab26cc1557f730e1bb898b4ba1164f786238382 | feat: added subtitles and stories in sprint 4 | No description provided          | 2025-07-10           |
+| TinteX     | main              | e8c43a0da953e88396197e1abd6800f50a447c04 | feat: added Sprint Backlog 4                  | No description provided          | 2025-07-10           |
+| TinteX     | main              | 62844e776ef84f6ee975173c8f1f9c9a2bfd301e | feat: added visitor stories in sprint 1       | No description provided          | 2025-07-10           |
+| TinteX     | hotfix/0.1.2      | 531427f83fb375712a8841e05e68aa4ac166390c | fix: fix table                                 | No description provided          | 2025-07-10           |
+| TinteX     | main              | 4d187e2b5c4caa2793e04bd0035eb960d510b4cd | feat: added routes of backend                 | No description provided          | 2025-07-10           |
+| TinteX     | main              | 471fcb32ca96e6150843e691ce6c2344daab9e44 | feat: added bounded context name in routes    | No description provided          | 2025-07-10           |
+| TinteX     | main              | 87340e1e5c98286cadd002c845ba2359af1a297c | feat: added user stories in sprint 2 & 3      | No description provided          | 2025-07-10           |
+| TinteX     | main              | 309c6f20c7522d1f967d4b8f7c2dc2071a4a8bc7 | feat: added images description of section 5.2.3.8 | No description provided     | 2025-07-10           |
+| TinteX     | main              | fb373b7b67e2f03acc86a56036d7336cec1510f7 | fix: fixing images routes                     | No description provided          | 2025-07-10           |
+| TinteX     | main              | b764eb4cf5dc080f28f0f601183dcfa130b2b3cf | feat: added about the team image              | No description provided          | 2025-07-10           |
+| TinteX     | main              | 5b82fde20b9fc9f0cd96ae4427b94d3ac05ff623 | feat: added video about the team              | No description provided          | 2025-07-10           |
+
 ###### 5.2.4.5. Execution Evidence for Sprint Review
+
+
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
