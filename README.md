@@ -2677,7 +2677,9 @@ En la tabla a continuación se muestran los commits realizados en el Sprint 4.
 
 ###### 5.2.4.5. Execution Evidence for Sprint Review
 
-
+<img  src="https://i.ibb.co/CKcZHcZL/img1.jpg"/>
+<br>
+<img  src="https://i.ibb.co/b51x69LQ/img2.jpg"/>
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
