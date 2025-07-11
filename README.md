@@ -2485,9 +2485,9 @@ En la realización de este sprint se logró la implementación de la base de dat
 
 ---
 
-<img src = "./assets/bckPart3.png" width = "700">
+<img src = "./assets/bckdPart4.png" width = "700">
 
-<a href="https://backend-dyetex.onrender.com/swagger/index.html">Ruta al backend</a>
+Ruta al backend: https://backend-dyetex.onrender.com/swagger/index.html
 
 ###### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -2653,20 +2653,26 @@ Durante el Sprint 4, el equipo se centró en integrar completamente el frontend 
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-Se ha desarrollado una API RESTful para el Backend de la aplicación DyeTeX. A continuación se muestra la documentación de los servicios implementados.
+Se ha desarrollado una API RESTful para el Backend de la aplicación DyeTeX. Añadimos algunos endpoints como PaymentCards, Notifications y más. A continuación se muestra la documentación de los servicios implementados.
 | Endpoint Name | Implemented Actions | Call Syntax | Parameters Specification | Call Example | Response Explanation |
 |---|---|---|---|---|---|
-| **Tasks** | GET, POST, GET by ID, DELETE, PUT (name, due date) | `/api/v1/designandplanning/tasks`<br/>`/api/v1/designandplanning/tasks/{taskId}`<br/>`/api/v1/designandplanning/tasks/{taskId}/name`<br/>`/api/v1/designandplanning/tasks/{taskId}/duedate` | `taskId`, `name`, `dueDate` | `GET http://localhost:8080/api/v1/designandplanning/tasks` | Devuelve todas las tareas registradas. |
-| **Profiles** | GET, POST, GET by ID | `/api/v1/users/profiles`<br/>`/api/v1/users/profiles/{profileId}` | `profileId`, `name`, `email`, `bio` | `GET http://localhost:8080/api/v1/users/profiles/1` | Devuelve la información del perfil correspondiente. |
-| **Device Configuration** | GET, POST, PUT, GET by IP | `/api/v1/assets/textile-machines/device-configuration`<br/>`/api/v1/assets/textile-machines/device-configuration/{ipAddress}`<br/>`/api/v1/assets/textile-machines/device-configuration/by-ip/{ipAddress}` | `ipAddress`, `configData` | `GET http://localhost:8080/api/v1/assets/textile-machines/device-configuration` | Devuelve todas las configuraciones de dispositivos. |
-| **Machine Informations** | GET by ID, PUT, POST | `/api/v1/assets/textile-machines/machine-informations`<br/>`/api/v1/assets/textile-machines/machine-informations/{id}` | `id`, `model`, `status`, `details` | `GET http://localhost:8080/api/v1/assets/textile-machines/machine-informations/1` | Devuelve o actualiza información sobre una máquina específica. |
-| **Textile Machines** | GET, POST, GET by ID or Name, PUT | `/api/v1/assets/textile-machines`<br/>`/api/v1/assets/textile-machines/{id}`<br/>`/api/v1/assets/textile-machines/{name}` | `id` o `name`, `machineData` | `GET http://localhost:8080/api/v1/assets/textile-machines` | Devuelve todas las máquinas textiles o una específica. |
-| **Machine Failure Counts** | GET, POST (refresh), GET by ID | `/api/v1/dashboard&analytics/machine/failure-counts`<br/>`/api/v1/dashboard&analytics/machine/failure-counts/refresh`<br/>`/api/v1/dashboard&analytics/machine/{machineId}/failure-counts` | `machineId` | `GET http://localhost:8080/api/v1/dashboard&analytics/machine/failure-counts/2` | Devuelve o actualiza la cantidad de fallos de una máquina. |
-| **Machine Failure Rate** | GET, POST (refresh), GET by ID | `/api/v1/dashboard&analytics/machine/failure-rates`<br/>`/api/v1/dashboard&analytics/machine/failure-rates/refresh`<br/>`/api/v1/dashboard&analytics/machine/{machineId}/failure-rates` | `machineId` | `GET http://localhost:8080/api/v1/dashboard&analytics/machine/failure-rates/2` | Devuelve o actualiza la tasa de fallos de una máquina. |
-| **Task Due Status** | GET, POST (refresh) | `/api/v1/dashboard&analytics/task/due-status`<br/>`/api/v1/dashboard&analytics/task/due-status/refresh` | `taskId` | `GET http://localhost:8080/api/v1/dashboard&analytics/task/due-status` | Devuelve o refresca el estado de vencimiento de tareas. |
-| **Maintenance** | GET, POST, GET by ID, DELETE, PUT (status) | `/api/v1/designandplanning/maintenances`<br/>`/api/v1/designandplanning/maintenances/{id}`<br/>`/api/v1/designandplanning/maintenances/{id}/status` | `id`, `status` | `GET http://localhost:8080/api/v1/designandplanning/maintenances` | Listar todos los mantenimientos o gestionar uno específico. |
-| **Planning Task** | GET, POST, GET by ID, DELETE, PUT (name) | `/api/v1/designandplanning/planning/tasks`<br/>`/api/v1/designandplanning/planning/tasks/{id}`<br/>`/api/v1/designandplanning/planning/tasks/{id}/name` | `id`, `name`, `details` | `GET http://localhost:8080/api/v1/designandplanning/planning/tasks/1` | Listar o gestionar una tarea de planificación específica. |
-| **Request Invoice** | GET, POST, GET by ID, DELETE, PUT | `/api/v1/designandplanning/request-invoices`<br/>`/api/v1/designandplanning/request-invoices/{id}` | `id`, `invoiceData` | `POST http://localhost:8080/api/v1/designandplanning/request-invoices` | Registrar o gestionar solicitudes de factura. |
+| **Tasks** | GET, POST, GET by ID, DELETE, PUT (name, due date) | `/api/v1/designandplanning/tasks`<br>`/api/v1/designandplanning/tasks/{taskId}`<br>`/api/v1/designandplanning/tasks/{taskId}/name`<br>`/api/v1/designandplanning/tasks/{taskId}/duedate` | `taskId`, `name`, `dueDate` | `GET http://localhost:8080/api/v1/designandplanning/tasks` | Devuelve todas las tareas registradas. |
+| **Profiles** | GET, POST, PUT, GET by ID | `/api/v1/profiles`<br>`/api/v1/profiles/{profileId}` | `profileId`, `name`, `email`, `bio` | `GET http://localhost:8080/api/v1/profiles/1` | Devuelve o actualiza la información del perfil. |
+| **Device Configuration** | GET, POST, PUT, GET by IP | `/api/v1/assets/textile-machines/device-configuration`<br>`/api/v1/assets/textile-machines/device-configuration/{ipAddress}`<br>`/api/v1/assets/textile-machines/device-configuration/by-ip/{ipAddress}` | `ipAddress`, `configData` | `GET http://localhost:8080/api/v1/assets/textile-machines/device-configuration` | Devuelve todas las configuraciones de dispositivos. |
+| **Machine Informations** | GET, POST, PUT, GET by ID | `/api/v1/assets/textile-machines/machine-informations`<br>`/api/v1/assets/textile-machines/machine-informations/{id}` | `id`, `model`, `status`, `details` | `GET http://localhost:8080/api/v1/assets/textile-machines/machine-informations/1` | Devuelve o actualiza información sobre una máquina específica. |
+| **Textile Machines** | GET, POST, GET by ID or Name, PUT | `/api/v1/assets/textile-machines`<br>`/api/v1/assets/textile-machines/{id}`<br>`/api/v1/assets/textile-machines/{name}` | `id`, `name`, `machineData` | `GET http://localhost:8080/api/v1/assets/textile-machines` | Devuelve todas las máquinas textiles o una específica. |
+| **Machine Failure Counts** | GET, POST (refresh), GET by ID | `/api/v1/dashboard&analytics/textiles-machine/failure-counts`<br>`/api/v1/dashboard&analytics/textiles-machine/{machineId}/failure-counts` | `machineId` | `GET http://localhost:8080/api/v1/dashboard&analytics/textiles-machine/2/failure-counts` | Devuelve o actualiza la cantidad de fallos de una máquina. |
+| **Machine Failure Rate** | GET, POST (refresh), GET by ID | `/api/v1/dashboard&analytics/textiles-machine/failure-rates`<br>`/api/v1/dashboard&analytics/textiles-machine/{machineId}/failure-rates` | `machineId` | `GET http://localhost:8080/api/v1/dashboard&analytics/textiles-machine/2/failure-rates` | Devuelve o actualiza la tasa de fallos de una máquina. |
+| **Task Due Status** | GET, POST (refresh) | `/api/v1/dashboard&analytics/task/due-status` | `taskId` | `GET http://localhost:8080/api/v1/dashboard&analytics/task/due-status` | Devuelve o refresca el estado de vencimiento de tareas. |
+| **Assign User** | GET, POST, GET by ID, PUT | `/api/v1/users/textiles-machine-assign-users`<br>`/api/v1/users/textiles-machine/{id}/assign-user` | `id`, `userData` | `GET http://localhost:8080/api/v1/users/textiles-machine-assign-users` | Lista, asigna o actualiza usuarios asignados a máquinas textiles. |
+| **Notifications** | GET, POST, GET by ID, PUT | `/api/v1/monitoring/textiles-machine/notification`<br>`/api/v1/monitoring/textiles-machine/{id}/notification` | `id`, `notificationData` | `GET http://localhost:8080/api/v1/monitoring/textiles-machine/notification` | Muestra, crea o actualiza notificaciones de monitoreo. |
+| **Users** | GET, GET by ID | `/api/v1/users`<br>`/api/v1/users/{id}` | `id` | `GET http://localhost:8080/api/v1/users/1` | Devuelve información de usuarios. |
+| **Authentication** | POST (sign-in, sign-up) | `/api/v1/iam/authentication/sign-in`<br>`/api/v1/iam/authentication/sign-up` | `email`, `password` | `POST http://localhost:8080/api/v1/iam/authentication/sign-in` | Permite autenticación de usuarios. |
+| **Payment Cards** | GET, POST | `/api/v1/subscription/user/payment-cards` | `cardData` | `GET http://localhost:8080/api/v1/subscription/user/payment-cards` | Crea o recupera tarjetas de pago de suscripción. |
+| **Maintenances** | GET, POST, GET by ID, DELETE, PUT (status) | `/api/v1/designandplanning/maintenances`<br>`/api/v1/designandplanning/maintenances/{id}`<br>`/api/v1/designandplanning/maintenances/{id}/status` | `id`, `status` | `GET http://localhost:8080/api/v1/designandplanning/maintenances` | Lista todos los mantenimientos o gestiona uno específico. |
+| **Planning Task** | GET, POST, GET by ID, DELETE, PUT (name) | `/api/v1/designandplanning/planning/tasks`<br>`/api/v1/designandplanning/planning/tasks/{id}`<br>`/api/v1/designandplanning/planning/tasks/{id}/name` | `id`, `name`, `details` | `GET http://localhost:8080/api/v1/designandplanning/planning/tasks/1` | Lista o gestiona una tarea de planificación específica. |
+| **Request Invoice** | GET, POST, GET by ID, DELETE, PUT | `/api/v1/designandplanning/request-invoices`<br>`/api/v1/designandplanning/request-invoices/{id}` | `id`, `invoiceData` | `POST http://localhost:8080/api/v1/designandplanning/request-invoices` | Registrar o gestionar solicitudes de factura. |
+
 
 ###### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
